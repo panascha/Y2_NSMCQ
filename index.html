@@ -9590,7 +9590,7 @@
                 const topic = checkboxIds.filter(id => $(`#${id}`).is(':checked')).map(id => $(`label[for='${id}']`).text().trim());
                 const reportTextValue = $reportText.val();
                 if (reportTextValue) {
-                    saveReportToGoogleSheet("hematomcq", topic, $question.text(), reportTextValue, new Date().toLocaleString("en-US", { timeZone: "Asia/Bangkok" }));
+                    saveReportToGoogleSheet("nsmcq", topic, $question.text(), reportTextValue, new Date().toLocaleString("en-US", { timeZone: "Asia/Bangkok" }));
                     $reportCard.fadeOut();
                     $feedbackSave.text("ขอบคุณสำหรับรายงานครับ!").show().fadeOut(2000);
                 } else {
