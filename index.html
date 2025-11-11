@@ -7658,8 +7658,9 @@
                             </td>
                             <td style="color: var(--color-correct); font-weight: bold;">${q.answer}</td>
                             <td><div style="white-space: pre-wrap; font-family: var(--font-primary); font-weight: 400;">${explanationText}</div></td>
-                            <td>${q.img ? `<img src="${transformUrl(q.img)}" alt="Question Image" style="max-width: 100px; max-height: 100px;">` : 'No image'}</td>
+                            <td><a href="${q.img}" target="_blank">${q.img ? `<img src="${transformUrl(q.img)}" alt="Question Image" style="max-width: 100px; max-height: 100px;">` : 'No image'}</a></td>
                         </tr>`;
+
                 });
 
                 resultsHtml += `</tbody></table>`;
