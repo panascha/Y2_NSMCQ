@@ -281,7 +281,7 @@ var quizdata = {
         },
         {
             "problem": "32. The swinging light test result shows: When light is shone on the left eye, both pupils constrict normally. When light is swung to the right eye, both pupils dilate. Which structure has a lesion? (เมื่ออยู่ในที่มืดตา Dilate ปกติ เอาไฟส่องตาข้างซ้าย ตา 2 ข้างหดปกติ แต่พอส่องข้างขวาตาไม่หดซักข้าง)",
-            "img": "//require_img",
+            "img": "",
             "choices": "Right Edinger-Westphal nucleus///Left oculomotor nerve///Right optic tract///Left optic nerve///Right optic nerve",
             "answer": "Right optic nerve",
             "select": "",
@@ -2089,7 +2089,7 @@ var quizdata = {
         },
         {
             "problem": "64. Which organ refer pain to THIS",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=1_cJc9VQE7I3BbMrxy2-hcmCbR9NHqdlh&usp=drive_copy",
             "choices": "Gallbladder///Heart///Stomach///Kidney///Appendix",
             "answer": "Gallbladder",
             "select": "",
@@ -2540,8 +2540,8 @@ var quizdata = {
         explain: "Lemonade มีรสเปรี้ยว (sour taste) ซึ่งเกิดจาก H+ ion (proton) กลไกการรับรสเปรี้ยวคือ H+ ion จะเข้าไป block โพแทสเซียมแชนแนล (K+ channel) ทำให้ K+ ออกจากเซลล์ไม่ได้ เกิดการสะสมของประจุบวกในเซลล์ (depolarization) และส่งสัญญาณประสาทต่อไปยังสมอง การ block K+ channel เป็นกลไกหลักอย่างหนึ่งของการรับรสเปรี้ยว",
         state: false
     }, {
-            problem: "2. Nerve that accounts for sense of taste?",
-            img: "",
+        problem: "2. Nerve that accounts for sense of taste?",
+        img: "",
         choices: "CN VII, IX///CN VII, V///CN IX, XII///CN X, XII///CN V, XII",
         answer: "CN VII, IX",
         select: "",
@@ -2940,7 +2940,7 @@ var quizdata = {
         },
         {
             problem: "16. intracerebral hemorrhage, 22% eosinophil",
-            img: "//require_img",
+            img: "https://drive.google.com/open?id=1QK81bi9LRGpaeFIyGTVSLY3Kza-02KOn&usp=drive_copy",
             choices: "Rat lungworm///Cysticercus cellulosae///Taenia solium///Gnathostoma spinigerum///Spirometra mansoni",
             answer: "Gnathostoma spinigerum",
             select: "",
@@ -3228,7 +3228,7 @@ var quizdata = {
         },
         {
             problem: "98. What's the area (No. 29 in the pic)",
-            img: "//require_img",
+            img: "https://drive.google.com/open?id=1aDl1u_es6rlHaCDfoaA5sXyfm7pKprpG&usp=drive_copy",
             choices: "3rd ventricle///4th ventricle///Sella turcica///Suprasellar cistern///Quadrigerminal cistern",
             answer: "Quadrigerminal cistern",
             select: "",
@@ -3237,7 +3237,7 @@ var quizdata = {
         },
         {
             problem: "99. What is this structure? *YELLOW ARROW*",
-            img: "//require_img",
+            img: "https://drive.google.com/open?id=1WwLmctngNyIylX0P-vmm5lw04vPwhdFw&usp=drive_copy",
             choices: "Fourth ventricle///Sylvian's fissure///Central canal///Medulla oblongata///Quadrigeminal cistern",
             answer: "Fourth ventricle",
             select: "",
@@ -3246,7 +3246,7 @@ var quizdata = {
         },
         {
             problem: "101. Please identify the structure indicated by the red arrow.",
-            img: "//require_img",
+            img: "https://drive.google.com/open?id=1rdcEnwi_Z58QDCny-jLTKfMdeikscwkb&usp=drive_copy",
             choices: "Lentiform nucleus///Superior sagittal sinus///Tentorium cerebelli///Sylvian fissure///Lateral ventricle",
             answer: "Lateral ventricle",
             select: "",
@@ -3255,7 +3255,7 @@ var quizdata = {
         },
         {
             problem: "103. Identify the structure (D)",
-            img: "//require_img",
+            img: "https://drive.google.com/open?id=1t2MAJX_xxhXQS_WgP2p0wC0QxQ-t2IcD&usp=drive_copy",
             choices: "Superior sagittal sinus///Inferior sagittal sinus///Transverse sinus///Falx cerebri///Straight sinus",
             answer: "Falx cerebri",
             select: "",
@@ -4829,7 +4829,7 @@ var quizdata = {
         },
         {
             "problem": "20. A 20-year-old woman presents with fever, headache, and confusion. After taking history, neurocysticercosis is suspected. A brain CT scan reveals a ring-enhancing lesion with surrounding edema as shown. Which stage of cysticerci development does this image represent?",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=1MfeaXIGgDiVUw0Z8E9LqVU2ld_9U0pg0&usp=drive_copy",
             "choices": "Vesicular cysticerci///Colloidal cysticerci///Granular-nodular cysticerci///Calcified cysticerci///Racemose cysticerci",
             "answer": "Colloidal cysticerci",
             "select": "",
@@ -4838,7 +4838,7 @@ var quizdata = {
         },
         {
             "problem": "21. จากภาพจุลพยาธิวิทยาของลำไส้ พบ microorganism ที่มีเม็ดเลือดแดง (RBC) อยู่ภายในเซลล์ (hematophagy) สิ่งมีชีวิตนี้คืออะไร",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=1jO9hKU3F-FgpTxWyxwNTSqRCeHKGOhQV&usp=drive_copy",
             "choices": "Naegleria fowleri///Acanthamoeba sp.///Entamoeba histolytica///Giardia lamblia///Toxoplasma gondii",
             "answer": "Entamoeba histolytica",
             "select": "",
@@ -4982,7 +4982,7 @@ var quizdata = {
         },
         {
             "problem": "99. In the provided axial CT image of the brain, what is the structure that the arrow is pointing to?",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=1dDOcaGOiGElbRtdhteYcSVbhybAWPN-u&usp=drive_copy",
             "choices": "Third ventricle///Aqueduct of sylvius///Interpeduncular cistern///Lateral ventricle///Interhemispheric fissure",
             "answer": "Third ventricle",
             "select": "",
@@ -5000,7 +5000,7 @@ var quizdata = {
         },
         {
             "problem": "106. A patient suffers a lacunar stroke. Neurological examination reveals contralateral pure motor hemiparesis affecting the face, arm, and leg equally. Based on the provided diagram, a lesion in which structure would cause this clinical presentation?",
-            "img": "//require_img",
+            "img": "",
             "choices": "Caudate nucleus///Lentiform nucleus///Thalamus///Internal capsule///Corpus callosum",
             "answer": "Internal capsule",
             "select": "",
@@ -5227,7 +5227,7 @@ var quizdata = {
         },
         {
             problem: "26. The physician has tested the patient's light reflex. When light is shone in the right eye, both pupils constrict. When light is shone in the left eye, only the right pupil constricts. Where is the lesion?",
-            img: "//require_img",
+            img: "https://drive.google.com/open?id=1jC52iEeqI1JZquI1S8WDUadb63HiM8iR&usp=drive_copy",
             choices: "Left Edinger-Westphal nucleus///Right Optic nerve///Left Optic tract///Right Oculomotor nucleus///Left Optic nerve",
             answer: "Left Edinger-Westphal nucleus",
             select: "",
@@ -6472,4 +6472,4 @@ var quizdata = {
             "state": false
         }
     ]
-}
+};
