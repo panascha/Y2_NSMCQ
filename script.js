@@ -3948,7 +3948,297 @@ var quizdata = {
             "state": false
         }
     ],
-    "NS51MCQ3": [
+    "NS51MCQ3_Parasite": [
+        {
+            "problem": "1. A 43-year-old woman came with severe headache. MRI- cerebral edema, CSF-staining lobopodia (pseudopodia). Confirm เชื้อยังไง (How to confirm the organism?)",
+            "img": "",
+            "choices": "Antibody detection///Molecular technique///Antigen detection///Blood culture///CSF culture",
+            "answer": "Molecular technique",
+            "select": "",
+            "explain": "ผู้ป่วยมีอาการปวดศีรษะรุนแรง MRI พบสมองบวม (cerebral edema) และการตรวจ CSF พบเชื้อที่มีส่วนยื่นของเซลล์คล้ายเท้า (lobopodia) ซึ่งเป็นลักษณะของอะมีบาที่กินสมอง เช่น Acanthamoeba spp. หรือ Balamuthia mandrillaris ที่ทำให้เกิดโรค Granulomatous Amebic Encephalitis (GAE) การวินิจฉัยที่รวดเร็วและจำเพาะที่สุดในปัจจุบันคือการใช้เทคนิคทางอณูชีววิทยา (Molecular technique) เช่น Polymerase Chain Reaction (PCR) เพื่อตรวจหา DNA ของเชื้อในน้ำไขสันหลัง (CSF) ซึ่งมีความไวและความจำเพาะสูงมาก ส่วนการเพาะเชื้อ (CSF culture) ทำได้ยากและใช้เวลานาน",
+            "state": false
+        },
+        {
+            "problem": "2. 45 years old woman had headache and right lateral hemianopia two days prior to admission. The investigations reveal intracranial hemorrhage and elevated eosinophil in CSF. What is the most likely causative agent.",
+            "img": "",
+            "choices": "Taenia solium///Cysticercus cellulosae///Spirometra mansoni///Gnathostoma spinigerum///Angiostrongylus cantonensis",
+            "answer": "Gnathostoma spinigerum",
+            "select": "",
+            "explain": "อาการสำคัญในผู้ป่วยรายนี้คือ เยื่อหุ้มสมองอักเสบชนิดอีโอสิโนฟิลสูง (eosinophilic meningitis) ร่วมกับมีเลือดออกในสมอง (intracranial hemorrhage) และอาการทางระบบประสาท (right lateral hemianopia) ซึ่งเป็นลักษณะที่ค่อนข้างจำเพาะของโรคพยาธิตัวจี๊ดขึ้นสมอง (Neurognathostomiasis) ที่เกิดจากพยาธิ Gnathostoma spinigerum พยาธิชนิดนี้เมื่อไชไปในสมองจะทำให้เกิดการบาดเจ็บต่อเนื้อสมองและหลอดเลือดโดยตรง ทำให้เกิดเลือดออกเป็นทาง (track-like hemorrhage) ได้บ่อย ส่วน Angiostrongylus cantonensis เป็นสาเหตุที่พบบ่อยที่สุดของ eosinophilic meningitis แต่ไม่ค่อยทำให้เกิดเลือดออกในสมองรุนแรงเท่าพยาธิตัวจี๊ด",
+            "state": false
+        },
+        {
+            "problem": "3. Patient presented with high grade fever then next day goes into comatose. Suspected of contacting Plasmodium falciparum, what is the most common cause of coma?",
+            "img": "",
+            "choices": "Elevated lactate///Hypoglycemia///Anemia///Brain hypoxia///Microvascular obstruction",
+            "answer": "Microvascular obstruction",
+            "select": "",
+            "explain": "ภาวะมาลาเรียขึ้นสมอง (Cerebral Malaria) ที่เกิดจากเชื้อ P. falciparum มีพยาธิกำเนิดที่สำคัญที่สุดคือ Microvascular obstruction เกิดจากการที่เม็ดเลือดแดงที่มีเชื้อมาลาเรีย (parasitized red blood cells) มีปุ่มบนผิวเซลล์ (knobs) ทำให้สามารถเกาะติดกับผนังหลอดเลือดฝอยในสมอง (cytoadherence) และเกาะกันเอง (sequestration) เกิดการอุดตันของหลอดเลือดขนาดเล็ก ทำให้เลือดไปเลี้ยงสมองลดลง สมองขาดออกซิเจน (Brain hypoxia) และเกิดภาวะ coma ในที่สุด ดังนั้นการอุดตันของหลอดเลือดฝอยจึงเป็นกลไกหลักที่เป็นสาเหตุโดยตรง",
+            "state": false
+        },
+        {
+            "problem": "4. A 62-year-old woman presented with headache, dizziness and nausea. Lumbar puncture revealed a WBC count of 16,152 cells/µL, with a clear appearance. Based on her history, sparganosis was suspected. What is the most appropriate confirmatory laboratory test?",
+            "img": "",
+            "choices": "CSF culture///Antibody detection///Blood culture///Molecular techniques///Histopathology staining",
+            "answer": "Antibody detection",
+            "select": "",
+            "explain": "โรค Sparganosis เกิดจากพยาธิตัวตืดในจีนัส Spirometra การวินิจฉัยทำได้ยากหากไม่พบตัวพยาธิโดยตรง ในกรณีที่สงสัยว่ามีการติดเชื้อในระบบประสาทส่วนกลาง (cerebral sparganosis) การตรวจทางห้องปฏิบัติการที่เหมาะสมและไม่ลุกลาม (non-invasive) ที่สุดเพื่อยืนยันการวินิจฉัยคือการตรวจหาแอนติบอดีต่อพยาธิในเลือดหรือน้ำไขสันหลัง (Antibody detection) โดยใช้เทคนิค เช่น ELISA ซึ่งมีความไวสูงในการช่วยวินิจฉัย การทำ Histopathology ต้องได้ชิ้นเนื้อซึ่งเป็น invasive procedure",
+            "state": false
+        },
+        {
+            "problem": "5. Patient treated with B cell leukemia, brain CT scan shows multiple calcified mass. What may be the diagnosis?",
+            "img": "",
+            "choices": "toxoplasma gondii///spirometra///gnathostoma spinigerum///angiostrongylus cantonensis///Cryptococcus neoformans",
+            "answer": "toxoplasma gondii",
+            "select": "",
+            "explain": "ผู้ป่วยมะเร็งเม็ดเลือดขาว (B cell leukemia) จัดเป็นผู้ที่มีภาวะภูมิคุ้มกันบกพร่อง (immunocompromised host) การพบรอยโรคที่เป็นก้อนหินปูนหลายก้อน (multiple calcified mass) ในสมอง เป็นลักษณะคลาสสิกของโรค Toxoplasmosis ในสมองที่ได้รับการรักษาแล้วหรือเป็นมานาน (chronic or treated neurotoxoplasmosis) โดยเชื้อ Toxoplasma gondii เป็น opportunistic infection ที่สำคัญในผู้ป่วยกลุ่มนี้",
+            "state": false
+        },
+        {
+            "problem": "6. 29-year-old man with seizure. What compatible with MRI pic?",
+            "img": "//require_img",
+            "choices": "vesicular cysticerci///colloidal cysticerci///calcified cysticerci///single hyperintense lesion///Hypointense cisticerci",
+            "answer": "vesicular cysticerci",
+            "select": "",
+            "explain": "ภาพ MRI แสดงถุงน้ำ (cysts) หลายใบในเนื้อสมอง ภายในถุงน้ำบางใบเห็นจุดสีขาวเล็กๆ ซึ่งก็คือหัวของพยาธิ (scolex) และรอบๆ ถุงน้ำไม่มีการบวมของเนื้อสมอง (minimal edema) ลักษณะเหล่านี้บ่งชี้ถึงโรค Neurocysticercosis ในระยะ Vesicular stage ซึ่งเป็นระยะที่พยาธิยังมีชีวิตอยู่และร่างกายยังไม่เกิดปฏิกิริยาอักเสบต่อต้านรุนแรง อาการชักเป็นอาการที่พบบ่อยที่สุดในผู้ป่วยโรคนี้",
+            "state": false
+        },
+        {
+            "problem": "7. What is the most significant sign and symptom of angiostrogyliasis?",
+            "img": "",
+            "choices": "Intracranial hypertension with eosinophilia///Intracranial hypertension with basophilia///Intracranial hypertension with neutrophilia///Intracranial hemorrhage with eosinophilia///Intracranial hemorrhage with basophilia",
+            "answer": "Intracranial hypertension with eosinophilia",
+            "select": "",
+            "explain": "โรค Angiostrongyliasis หรือโรคเยื่อหุ้มสมองอักเสบจากพยาธิหอยโข่ง (Angiostrongylus cantonensis) เป็นสาเหตุที่พบบ่อยที่สุดของ Eosinophilic meningitis ทั่วโลก ผู้ป่วยจะมีอาการของการอักเสบของเยื่อหุ้มสมองและความดันในกะโหลกศีรษะสูง (Intracranial hypertension) เช่น ปวดศีรษะรุนแรง คลื่นไส้ อาเจียน คอแข็ง และเมื่อเจาะน้ำไขสันหลัง (CSF) จะพบเม็ดเลือดขาวชนิดอีโอสิโนฟิลสูง (Eosinophilia) อย่างชัดเจน ซึ่งเป็นลักษณะจำเพาะของโรคนี้",
+            "state": false
+        },
+        {
+            "problem": "8. Biopsy from a patient revealed an organism trophozoite stage with red blood cell",
+            "img": "",
+            "choices": "Naegleria fowleri///Acanthameoba sp.///Entameoba histolytica///Taenia solium///Toxoplasma gondii",
+            "answer": "Entameoba histolytica",
+            "select": "",
+            "explain": "การพบเชื้อในระยะ Trophozoite ที่มีการกินเม็ดเลือดแดง (ingested red blood cells หรือ hematophagy) อยู่ภายในเซลล์ เป็นลักษณะทางพยาธิวิทยาที่จำเพาะเจาะจง (pathognomonic) สำหรับเชื้อ Entamoeba histolytica ซึ่งเป็นสาเหตุของโรคบิดมีตัว (Amebiasis) และสามารถก่อให้เกิดฝีในตับและอวัยวะอื่นๆ ได้ การพบเม็ดเลือดแดงในตัวเชื้อเป็นการยืนยันว่าเป็นสายพันธุ์ที่ก่อโรค (pathogenic species)",
+            "state": false
+        },
+        {
+            "problem": "9. What CSF profile is specific for Gnathostomiasis?",
+            "img": "",
+            "choices": "Elevated eosinophil///Increase Protein in CSF///Xanthochromia///Low glucose///Normal cell count",
+            "answer": "Elevated eosinophil",
+            "select": "",
+            "explain": "Neurognathostomiasis เป็นหนึ่งในสาเหตุสำคัญของ Eosinophilic meningoencephalitis ดังนั้นการตรวจพบเม็ดเลือดขาวอีโอสิโนฟิลในปริมาณสูง (Elevated eosinophil) ในน้ำไขสันหลัง (CSF) จึงเป็นลักษณะที่จำเพาะที่สุดในกลุ่มตัวเลือกนี้ นอกจากนี้อาจพบ Xanthochromia (CSF สีเหลือง) ได้เนื่องจากการมีเลือดออก และโปรตีนสูงได้ แต่การพบ eosinophil สูงเป็นลักษณะเด่นที่สุด",
+            "state": false
+        },
+        {
+            "problem": "10. What is the structure pointed by the red arrow?",
+            "img": "//require_img",
+            "choices": "Superior sagittal sinus///Falx cerebri///Tentorium cerebelli///Transverse sinus///Straight sinus",
+            "answer": "Superior sagittal sinus",
+            "select": "",
+            "explain": "ลูกศรสีแดงชี้ไปที่โครงสร้างรูปสามเหลี่ยมสีขาว (hyperdense) ที่อยู่ตรงกลางส่วนบนสุดของภาพ CT scan สมองในแนวแกน (axial view) ซึ่งเป็นตำแหน่งของ Superior sagittal sinus ซึ่งเป็นหลอดเลือดดำขนาดใหญ่ที่รับเลือดจากสมองและอยู่ภายในขอบบนของ Falx cerebri",
+            "state": false
+        },
+        {
+            "problem": "11. What is the structure pointed by the red arrow (E)?",
+            "img": "//require_img",
+            "choices": "4th ventricle///3rd ventricle///Suprasellar cistern///Quadrigeminal Cistern///Ambient cistern",
+            "answer": "Suprasellar cistern",
+            "select": "",
+            "explain": "ลูกศร E ชี้ไปยังช่องว่างที่เต็มไปด้วยน้ำไขสันหลัง (CSF) ซึ่งอยู่บริเวณเหนือต่อ sella turcica และอยู่ระหว่าง temporal lobes บริเวณนี้เรียกว่า Suprasellar cistern หรือ pentagon of CSF ซึ่งเป็นที่อยู่ของโครงสร้างสำคัญ เช่น optic chiasm และ circle of Willis",
+            "state": false
+        },
+        {
+            "problem": "12. Structureไหนในรูปที่ผิดปกติ (Which structure in the image is abnormal?)",
+            "img": "//require_img",
+            "choices": "Internal capsule///External capsule///Caudate nucleus///Lateral ventricle///Insular cortex",
+            "answer": "Lateral ventricle",
+            "select": "",
+            "explain": "ภาพ CT scan แสดงให้เห็นว่าโพรงสมองด้านข้าง (Lateral ventricles) รวมถึงโพรงสมองที่สาม (third ventricle) มีขนาดใหญ่โตผิดปกติอย่างมาก โดยเฉพาะส่วน temporal horns ที่ขยายใหญ่ชัดเจน บ่งชี้ถึงภาวะโพรงสมองคั่งน้ำ (Hydrocephalus) ดังนั้นโครงสร้างที่ผิดปกติชัดเจนที่สุดในภาพคือ Lateral ventricle",
+            "state": false
+        },
+        {
+            "problem": "13. What is the structure that the arrow points to?",
+            "img": "//require_img",
+            "choices": "Quadrigeminal cistern///Insular cortex///Sylvian fissure///Temporal sulcus///Ambient cistern",
+            "answer": "Sylvian fissure",
+            "select": "",
+            "explain": "ลูกศรสีขาวชี้ไปที่ร่องลึกขนาดใหญ่ที่แบ่งสมองกลีบขมับ (temporal lobe) ออกจากสมองกลีบหน้า (frontal lobe) และกลีบข้าง (parietal lobe) ร่องนี้มีชื่อเรียกว่า Sylvian fissure หรือ lateral sulcus ซึ่งเป็น landmark ที่สำคัญของสมอง",
+            "state": false
+        },
+        {
+            "problem": "14. Evaluate and follow up intracerebral hemorrhage in the preterm baby brain?",
+            "img": "",
+            "choices": "Plain radiography///Ultrasound///CT scan///MRI///Cerebral angiogram",
+            "answer": "Ultrasound",
+            "select": "",
+            "explain": "การตรวจวินิจฉัยและติดตามภาวะเลือดออกในสมอง (intracerebral/intraventricular hemorrhage) ในทารกคลอดก่อนกำหนด (preterm baby) จะนิยมใช้การทำอัลตราซาวนด์ผ่านกระหม่อมหน้า (cranial ultrasound) เป็นหลัก เนื่องจากเป็นวิธีที่ปลอดภัย ไม่มีรังสี สามารถทำข้างเตียงผู้ป่วยในหออภิบาลทารกแรกเกิด (NICU) ได้สะดวก และให้ภาพของโพรงสมองและภาวะเลือดออกได้ดีมาก",
+            "state": false
+        },
+        {
+            "problem": "15. Which one of those neuroimaging modalities that cannot evaluate the pathology of vascular lumen?",
+            "img": "",
+            "choices": "Carotid doppler ultrasonography///CT angiogram///MR Angiogram///Cerebral angiogram///Functional MRI",
+            "answer": "Functional MRI",
+            "select": "",
+            "explain": "Functional MRI (fMRI) เป็นเทคนิคการตรวจที่วัดการทำงานของสมองโดยการตรวจจับการเปลี่ยนแปลงของการไหลเวียนเลือด (blood-oxygen-level-dependent หรือ BOLD signal) เพื่อดูว่าสมองส่วนไหนทำงานในขณะนั้น แต่ไม่ได้สร้างภาพของกายวิภาคหรือพยาธิสภาพภายในหลอดเลือด (vascular lumen) โดยตรง ในขณะที่ตัวเลือกอื่นๆ (CTA, MRA, Cerebral angiogram, Doppler US) ถูกออกแบบมาเพื่อดูหลอดเลือดโดยเฉพาะ",
+            "state": false
+        },
+        {
+            "problem": "16. A lumbar puncture is performed on a patient with fever and neck stiffness. The CSF is analyzed using a hemocytometer. Which finding is most suggestive of bacterial meningitis?",
+            "img": "//require_img",
+            "choices": "WBC count 20 cells/µL, mainly lymphocytes///WBC count 2,000 cells/µL, mainly neutrophils (PMNs)///Presence of numerous RBCs with clear supernatant///Normal protein and glucose levels///WBC count 100 cells/µL, mainly lymphocytes",
+            "answer": "WBC count 2,000 cells/µL, mainly neutrophils (PMNs)",
+            "select": "",
+            "explain": "ภาพแสดง hemocytometer ที่ใช้ในการนับเซลล์ในสารน้ำต่างๆ รวมถึง CSF ผลตรวจน้ำไขสันหลัง (CSF) ที่บ่งชี้ถึงการติดเชื้อแบคทีเรีย (Bacterial meningitis) อย่างชัดเจนคือ การพบเม็ดเลือดขาวจำนวนสูงมาก (pleocytosis) ซึ่งโดยทั่วไปจะสูงเกิน 1,000 cells/µL และเซลล์ส่วนใหญ่เป็นชนิด Neutrophils (PMNs) นอกจากนี้ยังพบโปรตีนสูงและน้ำตาลต่ำด้วย",
+            "state": false
+        },
+        {
+            "problem": "17. เชื้ออะไร? Risk factor? (What organism? Risk factor?)",
+            "img": "//require_img",
+            "choices": "Streptococcus pneumoniae; Asplenia///Neisseria meningitidis; Complement deficiency///Listeria monocytogenes; Pregnancy///Haemophilus influenzae type b; Unvaccinated child///Staphylococcus aureus; Recent neurosurgery",
+            "answer": "Streptococcus pneumoniae; Asplenia",
+            "select": "",
+            "explain": "ภาพแสดงเชื้อแบคทีเรียย้อมติดสีแกรมบวก (Gram-positive cocci) รูปร่างเป็นคู่ (diplococci) และเรียงตัวเป็นสายสั้นๆ (short chains) ซึ่งเป็นลักษณะของเชื้อ Streptococcus pneumoniae ซึ่งเป็นสาเหตุของเยื่อหุ้มสมองอักเสบในผู้ใหญ่ที่พบบ่อยที่สุด ปัจจัยเสี่ยงที่สำคัญมากอย่างหนึ่งของการติดเชื้อชนิดนี้อย่างรุนแรงคือภาวะไม่มีม้าม (Asplenia) หรือม้ามทำงานผิดปกติ เนื่องจากม้ามมีหน้าที่สำคัญในการกำจัดเชื้อแบคทีเรียที่มีแคปซูลหุ้มเช่น S. pneumoniae",
+            "state": false
+        },
+        {
+            "problem": "18. เชื้ออะไร? ใช้ยาอะไร? (What organism? What drug?)",
+            "img": "//require_img",
+            "choices": "Neisseria meningitidis; Ceftriaxone///Streptococcus pneumoniae; Vancomycin///Listeria monocytogenes; Ampicillin///Haemophilus influenzae; Cefotaxime///Cryptococcus neoformans; Amphotericin B",
+            "answer": "Neisseria meningitidis; Ceftriaxone",
+            "select": "",
+            "explain": "ภาพย้อมแกรมแสดงเชื้อแบคทีเรียแกรมลบรูปทรงคล้ายเมล็ดถั่ว (Gram-negative diplococci) และพบอยู่ภายในเซลล์เม็ดเลือดขาวชนิด Neutrophil (intracellular) ซึ่งเป็นลักษณะที่จำเพาะอย่างยิ่งของเชื้อ Neisseria meningitidis หรือเชื้อไข้กาฬหลังแอ่น ยาปฏิชีวนะที่เป็นยาหลัก (drug of choice) ในการรักษาภาวะนี้คือยาในกลุ่ม 3rd-generation cephalosporins เช่น Ceftriaxone",
+            "state": false
+        },
+        {
+            "problem": "19. เชื้ออะไร? ใช้ยาอะไร? (What organism? What drug?)",
+            "img": "//require_img",
+            "choices": "Corynebacterium jeikeium; Vancomycin///Bacillus anthracis; Ciprofloxacin///Listeria monocytogenes; Ampicillin///Clostridium tetani; Metronidazole///Nocardia asteroides; Trimethoprim-sulfamethoxazole",
+            "answer": "Listeria monocytogenes; Ampicillin",
+            "select": "",
+            "explain": "ภาพย้อมแกรมแสดงเชื้อแบคทีเรียแกรมบวกรูปแท่ง (Gram-positive rods/coccobacilli) ซึ่งในบริบทของเยื่อหุ้มสมองอักเสบ โดยเฉพาะในกลุ่มเสี่ยง เช่น ผู้สูงอายุ (>50 ปี) ทารกแรกเกิด หญิงตั้งครรภ์ หรือผู้มีภูมิคุ้มกันบกพร่อง จะต้องนึกถึงเชื้อ Listeria monocytogenes เสมอ ยาปฏิชีวนะที่เป็นยาหลักในการรักษาคือ Ampicillin ซึ่งมักให้ร่วมกับ Gentamicin เพื่อเสริมฤทธิ์การฆ่าเชื้อ",
+            "state": false
+        },
+        {
+            "problem": "20. ให้อาการคนไข้ตรวจcsf ขุ่น high WBC, high protein, low glucose ให้รูป PMN ถาม แปรผลCSF ถามยา emperical treatment (Given a patient with cloudy CSF, high WBC, high protein, low glucose. A picture of PMNs is shown. Interpret the CSF and what is the empirical treatment?)",
+            "img": "",
+            "choices": "Viral meningitis; Acyclovir///Tuberculous meningitis; RIPE therapy///Bacterial meningitis; Ceftriaxone + Vancomycin///Fungal meningitis; Amphotericin B + Flucytosine///Aseptic meningitis; Supportive care",
+            "answer": "Bacterial meningitis; Ceftriaxone + Vancomycin",
+            "select": "",
+            "explain": "ผลการตรวจน้ำไขสันหลัง (CSF) ที่มีลักษณะขุ่น, เม็ดเลือดขาวสูง (โดยเฉพาะ PMN), โปรตีนสูง, และน้ำตาลต่ำ เป็นลักษณะคลาสสิกของภาวะเยื่อหุ้มสมองอักเสบจากเชื้อแบคทีเรีย (Acute bacterial meningitis) การรักษาแบบครอบคลุม (empirical treatment) ก่อนที่จะทราบผลเพาะเชื้อในผู้ใหญ่ทั่วไป คือการให้ยาที่ครอบคลุมเชื้อสาเหตุหลัก ได้แก่ S. pneumoniae และ N. meningitidis โดยใช้ยา Ceftriaxone ร่วมกับ Vancomycin (เพื่อครอบคลุมเชื้อ S. pneumoniae ที่ดื้อยา Penicillin)",
+            "state": false
+        },
+        {
+            "problem": "21. Diagnose",
+            "img": "//require_img",
+            "choices": "Brain abscess///Glioblastoma///Acute ischemic stroke///Viral encephalitis///Tuberculous meningitis",
+            "answer": "Brain abscess",
+            "select": "",
+            "explain": "ภาพทางจุลพยาธิวิทยาแสดงให้เห็นการอักเสบอย่างรุนแรง โดยมีเซลล์อักเสบชนิด Neutrophil จำนวนมากมารวมตัวกันจนเกิดเป็นหนอง (suppurative inflammation) และมีการตายของเนื้อเยื่อสมองโดยรอบ (liquefactive necrosis) บริเวณใจกลางมีการอักเสบของหลอดเลือด (vasculitis) ซึ่งทั้งหมดนี้เป็นลักษณะของฝีในสมอง (Brain abscess) ที่เกิดจากการติดเชื้อแบคทีเรีย",
+            "state": false
+        },
+        {
+            "problem": "22. What is histological finding in this case?",
+            "img": "//require_img",
+            "choices": "Palisading necrosis///Antoni A///Antoni B///Rosenthal formation///Rosette Formation",
+            "answer": "Antoni A",
+            "select": "",
+            "explain": "ภาพจุลพยาธิวิทยาแสดงเนื้องอกที่ประกอบด้วยเซลล์รูปกระสวย (spindle cells) ที่มีนิวเคลียสยาวรีคล้ายซิกการ์เรียงตัวกันอย่างหนาแน่น (hypercellular) และมีการเรียงตัวของนิวเคลียสเป็นแถวขนานกัน (nuclear palisading) โดยมีบริเวณที่ไม่มีเซลล์ (acellular eosinophilic zone) อยู่ระหว่างแถวของนิวเคลียส เรียกว่า Verocay body ลักษณะทั้งหมดนี้เรียกว่า Antoni A pattern ซึ่งเป็นลักษณะจำเพาะของเนื้องอกชนิด Schwannoma",
+            "state": false
+        },
+        {
+            "problem": "23. What is histological finding in this case?",
+            "img": "//require_img",
+            "choices": "Palisading necrosis///Antoni A///Antoni B///Rosenthal formation///Rosette Formation",
+            "answer": "Rosette Formation",
+            "select": "",
+            "explain": "ภาพแสดงเนื้องอกที่มีเซลล์ขนาดเล็ก นิวเคลียสติดสีเข้ม และมีไซโตพลาสซึมน้อย (small round blue cells) ซึ่งเป็นลักษณะของ embryonal tumor ในสมอง เช่น Medulloblastoma จะเห็นเซลล์เนื้องอกมีการเรียงตัวกันเป็นวงกลมรอบๆ บริเวณที่เป็นร่างแหของเส้นใยประสาท (neuropil) ซึ่งเรียกลักษณะนี้ว่า Homer Wright rosette ซึ่งเป็นหนึ่งใน Rosette Formation ที่พบได้ในเนื้องอกชนิดนี้",
+            "state": false
+        },
+        {
+            "problem": "24. What is histological finding in this case?",
+            "img": "//require_img",
+            "choices": "Palisading necrosis///Antoni A///Antoni B///Rosenthal formation///Rosette Formation",
+            "answer": "Palisading necrosis",
+            "select": "",
+            "explain": "ภาพจุลพยาธิวิทยาแสดงเนื้องอกที่มีความผิดปกติของเซลล์สูง (high-grade glioma) จะเห็นบริเวณที่มีเนื้อตาย (necrosis) เป็นทางยาว และมีเซลล์เนื้องอกมาเรียงตัวกันอย่างหนาแน่นล้อมรอบบริเวณเนื้อตายนั้น คล้ายกับรั้วกั้น (palisading) ลักษณะนี้เรียกว่า Pseudopalisading necrosis ซึ่งเป็นลักษณะทางพยาธิวิทยาที่สำคัญอย่างยิ่งในการวินิจฉัยเนื้องอกสมองชนิด Glioblastoma (WHO Grade IV)",
+            "state": false
+        },
+        {
+            "problem": "25. Diagnose",
+            "img": "//require_img",
+            "choices": "Toxoplasma gondii tissue cyst///Cryptococcus neoformans yeast///Herpes Simplex Virus inclusion body///Cytomegalovirus inclusion body///JC virus demyelination",
+            "answer": "Toxoplasma gondii tissue cyst",
+            "select": "",
+            "explain": "ภาพจุลพยาธิวิทยาแสดงถุงซีสต์ (tissue cyst) ในเนื้อสมอง ภายในซีสต์มีเชื้อโปรโตซัวขนาดเล็กจำนวนมาก (bradyzoites) ซึ่งเป็นลักษณะจำเพาะของเชื้อ Toxoplasma gondii ในระยะเรื้อรัง มักพบในผู้ป่วยที่มีภูมิคุ้มกันบกพร่อง เช่น ผู้ป่วย AIDS ซึ่งทำให้เกิดรอยโรคในสมองได้",
+            "state": false
+        },
+        {
+            "problem": "26. Diagnose",
+            "img": "//require_img",
+            "choices": "Acute ischemic injury///Alzheimer's disease///Parkinson's disease///Creutzfeldt-Jakob disease///Viral encephalitis",
+            "answer": "Acute ischemic injury",
+            "select": "",
+            "explain": "ภาพจุลพยาธิวิทยาแสดงเซลล์ประสาท (neurons) ที่มีลักษณะผิดปกติ โดยตัวเซลล์หดเล็กลง นิวเคลียสติดสีเข้ม (pyknosis) และไซโตพลาสซึมติดสีแดงสด (eosinophilic cytoplasm) ลักษณะเช่นนี้เรียกว่า 'Red neurons' ซึ่งเป็นตัวบ่งชี้ถึงการตายของเซลล์ประสาทอย่างเฉียบพลันที่ไม่สามารถฟื้นคืนได้ (irreversible cell injury) ซึ่งมักเกิดจากภาวะสมองขาดเลือดหรือขาดออกซิเจน (hypoxic-ischemic injury) ในช่วง 12-24 ชั่วโมงแรก",
+            "state": false
+        },
+        {
+            "problem": "27. Diagnose",
+            "img": "//require_img",
+            "choices": "Meningioma///Glioblastoma///Schwannoma///Medulloblastoma///Metastatic carcinoma",
+            "answer": "Meningioma",
+            "select": "",
+            "explain": "ภาพจุลพยาธิวิทยาแสดงเนื้องอกที่ประกอบด้วยเซลล์ที่มีขอบเขตค่อนข้างชัดเจน ไซโตพลาสซึมติดสีชมพู และนิวเคลียสกลมรี สิ่งที่โดดเด่นคือเซลล์มีการเรียงตัวกันเป็นวงซ้อนกันเป็นชั้นๆ คล้ายหัวหอม เรียกว่า 'meningothelial whorls' ซึ่งเป็นลักษณะที่จำเพาะอย่างมากของเนื้องอกเยื่อหุ้มสมอง (Meningioma) ชนิด meningothelial subtype",
+            "state": false
+        },
+        {
+            "problem": "28. Diagnose",
+            "img": "//require_img",
+            "choices": "Viral encephalitis///Bacterial abscess///Fungal granuloma///Tuberculous meningitis///Glioblastoma",
+            "answer": "Viral encephalitis",
+            "select": "",
+            "explain": "ภาพจุลพยาธิวิทยาแสดงการอักเสบในเนื้อสมอง โดยมีเซลล์เม็ดเลือดขาวชนิดลิมโฟไซต์ (lymphocytes) มาเกาะกลุ่มอยู่รอบๆ หลอดเลือด (perivascular lymphocytic cuffing) นอกจากนี้ยังอาจพบกลุ่มเซลล์ microglial (microglial nodules) และเซลล์ประสาทถูกทำลาย (neuronophagia) ลักษณะเหล่านี้เป็นลักษณะจำเพาะของการติดเชื้อไวรัสในสมอง หรือ Viral encephalitis",
+            "state": false
+        },
+        {
+            "problem": "29. What is the parasite?",
+            "img": "//require_img",
+            "choices": "Taenia sp.///Ascaris lumbricoides///Ancylostoma duodenale///Enterobius vermicularis///Trichuris trichiura",
+            "answer": "Taenia sp.",
+            "select": "",
+            "explain": "ภาพแสดงตัวเต็มวัยของพยาธิตัวตืด (tapeworm) ซึ่งมีลักษณะเป็นปล้องๆ แบนๆ (segmented) และมีสีขาวขุ่น พยาธิในกลุ่มนี้ที่เป็นที่รู้จักกันดีคือ Taenia solium (พยาธิตัวตืดหมู) และ Taenia saginata (พยาธิตัวตืดวัว) การวินิจฉัยแยกชนิดกันอย่างชัดเจนต้องอาศัยการดูลักษณะของหัว (scolex) หรือลักษณะของปล้องแก่ (gravid proglottid)",
+            "state": false
+        },
+        {
+            "problem": "30. What is the parasite?",
+            "img": "//require_img",
+            "choices": "Trichinella spiralis larva///Cysticercus cellulosae///Sparganum larva///Hydatid cyst///Toxocara canis larva",
+            "answer": "Trichinella spiralis larva",
+            "select": "",
+            "explain": "ภาพแสดงตัวอ่อนของพยาธิที่ขดตัวอยู่ภายในเซลล์กล้ามเนื้อลาย (skeletal muscle) ที่ถูกดัดแปลงไปเป็น nurse cell ซึ่งมีลักษณะเป็นถุงล้อมรอบตัวอ่อนอยู่ นี่เป็นลักษณะที่จำเพาะอย่างยิ่งของพยาธิ Trichinella spiralis ซึ่งก่อโรค Trichinosis จากการกินเนื้อหมูที่ปรุงไม่สุก",
+            "state": false
+        },
+        {
+            "problem": "31. What is the parasite? Stage?",
+            "img": "//require_img",
+            "choices": "Plasmodium sp.; Schizont stage///Babesia sp.; Merozoite stage///Leishmania sp.; Amastigote stage///Trypanosoma cruzi; Trypomastigote stage///Toxoplasma gondii; Tachyzoite stage",
+            "answer": "Plasmodium sp.; Schizont stage",
+            "select": "",
+            "explain": "ภาพจากฟิล์มเลือดแสดงเม็ดเลือดแดงที่ติดเชื้อมาลาเรีย (Plasmodium sp.) ในระยะที่กำลังจะแตกตัว เรียกว่า Schizont stage ซึ่งเป็นระยะที่มีการแบ่งตัวแบบไม่อาศัยเพศจนได้ Merozoites จำนวนมากอยู่ภายในเซลล์เม็ดเลือดแดง ก่อนที่เซลล์จะแตกออกและปล่อย Merozoites ไปติดเชื้อในเม็ดเลือดแดงเซลล์ใหม่ต่อไป",
+            "state": false
+        },
+        {
+            "problem": "32. What is the parasite? Stage?",
+            "img": "//require_img",
+            "choices": "Entamoeba histolytica; Cyst stage///Giardia lamblia; Cyst stage///Naegleria fowleri; Trophozoite stage///Acanthamoeba; Cyst stage///Blastocystis hominis; Cyst stage",
+            "answer": "Entamoeba histolytica; Cyst stage",
+            "select": "",
+            "explain": "ภาพแสดงซีสต์ (cyst) ของเชื้ออะมีบา ซึ่งมีลักษณะกลม มีผนังหนา ภายในภาพจะเห็นนิวเคลียสได้หลายอัน (mature cyst ของ E. histolytica จะมี 4 นิวเคลียส) และอาจเห็นแท่ง chromatoid bodies ได้ ซีสต์เป็นระยะติดต่อของเชื้อที่ปนเปื้อนมากับอาหารหรือน้ำ เมื่อคนกินเข้าไปจะก่อให้เกิดโรคบิดอะมีบา (amebiasis)",
+            "state": false
+        }
+    ],
+    "NS51MCQ3_Patho": [
         {
             "problem": "1. A 25-year-old motorcyclist presents to the ER after a collision without wearing a helmet. Two days later he develops bilateral periorbital ecchymosis. Where is the fracture location most likely?",
             "img": "",
