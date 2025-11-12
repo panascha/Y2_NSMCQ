@@ -2188,7 +2188,7 @@ var quizdata = {
         },
         {
             "problem": "6. ผู้ป่วยเกิดอุบัติเหตุแล้วเป็น contralateral homonymous hemianopia (The patient had an accident and developed contralateral homonymous hemianopia). The image shows loss of the left visual field.",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=1joyK2EZb5dFnnBeRHNEbKDx04H9dZVK_&usp=drive_copy",
             "choices": "Right Meyer loop///Optic chiasm///Left optic nerve///Right optic tract///Primary visual cortex",
             "answer": "Right optic tract",
             "select": "",
@@ -2838,7 +2838,7 @@ var quizdata = {
         },
         {
             "problem": "33. Where is the lesion?",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=1L2WnhRG_xNveU6IMUpxuGDE-funNSOTT&usp=drive_copy",
             "choices": "Right primary visual area///Left optic tract///Optic chiasm///Right Meyer's loop///Left Meyer's loop",
             "answer": "Optic chiasm",
             "select": "",
@@ -2910,7 +2910,7 @@ var quizdata = {
         },
         {
             "problem": "46. Which muscle would be effected ถ้าเกิด lesion ตรงวงสีแดง (ไม่แน่ใจว่ารูปตอนสอบคือระดับcervicleหรือlumbarนะ)",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=1ThyzbN4vZikll-bdMHKQ_082894nSlDS&usp=drive_copy",
             "choices": "Left triceps brachii///Right hamstring///Right biceps brachii///Quadriceps สักข้าง///Tibialis สักข้าง",
             "answer": "Left triceps brachii",
             "select": "",
@@ -2928,7 +2928,7 @@ var quizdata = {
         },
         {
             "problem": "49. There is a lesion at the arrow, what is expected?",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=1MLM50YFIbXYGOyiqj2SZtYYTmBO4I__O&usp=drive_copy",
             "choices": "Contralateral spastic paralysis with UE&LE///Contralateral flaccid paralysis with UE&LE///Contralateral spastic paralysis with UE only///ipsilateral spastic paralysis with UE&LE///ipsilateral flaccid paralysis with UE&LE",
             "answer": "Contralateral spastic paralysis with UE&LE",
             "select": "",
@@ -2955,7 +2955,7 @@ var quizdata = {
         },
         {
             "problem": "53. Activation of cell bodies that give rise to the fibers indicated by the arrow in the image below will result in which of the following responses?",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=1oZtf2hV7D9boGoWYcD1-umw7fFfqQ-Za&usp=drive_copy",
             "choices": "Decrease in thalamic activity with corresponding decrease in cortical activity ลูก///Increase in thalamic activity with corresponding increase in cortical activity///Increase in thalamic activity with corresponding decrease in cortical activity///Decrease in thalamic activity with corresponding increase in cortical activity///Increase in thalamic activity with no change in cortical activity",
             "answer": "Decrease in thalamic activity with corresponding decrease in cortical activity ลูก",
             "select": "",
@@ -2993,23 +2993,23 @@ var quizdata = {
             "problem": "1. [LAB] After being treated with a diode laser, a child has an abnormally dilated pupil and a lot of difficulty adjusting vision in the dark. Which is correct?",
             "img": "",
             "choices": "There is a decrease in amplitude of AP in his optic nerve///There is a decrease in frequency of AP in his optic nerve///There is a decrease in frequency of AP in his optic and oculomotor nerves///The rods and cones cells has been overstimulated///There is damage to the retina",
-            "answer": "There is damage to the retina",
+            "answer": "There is a decrease in frequency of AP in his optic nerve",
             "select": "",
-            "explain": "รูม่านตาขยายผิดปกติ (dilated pupil) และการปรับสายตาในที่มืดทำได้ยาก (difficulty adjusting vision in the dark) เป็นอาการที่บ่งชี้ถึงความเสียหายสองส่วน: 1) ความเสียหายต่อระบบประสาท Parasympathetic ที่ควบคุมการหดของรูม่านตา และ 2) ความเสียหายต่อ Rod cells ที่ทำหน้าที่มองเห็นในที่มืด ทั้งสองอย่างนี้สามารถเกิดจากการที่เลเซอร์ทำลายโครงสร้างใน Retina โดยตรง ซึ่งอาจจะทำลายทั้งเซลล์รับแสงและใยประสาทอัตโนมัติที่อยู่ในนั้น",
+            "explain": "การใช้เลเซอร์ที่มีความเข้มสูงสามารถทำลายเซลล์รับแสงในเรตินาได้ โดยเฉพาะอย่างยิ่ง Rods ซึ่งมีหน้าที่ในการมองเห็นในที่มืด เมื่อ Rods ถูกทำลาย จะส่งผลให้ความถี่ของ Action potentials (APs) ที่ส่งผ่าน Optic nerve ลดลง เนื่องจากจำนวนเซลล์รับแสงที่ทำงานได้น้อยลง ส่งผลให้เด็กมีปัญหาในการปรับสายตาในที่มืด",
             "state": false
         },
         {
             "problem": "2. [LAB] ติดเชื้ออะไร",
-            "img": "//require_img",
-            "choices": "Cytomegalovirus (CMV)///Herpes Simplex Virus (HSV)///Toxoplasma gondii///Varicella Zoster Virus (VZV)///Human Immunodeficiency Virus (HIV)",
-            "answer": "Cytomegalovirus (CMV)",
+            "img": "https://drive.google.com/open?id=10YCAfgB_5OojgUP7jVZmOdcq5Y-B2U5W&usp=drive_copy",
+            "choices": "Cytomegalovirus (CMV)///Herpes Simplex Virus (HSV)///Toxoplasma gondii///Varicella Zoster Virus (VZV)///Human Immunodeficiency Virus (HIV)///Cryptococcus neoformans",
+            "answer": "Cryptococcus neoformans",
             "select": "",
-            "explain": "ภาพจุลพยาธิวิทยาแสดงเซลล์ที่มีขนาดใหญ่ขึ้น และมี Intranuclear inclusion body ขนาดใหญ่ติดสีชมพู (eosinophilic) และมีขอบใสๆล้อมรอบ (halo) ซึ่งมีลักษณะเหมือน 'ตานกฮูก' (Owl's eye appearance) อันเป็นลักษณะจำเพาะ (pathognomonic) ของการติดเชื้อ Cytomegalovirus (CMV)",
+            "explain": "",
             "state": false
         },
         {
             "problem": "3. [LAB] This tumor located at falx cerebri. What is the name of this histopathological findings.",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=1UmMYWJdGr_9o9sJuzQGrR-_K8OPvU9VK&usp=drive_copy",
             "choices": "psammoma bodies///Lewy bodies///Negri bodies///Corpora amyl///Hassall corpuscle",
             "answer": "psammoma bodies",
             "select": "",
@@ -3018,16 +3018,16 @@ var quizdata = {
         },
         {
             "problem": "4. [LAB] แปลผล CSF และ ให้ provisional diagnosis",
-            "img": "//require_img",
-            "choices": "Bacterial meningitis///Viral meningitis///Fungal meningitis///Tuberculous meningitis///Subarachnoid hemorrhage",
-            "answer": "Bacterial meningitis",
+            "img": "https://drive.google.com/open?id=15_lo0jh2Dc55uXprbXVij6KZC2d9Qyl7&usp=drive_copy",
+            "choices": "Bacterial meningitis///Viral meningitis///Fungal meningitis///Tuberculous meningitis///Subarachnoid hemorrhage///Parasitic meningitis",
+            "answer": "Parasitic meningitis",
             "select": "",
-            "explain": "ภาพย้อมสีของน้ำไขสันหลัง (CSF) แสดงให้เห็นเซลล์เม็ดเลือดขาวจำนวนมาก (pleocytosis) โดยเซลล์ส่วนใหญ่เป็น Neutrophils ซึ่งมีนิวเคลียสหลายพู (multilobed nuclei) การพบ Neutrophil จำนวนมากใน CSF เป็นลักษณะเด่นของการติดเชื้อแบคทีเรียเฉียบพลันในเยื่อหุ้มสมอง (Acute bacterial meningitis)",
+            "explain": "ผลการตรวจน้ำไขสันหลัง (CSF analysis) แสดงลักษณะที่บ่งชี้ถึงการติดเชื้อปรสิต (Parasitic meningitis) ได้แก่ การเพิ่มขึ้นของจำนวนเม็ดเลือดขาวชนิด eosinophils (Eosinophilic pleocytosis) ซึ่งเป็นลักษณะเฉพาะของการติดเชื้อปรสิต นอกจากนี้ยังพบการเพิ่มขึ้นของโปรตีนและความดันน้ำไขสันหลังที่สูงขึ้น ซึ่งสอดคล้องกับการอักเสบในเยื่อหุ้มสมอง",
             "state": false
         },
         {
             "problem": "5. [LAB] 5 days old find this. What is Pathogen and which drug should be given?",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=1i_BkvIg1vZSKVXqyMvV8ywnogubi_R_t&usp=drive_copy",
             "choices": "Streptococcus agalactiae, Ampicillin + Gentamicin///Staphylococcus aureus, Vancomycin///Listeria monocytogenes, Ampicillin///Escherichia coli, Cefotaxime///Haemophilus influenzae, Ceftriaxone",
             "answer": "Streptococcus agalactiae, Ampicillin + Gentamicin",
             "select": "",
@@ -3036,11 +3036,11 @@ var quizdata = {
         },
         {
             "problem": "6. [LAB] Give the genus and species",
-            "img": "//require_img",
-            "choices": "Cryptococcus neoformans///Candida albicans///Aspergillus fumigatus///Histoplasma capsulatum///Blastomyces dermatitidis",
-            "answer": "Cryptococcus neoformans",
+            "img": "https://drive.google.com/open?id=104gI0Os5gvSKi1IAT1aY3MQnVq9YwL6O&usp=drive_copy",
+            "choices": "Cryptococcus neoformans///Candida albicans///Aspergillus fumigatus///Histoplasma capsulatum///Entamoeba histolytica",
+            "answer": "Entamoeba histolytica",
             "select": "",
-            "explain": "ภาพแสดงการย้อมด้วยหมึกอินเดีย (India ink stain) ของตัวอย่าง (น่าจะมาจาก CSF) ซึ่งจะเห็นยีสต์ (yeast) ที่มีลักษณะเด่นคือมีแคปซูลหนา (thick polysaccharide capsule) อยู่ล้อมรอบตัวเซลล์ ทำให้เกิดเป็นวงใสๆ (halo) เนื่องจากหมึกไม่สามารถติดสีแคปซูลได้ นี่คือลักษณะคลาสสิกของเชื้อรา Cryptococcus neoformans ซึ่งเป็นสาเหตุสำคัญของเยื่อหุ้มสมองอักเสบในผู้ป่วยภูมิคุ้มกันบกพร่อง",
+            "explain": "ภาพแสดงลักษณะทางจุลพยาธิวิทยาของเชื้อ Entamoeba histolytica ซึ่งเป็นโปรโตซัวที่ก่อให้เกิดโรคบิด (amoebic dysentery) ในมนุษย์ โดยมีลักษณะเป็นเซลล์กลม (round cells) ขนาดเล็กที่มีนิวเคลียส (nucleus) ใหญ่และมีไซโตพลาสซึม (cytoplasm) ที่มีลักษณะเป็นเกร็ด (granular) การวินิจฉัยสามารถทำได้โดยการตรวจหาเชื้อในอุจจาระหรือการตรวจด้วยเทคนิคพิเศษ เช่น PCR",
             "state": false
         }
     ],
@@ -3209,7 +3209,7 @@ var quizdata = {
         },
         {
             problem: "33. A male patient presents with a visual disturbance. His visual field test shows bitemporal hemianopia. Where is the lesion located?",
-            img: "//require_img",
+            img: "https://drive.google.com/open?id=11-C9RdOQ1M5Y_2WjTt9WSKZSFMTTuhz5&usp=drive_copy",
             choices: "Meyer's loop///Optic chiasm///Optic nerve///Occipital area///Lateral Geniculate Body (LGB)",
             answer: "Optic chiasm",
             select: "",
@@ -3433,35 +3433,26 @@ var quizdata = {
             state: false
         },
         {
-            problem: "Lab Parasite 1. Identify the genus, species, and stage of the parasite shown in the image, typically found encysted in muscle tissue.",
-            img: "//require_img",
-            choices: "Trichinella spiralis, larva///Ascaris lumbricoides, egg///Taenia solium, cysticercus///Enterobius vermicularis, adult///Wuchereria bancrofti, microfilaria",
-            answer: "Trichinella spiralis, larva",
+            problem: "Lab Parasite 1. Identify the genus, species, and stage of the parasite shown in the image.",
+            img: "https://drive.google.com/open?id=1KNYFU5333lQQkh6_ZCMJ8XOTzE1QOM-7&usp=drive_copy",
+            choices: "Trichinella spiralis, larva///Ascaris lumbricoides, egg///Taenia solium, cysticercus///Enterobius vermicularis, adult///Wuchereria bancrofti, microfilaria///Gnathostoma spinigerum, larva",
+            answer: "Gnathostoma spinigerum, larva",
             select: "",
-            explain: "ภาพแสดงตัวอ่อน (larva) ของพยาธิ Trichinella spiralis ที่ขดตัวอยู่ภายในเซลล์กล้ามเนื้อ (nurse cell) ซึ่งเป็นระยะติดต่อที่พบในกล้ามเนื้อของสัตว์ที่เป็นโฮสต์ เช่น สุกร การติดเชื้อในคนเกิดจากการรับประทานเนื้อสัตว์ที่ปรุงไม่สุกและมีถุงซีสต์นี้อยู่",
+            explain: "ภาพแสดงระยะ larva ของพยาธิหนอนตัวกลมชนิด Gnathostoma spinigerum ซึ่งมีลักษณะเด่นคือมีหัวที่มีปากและฟันแหลมคม ใช้ในการเจาะเนื้อเยื่อของโฮสต์ พยาธินี้เป็นสาเหตุของโรค gnathostomiasis ซึ่งสามารถทำให้เกิดอาการทางผิวหนังและระบบประสาทได้",
             state: false
         },
         {
-            problem: "Lab Parasite 2. The image shows amoeboid trophozoites with a large karyosome, found in a CSF sample from a patient with rapidly progressing meningoencephalitis after swimming in a warm freshwater lake. Identify the organism.",
-            img: "//require_img",
+            problem: "Lab Parasite 2. The image shows a trophozoite with a large central karyosome. Identify the most likely parasite.",
+            img: "https://drive.google.com/open?id=1z8ubGRxsXmhUCAWhN4UWCP-v4aA1drjQ&usp=drive_copy",
             choices: "Naegleria fowleri///Acanthamoeba spp.///Entamoeba histolytica///Toxoplasma gondii///Trypanosoma brucei",
-            answer: "Naegleria fowleri",
+            answer: "Toxoplasma gondii",
             select: "",
-            explain: "ภาพแสดงระยะ Trophozoite ของ Naegleria fowleri ซึ่งเป็นอะมีบากินสมอง (brain-eating amoeba) มีลักษณะเด่นคือนิวเคลียสมีขนาดใหญ่และมี karyosome อยู่ตรงกลางชัดเจน เชื้อนี้ทำให้เกิดโรค Primary Amebic Meningoencephalitis (PAM) ซึ่งเป็นโรคเยื่อหุ้มสมองและสมองอักเสบที่รุนแรงและมักเสียชีวิตอย่างรวดเร็ว โดยมีประวัติติดเชื้อจากการสำลักน้ำจืดที่ปนเปื้อนเชื้อเข้าทางจมูก",
-            state: false
-        },
-        {
-            problem: "Lab Parasite 3. The image shows large, creamy-white roundworms removed from the small intestine. Identify the genus, species, and stage.",
-            img: "//require_img",
-            choices: "Ascaris lumbricoides, adult///Enterobius vermicularis, adult///Trichuris trichiura, adult///Ancylostoma duodenale, adult///Strongyloides stercoralis, adult",
-            answer: "Ascaris lumbricoides, adult",
-            select: "",
-            explain: "ภาพแสดงพยาธิไส้เดือน (Ascaris lumbricoides) ตัวเต็มวัย (adult stage) ซึ่งเป็นพยาธิตัวกลมขนาดใหญ่ที่สุดที่พบในลำไส้คน มีสีขาวครีมหรือชมพูอ่อน การติดเชื้อเกิดจากการกินไข่ระยะติดต่อที่ปนเปื้อนในอาหารหรือน้ำเข้าไป",
+            explain: "ภาพแสดงระยะ Trophozoite ของเชื้อ Toxoplasma gondii ซึ่งมีลักษณะเด่นคือมี karyosome ขนาดใหญ่ที่อยู่ตรงกลางของนิวเคลียส T. gondii เป็นโปรโตซัวที่สามารถติดเชื้อในมนุษย์และสัตว์เลี้ยงลูกด้วยนมอื่นๆ โดยมักพบในผู้ที่มีภูมิคุ้มกันบกพร่อง",
             state: false
         },
         {
             problem: "Lab Parasite 4. This image from a stool sample shows a trophozoite that contains ingested red blood cells. Identify the genus, species, and stage.",
-            img: "//require_img",
+            img: "https://drive.google.com/open?id=1Gt2gnc8jkYtz0SHmDSOiwnfbBFRngGc4&usp=drive_copy",
             choices: "Entamoeba histolytica, trophozoite///Giardia lamblia, trophozoite///Balantidium coli, trophozoite///Entamoeba coli, trophozoite///Iodamoeba butschlii, trophozoite",
             answer: "Entamoeba histolytica, trophozoite",
             select: "",
@@ -3470,7 +3461,7 @@ var quizdata = {
         },
         {
             problem: "Lab Parasite 5. A blood smear from a patient with high fever shows red blood cells infected with ring-form trophozoites. Multiple rings are seen in a single RBC. Identify the most likely parasite.",
-            img: "//require_img",
+            img: "https://drive.google.com/open?id=1uIb3oiIO0c6Ixg0lB7-XF1qxNmzEgFq9&usp=drive_copy",
             choices: "Plasmodium falciparum, ring stage///Plasmodium vivax, ring stage///Babesia microti, ring stage///Toxoplasma gondii, tachyzoite///Leishmania donovani, amastigote",
             answer: "Plasmodium falciparum, ring stage",
             select: "",
@@ -3742,7 +3733,7 @@ var quizdata = {
         },
         {
             "problem": "50. From the picture, which structure will leave the most negative impact if damaged?",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=1e9rlCpjmK3y76aIAGMoHwnfeEGGg6ZSE&usp=drive_copy",
             "choices": "Lateral vestibulospinal tract///Rubrospinal tract///Vestibulocerebellar tract///Medial reticulospinal tract///Medial vestibulospinal tract",
             "answer": "Lateral vestibulospinal tract",
             "select": "",
@@ -3996,7 +3987,7 @@ var quizdata = {
         },
         {
             "problem": "6. 29-year-old man with seizure. What compatible with MRI pic?",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=11ukuy-k-AubPWDn72m9uV1poCT3y7dDR&usp=drive_copy",
             "choices": "vesicular cysticerci///colloidal cysticerci///calcified cysticerci///single hyperintense lesion///Hypointense cisticerci",
             "answer": "vesicular cysticerci",
             "select": "",
@@ -4032,7 +4023,7 @@ var quizdata = {
         },
         {
             "problem": "10. What is the structure pointed by the red arrow?",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=150pWnTER3kobxKeMqc50tg5uuEL4mKZe&usp=drive_copy",
             "choices": "Superior sagittal sinus///Falx cerebri///Tentorium cerebelli///Transverse sinus///Straight sinus",
             "answer": "Superior sagittal sinus",
             "select": "",
@@ -4041,7 +4032,7 @@ var quizdata = {
         },
         {
             "problem": "11. What is the structure pointed by the red arrow (E)?",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=1nxvPxmNZ6NgRxKrafF0VPJExJ5qmnkcr&usp=drive_copy",
             "choices": "4th ventricle///3rd ventricle///Suprasellar cistern///Quadrigeminal Cistern///Ambient cistern",
             "answer": "Suprasellar cistern",
             "select": "",
@@ -4050,7 +4041,7 @@ var quizdata = {
         },
         {
             "problem": "12. Structureไหนในรูปที่ผิดปกติ (Which structure in the image is abnormal?)",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=1vgc90eigAY1EUp-oKRDWkzhbr3so0MoG&usp=drive_copy",
             "choices": "Internal capsule///External capsule///Caudate nucleus///Lateral ventricle///Insular cortex",
             "answer": "Lateral ventricle",
             "select": "",
@@ -4059,7 +4050,7 @@ var quizdata = {
         },
         {
             "problem": "13. What is the structure that the arrow points to?",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=10qXeAMA9yPkltCklqIIN5Jk_-TIy6bQP&usp=drive_copy",
             "choices": "Quadrigeminal cistern///Insular cortex///Sylvian fissure///Temporal sulcus///Ambient cistern",
             "answer": "Sylvian fissure",
             "select": "",
@@ -4086,7 +4077,7 @@ var quizdata = {
         },
         {
             "problem": "16. A lumbar puncture is performed on a patient with fever and neck stiffness. The CSF is analyzed using a hemocytometer. Which finding is most suggestive of bacterial meningitis?",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=1Ur5klUXoR7McMVL3rA5Efi3g2paDBv4r&usp=drive_copy",
             "choices": "WBC count 20 cells/µL, mainly lymphocytes///WBC count 2,000 cells/µL, mainly neutrophils (PMNs)///Presence of numerous RBCs with clear supernatant///Normal protein and glucose levels///WBC count 100 cells/µL, mainly lymphocytes",
             "answer": "WBC count 2,000 cells/µL, mainly neutrophils (PMNs)",
             "select": "",
@@ -4095,25 +4086,25 @@ var quizdata = {
         },
         {
             "problem": "17. เชื้ออะไร? Risk factor? (What organism? Risk factor?)",
-            "img": "//require_img",
-            "choices": "Streptococcus pneumoniae; Asplenia///Neisseria meningitidis; Complement deficiency///Listeria monocytogenes; Pregnancy///Haemophilus influenzae type b; Unvaccinated child///Staphylococcus aureus; Recent neurosurgery",
-            "answer": "Streptococcus pneumoniae; Asplenia",
+            "img": "https://drive.google.com/open?id=1Y1svjzZ-ad9cDwRScQ7jM4jbRF3CCGMb&usp=drive_copy",
+            "choices": "Mycobacterium tuberculosis; HIV infection///Neisseria meningitidis; Complement deficiency///Streptococcus pneumoniae; Asplenia///Haemophilus influenzae; Chronic lung disease///Listeria monocytogenes; Age >50 years",
+            "answer": "Mycobacterium tuberculosis; HIV infection",
             "select": "",
-            "explain": "ภาพแสดงเชื้อแบคทีเรียย้อมติดสีแกรมบวก (Gram-positive cocci) รูปร่างเป็นคู่ (diplococci) และเรียงตัวเป็นสายสั้นๆ (short chains) ซึ่งเป็นลักษณะของเชื้อ Streptococcus pneumoniae ซึ่งเป็นสาเหตุของเยื่อหุ้มสมองอักเสบในผู้ใหญ่ที่พบบ่อยที่สุด ปัจจัยเสี่ยงที่สำคัญมากอย่างหนึ่งของการติดเชื้อชนิดนี้อย่างรุนแรงคือภาวะไม่มีม้าม (Asplenia) หรือม้ามทำงานผิดปกติ เนื่องจากม้ามมีหน้าที่สำคัญในการกำจัดเชื้อแบคทีเรียที่มีแคปซูลหุ้มเช่น S. pneumoniae",
+            "explain": "ภาพย้อมกรัมแสดงเชื้อแบคทีเรียแกรมบวกรูปแท่ง (Gram-positive rods) ซึ่งในบริบทของเยื่อหุ้มสมองอักเสบ จะต้องนึกถึงเชื้อ Mycobacterium tuberculosis เป็นอันดับแรก โดยเฉพาะในผู้ป่วยที่มีปัจจัยเสี่ยงสำคัญ เช่น การติดเชื้อ HIV ซึ่งทำให้ภูมิคุ้มกันบกพร่องและเสี่ยงต่อการติดเชื้อวัณโรคที่แฝงอยู่และลุกลามไปเป็นเยื่อหุ้มสมองอักเสบได้",
             "state": false
         },
         {
             "problem": "18. เชื้ออะไร? ใช้ยาอะไร? (What organism? What drug?)",
-            "img": "//require_img",
-            "choices": "Neisseria meningitidis; Ceftriaxone///Streptococcus pneumoniae; Vancomycin///Listeria monocytogenes; Ampicillin///Haemophilus influenzae; Cefotaxime///Cryptococcus neoformans; Amphotericin B",
-            "answer": "Neisseria meningitidis; Ceftriaxone",
+            "img": "https://drive.google.com/open?id=1VgVRsYEOojBwzWfk1QnCk272ELToEhoH&usp=drive_copy",
+            "choices": "Neisseria meningitidis; Ceftriaxone///Streptococcus pneumoniae; Ceftriaxone///Listeria monocytogenes; Ampicillin///Haemophilus influenzae; Cefotaxime///Cryptococcus neoformans; Amphotericin B",
+            "answer": "Streptococcus pneumoniae; Ceftriaxone",
             "select": "",
-            "explain": "ภาพย้อมแกรมแสดงเชื้อแบคทีเรียแกรมลบรูปทรงคล้ายเมล็ดถั่ว (Gram-negative diplococci) และพบอยู่ภายในเซลล์เม็ดเลือดขาวชนิด Neutrophil (intracellular) ซึ่งเป็นลักษณะที่จำเพาะอย่างยิ่งของเชื้อ Neisseria meningitidis หรือเชื้อไข้กาฬหลังแอ่น ยาปฏิชีวนะที่เป็นยาหลัก (drug of choice) ในการรักษาภาวะนี้คือยาในกลุ่ม 3rd-generation cephalosporins เช่น Ceftriaxone",
+            "explain": "ภาพย้อมแกรมแสดงเชื้อแบคทีเรียแกรมบวก (Gram-positive cocci) ที่จัดกลุ่มเป็นคู่หรือเป็นสายสั้น (diplococci หรือ short chains) ซึ่งลักษณะนี้สอดคล้องกับเชื้อ Streptococcus pneumoniae ซึ่งเป็นสาเหตุที่พบบ่อยที่สุดของเยื่อหุ้มสมองอักเสบจากแบคทีเรียในผู้ใหญ่ทั่วไป ยาปฏิชีวนะที่ใช้รักษาแบบครอบคลุม (empirical treatment) คือ Ceftriaxone หรือ Cefotaxime ซึ่งมีประสิทธิภาพสูงต่อเชื้อนี้",
             "state": false
         },
         {
             "problem": "19. เชื้ออะไร? ใช้ยาอะไร? (What organism? What drug?)",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=1yii6aDz3ZxqcBVniA-RrPRgKM_UW1qch&usp=drive_copy",
             "choices": "Corynebacterium jeikeium; Vancomycin///Bacillus anthracis; Ciprofloxacin///Listeria monocytogenes; Ampicillin///Clostridium tetani; Metronidazole///Nocardia asteroides; Trimethoprim-sulfamethoxazole",
             "answer": "Listeria monocytogenes; Ampicillin",
             "select": "",
@@ -4131,16 +4122,16 @@ var quizdata = {
         },
         {
             "problem": "21. Diagnose",
-            "img": "//require_img",
-            "choices": "Brain abscess///Glioblastoma///Acute ischemic stroke///Viral encephalitis///Tuberculous meningitis",
-            "answer": "Brain abscess",
+            "img": "https://drive.google.com/open?id=1ZR7nJm55JwhWi-fy6qo5xK8b0KVbG9rQ&usp=drive_copy",
+            "choices": "Brain abscess///Glioblastoma///Acute ischemic stroke///Viral encephalitis///Tuberculous meningitis///Cerebral Amebiasis",
+            "answer": "Cerebral Amebiasis",
             "select": "",
-            "explain": "ภาพทางจุลพยาธิวิทยาแสดงให้เห็นการอักเสบอย่างรุนแรง โดยมีเซลล์อักเสบชนิด Neutrophil จำนวนมากมารวมตัวกันจนเกิดเป็นหนอง (suppurative inflammation) และมีการตายของเนื้อเยื่อสมองโดยรอบ (liquefactive necrosis) บริเวณใจกลางมีการอักเสบของหลอดเลือด (vasculitis) ซึ่งทั้งหมดนี้เป็นลักษณะของฝีในสมอง (Brain abscess) ที่เกิดจากการติดเชื้อแบคทีเรีย",
+            "explain": "ภาพจุลพยาธิวิทยาแสดงเนื้อสมองที่มีการอักเสบรุนแรง มีการทำลายเนื้อเยื่อสมอง (necrosis) อย่างกว้างขวาง และพบเซลล์อะมีบาที่มีลักษณะเฉพาะ (trophozoites) ซึ่งมีนิวเคลียสเด่นชัดและไซโตพลาสซึมที่มีการกินเม็ดเลือดแดง (ingested red blood cells) อยู่ภายในเซลล์ ลักษณะนี้เป็นตัวชี้ชัดว่าเป็นการติดเชื้ออะมีบาที่กินสมอง (Cerebral Amebiasis) ซึ่งเกิดจากเชื้อ Entamoeba histolytica",
             "state": false
         },
         {
             "problem": "22. What is histological finding in this case?",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=1KxBWode7TZ9j6u-_IQ8V38JchnV8Vj-p&usp=drive_copy",
             "choices": "Palisading necrosis///Antoni A///Antoni B///Rosenthal formation///Rosette Formation",
             "answer": "Antoni A",
             "select": "",
@@ -4149,16 +4140,7 @@ var quizdata = {
         },
         {
             "problem": "23. What is histological finding in this case?",
-            "img": "//require_img",
-            "choices": "Palisading necrosis///Antoni A///Antoni B///Rosenthal formation///Rosette Formation",
-            "answer": "Rosette Formation",
-            "select": "",
-            "explain": "ภาพแสดงเนื้องอกที่มีเซลล์ขนาดเล็ก นิวเคลียสติดสีเข้ม และมีไซโตพลาสซึมน้อย (small round blue cells) ซึ่งเป็นลักษณะของ embryonal tumor ในสมอง เช่น Medulloblastoma จะเห็นเซลล์เนื้องอกมีการเรียงตัวกันเป็นวงกลมรอบๆ บริเวณที่เป็นร่างแหของเส้นใยประสาท (neuropil) ซึ่งเรียกลักษณะนี้ว่า Homer Wright rosette ซึ่งเป็นหนึ่งใน Rosette Formation ที่พบได้ในเนื้องอกชนิดนี้",
-            "state": false
-        },
-        {
-            "problem": "24. What is histological finding in this case?",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=11WVO8B5655UfIWo-tZ10ExTMHEk3XfLg&usp=drive_copy",
             "choices": "Palisading necrosis///Antoni A///Antoni B///Rosenthal formation///Rosette Formation",
             "answer": "Palisading necrosis",
             "select": "",
@@ -4166,26 +4148,35 @@ var quizdata = {
             "state": false
         },
         {
-            "problem": "25. Diagnose",
-            "img": "//require_img",
-            "choices": "Toxoplasma gondii tissue cyst///Cryptococcus neoformans yeast///Herpes Simplex Virus inclusion body///Cytomegalovirus inclusion body///JC virus demyelination",
-            "answer": "Toxoplasma gondii tissue cyst",
+            "problem": "24. What is histological finding in this case?",
+            "img": "https://drive.google.com/open?id=1vUqZCk5wrYrKDa7Pp5Oz4ZnsZDVzrrEW&usp=drive_copy",
+            "choices": "Palisading necrosis///Antoni A///Antoni B///Rosenthal formation///Rosette Formation",
+            "answer": "Rosette Formation",
             "select": "",
-            "explain": "ภาพจุลพยาธิวิทยาแสดงถุงซีสต์ (tissue cyst) ในเนื้อสมอง ภายในซีสต์มีเชื้อโปรโตซัวขนาดเล็กจำนวนมาก (bradyzoites) ซึ่งเป็นลักษณะจำเพาะของเชื้อ Toxoplasma gondii ในระยะเรื้อรัง มักพบในผู้ป่วยที่มีภูมิคุ้มกันบกพร่อง เช่น ผู้ป่วย AIDS ซึ่งทำให้เกิดรอยโรคในสมองได้",
+            "explain": "ภาพจุลพยาธิวิทยาแสดงเนื้องอกที่ประกอบด้วยเซลล์ขนาดเล็ก (small round blue cells) ที่มีนิวเคลียสขนาดเล็กและไซโตพลาสซึมบางๆ เซลล์เหล่านี้เรียงตัวเป็นวงกลมรอบๆ ช่องว่างตรงกลางที่ไม่มีเซลล์ (central lumen-like space) เรียกว่า Homer-Wright rosettes ซึ่งเป็นลักษณะจำเพาะของเนื้องอกชนิด Medulloblastoma ที่พบได้บ่อยในเด็ก",
+            "state": false
+        },
+        {
+            "problem": "25. Diagnose",
+            "img": "https://drive.google.com/open?id=1aOsR8FN_BRRxLFlHLmtsX-wSMiwCRQZu&usp=drive_copy",
+            "choices": "Cryptococcal meningitis///Candidal meningitis///Aspergillous meningitis///Mucormycosis///Histoplasma meningitis",
+            "answer": "Cryptococcal meningitis",
+            "select": "",
+            "explain": "ภาพจุลพยาธิวิทยาแสดงเชื้อรา Cryptococcus neoformans ซึ่งมีลักษณะเป็นเซลล์กลมขนาดเล็กถึงปานกลาง (4-10 ไมครอน) ที่มีผนังหนาและมีแคปซูลหนารอบๆ เซลล์ (thick polysaccharide capsule) ซึ่งสามารถมองเห็นได้ชัดเจนเมื่อย้อมด้วยหมึกจีน (India ink stain) ลักษณะนี้เป็นลักษณะจำเพาะของเชื้อ Cryptococcus neoformans ซึ่งเป็นสาเหตุสำคัญของเยื่อหุ้มสมองอักเสบในผู้ป่วยที่มีภูมิคุ้มกันบกพร่อง เช่น ผู้ป่วยเอดส์",
             "state": false
         },
         {
             "problem": "26. Diagnose",
-            "img": "//require_img",
-            "choices": "Acute ischemic injury///Alzheimer's disease///Parkinson's disease///Creutzfeldt-Jakob disease///Viral encephalitis",
-            "answer": "Acute ischemic injury",
+            "img": "https://drive.google.com/open?id=1a1QEIHRDwe-ujaSRd5DeINrzUiS9Wsyc&usp=drive_copy",
+            "choices": "Acute ischemic injury///Alzheimer's disease///Parkinson's disease///Creutzfeldt-Jakob disease///Viral encephalitis///Pilocytic astrocytoma",
+            "answer": "Pilocytic astrocytoma",
             "select": "",
-            "explain": "ภาพจุลพยาธิวิทยาแสดงเซลล์ประสาท (neurons) ที่มีลักษณะผิดปกติ โดยตัวเซลล์หดเล็กลง นิวเคลียสติดสีเข้ม (pyknosis) และไซโตพลาสซึมติดสีแดงสด (eosinophilic cytoplasm) ลักษณะเช่นนี้เรียกว่า 'Red neurons' ซึ่งเป็นตัวบ่งชี้ถึงการตายของเซลล์ประสาทอย่างเฉียบพลันที่ไม่สามารถฟื้นคืนได้ (irreversible cell injury) ซึ่งมักเกิดจากภาวะสมองขาดเลือดหรือขาดออกซิเจน (hypoxic-ischemic injury) ในช่วง 12-24 ชั่วโมงแรก",
+            "explain": "ภาพจุลพยาธิวิทยาแสดงเนื้องอกสมองที่ประกอบด้วยเซลล์ดาว (astrocytes) ที่มีลักษณะเป็นเส้นยาวเรียงตัวกันอย่างเป็นระเบียบ (piloid cells) และมีการสร้างโครงสร้างคล้ายหลอดเลือด (microcystic spaces) รวมถึงมีเส้นใยกลมสีชมพู (Rosenthal fibers) อยู่ภายในเนื้อเยื่อ ลักษณะเหล่านี้เป็นลักษณะจำเพาะของเนื้องอกชนิด Pilocytic astrocytoma ซึ่งมักพบในเด็กและเยาวชน และมีพยาธิกำเนิดที่ดี",
             "state": false
         },
         {
             "problem": "27. Diagnose",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=1rfrvBLKIH8dbQpr4ulaT5Yw4d4E3EMjd&usp=drive_copy",
             "choices": "Meningioma///Glioblastoma///Schwannoma///Medulloblastoma///Metastatic carcinoma",
             "answer": "Meningioma",
             "select": "",
@@ -4194,43 +4185,43 @@ var quizdata = {
         },
         {
             "problem": "28. Diagnose",
-            "img": "//require_img",
-            "choices": "Viral encephalitis///Bacterial abscess///Fungal granuloma///Tuberculous meningitis///Glioblastoma",
-            "answer": "Viral encephalitis",
+            "img": "https://drive.google.com/open?id=1nNSzXueMcZgs-vEOs7AoOE0l5ePAtMH4&usp=drive_copy",
+            "choices": "Viral encephalitis///Bacterial abscess///Fungal granuloma///Tuberculous meningitis///Glioblastoma///Ependyoma",
+            "answer": "Ependyoma",
             "select": "",
-            "explain": "ภาพจุลพยาธิวิทยาแสดงการอักเสบในเนื้อสมอง โดยมีเซลล์เม็ดเลือดขาวชนิดลิมโฟไซต์ (lymphocytes) มาเกาะกลุ่มอยู่รอบๆ หลอดเลือด (perivascular lymphocytic cuffing) นอกจากนี้ยังอาจพบกลุ่มเซลล์ microglial (microglial nodules) และเซลล์ประสาทถูกทำลาย (neuronophagia) ลักษณะเหล่านี้เป็นลักษณะจำเพาะของการติดเชื้อไวรัสในสมอง หรือ Viral encephalitis",
+            "explain": "ภาพจุลพยาธิวิทยาแสดงเนื้องอกสมองที่ประกอบด้วยเซลล์รูปกระสวย (spindle cells) ที่มีนิวเคลียสยาวรีคล้ายซิกการ์เรียงตัวกันอย่างเป็นระเบียบ (hypercellular) และมีการเรียงตัวของนิวเคลียสเป็นแถวขนานกัน (nuclear palisading) โดยมีบริเวณที่ไม่มีเซลล์ (acellular eosinophilic zone) อยู่ระหว่างแถวของนิวเคลียส เรียกว่า Verocay body ลักษณะทั้งหมดนี้เรียกว่า Antoni A pattern ซึ่งเป็นลักษณะจำเพาะของเนื้องอกชนิด Schwannoma",
             "state": false
         },
         {
             "problem": "29. What is the parasite?",
-            "img": "//require_img",
-            "choices": "Taenia sp.///Ascaris lumbricoides///Ancylostoma duodenale///Enterobius vermicularis///Trichuris trichiura",
-            "answer": "Taenia sp.",
+            "img": "https://drive.google.com/open?id=1sq6ml3wTZ1E4_yB130DhIPMqvDkO0BIV&usp=drive_copy",
+            "choices": "Taenia sp.///Ascaris lumbricoides///Ancylostoma duodenale///Pseudophyllidean tapeworm///Trichuris trichiura",
+            "answer": "Pseudophyllidean tapeworm",
             "select": "",
-            "explain": "ภาพแสดงตัวเต็มวัยของพยาธิตัวตืด (tapeworm) ซึ่งมีลักษณะเป็นปล้องๆ แบนๆ (segmented) และมีสีขาวขุ่น พยาธิในกลุ่มนี้ที่เป็นที่รู้จักกันดีคือ Taenia solium (พยาธิตัวตืดหมู) และ Taenia saginata (พยาธิตัวตืดวัว) การวินิจฉัยแยกชนิดกันอย่างชัดเจนต้องอาศัยการดูลักษณะของหัว (scolex) หรือลักษณะของปล้องแก่ (gravid proglottid)",
+            "explain": "",
             "state": false
         },
         {
             "problem": "30. What is the parasite?",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=1SbGAjvB-tFKr2nzAj1yzxV1vsvNNpf1E&usp=drive_copy",
             "choices": "Trichinella spiralis larva///Cysticercus cellulosae///Sparganum larva///Hydatid cyst///Toxocara canis larva",
-            "answer": "Trichinella spiralis larva",
+            "answer": "Cysticercus cellulosae",
             "select": "",
-            "explain": "ภาพแสดงตัวอ่อนของพยาธิที่ขดตัวอยู่ภายในเซลล์กล้ามเนื้อลาย (skeletal muscle) ที่ถูกดัดแปลงไปเป็น nurse cell ซึ่งมีลักษณะเป็นถุงล้อมรอบตัวอ่อนอยู่ นี่เป็นลักษณะที่จำเพาะอย่างยิ่งของพยาธิ Trichinella spiralis ซึ่งก่อโรค Trichinosis จากการกินเนื้อหมูที่ปรุงไม่สุก",
+            "explain": "ภาพแสดงตัวอ่อนของพยาธิตัวตืดหมู (Cysticercus cellulosae) ซึ่งเป็นระยะที่ติดเชื้อในมนุษย์เมื่อกินไข่ของพยาธิตัวตืดหมู (Taenia solium) เข้าไป ตัวอ่อนนี้มีลักษณะเป็นถุงน้ำ (cyst) ที่มีหัวพยาธิ (scolex) อยู่ภายใน ภาพนี้น่าจะมาจากการตัดชิ้นเนื้อสมองของผู้ป่วยที่มีการติดเชื้อในสมอง (Neurocysticercosis)",
             "state": false
         },
         {
             "problem": "31. What is the parasite? Stage?",
-            "img": "//require_img",
-            "choices": "Plasmodium sp.; Schizont stage///Babesia sp.; Merozoite stage///Leishmania sp.; Amastigote stage///Trypanosoma cruzi; Trypomastigote stage///Toxoplasma gondii; Tachyzoite stage",
-            "answer": "Plasmodium sp.; Schizont stage",
+            "img": "https://drive.google.com/open?id=129kX3SXBwRSM-KVHgCI_TXhvSph4pqe2&usp=drive_copy",
+            "choices": "Plasmodium falciparum; Schizont stage///Plasmodium vivax; Trophozoite stage///Plasmodium malariae; Gametocyte stage///Babesia microti; Trophozoite stage///Trypanosoma cruzi; Amastigote stage",
+            "answer": "Plasmodium falciparum; Schizont stage",
             "select": "",
             "explain": "ภาพจากฟิล์มเลือดแสดงเม็ดเลือดแดงที่ติดเชื้อมาลาเรีย (Plasmodium sp.) ในระยะที่กำลังจะแตกตัว เรียกว่า Schizont stage ซึ่งเป็นระยะที่มีการแบ่งตัวแบบไม่อาศัยเพศจนได้ Merozoites จำนวนมากอยู่ภายในเซลล์เม็ดเลือดแดง ก่อนที่เซลล์จะแตกออกและปล่อย Merozoites ไปติดเชื้อในเม็ดเลือดแดงเซลล์ใหม่ต่อไป",
             "state": false
         },
         {
             "problem": "32. What is the parasite? Stage?",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=1jviYQrpQmQtY4OaqaiSGFDeOi_f5i-Gv&usp=drive_copy",
             "choices": "Entamoeba histolytica; Cyst stage///Giardia lamblia; Cyst stage///Naegleria fowleri; Trophozoite stage///Acanthamoeba; Cyst stage///Blastocystis hominis; Cyst stage",
             "answer": "Entamoeba histolytica; Cyst stage",
             "select": "",
@@ -4331,7 +4322,7 @@ var quizdata = {
         },
         {
             "problem": "11. คนไข้อายุ 10 ขวบมาด้วยไข้ ปวดหัว 7 วัน มีอาการ blue lips & tongue Motor power grade 3, reflex 3+ CT brain เป็นดังภาพ What is the causative pathogen?",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=1kHBFQ22nWXsHd6bfhYb0KuMI4MR8a9AD&usp=drive_copy",
             "choices": "Streptococcus pneumoniae///Streptococcus pyogenes///Haemophilus influenzae///Anaerobic streptococci///Streptococcus agalactiae",
             "answer": "Anaerobic streptococci",
             "select": "",
@@ -4735,7 +4726,7 @@ var quizdata = {
             state: false
         }, {
             problem: "29. From the picture, which structure will leave the most negative impact if damaged?",
-            img: "//require_img",
+        img: "https://drive.google.com/open?id=1sjoUGzVJV2-_Lcc3BUu1nq73Lu-Qg9AM&usp=drive_copy",
             choices: "lateral vestibulospinal tract///Rubrospinal tract///vestibulocerebellar tract///medial reticulospinal tract///medial vestibulospinal tract",
             answer: "lateral vestibulospinal tract",
             select: "",
@@ -4743,7 +4734,7 @@ var quizdata = {
             state: false
         }, {
             problem: "30. Which one is correct according to the movement of the right leg shown in the figure?",
-            img: "//require_img",
+        img: "https://drive.google.com/open?id=1YUCd2UUcrLHGTgGbobpeL5Nov93MJWHr&usp=drive_copy",
             choices: "The firing CPG in spinal cord is modified mainly by glutamate from brainstem///Right leg is in the mid stance phase///Extensor burst in right leg is firing///Basal ganglia controls the balance regulation in the figure via vestibulospinal tract///All are correct",
             answer: "All are correct",
             select: "",
@@ -4964,7 +4955,7 @@ var quizdata = {
         },
         {
             "problem": "6. จากภาพ คนไข้มีความผิดปกติของลูกตาเป็นเช่นไร",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=1e6K3LWVHW1STTfesjGsHAqX2Rb_KCiZc&usp=drive_copy",
             "choices": "Lens ขาดความยืดหยุ่น///การหักเหมีปัญหา///cornea รูปร่างผิดปกติ///กระบอกตายาว///cornea โค้งน้อยไป",
             "answer": "cornea รูปร่างผิดปกติ",
             "select": "",
@@ -5126,7 +5117,7 @@ var quizdata = {
         },
         {
             "problem": "28. From the picture of speed skaters, which structure will make the most negative impact if damaged?",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=1Nc0WW_H3HauDJfO254BLQtaRG5Y7ZPkp&usp=drive_copy",
             "choices": "Lateral vestibulospinal tract///Medial corticospinal tract///Rubrospinal tract///Tectospinal tract///Reticulospinal tract",
             "answer": "Lateral vestibulospinal tract",
             "select": "",
@@ -5162,7 +5153,7 @@ var quizdata = {
         },
         {
             "problem": "34. ผู้ป่วยมี circadian Sleep-wake rhythm เป็นดังภาพ ผู้เป็นโรคอะไร",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=1C6b2TzX9XNlkfAzJfmSnvMFp1aUROS9x&usp=drive_copy",
             "choices": "Early sleep phase syndrome///Delayed sleep phase syndrome///Restless leg syndrome///Irregular sleep wake rhythm///Narcolepsy",
             "answer": "Delayed sleep phase syndrome",
             "select": "",
@@ -5551,7 +5542,7 @@ var quizdata = {
         },
         {
             "problem": "9. A 43 year-old woman presents with fever, lethargy, poor appetite. What is possible parasitic infection ?",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=1C6b2TzX9XNlkfAzJfmSnvMFp1aUROS9x&usp=drive_copy",
             "choices": "Taenia solium///Naegleria fowleri///Spirometra mansoni///Gnathostoma spinigerum///Angiostrongylus cantonensis",
             "answer": "Taenia solium",
             "select": "",
@@ -5794,7 +5785,7 @@ var quizdata = {
         },
         {
             "problem": "36. What is the white matter tract pointed by the arrow?",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=1g_LX0yUvX25WUr-K2WNWGPlBGvdvpz8r&usp=drive_copy",
             "choices": "Anterior commissure///Superior longitudinal fasciculus///Centrum semiovale///Corona radiata///Corpus callosum",
             "answer": "Centrum semiovale",
             "select": "",
@@ -5803,7 +5794,7 @@ var quizdata = {
         },
         {
             "problem": "37. Please identify the structure indicated by red arrow.",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=1mO23b9daGoX39xVxrB9eP264hy8HxyrM&usp=drive_copy",
             "choices": "Lentiform nucleus///Superior sagittal sinus///Tentorium cerebelli///Sylvian fissure///Lateral ventricle",
             "answer": "Sylvian fissure",
             "select": "",
@@ -5812,7 +5803,7 @@ var quizdata = {
         },
         {
             "problem": "38. Where is the abnormality in this CT scan?",
-            "img": "//require_img",
+            "img": "https://drive.google.com/open?id=14frKcFBvzEncP-Wr4Yl4_MVEq3vLXlTw&usp=drive_copy",
             "choices": "External capsule///Internal capsule///Lateral ventricle///Lentiform nucleus///Falx cerebri",
             "answer": "Lateral ventricle",
             "select": "",
@@ -6048,7 +6039,7 @@ var quizdata = {
         },
         {
             "problem": "55. ผู้ป่วยกินยากันชักมา 6 เดือน แล้วมีอาการ anemia และทำ CBC เจอเม็ดเลือดดังภาพ (คิดว่าเป็นภาพmegaloblastic anemia) ยาชนิดใดที่ทำให้เกิดอาการนี้",
-            "img": "//require_img",
+            "img": "",
             "choices": "Phenytoin///Clozapine///Valproate///Levetiracetam",
             "answer": "Phenytoin",
             "select": "",
