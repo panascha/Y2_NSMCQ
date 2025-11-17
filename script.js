@@ -9169,5 +9169,327 @@ var quizdata = {
         "select": "",
         "explain": "นอกจากการยิ้มแล้ว การทำงานของกล้ามเนื้อ Zygomaticus major เพียงข้างเดียว (unilateral action) สามารถดึงมุมปากขึ้นอย่างแรงจนเกิดเป็นท่าทางการแยกเขี้ยวหรือยิ้มเยาะ (sneer) ซึ่งสื่อถึงความรู้สึกไม่ชอบ (dislike) หรือดูแคลนได้",
         "state": false
-    }]
+        }],
+    "Develop NS by AI": [
+        {
+            "problem": "1. A failure in the development of the basal plate of the neural tube would most directly impact which of the following structures?",
+            "choices": "Sensory neurons of the dorsal horn///Motor neurons of the ventral horn///Neurons of the dorsal root ganglion///Autonomic neurons of the lateral horn///Coordinating neurons of the alar plate",
+            "answer": "Motor neurons of the ventral horn",
+            "select": "",
+            "explain": "Basal plate เป็นส่วน ventral ของ neural tube ที่ถูกเหนี่ยวนำโดยสัญญาณ SHH จาก notochord และ floor plate ให้เจริญไปเป็นโครงสร้างเกี่ยวกับ motor function โดยเฉพาะอย่างยิ่ง motor neurons ที่อยู่ใน ventral horn ของไขสันหลัง",
+            "state": false
+        },
+        {
+            "problem": "2. Which layer of the developing neural tube is primarily composed of the axons of neurons from the intermediate zone?",
+            "choices": "Ependymal layer///Ventricular zone///Mantle layer///Marginal layer///Subventricular zone",
+            "answer": "Marginal layer",
+            "select": "",
+            "explain": "ใน neural tube เซลล์ประสาท (neuroblasts) จะอยู่ที่ Mantle layer (intermediate zone) และจะส่ง axon ออกมาที่บริเวณขอบนอกสุด ซึ่งบริเวณที่เต็มไปด้วย axon นี้คือ Marginal layer ซึ่งต่อมาจะกลายเป็น white matter ของระบบประสาทส่วนกลาง",
+            "state": false
+        },
+        {
+            "problem": "3. The dorsal root ganglion (DRG) is a critical structure for sensory pathways. From which embryonic tissue does it originate?",
+            "choices": "Paraxial mesoderm///Surface ectoderm///Neural crest cells///Alar plate of neural tube///Basal plate of neural tube",
+            "answer": "Neural crest cells",
+            "select": "",
+            "explain": "Neural crest cells เป็นกลุ่มเซลล์ที่แยกตัวออกมาจากขอบของ neural fold ระหว่างกระบวนการ neurulation และจะเจริญไปเป็นโครงสร้างต่างๆ ของระบบประสาทส่วนปลาย (PNS) ซึ่งรวมถึง sensory neurons ของ Dorsal Root Ganglion (DRG) และ Schwann cells",
+            "state": false
+        },
+        {
+            "problem": "4. The separation between the sensory alar plate and the motor basal plate within the developing neural tube is demarcated by what longitudinal groove?",
+            "choices": "Central canal///Ventral median fissure///Dorsal median sulcus///Sulcus limitans///Neural groove",
+            "answer": "Sulcus limitans",
+            "select": "",
+            "explain": "Sulcus limitans คือร่องตามแนวยาวที่อยู่ด้านข้างของ neural tube ทำหน้าที่เป็นเส้นแบ่งเขตแดนทางกายวิภาคและหน้าที่ระหว่าง Alar plate (dorsal, sensory) และ Basal plate (ventral, motor) ซึ่งมีความสำคัญอย่างยิ่งในการจัดระเบียบของนิวเคลียสใน brainstem และไขสันหลัง",
+            "state": false
+        },
+        {
+            "problem": "5. A congenital defect leads to the absence of the Pons and Cerebellum. This suggests a developmental failure of which secondary brain vesicle?",
+            "choices": "Telencephalon///Diencephalon///Mesencephalon///Metencephalon///Myelencephalon",
+            "answer": "Metencephalon",
+            "select": "",
+            "explain": "Rhombencephalon (hindbrain) จะแบ่งออกเป็น Metencephalon และ Myelencephalon โดย Metencephalon จะเจริญต่อไปเป็น Pons และ Cerebellum ส่วน Myelencephalon จะเจริญเป็น Medulla oblongata ดังนั้นการไม่มี Pons และ Cerebellum จึงบ่งชี้ถึงความผิดปกติของ Metencephalon",
+            "state": false
+        },
+        {
+            "problem": "6. The formation of the three primary brain vesicles (prosencephalon, mesencephalon, rhombencephalon) is a key event that occurs during which week of gestation?",
+            "choices": "Week 2///Week 4///Week 6///Week 8///Week 10",
+            "answer": "Week 4",
+            "select": "",
+            "explain": "ในช่วงสัปดาห์ที่ 4 ของการตั้งครรภ์ ส่วนหัว (cephalic portion) ของ neural tube จะมีการขยายตัวและคอดเป็น 3 กระเปาะ เรียกว่า Three primary brain vesicles ซึ่งได้แก่ Prosencephalon (forebrain), Mesencephalon (midbrain), และ Rhombencephalon (hindbrain)",
+            "state": false
+        },
+        {
+            "problem": "7. The Purkinje cells and deep cerebellar nuclei originate from which specific germinal layer during cerebellar development?",
+            "choices": "External germinal layer///Internal germinal layer///Marginal layer of cerebrum///Subventricular zone of pons///Rhombic lip granular layer",
+            "answer": "Internal germinal layer",
+            "select": "",
+            "explain": "ในการพัฒนาของ cerebellum เซลล์ประสาทขนาดใหญ่ เช่น Purkinje cells และเซลล์ของ deep cerebellar nuclei จะถูกสร้างจาก ventricular zone และ migrate ออกมาด้านนอกผ่าน intermediate zone ซึ่งทำหน้าที่เป็น Internal germinal layer ส่วนเซลล์ขนาดเล็กเช่น granule cells จะมาจาก External germinal layer",
+            "state": false
+        },
+        {
+            "problem": "8. A newborn is diagnosed with aphakia (absence of the lens). This condition is most likely due to a failure of induction between which two specific structures?",
+            "choices": "Optic cup and Mesenchyme///Optic vesicle and Surface ectoderm///Optic stalk and Lens placode///Neural crest and Neuroectoderm///Lens vesicle and Vitreous humor",
+            "answer": "Optic vesicle and Surface ectoderm",
+            "select": "",
+            "explain": "การสร้างเลนส์ตา (Lens) เริ่มจากการที่ Optic vesicle ซึ่งเจริญมาจาก neuroectoderm ไปเหนี่ยวนำ (induce) ให้ Surface ectoderm บริเวณนั้นหนาตัวขึ้นเป็น Lens placode หากกระบวนการ induction นี้ล้มเหลว Lens placode และ Lens vesicle ก็จะไม่เกิดขึ้น ส่งผลให้ไม่มีเลนส์ตา (aphakia)",
+            "state": false
+        },
+        {
+            "problem": "9. The stroma of the cornea and the sclera are derived from which embryonic tissue?",
+            "choices": "Neuroectoderm///Surface ectoderm///Mesenchyme///Endoderm///Paraxial mesoderm",
+            "answer": "Mesenchyme",
+            "select": "",
+            "explain": "โครงสร้างส่วนใหญ่ที่ห่อหุ้มลูกตาด้านนอก เช่น Sclera และ Cornea (ในส่วน stroma) รวมถึง Choroid และ Ciliary body พัฒนามาจาก Mesenchyme ที่อยู่รอบๆ optic cup ซึ่ง mesenchyme นี้มีต้นกำเนิดมาจาก neural crest cells เป็นส่วนใหญ่",
+            "state": false
+        },
+        {
+            "problem": "10. The cavity of the middle ear and the auditory (Eustachian) tube are derivatives of which pharyngeal structure?",
+            "choices": "First pharyngeal arch///First pharyngeal pouch///Second pharyngeal arch///Second pharyngeal pouch///First pharyngeal groove",
+            "answer": "First pharyngeal pouch",
+            "select": "",
+            "explain": "First pharyngeal pouch ซึ่งเป็นส่วนของ endoderm จะเจริญยื่นออกไปด้านข้างกลายเป็น Tubotympanic recess ซึ่งจะพัฒนาต่อไปเป็นโพรงหูชั้นกลาง (middle ear cavity) และท่อยูสเตเชียน (auditory tube)",
+            "state": false
+        },
+        {
+            "problem": "11. During eye development, the hyaloid artery enters the optic cup to supply the developing lens through what transient structure?",
+            "choices": "Optic canal///Optic stalk///Optic fissure///Pupillary membrane///Hyaloid canal",
+            "answer": "Optic fissure",
+            "select": "",
+            "explain": "Optic fissure หรือ choroid fissure คือร่องที่เกิดขึ้นชั่วคราวทางด้านล่างของ optic cup และ optic stalk ทำหน้าที่เป็นช่องทางให้ hyaloid artery และ vein เข้าไปเลี้ยงโครงสร้างภายในลูกตาที่กำลังเจริญ โดยเฉพาะ lens vesicle หลังจากนั้นร่องนี้จะปิดลง",
+            "state": false
+        },
+        {
+            "problem": "12. The saccule and cochlear duct, which are responsible for hearing, develop from which part of the otic vesicle?",
+            "choices": "Dorsal/Utricular part///Ventral/Saccular part///Anterior semicircular duct///Endolymphatic sac///Posterior semicircular duct",
+            "answer": "Ventral/Saccular part",
+            "select": "",
+            "explain": "Otic vesicle จะแบ่งออกเป็น 2 ส่วน คือส่วนบน (Dorsal/Utricular part) ซึ่งจะเจริญไปเป็น utricle และ semicircular canals ที่เกี่ยวกับการทรงตัว และส่วนล่าง (Ventral/Saccular part) ซึ่งจะเจริญไปเป็น saccule และ cochlear duct ที่เกี่ยวกับการได้ยิน",
+            "state": false
+        },
+        {
+            "problem": "13. The malleus and incus, two of the three middle ear ossicles, are derived from the mesenchyme of which pharyngeal arch(es)?",
+            "choices": "First pharyngeal arch only///Second pharyngeal arch only///First and second pharyngeal arches///Third pharyngeal arch only///Fourth and sixth pharyngeal arches",
+            "answer": "First and second pharyngeal arches",
+            "select": "",
+            "explain": "กระดูกหู (ear ossicles) มีต้นกำเนิดมาจาก pharyngeal arches โดย Malleus และ Incus มาจาก 1st pharyngeal arch ส่วน Stapes มาจาก 2nd pharyngeal arch",
+            "state": false
+        },
+        {
+            "problem": "14. A defect in the migration of neuroblasts from the external germinal layer would primarily affect the formation of which cerebellar cell type?",
+            "choices": "Purkinje cells///Deep cerebellar nuclei cells///Granule cells///Golgi cells///Basket cells",
+            "answer": "Granule cells",
+            "select": "",
+            "explain": "External germinal layer เป็นชั้นของเซลล์ที่อยู่ด้านนอกสุดของ cerebellar cortex ที่กำลังเจริญ เซลล์ในชั้นนี้จะแบ่งตัวแล้ว migrate เข้ามาด้านในเพื่อกลายเป็นเซลล์ประสาทขนาดเล็ก ได้แก่ Granule cells, Stellate cells, และ Basket cells โดย Granule cells เป็นเซลล์ที่มีจำนวนมากที่สุด",
+            "state": false
+        },
+        {
+            "problem": "15. The caudal portion of the neural tube, specifically the part distal to the 4th somite, is destined to develop into which structure?",
+            "choices": "Entire Brain///Spinal cord///Cerebellum only///Brainstem///Forebrain only",
+            "answer": "Spinal cord",
+            "select": "",
+            "explain": "Neural tube สามารถแบ่งออกเป็น 2 ส่วนหลักๆ คือส่วน Cephalic (เหนือ somite ที่ 4) ซึ่งจะเจริญไปเป็นสมอง (Brain) และส่วน Caudal (ใต้ somite ที่ 4) ซึ่งจะเจริญไปเป็นไขสันหลัง (Spinal cord)",
+            "state": false
+        },
+        {
+            "problem": "16. The cerebral hemispheres develop from which secondary brain vesicle?",
+            "choices": "Telencephalon///Diencephalon///Mesencephalon///Metencephalon///Myelencephalon",
+            "answer": "Telencephalon",
+            "select": "",
+            "explain": "Prosencephalon (Forebrain) ซึ่งเป็น primary brain vesicle แรกสุด จะแบ่งออกเป็น Telencephalon และ Diencephalon โดย Telencephalon จะเจริญขยายใหญ่โตออกไปเป็น Cerebral hemispheres ทั้งสองข้าง",
+            "state": false
+        },
+        {
+            "problem": "17. A failure of the mesenchyme surrounding the neural tube to differentiate would most directly affect the formation of which structures?",
+            "choices": "Spinal meninges///Dorsal root ganglia///Spinal cord gray matter///Motor neurons///Ependymal cells",
+            "answer": "Spinal meninges",
+            "select": "",
+            "explain": "เยื่อหุ้มสมองและไขสันหลัง (Meninges) ซึ่งประกอบด้วย Dura mater, Arachnoid mater และ Pia mater เจริญมาจากเซลล์ Mesenchyme (ซึ่งส่วนใหญ่มาจาก neural crest และ paraxial mesoderm) ที่อยู่ล้อมรอบ neural tube ดังนั้นหาก mesenchyme ผิดปกติ การสร้าง meninges ก็จะผิดปกติไปด้วย",
+            "state": false
+        },
+        {
+            "problem": "18. The cells that produce cerebrospinal fluid (CSF), the ependymal cells, are differentiated from which specific blast cell type within the CNS?",
+            "choices": "Neuroblast///Glioblast///Mesenchymal cell///Melanoblast///Osteoblast",
+            "answer": "Glioblast",
+            "select": "",
+            "explain": "ภายในระบบประสาทส่วนกลาง (CNS) เซลล์ต้นกำเนิดจะเจริญไปเป็น Neuroblast (สร้าง neuron) และ Glioblast (สร้าง glial cells) โดย Glioblast จะเจริญต่อไปเป็นเซลล์ค้ำจุน 3 ชนิดคือ Astrocytes, Oligodendrocytes และ Ependymal cells ซึ่งทำหน้าที่สร้าง CSF",
+            "state": false
+        },
+        {
+            "problem": "19. The external auditory meatus (ear canal) is formed from the invagination of which embryonic structure?",
+            "choices": "First pharyngeal pouch///Second pharyngeal pouch///First pharyngeal groove///Second pharyngeal groove///Otic vesicle",
+            "answer": "First pharyngeal groove",
+            "select": "",
+            "explain": "รูหู (External auditory meatus) เป็นส่วนของหูชั้นนอกที่พัฒนามาจากการบุ๋มลึกลงไปของ 1st pharyngeal groove (หรือ cleft) ซึ่งเป็นร่องของ ectoderm ที่อยู่ระหว่าง pharyngeal arch ที่ 1 และ 2",
+            "state": false
+        },
+        {
+            "problem": "20. The Pontine flexure, one of the three major flexures during brain development, is located within which primary brain vesicle?",
+            "choices": "Prosencephalon///Mesencephalon///Rhombencephalon///Telencephalon///Diencephalon",
+            "answer": "Rhombencephalon",
+            "select": "",
+            "explain": "การเจริญของสมองจะมีการโค้งงอ (flexure) 3 ตำแหน่งหลัก ได้แก่ Cephalic flexure ที่ midbrain, Cervical flexure ระหว่าง hindbrain กับ spinal cord, และ Pontine flexure ซึ่งเกิดขึ้นภายใน Rhombencephalon (hindbrain) และเป็นตัวแบ่ง hindbrain ออกเป็น metencephalon และ myelencephalon",
+            "state": false
+        },
+        {
+            "problem": "21. In an experimental model, overexpression of the Sonic hedgehog (SHH) protein along the entire dorsoventral axis of the developing neural tube would most likely result in:",
+            "choices": "Expansion of motor neuron columns and reduction of sensory areas///Expansion of sensory neuron columns and reduction of motor areas///Complete failure of neural tube closure leading to rachischisis///Exclusive development of dorsal root ganglion structures///Transformation of the entire neural tube into floor plate",
+            "answer": "Expansion of motor neuron columns and reduction of sensory areas",
+            "select": "",
+            "explain": "SHH เป็น morphogen ที่หลั่งจาก floor plate และ notochord ทำหน้าที่เหนี่ยวนำให้ ventral part ของ neural tube เจริญไปเป็น Basal plate ซึ่งเป็น motor structure การมี SHH ในปริมาณสูงผิดปกติทั่วทั้ง neural tube จะทำให้เซลล์ในส่วน dorsal ซึ่งปกติจะถูกเหนี่ยวนำด้วย BMPs ให้เป็น Alar plate (sensory) กลับถูกบังคับให้กลายเป็น motor structure แทน",
+            "state": false
+        },
+        {
+            "problem": "22. A pediatric neuro-oncologist identifies a medulloblastoma, a tumor of primitive neuroectodermal origin in the cerebellum. These malignant cells likely arise from a failure of migration and differentiation of cells from which specific layer?",
+            "choices": "Internal germinal layer///External germinal layer///Ventricular zone of the mesencephalon///Ependymal layer of the fourth ventricle///Mantle layer of the spinal cord",
+            "answer": "External germinal layer",
+            "select": "",
+            "explain": "Medulloblastoma เป็นเนื้องอกที่เกิดจากเซลล์ต้นกำเนิดของ Granule cell (granule cell precursors) ซึ่งเซลล์เหล่านี้จะแบ่งตัวอย่างมากมายที่ External germinal layer บริเวณผิวนอกของ cerebellum ก่อนที่จะ migrate เข้ามาด้านใน หากกระบวนการนี้ผิดพลาดไปอาจนำไปสู่การเกิดเนื้องอกได้",
+            "state": false
+        },
+        {
+            "problem": "23. The leptomeninges, which consist of the arachnoid and pia mater, are derived from the differentiation of which embryonic cell population?",
+            "choices": "Pachymeninx///Neural crest and paraxial mesoderm///Sclerotome exclusively///Surface ectoderm///Neuroectoderm",
+            "answer": "Neural crest and paraxial mesoderm",
+            "select": "",
+            "explain": "เยื่อหุ้มสมองชั้นใน (Leptomeninges) ซึ่งได้แก่ arachnoid และ pia mater มีต้นกำเนิดร่วมกันจากเซลล์ mesenchyme ซึ่งส่วนใหญ่มาจาก Neural crest cells โดยมีเซลล์จาก Paraxial mesoderm มาผสมด้วย ส่วน Pachymeninx จะเจริญไปเป็น dura mater",
+            "state": false
+        },
+        {
+            "problem": "24. The migration of neurons in the developing cerebral cortex follows an 'inside-out' pattern. This process is critically dependent on which specialized cell type acting as a scaffold?",
+            "choices": "Astrocytes///Oligodendrocytes///Microglia///Radial glial cells///Ependymal cells",
+            "answer": "Radial glial cells",
+            "select": "",
+            "explain": "Radial glial cells เป็นเซลล์ต้นกำเนิดชนิดหนึ่งที่มีใยยาวยื่นจาก ventricular zone ไปยัง pial surface ทำหน้าที่เป็นโครงร่าง (scaffold) ให้ neuroblasts ที่เกิดใหม่เกาะและเคลื่อนที่ (migrate) ไปยังชั้นต่างๆ ของ cerebral cortex โดยเซลล์ที่เกิดทีหลังจะเคลื่อนที่ผ่านเซลล์ที่เกิดก่อนไปอยู่ชั้นนอกสุด เรียกว่า inside-out migration",
+            "state": false
+        },
+        {
+            "problem": "25. Which of the following is NOT a direct derivative of the Prosencephalon (forebrain)?",
+            "choices": "Cerebral hemispheres///Thalamus///Midbrain///Hypothalamus///Retina",
+            "answer": "Midbrain",
+            "select": "",
+            "explain": "Prosencephalon เป็น primary brain vesicle ที่จะแบ่งต่อเป็น Telencephalon (ซึ่งสร้าง Cerebral hemispheres) และ Diencephalon (ซึ่งสร้าง Thalamus, Hypothalamus, Epithalamus และ Retina) ส่วน Midbrain เจริญมาจาก primary vesicle อันถัดมาคือ Mesencephalon",
+            "state": false
+        },
+        {
+            "problem": "26. The definitive lens fibers, which constitute the bulk of the adult lens, are formed by the elongation of cells from which specific part of the lens vesicle?",
+            "choices": "Anterior wall of the lens vesicle///Posterior wall of the lens vesicle///Equatorial region of the lens vesicle///The entire lens vesicle surface///The core of the lens vesicle",
+            "answer": "Posterior wall of the lens vesicle",
+            "select": "",
+            "explain": "หลังจาก Lens vesicle ก่อตัวขึ้น เซลล์ที่ผนังด้านหน้า (anterior wall) จะยังคงเป็น cuboidal epithelium ส่วนเซลล์ที่ผนังด้านหลัง (posterior wall) จะยืดยาวออกไปข้างหน้าอย่างมากกลายเป็น Primary lens fibers จนเต็มช่องว่างของ lens vesicle",
+            "state": false
+        },
+        {
+            "problem": "27. The formation of the three semicircular canals from the utricular part of the otic vesicle involves which key cellular process?",
+            "choices": "Extensive cell proliferation///Apoptosis of the central part of flattened diverticula///Induction by the notochord///Fusion with the first pharyngeal groove///Migration of neural crest cells into the vesicle",
+            "answer": "Apoptosis of the central part of flattened diverticula",
+            "select": "",
+            "explain": "Semicircular canals เกิดจากการที่ utricular part ของ otic vesicle ยื่นออกไปเป็นแผ่นแบนๆ คล้ายจาน 3 แผ่น (flattened diverticula) จากนั้นเซลล์บริเวณตรงกลางของแผ่นจานแต่ละแผ่นจะเกิด Apoptosis (programmed cell death) สลายไป เหลือไว้เพียงขอบนอกที่เป็นท่อโค้งๆ (semicircular canals) 3 อันที่ตั้งฉากกัน",
+            "state": false
+        },
+        {
+            "problem": "28. The corpus striatum, which later gives rise to the caudate and lenticular nuclei, originates within the floor of which developing brain vesicle?",
+            "choices": "Telencephalon///Diencephalon///Mesencephalon///Metencephalon///Myelencephalon",
+            "answer": "Telencephalon",
+            "select": "",
+            "explain": "Corpus striatum เป็นโครงสร้างกลุ่ม a major component of the basal ganglia ซึ่งเป็นส่วนของ gray matter ที่อยู่ลึกเข้าไปในสมองใหญ่ มันเจริญมาจากส่วน floor ของ Telencephalon ในแต่ละข้าง และการเจริญของมันมีบทบาทสำคัญในการแบ่ง cerebral vesicle ออกเป็น lobes ต่างๆ",
+            "state": false
+        },
+        {
+            "problem": "29. The cerebellar cortex has a unique developmental pattern where granule cells migrate from the outside-in. This is opposite to the inside-out pattern of the cerebrum. Where do these granule cells proliferate before migrating?",
+            "choices": "Ventricular Zone///Rhombic Lip///External Germinal Layer///Internal Germinal Layer///Deep Cerebellar Nuclei",
+            "answer": "External Germinal Layer",
+            "select": "",
+            "explain": "Granule cell precursors จะ migrate จาก rhombic lip มาสร้างชั้นแบ่งตัวชั่วคราวที่ผิวนอกสุดของ cerebellum เรียกว่า External Germinal Layer (EGL) เซลล์ในชั้นนี้จะแบ่งตัวอย่างมหาศาลหลังคลอด จากนั้นจึง migrate ผ่านชั้น Purkinje cell เข้าไปอยู่ด้านในสุด กลายเป็น Internal Granule Layer",
+            "state": false
+        },
+        {
+            "problem": "30. The six auricular hillocks that fuse to form the auricle (external ear) arise from the mesenchyme of which two pharyngeal arches?",
+            "choices": "First and Second///Second and Third///Third and Fourth///First and Third///Fourth and Sixth",
+            "answer": "First and Second",
+            "select": "",
+            "explain": "ใบหู (auricle) เจริญมาจากเนินเล็กๆ 6 อันที่เรียกว่า Auricular hillocks โดย 3 อันแรกมาจากขอบท้ายของ 1st pharyngeal arch และอีก 3 อันมาจากขอบหน้าของ 2nd pharyngeal arch เนินเหล่านี้จะค่อยๆ โตและเชื่อมรวมกันเป็นรูปร่างของใบหูที่ซับซ้อน",
+            "state": false
+        },
+        {
+            "problem": "31. The pigment epithelium of the retina and the two muscle layers of the iris (sphincter and dilator pupillae) are all derived from which specific embryonic layer?",
+            "choices": "Mesenchyme///Surface ectoderm///Neuroectoderm of the optic cup///Neural crest cells///Paraxial mesoderm",
+            "answer": "Neuroectoderm of the optic cup",
+            "select": "",
+            "explain": "Optic cup ซึ่งเจริญมาจาก neuroectoderm ประกอบด้วยผนัง 2 ชั้น ชั้นนอกจะเจริญไปเป็น Retinal Pigment Epithelium (RPE) และเมื่อยื่นไปข้างหน้าจะกลายเป็น dilator pupillae muscle ส่วนชั้นในจะเจริญเป็น neural retina และเมื่อยื่นไปข้างหน้าจะกลายเป็น sphincter pupillae muscle ดังนั้นโครงสร้างทั้งหมดนี้จึงมีต้นกำเนิดจาก neuroectoderm",
+            "state": false
+        },
+        {
+            "problem": "32. The notochord plays a crucial inductive role in neurulation. In adults, the primary remnant of the notochord is found in which structure?",
+            "choices": "Vertebral body///Spinal cord///Nucleus pulposus of intervertebral disc///Dorsal root ganglion///Anterior longitudinal ligament",
+            "answer": "Nucleus pulposus of intervertebral disc",
+            "select": "",
+            "explain": "Notochord เป็นแกนกลางที่เหนี่ยวนำให้เกิด neural tube และ vertebral column ส่วนใหญ่ของ notochord จะสลายไป แต่ส่วนที่ยังคงเหลืออยู่ในผู้ใหญ่คือ Nucleus pulposus ซึ่งเป็นแกนกลางลักษณะคล้ายเจลลี่ของหมอนรองกระดูกสันหลัง (intervertebral disc)",
+            "state": false
+        },
+        {
+            "problem": "33. What structure is formed by the fusion of the rhombic lips dorsal to the pontine flexure?",
+            "choices": "Cerebral aqueduct///Thalamus///Cerebellar plate///Medulla oblongata///Corpus callosum",
+            "answer": "Cerebellar plate",
+            "select": "",
+            "explain": "Rhombic lips คือขอบด้าน dorsolateral ของ alar plate ในส่วนของ metencephalon ซึ่งจะหนาตัวขึ้นและเจริญเข้าหากันในแนวกลางเหนือ fourth ventricle จนเชื่อมรวมกันกลายเป็น Cerebellar plate ซึ่งเป็นต้นกำเนิดของ cerebellum ทั้งหมด",
+            "state": false
+        },
+        {
+            "problem": "34. The three layers of the developing spinal cord are the ventricular, mantle, and marginal zones. Which of these zones will ultimately form the gray matter?",
+            "choices": "Ventricular zone///Mantle zone///Marginal zone///Roof plate///Floor plate",
+            "answer": "Mantle zone",
+            "select": "",
+            "explain": "Neuroblasts ที่สร้างจาก ventricular zone จะ migrate ออกมาสะสมตัวกันอยู่ที่ Mantle zone (หรือ intermediate zone) และเจริญเป็นเซลล์ประสาทเต็มวัย บริเวณนี้จึงกลายเป็น Gray matter ของไขสันหลัง ซึ่งประกอบด้วย cell bodies ของเซลล์ประสาท",
+            "state": false
+        },
+        {
+            "problem": "35. A failure of neural crest cells to migrate into the region of the developing eye would lead to the absence of which corneal layer?",
+            "choices": "Epithelium and Bowman's layer///Stroma and Endothelium///Epithelium only///Descemet's membrane only///Endothelium only",
+            "answer": "Stroma and Endothelium",
+            "select": "",
+            "explain": "กระจกตา (Cornea) มีต้นกำเนิด 2 แหล่ง ชั้นนอกสุดคือ Epithelium มาจาก surface ectoderm ส่วนชั้นที่หนาที่สุดคือ Stroma และชั้นในสุดคือ Endothelium ล้วนเจริญมาจาก mesenchyme ซึ่งในบริเวณนี้คือ neural crest cells ที่ migrate เข้ามา",
+            "state": false
+        },
+        {
+            "problem": "36. The thalamus, a major relay center for sensory information, is a derivative of which secondary brain vesicle?",
+            "choices": "Telencephalon///Diencephalon///Mesencephalon///Metencephalon///Myelencephalon",
+            "answer": "Diencephalon",
+            "select": "",
+            "explain": "Primary forebrain vesicle (Prosencephalon) แบ่งออกเป็น Telencephalon (กลายเป็น cerebrum) และ Diencephalon Diencephalon จะเจริญต่อไปเป็นโครงสร้างสำคัญที่อยู่ระหว่าง cerebrum กับ brainstem ได้แก่ Thalamus, Hypothalamus, Epithalamus, และ Subthalamus",
+            "state": false
+        },
+        {
+            "problem": "37. The somites, which give rise to the axial skeleton, skeletal muscle, and dermis, are derived from which subdivision of the mesoderm?",
+            "choices": "Intermediate mesoderm///Lateral plate mesoderm///Paraxial mesoderm///Extraembryonic mesoderm///Splanchnic mesoderm",
+            "answer": "Paraxial mesoderm",
+            "select": "",
+            "explain": "Mesoderm ซึ่งเป็น germ layer ชั้นกลาง จะแบ่งออกเป็น 3 ส่วน ส่วนที่อยู่ติดกับแนวกลาง (neural tube) ที่สุดคือ Paraxial mesoderm ซึ่งจะมีการแบ่งตัวเป็นปล้องๆ ที่เรียกว่า Somites",
+            "state": false
+        },
+        {
+            "problem": "38. The neural canal is the initial fluid-filled central cavity of the neural tube. In the adult cerebrum, what does this canal become?",
+            "choices": "Subarachnoid space///Third ventricle only///Cerebral aqueduct///Lateral ventricles///Fourth ventricle only",
+            "answer": "Lateral ventricles",
+            "select": "",
+            "explain": "ช่องว่างภายใน neural tube หรือ neural canal จะขยายตัวออกและเปลี่ยนแปลงรูปร่างไปตามการเจริญของสมองแต่ละส่วน ในส่วนของ telencephalon ซึ่งเจริญเป็น cerebral hemispheres ช่องว่างนี้จะขยายใหญ่โตออกไปเป็น Lateral ventricles ทั้งสองข้าง",
+            "state": false
+        },
+        {
+            "problem": "39. The sensory nerve supply to the dermis of the skin is organized into dermatomes. The cells forming the dermis itself originate from which part of the somite?",
+            "choices": "Myotome///Sclerotome///Dermatome///Epimere///Hypomere",
+            "answer": "Dermatome",
+            "select": "",
+            "explain": "Somite จะแบ่งออกเป็น 3 ส่วน คือ Sclerotome (สร้างกระดูก), Myotome (สร้างกล้ามเนื้อ) และ Dermatome ซึ่งเซลล์จากส่วน Dermatome จะ migrate ไปอยู่ใต้ ectoderm และเจริญไปเป็นชั้นหนังแท้ (Dermis) ของผิวหนัง",
+            "state": false
+        },
+        {
+            "problem": "40. Which of the following structures is NOT considered part of the membranous labyrinth derived from the otic vesicle?",
+            "choices": "Cochlear duct///Semicircular canals///Utricle and Saccule///Endolymphatic sac///Stapes",
+            "answer": "Stapes",
+            "select": "",
+            "explain": "Membranous labyrinth คือโครงสร้างทั้งหมดที่เจริญมาจาก Otic vesicle และบรรจุ endolymph อยู่ภายใน ซึ่งได้แก่ Cochlear duct, Semicircular canals, Utricle, Saccule, และ Endolymphatic duct/sac ส่วน Stapes (กระดูกโกลน) เป็นกระดูกหูในหูชั้นกลางซึ่งมาจาก 2nd pharyngeal arch ไม่ได้มาจาก otic vesicle",
+            "state": false
+        }
+    ]
 };
