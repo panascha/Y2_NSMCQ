@@ -719,6 +719,7 @@
 
         <!-- Topic Selection Area -->
         <div class="checkbox-container">
+            <div><input type="checkbox" id="ns52fmt1" name="ns52fmt1" value="ns52fmt1"><label for="ns52fmt1">NS52FMT1</label></div>
             <div><input type="checkbox" id="facescalpfromms" name="facescalpfromms" value="facescalpfromms"><label
                     for="facescalpfromms">Face Scalp From MS</label></div>
             <div><input type="checkbox" id="ns51mcq1" name="ns51mcq1" value="ns51mcq1"><label for="ns51mcq1">NS51MCQ1</label></div>
@@ -840,6 +841,368 @@
         $(function () {
             // --- DATA ---
             var quizdata = {
+                "NS52FMT1": [
+                    {
+                        "problem": "1. 45-year-old man presents with severe headache, double vision, and ptosis of the right eye, MRI shows thrombosis of the right cavernous sinus. Which of the following cranial nerves is least likely to be affected by this lesion?",
+                        "img": "",
+                        "choices": "Oculomotor nerve///Maxillary division of trigeminal nerve///Optic nerve///Ophthalmic division of trigeminal nerve///Trochlear nerve",
+                        "answer": "Optic nerve",
+                        "select": "",
+                        "explain": "Cavernous sinus เป็น venous sinus ที่สำคัญซึ่งมี cranial nerves หลายเส้นวิ่งผ่าน ได้แก่ CN III (Oculomotor), CN IV (Trochlear), CN VI (Abducens), และ ophthalmic (V1) กับ maxillary (V2) divisions ของ CN V (Trigeminal nerve) ดังนั้นเมื่อเกิด thrombosis หรือลิ่มเลือดอุดตันใน cavernous sinus เส้นประสาทเหล่านี้จึงมีความเสี่ยงสูงที่จะได้รับผลกระทบ ส่วน Optic nerve (CN II) นั้นจะวิ่งผ่าน optic canal ซึ่งอยู่ใกล้เคียงแต่ไม่ได้อยู่ภายใน cavernous sinus โดยตรง จึงเป็นเส้นประสาทที่มีโอกาสได้รับผลกระทบน้อยที่สุดจากภาวะนี้",
+                        "state": false
+                    },
+                    {
+                        "problem": "2. Before a big presentation, a 25 years old man experiences a classic \"fight-or-flight\" response including dilated pupils, slight eyelid retraction and increased sweating on the forehead. Which of the following structures contains the postganglionic neurons that mediate these sympathetic effects?",
+                        "img": "",
+                        "choices": "Ciliary ganglion///Pterygopalatine ganglion///Stellate (cervicothoracic) ganglion///Otic ganglion///Superior cervical ganglion",
+                        "answer": "Superior cervical ganglion",
+                        "select": "",
+                        "explain": "อาการ fight-or-flight ที่เกิดขึ้นบริเวณศีรษะและใบหน้า เช่น รูม่านตาขยาย (mydriasis) เปลือกตาบนยกขึ้นเล็กน้อย (innervate Muller's muscle) และเหงื่อออกที่หน้าผาก เป็นผลจากการกระตุ้นระบบประสาท sympathetic โดย postganglionic sympathetic neurons ที่มาเลี้ยงโครงสร้างเหล่านี้มี cell body อยู่ที่ Superior cervical ganglion ซึ่งเป็น ganglion ในโซ่ sympathetic trunk ที่อยู่สูงที่สุดในบริเวณคอ ส่วน ganglion อื่นๆ ในตัวเลือกส่วนใหญ่เป็น parasympathetic ganglia (Ciliary, Pterygopalatine, Otic)",
+                        "state": false
+                    },
+                    {
+                        "problem": "3. How does hypertension lead to throbbing headache?",
+                        "img": "",
+                        "choices": "Cerebral artery distention///Relex contraction of neck muscle///Traction of venous sinus///Inflammation or irritation of meninges///Compression from space occupying lesion",
+                        "answer": "Cerebral artery distention",
+                        "select": "",
+                        "explain": "อาการปวดศีรษะแบบตุบๆ (throbbing headache) ในภาวะความดันโลหิตสูง (hypertension) โดยเฉพาะในภาวะ hypertensive crisis เกิดจากการที่ความดันในหลอดเลือดสมองสูงขึ้นอย่างรวดเร็ว ทำให้ผนังหลอดเลือดแดงในสมอง (Cerebral artery) เกิดการยืดขยาย (distention) ที่ผนังหลอดเลือดเหล่านี้มีตัวรับความเจ็บปวด (pain receptors) อยู่ การถูกยืดออกจะไปกระตุ้นตัวรับนี้ ทำให้เกิดอาการปวดศีรษะตามจังหวะการเต้นของหัวใจ",
+                        "state": false
+                    },
+                    {
+                        "problem": "4. A patient presented with complete paralysis of eye movements in all direction, and ptosis. He also lost sensation on the ipsilateral size of the face on the forehead, but he had normal sensation near the cheekbone and the chin. Where is the lesion most likely located?",
+                        "img": "",
+                        "choices": "Jugular foramen///Internal acoustic canal///Cavernous sinus///Superior orbital fissure///Interpeduncular fossa",
+                        "answer": "Superior orbital fissure",
+                        "select": "",
+                        "explain": "ผู้ป่วยมีอาการอัมพาตของกล้ามเนื้อตาโดยสมบูรณ์ (total ophthalmoplegia) ซึ่งเกี่ยวข้องกับ CN III, IV, VI ร่วมกับอาการหนังตาตก (ptosis) จาก CN III และสูญเสียการรับความรู้สึกบริเวณหน้าผาก (CN V1) แต่ยังรับความรู้สึกบริเวณแก้ม (CN V2) และคาง (CN V3) ได้ปกติ โครงสร้างทางกายวิภาคที่เป็นตำแหน่งของรอยโรคที่อธิบายอาการทั้งหมดได้ดีที่สุดคือ Superior orbital fissure เนื่องจากเป็นช่องที่ CN III, IV, V1, และ VI วิ่งผ่านเพื่อเข้าสู่เบ้าตา (orbit) ก่อนที่จะแยกย้ายไปเลี้ยงโครงสร้างต่างๆ หากเป็นที่ cavernous sinus มักจะมีผลกระทบต่อ CN V2 ด้วย",
+                        "state": false
+                    },
+                    {
+                        "problem": "5. Which of the following pair of analgesics and their adverse drug effects are matched with the correct feature?",
+                        "img": "",
+                        "choices": "Pethidine - Bradycardia///Codeine - Prolonged QT interval on electrocardiography///Fentanyl Truncal rigidity///Tramadol-Motor weakness///Morphine Peripheral venous constriction",
+                        "answer": "Fentanyl Truncal rigidity",
+                        "select": "",
+                        "explain": "Fentanyl เป็น opioid ที่ออกฤทธิ์แรงและเร็ว หนึ่งในอาการข้างเคียงที่สำคัญคือการเกิดภาวะกล้ามเนื้อลำตัวและหน้าอกแข็งเกร็ง (Truncal rigidity) ซึ่งอาจรบกวนการหายใจได้ ส่วนข้ออื่นๆ: Pethidine มักทำให้เกิด tachycardia, Codeine ไม่สัมพันธ์กับ QT prolongation, Tramadol อาจทำให้ชักแต่ motor weakness ไม่ใช่อาการเด่น, และ Morphine ทำให้หลอดเลือดดำขยายตัว (venodilation) ไม่ใช่หดตัว",
+                        "state": false
+                    },
+                    {
+                        "problem": "6. What is the cause of dysesthesia in a patient with spinal cord injury?",
+                        "img": "",
+                        "choices": "All sensory neurons are death///All sensory neurons are alive///All sensory neurons have a decreased sensory threshold///All sensory neurons have an increased sensory threshold///Some sensory neurons are dead and some are alive, with the living ones having a decreased sensory threshold",
+                        "answer": "Some sensory neurons are dead and some are alive, with the living ones having a decreased sensory threshold",
+                        "select": "",
+                        "explain": "Dysesthesia หรือความรู้สึกเจ็บปวดผิดปกติในผู้ป่วยไขสันหลังบาดเจ็บ (spinal cord injury) เป็นอาการของ neuropathic pain เกิดจากการที่เซลล์ประสาทรับความรู้สึก (sensory neurons) บางส่วนตายไปทำให้เกิดอาการชา แต่ส่วนที่ยังรอดชีวิตอยู่เกิดการทำงานผิดปกติ (malfunctioning) โดยมี sensory threshold ลดลง ทำให้ไวต่อการกระตุ้นมากขึ้นและส่งสัญญาณความเจ็บปวดที่ผิดปกติไปยังสมอง",
+                        "state": false
+                    },
+                    {
+                        "problem": "7. A patient presented with tongue deviation toward the left when protruding. Damage to which structure is the most likely cause?",
+                        "img": "",
+                        "choices": "Left hypoglossal nucleus///Right nucleus ambiguus///Basilar pons///Left nucleus ambiguus///Right hypoglossal nucleus",
+                        "answer": "Left hypoglossal nucleus",
+                        "select": "",
+                        "explain": "การแลบลิ้นแล้วลิ้นเบี้ยวไปทางด้านซ้าย (tongue deviation toward the left) บ่งชี้ว่ามีพยาธิสภาพที่ Left hypoglossal nerve (CN XII) หรือ Left hypoglossal nucleus ซึ่งเป็น lower motor neuron (LMN) lesion เนื่องจากกล้ามเนื้อ Genioglossus ด้านขวาที่ปกติจะผลักลิ้นมาด้านหน้าและไปทางซ้าย แต่กล้ามเนื้อด้านซ้ายที่เป็นอัมพาตไม่สามารถทำงานต้านได้ ทำให้ลิ้นเบี้ยวไปทางด้านที่อ่อนแรง",
+                        "state": false
+                    },
+                    {
+                        "problem": "8. Which of the following nerves is involved in lightning-like jabs of facial pain affecting the lower lip and the chin, often triggered by touching a sensitive area of the skin on the left side of the face?",
+                        "img": "",
+                        "choices": "Auriculotemporal///Infratrochlear///Mental///Infraorbital///Buccal",
+                        "answer": "Mental",
+                        "select": "",
+                        "explain": "อาการปวดแปลบคล้ายไฟฟ้าช็อต (lightning-like jabs) ที่บริเวณริมฝีปากล่างและคาง เป็นลักษณะเฉพาะของ Trigeminal neuralgia ที่เกิดกับ mandibular division (V3) ของ Trigeminal nerve (CN V) โดยเส้นประสาทที่รับความรู้สึกจากบริเวณริมฝีปากล่างและคางคือ Mental nerve ซึ่งเป็นแขนงปลายสุดของ inferior alveolar nerve (จาก V3)",
+                        "state": false
+                    },
+                    {
+                        "problem": "9. A 60-year-old man suffering from metastatic prostate cancer complained of severe bone pain. The physician prescribed morphine. Which of the following is mechanism of action of morphine?",
+                        "img": "",
+                        "choices": "Inhibition of phospholipase A activity///Opening of Na⁺ channels on neuronal cell membrane///Inhibition of the synthesis of inositol triphosphate/diacylglycerol (IP3/DAG)///Stimulation of adenylyl cyclase activity///Blockade of Ca2+ channels on presynaptic nerve terminals",
+                        "answer": "Blockade of Ca2+ channels on presynaptic nerve terminals",
+                        "select": "",
+                        "explain": "Morphine เป็น opioid agonist ที่ออกฤทธิ์ผ่าน G-protein coupled receptors กลไกหลักในการระงับปวดคือการยับยั้งการหลั่งสารสื่อประสาท (neurotransmitters) ที่เกี่ยวข้องกับความเจ็บปวด เช่น Substance P และ Glutamate จากปลายประสาท presynaptic โดย Morphine จะไปยับยั้ง (Blockade) การเปิดของ Voltage-gated Ca2+ channels ทำให้แคลเซียมไอออนไม่สามารถเข้าสู่เซลล์ได้ การหลั่งสารสื่อประสาทจึงลดลง",
+                        "state": false
+                    },
+                    {
+                        "problem": "10. A patient presented with frequent choking when eating. Examination revealed an absence of gag reflex, but both sides of the soft palate were elevated equally. Where is the lesion most likely located?",
+                        "img": "",
+                        "choices": "CN V///CN XII///CN IX///CN VII///CN X",
+                        "answer": "CN IX",
+                        "select": "",
+                        "explain": "Gag reflex ประกอบด้วย 2 ส่วนคือ 1) Afferent limb (รับความรู้สึก) คือ Glossopharyngeal nerve (CN IX) และ 2) Efferent limb (สั่งการ) คือ Vagus nerve (CN X) การที่ผู้ป่วยไม่มี gag reflex แสดงว่าส่วนรับความรู้สึกหรือ CN IX มีปัญหา แต่การที่เพดานอ่อน (soft palate) ยังยกตัวได้เท่ากันทั้งสองข้าง แสดงว่าส่วนสั่งการหรือ CN X ยังทำงานได้ปกติ ดังนั้นรอยโรคน่าจะอยู่ที่ CN IX",
+                        "state": false
+                    },
+                    {
+                        "problem": "11. A patient with acute abdominal pain, is given an intramuscular Injection of an opioid drug that is a weak Mu antagonist and an agonist at kappa receptors. Which of the following drugs is most likely administered?",
+                        "img": "",
+                        "choices": "Methadone///Nalbuphine///Codeine///Buprenorphine///Pentazocine",
+                        "answer": "Nalbuphine",
+                        "select": "",
+                        "explain": "ยาในกลุ่ม opioid ที่มีคุณสมบัติเป็น weak Mu antagonist และเป็น agonist ที่ Kappa receptors จัดเป็นกลุ่ม mixed agonist-antagonist opioids ซึ่ง Nalbuphine เป็นยาตัวอย่างที่สำคัญในกลุ่มนี้ มีฤทธิ์แก้ปวดผ่าน kappa receptor แต่มีฤทธิ์ต้านที่ mu receptor ทำให้มีผลข้างเคียงเรื่องการกดการหายใจและ euphoria น้อยกว่า pure mu agonist เช่น Methadone หรือ Codeine ส่วน Buprenorphine เป็น partial mu agonist และ kappa antagonist",
+                        "state": false
+                    },
+                    {
+                        "problem": "12. A 32-year-old woman recovering from left-sided facial nerve palsy reports difficulty keeping the cheek taut and prevents food from collecting in the vestibule. She says liquid leaks from the left corner of her mouth. Which nerve is most likely impaired?",
+                        "img": "",
+                        "choices": "Buccal///Temporal///Cervical///Mandibular///Zygomatic",
+                        "answer": "Buccal",
+                        "select": "",
+                        "explain": "อาการไม่สามารถทำให้แก้มตึงและมีเศษอาหารไปสะสมในช่องปาก (vestibule) รวมถึงมีของเหลวรั่วที่มุมปาก บ่งชี้ถึงการอ่อนแรงของกล้ามเนื้อ Buccinator และ Orbicularis oris กล้ามเนื้อเหล่านี้ถูกเลี้ยงโดย Facial nerve (CN VII) โดยเฉพาะกล้ามเนื้อ Buccinator ที่ทำหน้าที่หลักในการรวบแก้ม จะถูกเลี้ยงโดย Buccal branch of facial nerve",
+                        "state": false
+                    },
+                    {
+                        "problem": "13. A patient with heart failure is experiencing weak myocardial contractions, resulting in insufficient blood flow to the systemic circulation. Which medication should be administered to improve the patient's cardiac contractility?",
+                        "img": "",
+                        "choices": "Beta-3 adrenoreceptor agonist///Alpha-2 adrenoreceptor agonist///Alpha-1 adrenoreceptor agonist///Beta-2 adrenoreceptor agonist///Beta-1 adrenoreceptor agonist",
+                        "answer": "Beta-1 adrenoreceptor agonist",
+                        "select": "",
+                        "explain": "ในภาวะหัวใจล้มเหลว (heart failure) ที่มีการบีบตัวของกล้ามเนื้อหัวใจอ่อนแรง ยาที่ใช้เพื่อเพิ่มความสามารถในการบีบตัวของหัวใจ (cardiac contractility) คือยากลุ่มที่ออกฤทธิ์กระตุ้น Beta-1 adrenergic receptor ซึ่งเป็น receptor ที่พบมากในกล้ามเนื้อหัวใจ การกระตุ้น Beta-1 จะส่งผลเป็น positive inotropic effect ทำให้หัวใจบีบตัวแรงขึ้นส่งเลือดไปเลี้ยงส่วนต่างๆ ได้ดีขึ้น",
+                        "state": false
+                    },
+                    {
+                        "problem": "14. A patient with anxiety and panic disorder was found to have an increased level of a certain neurotransmitter. Which structure is most likely responsible for producing this neurotransmitter?",
+                        "img": "",
+                        "choices": "Dorsal raphe nucleus///Locus coeruleus///Periaqueductal gray///Ventral tegmental area///Substantia nigra",
+                        "answer": "Locus coeruleus",
+                        "select": "",
+                        "explain": "ภาวะวิตกกังวล (anxiety) และตื่นตระหนก (panic disorder) มีความสัมพันธ์กับการทำงานที่เพิ่มขึ้นของ neurotransmitter ที่ชื่อว่า norepinephrine (noradrenaline) แหล่งผลิตหลักของ norepinephrine ในสมองคือ Locus coeruleus ซึ่งเป็นกลุ่มเซลล์ประสาทที่อยู่ใน pons และมีแขนงส่งไปทั่วสมอง ทำหน้าที่ควบคุมการตื่นตัว การตอบสนองต่อความเครียด และความกลัว",
+                        "state": false
+                    },
+                    {
+                        "problem": "15. A neurologist tests a patient's pupillary light reflex and observes that shining a light into the left eye causes only the left pupil to constrict but the right pupil fails to respond. Which of the following structures would be injured?",
+                        "img": "",
+                        "choices": "Posterior Commissure///Stria medullaris thalami///Habenula///Medial geniculate body///Lateral geniculate body",
+                        "answer": "Posterior Commissure",
+                        "select": "",
+                        "explain": "Pupillary light reflex ประกอบด้วย direct response (ตาข้างที่โดนแสงหด) และ consensual response (ตาอีกข้างหดตาม) การที่แสงส่องตาซ้ายแล้วรูม่านตาซ้ายหด แสดงว่า CN II และ CN III ด้านซ้ายปกติ แต่การที่รูม่านตาขวาไม่หด (เสีย consensual response) แสดงว่าสัญญาณประสาทจาก pretectal nucleus ด้านซ้ายไม่สามารถข้ามไปกระตุ้น Edinger-Westphal nucleus ด้านขวาได้ ซึ่งจุดที่ใยประสาทข้ามไปคือ Posterior commissure ดังนั้นรอยโรคจึงอยู่ที่นี่",
+                        "state": false
+                    },
+                    {
+                        "problem": "16. During a brain dissection, a student identifies an artery branching laterally from the vertebral artery to supply the inferior surface of the cerebellum. Which artery is this?",
+                        "img": "",
+                        "choices": "Superior cerebellar artery///Posterior inferior cerebellar artery///Basilar artery///Posterior spinal artery///Anterior spinal artery",
+                        "answer": "Posterior inferior cerebellar artery",
+                        "select": "",
+                        "explain": "หลอดเลือดแดงที่แตกแขนงออกมาจาก vertebral artery โดยตรงเพื่อไปเลี้ยงพื้นผิวด้านล่าง (inferior surface) ของ cerebellum คือ Posterior inferior cerebellar artery หรือ PICA ส่วน Superior cerebellar artery (SCA) และ Anterior inferior cerebellar artery (AICA) จะแตกแขนงออกมาจาก basilar artery",
+                        "state": false
+                    },
+                    {
+                        "problem": "17. A patient presented with right hemiparesis with left-sided facial palsy (LMN type). On examination, he could not perform left eye abduction, Where is the lesion most likely located?",
+                        "img": "",
+                        "choices": "Pons///Spinal cord///Midbrain///Cerebral cortex///Medulla",
+                        "answer": "Pons",
+                        "select": "",
+                        "explain": "ผู้ป่วยมีอาการอ่อนแรงครึ่งซีกขวา (right hemiparesis) ซึ่งเกิดจากความผิดปกติของ left corticospinal tract ร่วมกับอัมพาตใบหน้าซีกซ้ายแบบ LMN (left facial palsy) จาก left facial nucleus/nerve และไม่สามารถกลอกตาไปด้านซ้ายได้ (left eye abduction) จาก left abducens nucleus/nerve กลุ่มอาการนี้เรียกว่า Millard-Gubler syndrome ซึ่งเป็น brainstem syndrome ที่มีรอยโรคอยู่ที่ Pons ด้านซ้าย เนื่องจากเป็นตำแหน่งที่มี CN VI nucleus, CN VII nucleus และ corticospinal tract อยู่ใกล้กัน",
+                        "state": false
+                    },
+                    {
+                        "problem": "18. A 20-year-old female presents with left-sided facial and limb numbness. Neuro exam: Astereognosis of left hand. Where is the lesion?",
+                        "img": "",
+                        "choices": "Right spinal cord-C3///Right parietal lobe///Left spinal cord-C6///Left parietal lobe///Right thalamus",
+                        "answer": "Right parietal lobe",
+                        "select": "",
+                        "explain": "Astereognosis คือการที่ไม่สามารถระบุรูปทรงของวัตถุได้ด้วยการคลำในขณะที่หลับตา ซึ่งเป็นความผิดปกติของการประมวลผลข้อมูลความรู้สึกในระดับสูง (higher sensory processing) ที่เกิดขึ้นในสมองส่วน Parietal lobe ของซีกตรงข้าม ในกรณีนี้ผู้ป่วยมีอาการที่มือซ้าย (left hand) ดังนั้นพยาธิสภาพจึงอยู่ที่ Right parietal lobe",
+                        "state": false
+                    },
+                    {
+                        "problem": "19. A patient with a history of chronic alcohol abuse. He is at high risk of developing permanent anterograde amnesia. Damage to which specific thalamic nucleus is most directly responsible for this irreversible memory loss characteristic of Korsakoff Syndrome?",
+                        "img": "",
+                        "choices": "Ventral lateral nucleus///Anterior nucleus///Lateral posterior nucleus///Lateral dorsal nucleus///Ventral anterior nucleus",
+                        "answer": "Anterior nucleus",
+                        "select": "",
+                        "explain": "Korsakoff Syndrome เป็นภาวะความจำเสื่อมถาวรโดยเฉพาะ anterograde amnesia (ไม่สามารถสร้างความจำใหม่ได้) ซึ่งมักพบในผู้ที่ติดสุราเรื้อรังและขาดวิตามิน B1 พยาธิสภาพหลักเกิดกับโครงสร้างใน limbic system ที่สำคัญต่อความจำ ได้แก่ mammillary bodies และ thalamic nuclei ที่เกี่ยวข้องเช่น medial dorsal nucleus และ anterior nucleus of the thalamus ซึ่งเป็นส่วนหนึ่งของ Papez circuit",
+                        "state": false
+                    },
+                    {
+                        "problem": "20. During a brain dissection, a probe is passed from the third ventricle toward the posterior aspect of the midbrain to reach the fourth ventricle. The probe passes through which structure?",
+                        "img": "",
+                        "choices": "Interventricular foramen///Cerebral aqueduct///Subarachnoid space///Foramen of Monro///Foramen of Luschka",
+                        "answer": "Cerebral aqueduct",
+                        "select": "",
+                        "explain": "ช่องทางที่เชื่อมต่อระหว่าง third ventricle และ fourth ventricle คือ Cerebral aqueduct (หรือ Aqueduct of Sylvius) ซึ่งเป็นท่อแคบๆ ที่ทอดตัวผ่านสมองส่วนกลาง (midbrain) การอุดตันของท่อนี้จะทำให้น้ำไขสันหลัง (CSF) คั่งและเกิดภาวะ hydrocephalus ได้",
+                        "state": false
+                    },
+                    {
+                        "problem": "21. A patient visits the hospital to consult the chronic dryness eyes. The physician revealed that this condition results from disruption of the parasympathetic innervation to the lacrimal gland. Which cranial nerve carries the preganglionic parasympathetic fibers that stimulate lacrimal tear production?",
+                        "img": "",
+                        "choices": "Trigeminal Nerve///Oculomotor Nerve///Vagus Nerve///Glossopharyngeal Nerve///Facial Nerve",
+                        "answer": "Facial Nerve",
+                        "select": "",
+                        "explain": "ต่อมน้ำตา (lacrimal gland) ถูกควบคุมโดยระบบประสาท parasympathetic โดย preganglionic parasympathetic fibers จะเริ่มต้นจาก superior salivatory nucleus ใน pons แล้วเดินทางมากับ Facial Nerve (CN VII) ก่อนจะแยกแขนงเป็น greater petrosal nerve ไป synapse ที่ pterygopalatine ganglion แล้วจึงมี postganglionic fibers ไปกระตุ้นให้ต่อมน้ำตาหลั่งน้ำตา",
+                        "state": false
+                    },
+                    {
+                        "problem": "22. A 28-year-old patient presents to the dental clinic with sudden, sharp tooth pain. Upon examination, the dentist identifies dental caries involving the mandibular molar. Before beginning treatment, local anesthesia is required. For effective anesthesia of the mandibular molar, which nerve should the dentist target for injection?",
+                        "img": "",
+                        "choices": "Mental nerve///Lingual nerve///Inferior alveolar nerve///Buccal nerve///Auriculotemporal nerve",
+                        "answer": "Inferior alveolar nerve",
+                        "select": "",
+                        "explain": "การทำฟันกรามล่าง (mandibular molar) จำเป็นต้องใช้ยาชาเพื่อระงับความรู้สึกของตัวฟันและกระดูกรอบๆ ซึ่งเส้นประสาทที่รับผิดชอบบริเวณนี้คือ Inferior alveolar nerve ซึ่งเป็นแขนงของ CN V3 ทันตแพทย์จะฉีดยาชาไปที่บริเวณใกล้กับ mandibular foramen เพื่อ block เส้นประสาทนี้ (เรียกว่า inferior alveolar nerve block)",
+                        "state": false
+                    },
+                    {
+                        "problem": "23. A sickle-shaped fold of dura mater descends vertically between the two cerebral hemispheres. It is responsible for forming the longitudinal cerebral fissure, Which structure is this?",
+                        "img": "",
+                        "choices": "Falx cerebri///Tentorium cerebelli///Diaphragma sellae///Falx cerebelli///Superior sagittal sinus",
+                        "answer": "Falx cerebri",
+                        "select": "",
+                        "explain": "Falx cerebri เป็นแผ่นเยื่อหุ้มสมองชั้น dura mater ที่มีลักษณะคล้ายเคียว (sickle-shaped) ที่ยื่นลงไปในแนวดิ่งในร่อง longitudinal cerebral fissure เพื่อกั้นระหว่างสมองใหญ่ (cerebral hemispheres) ทั้งสองซีก",
+                        "state": false
+                    },
+                    {
+                        "problem": "24. A 47-year-old male presents with loss of fine touch, proprioception, and vibration senses at left arm but intact sensation of pain and temperature of both legs. Which of the followings is the most likely lesion?",
+                        "img": "",
+                        "choices": "Ventral spinocerebellar tract///Lateral spinothalamic tract///Fasciculus cuneatus///Fasciculus gracilis///Ventral spinothalamic tract",
+                        "answer": "Fasciculus cuneatus",
+                        "select": "",
+                        "explain": "การสูญเสียความรู้สึกเกี่ยวกับ fine touch, proprioception, และ vibration ที่แขนซ้าย บ่งชี้ว่ามีพยาธิสภาพที่ dorsal column pathway ในไขสันหลังด้านซ้าย โดยข้อมูลจากร่างกายส่วนบน (แขน) จะเดินทางผ่าน Fasciculus cuneatus ส่วน Fasciculus gracilis จะนำข้อมูลจากร่างกายส่วนล่าง (ขา) ดังนั้นรอยโรคที่อธิบายอาการนี้ได้ดีที่สุดคือที่ Fasciculus cuneatus",
+                        "state": false
+                    },
+                    {
+                        "problem": "25. A 45-year-old male is undergoing an evaluation following an injury to the temporomandibular joint (TMJ). The clinician asks the patient to perform various mandibular movements. While the patient can easily elevate (close) and depress (open) his jaw, he has significant difficulty pushing his lower jaw forward past the upper teeth. Which of the following muscles is the primary producer of the movement known as mandibular protrusion (protruding the jaw)?",
+                        "img": "",
+                        "choices": "Temporalis///Masseter///Lateral pterygoid///Medial and lateral pterygoid///Medial pterygoid",
+                        "answer": "Lateral pterygoid",
+                        "select": "",
+                        "explain": "การเคลื่อนไหวขากรรไกรล่างไปข้างหน้า (mandibular protrusion) เกิดจากการทำงานของกล้ามเนื้อ Lateral pterygoid ทั้งสองข้างพร้อมกัน ส่วนกล้ามเนื้อ Masseter และ Temporalis ทำหน้าที่หลักในการยกขากรรไกรขึ้น (กัดฟัน) และ Medial pterygoid ช่วยในการยกและบดเคี้ยว",
+                        "state": false
+                    },
+                    {
+                        "problem": "26. A baby boy, born after a vaginal delivery, presented with lethargic, respiratory depression, respiratory rate 8/min, shallow respirations, oxygen saturation 78% on room air, pinpoint pupils. His mother received two intramuscular injections of pethidine during labor. Which of the following drugs would be appropriate for the baby at this time?",
+                        "img": "",
+                        "choices": "Pentazocine///Fentanyl///Albuterol///Theophylline///Naloxone",
+                        "answer": "Naloxone",
+                        "select": "",
+                        "explain": "ทารกแรกเกิดมีอาการของการได้รับยา opioid เกินขนาด ซึ่งได้แก่ การกดการหายใจ ซึม และรูม่านตาหดเล็ก (pinpoint pupils) ซึ่งเป็นผลมาจากยา pethidine ที่แม่ได้รับระหว่างคลอด ยาที่ใช้รักษาภาวะนี้โดยเฉพาะคือ Naloxone ซึ่งเป็น opioid antagonist ออกฤทธิ์ต้านยา opioid และทำให้อาการต่างๆ ดีขึ้นอย่างรวดเร็ว",
+                        "state": false
+                    },
+                    {
+                        "problem": "27. A patient had a large pineal tumor compressing on the dorsal midbrain. Which structure is most likely affected?",
+                        "img": "",
+                        "choices": "Crus cerebri///Posterior commissure///Trigeminal nerve///Oculomotor nerve///Facial colliculus",
+                        "answer": "Posterior commissure",
+                        "select": "",
+                        "explain": "Pineal tumor เป็นเนื้องอกที่กดทับบริเวณ dorsal midbrain หรือ tectum ทำให้เกิด Parinaud's syndrome ซึ่งมีอาการเด่นคือไม่สามารถมองขึ้นบนได้ (upward gaze palsy) และมี pupillary abnormalities โครงสร้างที่สำคัญในบริเวณนี้ซึ่งถูกกดทับได้ง่ายคือ Posterior commissure ซึ่งเกี่ยวข้องกับ vertical gaze control และ pupillary light reflex",
+                        "state": false
+                    },
+                    {
+                        "problem": "28. During which embryonic period does the primary brain vesicles appear?",
+                        "img": "",
+                        "choices": "48 weeks///5 weeks///24 weeks///4 weeks///12 weeks",
+                        "answer": "4 weeks",
+                        "select": "",
+                        "explain": "ในช่วงการเจริญของตัวอ่อน (embryonic period) การพัฒนาของสมองจะเริ่มจากการที่ neural tube ส่วนหน้าโป่งออกเป็น 3 ส่วนเรียกว่า primary brain vesicles (ได้แก่ Forebrain, Midbrain, Hindbrain) ซึ่งกระบวนการนี้เกิดขึ้นในช่วงสัปดาห์ที่ 4 ของการตั้งครรภ์",
+                        "state": false
+                    },
+                    {
+                        "problem": "29. Which structure anchors the spinal cord laterally to the dura mater?",
+                        "img": "",
+                        "choices": "Posterior longitudinal ligament///Filum terminale///Coccygeal ligament///Ligamentum flavum///Denticulate ligament",
+                        "answer": "Denticulate ligament",
+                        "select": "",
+                        "explain": "Denticulate ligaments เป็นส่วนของเยื่อหุ้มสมองชั้น pia mater ที่ยื่นออกไปทางด้านข้างลักษณะคล้ายฟันเลื่อย เพื่อทำหน้าที่ยึดไขสันหลัง (spinal cord) ให้อยู่กับที่ โดยไปเกาะกับเยื่อหุ้มสมองชั้น dura mater",
+                        "state": false
+                    },
+                    {
+                        "problem": "30. Which of the following regions of the neural tube gives rise to the substantia gelatinosa of the posterior horn of the spinal cord?",
+                        "img": "",
+                        "choices": "Alar plate///Basal plate///Roof plate///Floor plate///Ventricular zone",
+                        "answer": "Alar plate",
+                        "select": "",
+                        "explain": "ในระหว่างการพัฒนาของตัวอ่อน neural tube จะแบ่งออกเป็น Alar plate (dorsal) และ Basal plate (ventral) โดย Alar plate จะพัฒนาไปเป็นโครงสร้างที่ทำหน้าที่รับความรู้สึก (sensory) ในไขสันหลังซึ่งก็คือ posterior horn ส่วน Basal plate จะพัฒนาไปเป็นส่วนสั่งการ (motor) คือ anterior horn ดังนั้น Substantia gelatinosa ซึ่งเป็นส่วนสำคัญใน posterior horn จึงเจริญมาจาก Alar plate",
+                        "state": false
+                    },
+                    {
+                        "problem": "31. Which of the following sequences correctly represents the developmental progression of the retina?",
+                        "img": "",
+                        "choices": "Optic cup → Optic vesicle → Optic sulcus→ Retina///Optic sulcus → Optic cup → Optic vesicle → Retina///Optic cup → Optic sulcus → Optic vesicle → Retina///Optic vesicle → Optic sulcus → Optic cup→ Retina///Optic sulcus → Optic vesicle → Optic cup → Retina",
+                        "answer": "Optic sulcus → Optic vesicle → Optic cup → Retina",
+                        "select": "",
+                        "explain": "ลำดับการพัฒนาของจอตา (retina) เริ่มจากการที่ผนังของ diencephalon ยื่นออกมาเป็นร่องเรียกว่า Optic sulcus ซึ่งจะเจริญต่อไปเป็นถุงเรียกว่า Optic vesicle จากนั้น Optic vesicle จะยุบตัวเข้าด้านใน (invagination) กลายเป็นโครงสร้างรูปถ้วย 2 ชั้นที่เรียกว่า Optic cup ซึ่งในที่สุดจะพัฒนาไปเป็น Retina ที่สมบูรณ์",
+                        "state": false
+                    },
+                    {
+                        "problem": "32. Which of the following actions is mediated by the parasympathetic nervous system?",
+                        "img": "",
+                        "choices": "Increased digestion///Increased heart rate///Increased renin secretion///Bronchodilation///Pupil dilation",
+                        "answer": "Increased digestion",
+                        "select": "",
+                        "explain": "ระบบประสาท Parasympathetic ทำหน้าที่เกี่ยวกับสภาวะพักผ่อนของร่างกาย (rest and digest) ดังนั้นการกระตุ้นระบบนี้จะทำให้มีการย่อยอาหารเพิ่มขึ้น (Increased digestion) โดยเพิ่มการเคลื่อนไหวของลำไส้และเพิ่มการหลั่งน้ำย่อย ส่วนข้ออื่นๆ เช่น อัตราการเต้นของหัวใจเพิ่มขึ้น, การหลั่ง renin, หลอดลมขยาย, รูม่านตาขยาย ล้วนเป็นผลจากการกระตุ้นระบบประสาท Sympathetic",
+                        "state": false
+                    },
+                    {
+                        "problem": "33. A 50-year-old man has been experiencing severe colicky pain in his right subcostal margin and dull pain in the right shoulder for the past 2 days. PE: A man who is profusely sweating and appears to be in a moody temperament. PR 130 beats per minute, BP 150/98 mmHg. What is the most likely mechanism of referred pain in this case?",
+                        "img": "https://drive.google.com/open?id=1t5x3qropjfUB2mINYpXx5LMku-6GdQGJ&usp=drive_copy",
+                        "choices": "Ulceration of duodenum///Splenomegaly irritates to the pleura///Irritation to the peritoneum///Edema of liver parenchyma///Inflamed gallbladder irritates to the diaphragm",
+                        "answer": "Inflamed gallbladder irritates to the diaphragm",
+                        "select": "",
+                        "explain": "อาการปวดร้าว (referred pain) ไปที่ไหล่ขวา ร่วมกับอาการปวดท้องบริเวณใต้ชายโครงขวา (right subcostal margin) เป็นลักษณะคลาสสิกของโรคถุงน้ำดีอักเสบ (cholecystitis) กลไกเกิดจากการที่ถุงน้ำดีที่อักเสบไประคายเคืองกะบังลม (diaphragm) ส่วนล่าง ซึ่งกะบังลมรับความรู้สึกโดย Phrenic nerve (C3, C4, C5) สัญญาณความเจ็บปวดจะถูกส่งไปยังไขสันหลังระดับเดียวกับเส้นประสาทที่รับความรู้สึกจากผิวหนังบริเวณไหล่ ทำให้สมองตีความว่าความเจ็บปวดมาจากไหล่ขวา",
+                        "state": false
+                    },
+                    {
+                        "problem": "34. A young man presents with loss of pain and temperature sensation on the right side of his body and loss of proprioception on the left side. Which of the following best explains this pattern?",
+                        "img": "",
+                        "choices": "Anterior spinal artery syndrome///Central cord syndrome///Posterior cord syndrome///Brown-Séquard syndrome on the right side///Brown-Séquard syndrome on the left side",
+                        "answer": "Brown-Séquard syndrome on the left side",
+                        "select": "",
+                        "explain": "Brown-Sequard syndrome คือกลุ่มอาการที่เกิดจากไขสันหลังได้รับบาดเจ็บครึ่งซีก (hemisection) ทำให้เกิดลักษณะการสูญเสียความรู้สึกที่จำเพาะ คือ 1) สูญเสีย proprioception และ vibration ในซีกเดียวกับรอยโรค (ipsilateral) เนื่องจาก dorsal column tract ยังไม่ข้ามระดับไขสันหลัง และ 2) สูญเสียความรู้สึก pain และ temperature ในซีกตรงข้ามกับรอยโรค (contralateral) เนื่องจาก spinothalamic tract ข้ามไปฝั่งตรงข้ามทันทีที่เข้าสู่ไขสันหลัง ในกรณีนี้ผู้ป่วยเสีย proprioception ด้านซ้าย แสดงว่ารอยโรคอยู่ที่ไขสันหลังซีกซ้าย",
+                        "state": false
+                    },
+                    {
+                        "problem": "35. A 50-year-old man has been experiencing severe colicky pain in his right subcostal margin and dull pain in the right shoulder for the past 2 days. PE: A man who is profusely sweating and appears to be in a moody temperament. PR 130 beats per minute, BP 150/98 mmHg. What is the cause of moody temperament, profound sweating, high pulse rate and blood pressure?",
+                        "img": "https://drive.google.com/open?id=1t5x3qropjfUB2mINYpXx5LMku-6GdQGJ&usp=drive_copy",
+                        "choices": "Autonomic reflex///Local peritonitis///Referred pain from colon///Referred pain from appendix///Contraction reflex",
+                        "answer": "Autonomic reflex",
+                        "select": "",
+                        "explain": "อาการหงุดหงิด (moody temperament) เหงื่อออกมาก (profound sweating) ชีพจรเร็ว (high pulse rate) และความดันโลหิตสูง (high blood pressure) เป็นผลมาจากการที่ร่างกายตอบสนองต่อความเจ็บปวดรุนแรง (severe pain) ความเจ็บปวดจะกระตุ้นระบบประสาทอัตโนมัติ (Autonomic nervous system) โดยเฉพาะระบบ Sympathetic อย่างรุนแรง ทำให้เกิดการตอบสนองแบบ fight-or-flight ทั่วร่างกาย",
+                        "state": false
+                    },
+                    {
+                        "problem": "36. A young patient presents after sustaining a deep laceration to the side of the face that required extensive suturing. Following the injury, the patient reports a surprising change in their ability to perceive flavors on the front portion of their tongue. Injury to which specific nerve branch is most likely responsible for the patient's impairment of taste sensation on the anterior two-thirds of the tongue?",
+                        "img": "",
+                        "choices": "Buccal nerve///Inferior alveolar nerve///Lingual nerve///Mental nerve///Auriculotemporal nerve",
+                        "answer": "Lingual nerve",
+                        "select": "",
+                        "explain": "การรับรสชาติ (taste sensation) จาก 2/3 ด้านหน้าของลิ้น ถูกนำโดยเส้นประสาท Chorda tympani ซึ่งเป็นแขนงของ Facial nerve (CN VII) อย่างไรก็ตาม ในบริเวณช่องปาก เส้นประสาท Chorda tympani จะเดินทางร่วมไปกับ Lingual nerve (แขนงของ CN V3 ซึ่งรับความรู้สึกทั่วไป) ดังนั้น การบาดเจ็บที่ Lingual nerve มักจะทำให้ Chorda tympani ได้รับความเสียหายไปด้วย ส่งผลให้สูญเสียการรับรสบริเวณดังกล่าว",
+                        "state": false
+                    },
+                    {
+                        "problem": "37. Where is the site of pain modulation that is modulated by anesthesia?",
+                        "img": "",
+                        "choices": "Gray matter///Pain receptor///Thalamus///Spinal cord///Cerebral cortex",
+                        "answer": "Cerebral cortex",
+                        "select": "",
+                        "explain": "การดมยาสลบ (general anesthesia) เป็นการระงับความเจ็บปวดในระดับการรับรู้ของสมองส่วนกลาง โดยยาสลบจะไปกดการทำงานของระบบประสาทในหลายระดับ แต่ตำแหน่งสำคัญที่สุดที่เกี่ยวข้องกับการ รับรู้ ความเจ็บปวด (pain perception) คือ Cerebral cortex ซึ่งเป็นศูนย์กลางการประมวลผลขั้นสูงของสมอง การที่สมองส่วนนี้ถูกกดการทำงานทำให้ผู้ป่วยไม่รู้สึกตัวและไม่รับรู้ถึงความเจ็บปวด",
+                        "state": false
+                    },
+                    {
+                        "problem": "38. A 25-year-old woman works night shifts and experiences difficulty maintaining a normal sleep-wake cycle. Her doctor explains that this rhythm is regulated by a hormone called melatonin. Which part of the brain secretes this hormone?",
+                        "img": "",
+                        "choices": "Hypothalamus///Epithalamus///Cingulate gyrus///Subthalamus///Thalamus",
+                        "answer": "Epithalamus",
+                        "select": "",
+                        "explain": "Melatonin เป็นฮอร์โมนที่ควบคุมวงจรการนอนหลับ-การตื่น (sleep-wake cycle) ของร่างกาย ซึ่งหลั่งมาจากต่อมไพเนียล (Pineal gland) ต่อมไพเนียลเป็นส่วนหนึ่งของ Epithalamus ซึ่งเป็นโครงสร้างที่อยู่ส่วนหลังของ Diencephalon",
+                        "state": false
+                    },
+                    {
+                        "problem": "39. Paralysis of which of the following muscles would prevent an individual from effectively performing the protective action in response to intense glare from bright sunlight?",
+                        "img": "",
+                        "choices": "Levator labii superioris aleque nasi///Corrugator supercilii///Frontalis///Nasalis///Procerus",
+                        "answer": "Corrugator supercilii",
+                        "select": "",
+                        "explain": "การตอบสนองเพื่อป้องกันดวงตาจากแสงจ้าคือการขมวดคิ้ว (frowning/squinting) ซึ่งกล้ามเนื้อหลักที่ทำหน้าที่ดึงคิ้วเข้าหากันและลงล่างคือ Corrugator supercilii muscle ซึ่งถูกเลี้ยงโดย Facial nerve",
+                        "state": false
+                    },
+                    {
+                        "problem": "40. Which of the following cells originates from the neural crest during embryonic development?",
+                        "img": "",
+                        "choices": "Pyramidal cell///Ependymal cell///Astrocyte///Oligodendrocyte///Schwann cell",
+                        "answer": "Schwann cell",
+                        "select": "",
+                        "explain": "Neural crest cells เป็นกลุ่มเซลล์ของตัวอ่อนที่แยกตัวออกมาจาก neural tube แล้วเคลื่อนที่ไปพัฒนาเป็นโครงสร้างต่างๆ ทั่วร่างกาย โดยเฉพาะอย่างยิ่งระบบประสาทส่วนปลาย (PNS) Schwann cell ซึ่งทำหน้าที่สร้างปลอกไมอีลิน (myelin sheath) ใน PNS ก็เป็นเซลล์ที่เจริญมาจาก Neural crest ในขณะที่เซลล์อื่นๆ ในตัวเลือกเป็นเซลล์ในระบบประสาทส่วนกลาง (CNS) ซึ่งเจริญมาจาก Neural tube โดยตรง",
+                        "state": false
+                    }
+                ],
                 "facescalpfromms": [
                     {
                         "problem": "X3. An inferior alveolar nerve block involves injecting anesthetic near the mandibular foramen. Which nerve is the primary target of this injection?",
@@ -1911,9 +2274,9 @@
                         "problem": "34. A 59-year-old female presented with hoarseness and difficulty swallowing. Physical Examination: uvula deviated to right side and loss right gag reflex. Lesion at which is the most likely cause these symptoms.",
                         "img": "",
                         "choices": "Left glossopharyngeal nerve///Right glossopharyngeal nerve///Left vagus nerve///Right vagus nerve///Left hypoglossal nerve",
-                        "answer": "Right vagus nerve",
+                        "answer": "Left vagus nerve",
                         "select": "",
-                        "explain": "อาการเสียงแหบ (hoarseness) เกิดจากอัมพาตของสายเสียง กลืนลำบาก (difficulty swallowing) และการสูญเสีย gag reflex ด้านขวา ทั้งหมดนี้เป็นหน้าที่ของ Vagus nerve (CN X) โดยเฉพาะ Recurrent laryngeal branch ที่เลี้ยงกล้ามเนื้อสายเสียง การที่ลิ้นไก่เบี้ยวไปทางขวาแสดงว่ากล้ามเนื้อเพดานอ่อนด้านซ้ายอ่อนแรง (left CN X lesion) แต่อาการเสียงแหบและ gag reflex ด้านขวาเป็นตัวบ่งชี้ที่สำคัญกว่าซึ่งชี้ไปที่ Right vagus nerve lesion",
+                        "explain": "อาการลิ้นไก่เบี้ยวไปทางขวา (uvula deviated to right) และการสูญเสียรีเฟล็กซ์กลืน (loss of gag reflex) บ่งชี้ถึงความผิดปกติของเส้นประสาทเวกัส (Vagus nerve, CN X) ด้านซ้าย เนื่องจากเส้นประสาทเวกัสควบคุมกล้ามเนื้อที่ยกโคนลิ้นไก่และกล้ามเนื้อคอที่เกี่ยวข้องกับการกลืน การบาดเจ็บที่เส้นประสาทเวกัสด้านซ้ายจะทำให้ลิ้นไก่เบี้ยวไปทางขวา",
                         "state": false
                     },
                     {
@@ -10375,7 +10738,7 @@
                     questionSets.push(quizdata[key]);
                 }
             }
-            const checkboxIds = ['facescalpfromms', 'ns51mcq1', 'ns50mcq1', 'ns49mcq1', 'ns48mcq1', 'ns51mcq2', 'ns50mcq2', 'ns49mcq2', 'ns48mcq2', 'ns51mcq3_parasite', 'ns51mcq3_patho', 'ns50mcq3', 'ns49mcq3', 'ns48mcq3', 'ns51mcq4', 'ns50mcq4', 'ns49mcq4', 'brainstem', 'diencephalon', 'ans', 'somatosensory', 'narcoticdrug', 'faceanatomy', 'developmentns'];
+            const checkboxIds = ['ns52fmt1', 'facescalpfromms', 'ns51mcq1', 'ns50mcq1', 'ns49mcq1', 'ns48mcq1', 'ns51mcq2', 'ns50mcq2', 'ns49mcq2', 'ns48mcq2', 'ns51mcq3_parasite', 'ns51mcq3_patho', 'ns50mcq3', 'ns49mcq3', 'ns48mcq3', 'ns51mcq4', 'ns50mcq4', 'ns49mcq4', 'brainstem', 'diencephalon', 'ans', 'somatosensory', 'narcoticdrug', 'faceanatomy', 'developmentns'];
 
             allQuestions = questionSets.flat(); // Master list of all questions
 
