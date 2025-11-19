@@ -1070,9 +1070,9 @@ var quizdata = {
             "problem": "34. A 59-year-old female presented with hoarseness and difficulty swallowing. Physical Examination: uvula deviated to right side and loss right gag reflex. Lesion at which is the most likely cause these symptoms.",
             "img": "",
             "choices": "Left glossopharyngeal nerve///Right glossopharyngeal nerve///Left vagus nerve///Right vagus nerve///Left hypoglossal nerve",
-            "answer": "Right vagus nerve",
+            "answer": "Left vagus nerve",
             "select": "",
-            "explain": "อาการเสียงแหบ (hoarseness) เกิดจากอัมพาตของสายเสียง กลืนลำบาก (difficulty swallowing) และการสูญเสีย gag reflex ด้านขวา ทั้งหมดนี้เป็นหน้าที่ของ Vagus nerve (CN X) โดยเฉพาะ Recurrent laryngeal branch ที่เลี้ยงกล้ามเนื้อสายเสียง การที่ลิ้นไก่เบี้ยวไปทางขวาแสดงว่ากล้ามเนื้อเพดานอ่อนด้านซ้ายอ่อนแรง (left CN X lesion) แต่อาการเสียงแหบและ gag reflex ด้านขวาเป็นตัวบ่งชี้ที่สำคัญกว่าซึ่งชี้ไปที่ Right vagus nerve lesion",
+            "explain": "อาการลิ้นไก่เบี้ยวไปทางขวา (uvula deviated to right) และการสูญเสียรีเฟล็กซ์กลืน (loss of gag reflex) บ่งชี้ถึงความผิดปกติของเส้นประสาทเวกัส (Vagus nerve, CN X) ด้านซ้าย เนื่องจากเส้นประสาทเวกัสควบคุมกล้ามเนื้อที่ยกโคนลิ้นไก่และกล้ามเนื้อคอที่เกี่ยวข้องกับการกลืน การบาดเจ็บที่เส้นประสาทเวกัสด้านซ้ายจะทำให้ลิ้นไก่เบี้ยวไปทางขวา",
             "state": false
         },
         {

@@ -10505,7 +10505,12 @@
                 $question.html(current_question.problem.replace(/\n/g, '<br>'));
                 showImage(current_question.img);
 
-                const choicesArray = current_question.choices.split("///");
+                const choicesArray = (current_question.choices || "").split("///").map(s => s.trim()).filter(Boolean);
+                // Shuffle choices for random order (Fisher-Yates)
+                for (let i = choicesArray.length - 1; i > 0; i--) {
+                    const j = Math.floor(Math.random() * (i + 1));
+                    [choicesArray[i], choicesArray[j]] = [choicesArray[j], choicesArray[i]];
+                }
                 const choicesHtml = choicesArray.map(choice => `<button>${choice}</button>`).join('');
                 $choices.html(choicesHtml);
 
