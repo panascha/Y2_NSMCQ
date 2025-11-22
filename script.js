@@ -328,9 +328,9 @@ var quizdata = {
             "problem": "37. Where is the site of pain modulation that is modulated by anesthesia?",
             "img": "",
             "choices": "Gray matter///Pain receptor///Thalamus///Spinal cord///Cerebral cortex",
-            "answer": "Cerebral cortex",
+            "answer": "Thalamus",
             "select": "",
-            "explain": "การดมยาสลบ (general anesthesia) เป็นการระงับความเจ็บปวดในระดับการรับรู้ของสมองส่วนกลาง โดยยาสลบจะไปกดการทำงานของระบบประสาทในหลายระดับ แต่ตำแหน่งสำคัญที่สุดที่เกี่ยวข้องกับการ รับรู้ ความเจ็บปวด (pain perception) คือ Cerebral cortex ซึ่งเป็นศูนย์กลางการประมวลผลขั้นสูงของสมอง การที่สมองส่วนนี้ถูกกดการทำงานทำให้ผู้ป่วยไม่รู้สึกตัวและไม่รับรู้ถึงความเจ็บปวด",
+            "explain": "Thalamus เป็นโครงสร้างสำคัญที่ทำหน้าที่เป็นศูนย์กลางการส่งผ่านและประมวลผลสัญญาณความเจ็บปวด (pain signals) จากร่างกายไปยังสมองส่วนต่างๆ นอกจากนี้ Thalamus ยังมีบทบาทในการปรับเปลี่ยนและควบคุมการรับรู้ความเจ็บปวด (pain modulation) ซึ่งสามารถถูกกระทบโดยยาชา (anesthesia) ที่ออกฤทธิ์ลดความรู้สึกเจ็บปวด",
             "state": false
         },
         {
@@ -346,9 +346,9 @@ var quizdata = {
             "problem": "39. Paralysis of which of the following muscles would prevent an individual from effectively performing the protective action in response to intense glare from bright sunlight?",
             "img": "",
             "choices": "Levator labii superioris aleque nasi///Corrugator supercilii///Frontalis///Nasalis///Procerus",
-            "answer": "Corrugator supercilii",
+            "answer": "Procerus",
             "select": "",
-            "explain": "การตอบสนองเพื่อป้องกันดวงตาจากแสงจ้าคือการขมวดคิ้ว (frowning/squinting) ซึ่งกล้ามเนื้อหลักที่ทำหน้าที่ดึงคิ้วเข้าหากันและลงล่างคือ Corrugator supercilii muscle ซึ่งถูกเลี้ยงโดย Facial nerve",
+            "explain": "การปิดตาอย่างรวดเร็วเพื่อลดแสงจ้า (protective action against glare) เกิดจากการหดตัวของกล้ามเนื้อ Procerus ซึ่งอยู่บริเวณระหว่างคิ้ว การหดตัวของกล้ามเนื้อนี้จะทำให้ผิวหนังบริเวณหน้าผากและจมูกย่นเข้าหากัน ช่วยลดปริมาณแสงที่เข้าสู่ตาได้ หากกล้ามเนื้อนี้เป็นอัมพาต จะทำให้ไม่สามารถทำหน้าที่นี้ได้อย่างมีประสิทธิภาพ",
             "state": false
         },
         {
@@ -1531,7 +1531,7 @@ var quizdata = {
             "problem": "50. Patient came with hyperthermia, which nucleus of hypothalamus is most likely involved?",
             "img": "",
             "choices": "Suprachiasmatic///Supraoptic///Preoptic///Lateral///Anterior",
-            "answer": "Preoptic",
+            "answer": "Anterior",
             "select": "",
             "explain": "Hypothalamus ทำหน้าที่เป็นศูนย์ควบคุมอุณหภูมิของร่างกาย โดย Preoptic area และ Anterior nucleus มีหน้าที่หลักในการระบายความร้อน (heat dissipation) เมื่อร่างกายมีอุณหภูมิสูงขึ้น ดังนั้นรอยโรคที่บริเวณนี้จะทำให้กลไกการระบายความร้อนเสียไป ส่งผลให้เกิดภาวะตัวร้อน (hyperthermia)",
             "state": false
@@ -1940,7 +1940,7 @@ var quizdata = {
             "choices": "Pupil constriction///Eye adduction///Eye abduction///right superior oblique///right lateral rectus",
             "answer": "right lateral rectus",
             "select": "",
-            "explain": "อาการตาตก (ptosis), ตาเหล่ลงล่างและออกนอก (down and out) เป็นลักษณะเฉพาะของ Oculomotor nerve (CN III) palsy. เมื่อ CN III เสีย กล้ามเนื้อที่ยังทำงานได้คือ Superior Oblique (SO4) และ Lateral Rectus (LR6). การทำงานของ Lateral rectus (เลี้ยงโดย CN VI) จะดึงลูกตาออกด้านนอก (abduction) ทำให้ตาอยู่ในท่า 'out'. การ investigate เพิ่มเติมคือต้องตรวจการทำงานของ SO และ LR เพื่อยืนยันว่า CN IV และ VI ยังปกติ.",
+            "explain": "ถูกทั้ง SO, LR. อาการตาตก (ptosis), ตาเหล่ลงล่างและออกนอก (down and out) เป็นลักษณะเฉพาะของ Oculomotor nerve (CN III) palsy. เมื่อ CN III เสีย กล้ามเนื้อที่ยังทำงานได้คือ Superior Oblique (SO4) และ Lateral Rectus (LR6). การทำงานของ Lateral rectus (เลี้ยงโดย CN VI) จะดึงลูกตาออกด้านนอก (abduction) ทำให้ตาอยู่ในท่า 'out'. การ investigate เพิ่มเติมคือต้องตรวจการทำงานของ SO และ LR เพื่อยืนยันว่า CN IV และ VI ยังปกติ.",
             "state": false
         },
         {
@@ -2369,12 +2369,12 @@ var quizdata = {
             state: false
         },
         {
-            problem: "26. The physician has tested the patient's light reflex. When light is shone in the right eye, both pupils constrict. When light is shone in the left eye, only the right pupil constricts. Where is the lesion?",
+            problem: "26. The physician has tested the patient's light reflex. When light is shone in the right eye, both pupils constrict. When light is shone in the left eye nothing happens. Where is the lesion?",
             img: "https://drive.google.com/open?id=1jC52iEeqI1JZquI1S8WDUadb63HiM8iR&usp=drive_copy",
             choices: "Left Edinger-Westphal nucleus///Right Optic nerve///Left Optic tract///Right Oculomotor nucleus///Left Optic nerve",
-            answer: "Left Edinger-Westphal nucleus",
+            answer: "Left Optic nerve",
             select: "",
-            explain: "ผลการตรวจแสดงว่า afferent pathway (CN II) ทั้งสองข้างยังดีอยู่ (เพราะแสงเข้าตาซ้ายยังกระตุ้นตาขวาให้หดได้) และ efferent pathway (CN III) ข้างขวาก็ยังดี แต่ efferent pathway ไปยังตาซ้าย (left CN III) เสียหาย ทำให้ตาซ้ายไม่หดไม่ว่าจะกระตุ้นข้างไหนก็ตาม รอยโรคจึงอยู่ที่ left CN III หรือนิวเคลียสของมันคือ Left Edinger-Westphal nucleus",
+            explain: "การทดสอบ pupillary light reflex แสดงให้เห็นว่าเมื่อส่องแสงที่ตาขวา (ขวาปกติ) ทั้งสองรูม่านตาหดตัว (normal consensual and direct response) แต่เมื่อส่องแสงที่ตาซ้าย (ซ้ายมีปัญหา) ไม่มีการตอบสนองใดๆ แสดงว่าแสงไม่ได้ถูกส่งผ่าน optic nerve ซ้ายไปยัง pretectal area และ Edinger-Westphal nucleus ทำให้ไม่มี parasympathetic output ไปยัง iris sphincter muscle ของทั้งสองตา ดังนั้น lesion น่าจะอยู่ที่ Left Optic nerve",
             state: false
         },
         {
@@ -8885,9 +8885,9 @@ var quizdata = {
             "problem": "A patient with opioid dependence is administered a drug that causes dysphoria and hallucinations. The drug is a kappa-opioid receptor agonist and a mu-opioid receptor antagonist. Which drug was likely given?",
             "img": "",
             "choices": "Pentazocine///Morphine///Fentanyl///Methadone///Tramadol",
-            "answer": "Pentazocine",
+            "answer": "Nalbuphine",
             "select": "",
-            "explain": "ยาในกลุ่ม mixed agonist-antagonist เช่น Pentazocine และ Nalbuphine ออกฤทธิ์เป็น agonist ที่ kappa receptor ซึ่งทำให้เกิดฤทธิ์แก้ปวด แต่ก็ทำให้เกิดผลข้างเคียงทางจิตประสาทที่ไม่พึงประสงค์เช่น dysphoria และ psychotomimetic effects (hallucination) ได้ นอกจากนี้ยังมีฤทธิ์เป็น antagonist ที่ mu receptor ซึ่งหากให้ในผู้ที่ติด full agonist อยู่แล้วจะกระตุ้นให้เกิดอาการถอนยาได้",
+            "explain": "Nalbuphine เป็น mixed opioid agonist-antagonist ที่ทำหน้าที่เป็น kappa-opioid receptor agonist และ mu-opioid receptor antagonist การกระตุ้น kappa receptor จะทำให้เกิดอาการไม่พึงประสงค์ เช่น ความรู้สึกไม่สบายใจ (dysphoria) และภาพหลอน (hallucinations) จึงไม่เหมาะสำหรับผู้ป่วยที่มีภาวะติดยา",
             "state": false
         },
         {
@@ -9246,9 +9246,9 @@ var quizdata = {
         "problem": "Which muscle of mastication is responsible for elevation and protraction of the mandible?",
         "img": "",
         "choices": "Temporalis (Posterior part)///Masseter///Lateral pterygoid///Medial pterygoid///Temporalis (Anterior part)",
-        "answer": "Masseter",
+        "answer": "Lateral pterygoid",
         "select": "",
-        "explain": "กล้ามเนื้อ Masseter เป็นกล้ามเนื้อบดเคี้ยวที่แข็งแรงที่สุด ทำหน้าที่หลักในการยกขากรรไกรล่างขึ้น (elevation) เพื่อบดเคี้ยวอาหาร และยังมีส่วนช่วยในการยื่นขากรรไกรไปข้างหน้า (protraction) เล็กน้อย ถูกเลี้ยงโดย Masseteric nerve จาก Mandibular nerve (V3)",
+        "explain": "กล้ามเนื้อ Lateral pterygoid ทำหน้าที่ยกขากรรไกรล่างขึ้น (elevation) และดึงขากรรไกรล่างไปข้างหน้า (protraction) ซึ่งเป็นการเคลื่อนไหวที่สำคัญในการเปิดปากและบดเคี้ยวอาหาร กล้ามเนื้อนี้ถูกเลี้ยงโดย Lateral pterygoid nerve ซึ่งเป็นแขนงของ Mandibular nerve (V3)",
         "state": false
     }, {
         "problem": "A lesion to the marginal mandibular branch of CN. 7 would most likely affect which of the following muscles?",
@@ -9301,7 +9301,7 @@ var quizdata = {
     }, {
         "problem": "The action of widening the mouth when smiling is performed by which muscle?",
         "img": "",
-        "choices": "Buccinator///Zygomaticus major///Orbicularis oris///Risorius///Levator anguli oris",
+        "choices": "Buccinator///Zygomaticus major///Orbicularis oris///Risorius///Depressor anguli oris",
         "answer": "Risorius",
         "select": "",
         "explain": "กล้ามเนื้อ Risorius เป็นกล้ามเนื้อบางๆ ที่อยู่บริเวณแก้ม ทำหน้าที่ดึงมุมปากไปทางด้านข้างในแนวราบ (wider mouth) ทำให้เกิดรอยยิ้มแบบแสยะยิ้ม (grin) หรือยิ้มกว้าง",
