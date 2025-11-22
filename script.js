@@ -1351,9 +1351,9 @@ var quizdata = {
             "problem": "22. A congenital defect MRI : completely lack of cerebral hemisphere, but falx cerebri are present. They're covering calvarium, dura, leptomeninges, and skin",
             "img": "",
             "choices": "Schizencephaly///Hydranencephaly///Encephalomeningocystocele///Dandy-Walker syndrome///Holoprosencephaly",
-            "answer": "Hydranencephaly",
+            "answer": "Holoprosencephaly",
+            "explain": "Holoprosencephaly เป็นความผิดปกติแต่กำเนิดที่เกิดจากการพัฒนาที่ไม่สมบูรณ์ของสมองส่วนหน้า (forebrain) ทำให้เกิดการรวมกันของสมองซีกซ้ายและขวาเป็นหนึ่งเดียวกัน โดยมีลักษณะสำคัญคือ การขาดหายไปของ cerebral hemispheres แต่ยังคงมี falx cerebri, brainstem, และ cerebellum อยู่",
             "select": "",
-            "explain": "Hydranencephaly เป็นภาวะที่รุนแรงซึ่ง cerebral hemispheres (สมองใหญ่) ไม่เจริญและถูกแทนที่ด้วยถุงน้ำที่บรรจุ CSF แต่โครงสร้างอื่นๆ เช่น falx cerebri, brainstem, และ cerebellum ยังคงอยู่ ซึ่งตรงกับคำอธิบายใน MRI",
             "state": false
         },
         {
@@ -7698,7 +7698,7 @@ var quizdata = {
             "problem": "A patient has lost the ability to feel fine touch on their left leg. The lesion is most likely in the nucleus located in the medulla. Which nucleus is affected?",
             "img": "",
             "choices": "Right Nucleus Gracilis (NuGR)///Left Nucleus Gracilis (NuGR)///Right Nucleus Cuneatus (NuCu)///Left Nucleus Cuneatus (NuCu)///Right Spinal Trigeminal Nuc.",
-            "answer": "Right Nucleus Gracilis (NuGR)",
+            "answer": "Left Nucleus Gracilis (NuGR)",
             "select": "",
             "explain": "Fine touch จากขา (lower limb) ถูกนำโดย Fasciculus Gracilis (FGr) ใน DCML pathway ซึ่งเป็น 1st order neuron ด้านเดียวกัน (ipsilateral) และจะไป synapse กับ 2nd order neuron ที่ Nucleus Gracilis (NuGR) ใน medulla ก่อนที่จะไขว้ไปฝั่งตรงข้าม ดังนั้นการสูญเสียความรู้สึกที่ขาซ้าย แสดงว่ารอยโรคอยู่ที่ Nucleus Gracilis ด้านซ้าย",
             "state": false
@@ -8884,7 +8884,7 @@ var quizdata = {
         {
             "problem": "A patient with opioid dependence is administered a drug that causes dysphoria and hallucinations. The drug is a kappa-opioid receptor agonist and a mu-opioid receptor antagonist. Which drug was likely given?",
             "img": "",
-            "choices": "Pentazocine///Morphine///Fentanyl///Methadone///Tramadol",
+            "choices": "Pentazocine///Morphine///Fentanyl///Methadone///Tramadol///Nalbuphine",
             "answer": "Nalbuphine",
             "select": "",
             "explain": "Nalbuphine เป็น mixed opioid agonist-antagonist ที่ทำหน้าที่เป็น kappa-opioid receptor agonist และ mu-opioid receptor antagonist การกระตุ้น kappa receptor จะทำให้เกิดอาการไม่พึงประสงค์ เช่น ความรู้สึกไม่สบายใจ (dysphoria) และภาพหลอน (hallucinations) จึงไม่เหมาะสำหรับผู้ป่วยที่มีภาวะติดยา",
@@ -9243,12 +9243,12 @@ var quizdata = {
         "explain": "กล้ามเนื้อ Depressor anguli oris ทำหน้าที่ดึงมุมปากลง (depresses the angle of mouth) ทำให้เกิดการแสดงสีหน้าเศร้า (sadness) หรือการทำปากคว่ำ กล้ามเนื้อนี้ถูกเลี้ยงโดย Marginal mandibular branch และ Buccal branch ของ Facial nerve (CN. 7)",
         "state": false
     }, {
-        "problem": "Which muscle of mastication is responsible for elevation and protraction of the mandible?",
+        "problem": "Which muscle of mastication is responsible for protraction of the mandible?",
         "img": "",
         "choices": "Temporalis (Posterior part)///Masseter///Lateral pterygoid///Medial pterygoid///Temporalis (Anterior part)",
         "answer": "Lateral pterygoid",
         "select": "",
-        "explain": "กล้ามเนื้อ Lateral pterygoid ทำหน้าที่ยกขากรรไกรล่างขึ้น (elevation) และดึงขากรรไกรล่างไปข้างหน้า (protraction) ซึ่งเป็นการเคลื่อนไหวที่สำคัญในการเปิดปากและบดเคี้ยวอาหาร กล้ามเนื้อนี้ถูกเลี้ยงโดย Lateral pterygoid nerve ซึ่งเป็นแขนงของ Mandibular nerve (V3)",
+        "explain": "กล้ามเนื้อ Lateral pterygoid เป็นกล้ามเนื้อเคี้ยวเอื้องที่ทำหน้าที่ยื่นขากรรไกรล่างไปข้างหน้า (protraction of mandible) นอกจากนี้ยังช่วยในการอ้าปาก (opening the mandible) และการเคลื่อนขากรรไกรไปด้านข้าง (side-to-side movement) กล้ามเนื้อนี้ถูกเลี้ยงโดย Lateral pterygoid nerve ซึ่งเป็นแขนงของ Mandibular nerve (V3)",
         "state": false
     }, {
         "problem": "A lesion to the marginal mandibular branch of CN. 7 would most likely affect which of the following muscles?",
