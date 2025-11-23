@@ -654,9 +654,9 @@ var quizdata = {
             "problem": "73. Maxillary a. branch หลัง lateral pterygoid เสียหาย ถามว่า a. ไหน intact อยู่",
             "img": "",
             "choices": "Buccal a.///Inferior alveolar a.///Descending palatine a.///Posterior superior alveolar a.///Infraorbital a.",
-            "answer": "Buccal a.",
+            "answer": "Inferior alveolar a.",
             "select": "",
-            "explain": "Maxillary artery แบ่งเป็น 3 ส่วนโดยใช้กล้ามเนื้อ lateral pterygoid เป็นเกณฑ์ แขนงที่มาจากส่วนที่สาม (อยู่ด้านหน้าหรือหลังต่อกล้ามเนื้อ) ได้แก่ Posterior superior alveolar, Infraorbital, Descending palatine artery ส่วน Inferior alveolar และ Middle meningeal มาจากส่วนแรก Buccal artery มาจากส่วนที่สอง (ส่วนที่อยู่บนกล้ามเนื้อ) ถ้าหากโจทย์หมายถึงส่วนที่สาม (pterygopalatine part) เสียหาย แขนงจากส่วนแรกและส่วนที่สองอย่าง Buccal a. และ Inferior alveolar a. จะยังคงอยู่ แต่โดยทั่วไป Buccal a. เป็นแขนงจากส่วนที่ 2 ซึ่งแยกออกมาอย่างชัดเจน",
+            "explain": "Maxillary artery แบ่งเป็น 3 ส่วนตามตำแหน่งของกล้ามเนื้อ Lateral pterygoid. แขนงที่ออกมาจากส่วนที่ 2 (หลัง Lateral pterygoid) ได้แก่ Buccal a., Posterior superior alveolar a., Infraorbital a., และ Descending palatine a. ส่วน Inferior alveolar a. ออกมาจากส่วนที่ 1 (ก่อน Lateral pterygoid) ดังนั้นหากแขนงหลัง Lateral pterygoid เสียหาย Inferior alveolar a. จะยังคงอยู่และทำงานได้ปกติ",
             "state": false
         },
     ],
@@ -8805,6 +8805,640 @@ var quizdata = {
             "answer": "Dorsal spinocerebellar tr.",
             "select": "",
             "explain": "Dorsal Spinocerebellar tract รับข้อมูล proprioception จาก Muscle Spindles และ GTOs ของขาและลำตัวส่วนล่าง และส่งไปยัง cerebellum ฝั่งเดียวกัน (ipsilateral) โดยไม่มีการข้ามฝั่ง",
+            "state": false
+        }
+    ],
+    "Sensory by AI": [
+        {
+            "problem": "1. A stimulus must have a strength greater than or equal to a certain level to initiate a transduction process. What is this minimum level of stimulus strength called?",
+            "img": "",
+            "choices": "Adaptation point///Modality strength///Stimulation limit///Sensory threshold///Receptive minimum",
+            "answer": "Sensory threshold",
+            "select": "",
+            "explain": "สิ่งกระตุ้นที่มากระทำต่อตัวรับความรู้สึกจะต้องมีความแรงมากกว่าหรือเท่ากับระดับหนึ่งเสมอจึงจะสามารถกระตุ้นให้เกิดกระบวนการแปลงสัญญาณได้ ระดับความแรงต่ำที่สุดของสิ่งกระตุ้นที่สามารถทำให้เกิดการตอบสนองได้นี้เรียกว่า sensory threshold",
+            "state": false
+        },
+        {
+            "problem": "2. Which type of sensory nerve fiber is myelinated and responsible for transmitting signals of fine touch, pressure, and proprioception?",
+            "img": "",
+            "choices": "Type C fibers///Type A-delta fibers///Type A-beta fibers///Type IV fibers///Type B fibers only",
+            "answer": "Type A-beta fibers",
+            "select": "",
+            "explain": "ใยประสาทรับความรู้สึกมีหลายขนาด Type A-beta (Aβ) เป็นใยประสาทขนาดใหญ่ที่มีเยื่อไมอีลินหุ้ม ทำให้สามารถนำสัญญาณประสาทได้เร็ว มีหน้าที่หลักในการนำความรู้สึกสัมผัสที่ละเอียด (fine touch) แรงกด (pressure) และการรับรู้ตำแหน่งข้อต่อ (proprioception) ซึ่งเป็นข้อมูลที่ต้องส่งไปยังสมองอย่างรวดเร็ว",
+            "state": false
+        },
+        {
+            "problem": "3. A patient experiences a loss of pain and temperature sensation on the left side of their body. Which sensory pathway is most likely damaged?",
+            "img": "",
+            "choices": "Dorsal column pathway///Spinocerebellar pathway///Corticospinal pathway///Anterolateral pathway///Medial lemniscus path",
+            "answer": "Anterolateral pathway",
+            "select": "",
+            "explain": "วิถีประสาท Anterolateral pathway หรือ spinothalamic tract ทำหน้าที่หลักในการนำความรู้สึกเจ็บปวด (pain) และอุณหภูมิ (thermal) จากร่างกายไปยังสมอง ดังนั้นเมื่อ pathway นี้ได้รับความเสียหายจะทำให้สูญเสียความรู้สึกดังกล่าว",
+            "state": false
+        },
+        {
+            "problem": "4. The ability to identify a common object, like a key, placed in the hand without looking at it is known as what?",
+            "img": "",
+            "choices": "Barognosis ability///Graphesthesia skill///Two-point testing///Stereognosis ability///Topagnosia function",
+            "answer": "Stereognosis ability",
+            "select": "",
+            "explain": "Stereognosis คือความสามารถของสมองส่วน parietal lobe ในการรับรู้และบอกรูปร่างรูปทรงของวัตถุจากการสัมผัสโดยไม่ใช้สายตา การที่ไม่สามารถทำได้เรียกว่า Astereognosis ซึ่งเป็นอาการแสดงหนึ่งของ parietal lobe sign",
+            "state": false
+        },
+        {
+            "problem": "5. According to the two-point discrimination test, which body region would have the smallest threshold distance, indicating the highest sensory acuity?",
+            "img": "",
+            "choices": "Upper Arm Surface///Skin on the Back///Sole of the Foot///First finger (index)///Forehead Region",
+            "answer": "First finger (index)",
+            "select": "",
+            "explain": "บริเวณที่มี two-point discrimination threshold ต่ำที่สุด (สามารถแยกแยะสองจุดที่ใกล้กันได้ดีที่สุด) คือบริเวณที่มี innervation density สูงและมีพื้นที่ขนาดใหญ่ใน somatic sensory cortex ซึ่งปลายนิ้วชี้ (first finger) เป็นบริเวณที่มีคุณสมบัติดังกล่าวเด่นชัดที่สุด",
+            "state": false
+        },
+        {
+            "problem": "6. An abnormal sensation described as tingling, pricking, or 'pins and needles' without an apparent physical cause is termed as:",
+            "img": "",
+            "choices": "Hypoesthesia///Hyperesthesia///Anesthesia///Paresthesia///Dysesthesia",
+            "answer": "Paresthesia",
+            "select": "",
+            "explain": "Paresthesia หรือ Para-esthesia คือความรู้สึกสัมผัสที่ผิดเพี้ยนไปจากปกติ เช่น อาการเหน็บชา ชายิบๆ หรือเหมือนมีเข็มทิ่ม เกิดขึ้นได้เองโดยไม่มีสิ่งกระตุ้น มักเกิดจากการกดทับเส้นประสาทชั่วคราว",
+            "state": false
+        },
+        {
+            "problem": "7. A patient with a parietal lobe lesion on the right side of the brain would most likely experience sensory deficits on which part of the body?",
+            "img": "",
+            "choices": "The right side of the body///The left side of the body///Both sides of the body///Only in the lower limbs///Only in the upper limbs",
+            "answer": "The left side of the body",
+            "select": "",
+            "explain": "ข้อมูลความรู้สึกจากร่างกายแต่ละซีกจะถูกส่งข้ามฝั่ง (decussation) ไปยังสมองซีกตรงข้ามเพื่อทำการประมวลผล ดังนั้นเมื่อเกิดพยาธิสภาพที่ parietal lobe ด้านขวา จะทำให้เกิดการสูญเสียความรู้สึกในร่างกายซีกซ้าย (contralateral sensory loss)",
+            "state": false
+        },
+        {
+            "problem": "8. Which sensory pathway is responsible for transmitting detailed information such as fine touch, vibration, and proprioception?",
+            "img": "",
+            "choices": "Anterolateral pathway///Spinothalamic pathway///Trigeminothalamic way///Dorsal column pathway///Spinocerebellar path",
+            "answer": "Dorsal column pathway",
+            "select": "",
+            "explain": "วิถีประสาท Dorsal column pathway (หรือ dorsal column-medial lemniscus system) ทำหน้าที่นำสัญญาณความรู้สึกที่ต้องการความละเอียดสูงและความรวดเร็ว ได้แก่ fine touch, proprioception, vibration และ localized touch ไปยังสมอง",
+            "state": false
+        },
+        {
+            "problem": "9. The phenomenon where a receptor decreases its response to a constant and prolonged stimulus, such as no longer noticing the smell of perfume after a while, is called:",
+            "img": "",
+            "choices": "Sensory thresholding///Receptor inhibition///Transduction failure///Sensory adaptation///Stimulus attenuation",
+            "answer": "Sensory adaptation",
+            "select": "",
+            "explain": "Adaptation คือการปรับตัวของตัวรับความรู้สึก โดยจะลดการตอบสนองลงเมื่อถูกกระตุ้นด้วยสิ่งกระตุ้นเดิมๆเป็นเวลานาน ทำให้เรารู้สึกว่าสิ่งกระตุ้นนั้นเบาลงหรือไม่รู้สึกอีกต่อไป เช่น การที่เราไม่ได้กลิ่นน้ำหอมของตัวเองหลังจากฉีดไปสักพัก",
+            "state": false
+        },
+        {
+            "problem": "10. Which type of sensory nerve fiber has the slowest conduction velocity and is typically unmyelinated, responsible for aching pain and temperature?",
+            "img": "",
+            "choices": "Type A-alpha fibers///Type A-beta fibers///Type A-delta fibers///Type C fibers///Type II fibers",
+            "answer": "Type C fibers",
+            "select": "",
+            "explain": "Type C fibers เป็นใยประสาทที่มีขนาดเล็กที่สุดและไม่มีเยื่อไมอีลินหุ้ม (unmyelinated) ทำให้มีค่าการนำกระแสประสาท (conduction velocity) ช้าที่สุด ทำหน้าที่นำความรู้สึกปวดตื้อๆ (aching pain) ความรู้สึกคัน และอุณหภูมิ",
+            "state": false
+        },
+        {
+            "problem": "11. A condition of decreased sensitivity to touch is referred to as:",
+            "img": "",
+            "choices": "Anesthesia///Paresthesia///Hyperesthesia///Allodynia///Hypoesthesia",
+            "answer": "Hypoesthesia",
+            "select": "",
+            "explain": "Hypoesthesia หรือ Hypesthesia เป็นศัพท์ทางการแพทย์ที่หมายถึงภาวะที่การรับความรู้สึกโดยเฉพาะการสัมผัสลดลงกว่าปกติ ผู้ป่วยอาจบรรยายว่าเป็นอาการชาหนาๆ หรือรู้สึกน้อยลงเมื่อถูกสัมผัส",
+            "state": false
+        },
+        {
+            "problem": "12. In a clinical setting, Nerve Conduction Velocity (NCV) tests are useful for detecting which type of pathology?",
+            "img": "",
+            "choices": "Receptor damage syndromes///Spinal cord tract lesions///Demyelinating syndromes///Parietal cortex injuries///Thalamic pain syndromes",
+            "answer": "Demyelinating syndromes",
+            "select": "",
+            "explain": "การตรวจ Nerve Conduction Velocity (NCV) เป็นการวัดความเร็วในการนำสัญญาณของเส้นประสาทส่วนปลาย ในโรคที่ทำให้เกิดการทำลายปลอกไมอีลิน (demyelinating syndrome) เช่น Guillain-Barré Syndrome (GBS) จะทำให้ค่า NCV ลดลงอย่างชัดเจน จึงเป็นการตรวจที่มีประโยชน์ในการวินิจฉัยโรคกลุ่มนี้",
+            "state": false
+        },
+        {
+            "problem": "13. The area of skin supplied by a single sensory unit is called its:",
+            "img": "",
+            "choices": "Dermatome field///Innervation zone///Sensory territory///Receptive field///Stimulus domain",
+            "answer": "Receptive field",
+            "select": "",
+            "explain": "Receptive field หมายถึงพื้นที่ของผิวหนังที่ถูกดูแลโดย sensory unit เพียงหนึ่งตัว ซึ่งขนาดของ receptive field จะแปรผกผันกับความสามารถในการแยกแยะตำแหน่ง บริเวณที่ receptive field มีขนาดเล็กและซ้อนทับกันมากจะรับความรู้สึกได้ละเอียดกว่า",
+            "state": false
+        },
+        {
+            "problem": "14. A patient is unable to recognize numbers or letters traced on the palm of their hand. What is this condition called?",
+            "img": "",
+            "choices": "Astereognosis///Abarognosis///Agraphesthesia///Atopognosia///Analgesia",
+            "answer": "Agraphesthesia",
+            "select": "",
+            "explain": "Agraphesthesia คือภาวะที่ไม่สามารถรับรู้และบอกได้ว่าเป็นตัวอักษรหรือสัญลักษณ์อะไรเมื่อถูกวาดบนผิวหนัง เป็นอาการแสดงหนึ่งของการทำงานที่ผิดปกติของสมองส่วน parietal lobe ซึ่งทำหน้าที่ประมวลผลความรู้สึกในระดับที่ซับซ้อน",
+            "state": false
+        },
+        {
+            "problem": "15. Which brain structure acts as the primary relay and filtering station for almost all sensory information coming from the body to the cortex?",
+            "img": "",
+            "choices": "Hypothalamus///Cerebellum///Basal ganglia///Hippocampus///Thalamus",
+            "answer": "Thalamus",
+            "select": "",
+            "explain": "Thalamus ทำหน้าที่เป็นสถานีถ่ายทอดและกรองข้อมูลความรู้สึกที่สำคัญที่สุด โดยรับสัญญาณประสาทความรู้สึกเกือบทุกชนิดจากร่างกายและส่งต่อไปยังสมองส่วน cerebral cortex ที่เกี่ยวข้องเพื่อทำการประมวลผลต่อไป",
+            "state": false
+        },
+        {
+            "problem": "16. An unpleasant, abnormal sensation, whether spontaneous or evoked, is best described by which term?",
+            "img": "",
+            "choices": "Paresthesia///Numbness///Hypoesthesia///Dysesthesia///Analgesia",
+            "answer": "Dysesthesia",
+            "select": "",
+            "explain": "Dysesthesia เป็นคำที่ใช้อธิบายความรู้สึกที่ผิดปกติและไม่พึงประสงค์ เช่น อาการปวดแสบปวดร้อน หรือคันยิบๆ ที่เกิดขึ้นเองหรือเมื่อถูกกระตุ้นเบาๆ ซึ่งต่างจาก paresthesia ที่เป็นความรู้สึกผิดปกติแต่ไม่จำเป็นต้องไม่พึงประสงค์เสมอไป",
+            "state": false
+        },
+        {
+            "problem": "17. A lesion affecting the dorsal root ganglion would primarily disrupt which part of the sensory pathway?",
+            "img": "",
+            "choices": "Second-order neurons///First-order neurons///Third-order neurons///Motor neurons///Interneurons",
+            "answer": "First-order neurons",
+            "select": "",
+            "explain": "Dorsal root ganglion (DRG) เป็นตำแหน่งที่อยู่ของ cell body ของเซลล์ประสาทรับความรู้สึกตัวแรก (first-order sensory neurons) ซึ่งทำหน้าที่รับสัญญาณจาก receptor และส่งเข้าสู่ไขสันหลัง ดังนั้นความเสียหายที่ DRG จะกระทบต่อ first-order neuron โดยตรง",
+            "state": false
+        },
+        {
+            "problem": "18. Which sensation is NOT transmitted via the anterolateral pathway?",
+            "img": "",
+            "choices": "Crude touch sensation///Aching pain sensation///Thermal sensation///Vibration sensation///Itch sensation",
+            "answer": "Vibration sensation",
+            "select": "",
+            "explain": "Anterolateral pathway ทำหน้าที่นำความรู้สึก crude touch, pain, thermal, tickle และ itch ส่วนความรู้สึกสั่นสะเทือน (vibration) เป็นความรู้สึกที่ต้องการความแม่นยำสูงซึ่งจะถูกนำไปทาง Dorsal column pathway",
+            "state": false
+        },
+        {
+            "problem": "19. According to the sensory homunculus, which body part has the largest representation in the somatic sensory cortex?",
+            "img": "",
+            "choices": "The Trunk area///The Legs area///The Hands and Lips///The Elbow area///The Feet area",
+            "answer": "The Hands and Lips",
+            "select": "",
+            "explain": "Sensory homunculus คือแผนที่แสดงสัดส่วนของ cerebral cortex ที่ใช้ประมวลผลความรู้สึกจากส่วนต่างๆ ของร่างกาย บริเวณที่มีความหนาแน่นของตัวรับความรู้สึกสูงและต้องการความละเอียดในการรับสัมผัสมาก เช่น มือและริมฝีปาก จะมีพื้นที่แสดงผลใน cortex ขนาดใหญ่ที่สุด",
+            "state": false
+        },
+        {
+            "problem": "20. Pain that is sharp, well-localized, and described as 'pricking' is transmitted primarily by which type of nerve fibers?",
+            "img": "",
+            "choices": "Type A-beta fibers///Type A-alpha fibers///Type C fibers///Type A-delta fibers///Type B fibers",
+            "answer": "Type A-delta fibers",
+            "select": "",
+            "explain": "ความรู้สึกเจ็บปวดแบบเฉียบพลันและบอกตำแหน่งได้ชัดเจน (fast, sharp, pricking pain) จะถูกนำโดยใยประสาท Type A-delta (Aδ) ซึ่งเป็นใยประสาทที่มีเยื่อไมอีลินหุ้มบางๆ ทำให้สามารถนำสัญญาณได้เร็วกว่า Type C fibers ที่นำความรู้สึกปวดแบบตื้อๆ ช้าๆ",
+            "state": false
+        },
+        {
+            "problem": "21. A patient with a spinal cord injury at the T10 level would likely experience loss of sensation starting from where?",
+            "img": "",
+            "choices": "Below the level of the navel///From the neck down///Only in the lower legs///In a glove-and-stocking pattern///From the chest down",
+            "answer": "Below the level of the navel",
+            "select": "",
+            "explain": "Dermatome คือพื้นที่ผิวหนังที่รับความรู้สึกโดย nerve root เส้นเดียว ระดับ T10 dermatome จะอยู่ที่บริเวณสะดือ (navel) ดังนั้นการบาดเจ็บที่ไขสันหลังระดับ T10 จะทำให้เกิดการสูญเสียความรู้สึกตั้งแต่ระดับสะดือลงไป",
+            "state": false
+        },
+        {
+            "problem": "22. The inability to correctly assess the weight of an object is known as:",
+            "img": "",
+            "choices": "Astereognosis///Abarognosis///Agraphesthesia///Atopognosia///Anosognosia",
+            "answer": "Abarognosis",
+            "select": "",
+            "explain": "Abarognosis คือภาวะที่ไม่สามารถประเมินหรือแยกแยะน้ำหนักของวัตถุได้ ซึ่งเป็นความผิดปกติของการประมวลผลความรู้สึกในระดับสูงที่สมองส่วน parietal lobe",
+            "state": false
+        },
+        {
+            "problem": "23. In older adults, a decline in sensory function, such as an increased touch threshold, can primarily increase the risk of what?",
+            "img": "",
+            "choices": "Hearing loss///Falls and injuries///Memory decline///Taste dysfunction///Vision impairment",
+            "answer": "Falls and injuries",
+            "select": "",
+            "explain": "ในผู้สูงอายุ ระบบประสาทรับความรู้สึกจะเสื่อมลง ทำให้การรับสัมผัส การรับรู้ตำแหน่งข้อต่อ (proprioception) และการทรงตัวลดลง ส่งผลให้มีความเสี่ยงต่อการหกล้มและเกิดการบาดเจ็บต่างๆ ได้ง่ายขึ้น",
+            "state": false
+        },
+        {
+            "problem": "24. A mononeuropathy, such as carpal tunnel syndrome, typically causes sensory loss in what pattern?",
+            "img": "",
+            "choices": "Affecting the entire limb///In the distribution of a single nerve///In a contralateral body half///Below a specific spinal level///In a dermatomal pattern",
+            "answer": "In the distribution of a single nerve",
+            "select": "",
+            "explain": "Mononeuropathy คือโรคของเส้นประสาทส่วนปลายเพียงเส้นเดียว อาการชาหรืออ่อนแรงจะเกิดขึ้นเฉพาะในบริเวณที่เส้นประสาทเส้นนั้นไปเลี้ยง (distribution of a single nerve) เช่น carpal tunnel syndrome จะมีอาการชาที่นิ้วโป้ง นิ้วชี้ นิ้วกลาง และครึ่งหนึ่งของนิ้วนาง ตามบริเวณที่ median nerve ไปเลี้ยง",
+            "state": false
+        },
+        {
+            "problem": "25. The conversion of a physical stimulus (like light or sound) into an electrical signal in a neuron is called:",
+            "img": "",
+            "choices": "Adaptation process///Conduction process///Synaptic transmission///Transduction process///Modulation process",
+            "answer": "Transduction process",
+            "select": "",
+            "explain": "Transduction process คือกระบวนการที่ตัวรับความรู้สึก (receptor) ทำหน้าที่แปลงพลังงานของสิ่งกระตุ้นในรูปแบบต่างๆ เช่น พลังงานกล แสง เสียง ให้กลายเป็นสัญญาณไฟฟ้า (electrical impulse) ซึ่งเป็นภาษาที่ระบบประสาทสามารถเข้าใจได้",
+            "state": false
+        },
+        {
+            "problem": "26. Which of the following is an example of a 'positive' sensory symptom?",
+            "img": "",
+            "choices": "Numbness (no sensation)///Hypoesthesia (reduced sensation)///Anesthesia (absent sensation)///Tingling sensation (paresthesia)///Agnosia (inability to recognize)",
+            "answer": "Tingling sensation (paresthesia)",
+            "select": "",
+            "explain": "อาการทางระบบรับความรู้สึกแบ่งเป็นอาการทางลบ (negative symptom) คือการสูญเสียความรู้สึก เช่น ชา ไม่รู้สึก และอาการทางบวก (positive symptom) คือการมีความรู้สึกผิดปกติเกิดขึ้นมา เช่น อาการแปล๊บๆ ยิบๆ หรือปวดแสบปวดร้อน ดังนั้น tingling sensation (paresthesia) จึงจัดเป็น positive symptom",
+            "state": false
+        },
+        {
+            "problem": "27. A complete hemisection of the spinal cord (Brown-Séquard syndrome) on the right side would cause what sensory loss below the lesion?",
+            "img": "",
+            "choices": "Loss of pain on the right side///Loss of proprioception on the left///Loss of pain on the left side///Loss of all sensation on the left side///Loss of all sensation on the right",
+            "answer": "Loss of pain on the left side",
+            "select": "",
+            "explain": "ใน Brown-Séquard syndrome ที่ไขสันหลังด้านขวาถูกตัดครึ่ง จะเกิดการสูญเสียความรู้สึกที่แตกต่างกันสองฝั่ง: 1) ด้านเดียวกับรอยโรค (ขวา) จะสูญเสีย proprioception และ fine touch (Dorsal column) 2) ด้านตรงข้ามกับรอยโรค (ซ้าย) จะสูญเสีย pain และ temperature (Anterolateral pathway) เนื่องจาก pathway นี้ได้ไขว้ไปฝั่งตรงข้ามแล้วในไขสันหลัง",
+            "state": false
+        },
+        {
+            "problem": "28. The density of sensory units in a specific area of the skin is referred to as:",
+            "img": "",
+            "choices": "Receptive density///Innervation density///Threshold mapping///Sensory acuity///Stimulus focusing",
+            "answer": "Innervation density",
+            "select": "",
+            "explain": "Innervation density หมายถึงความหนาแน่นของ sensory units ที่มาเลี้ยงในพื้นที่ผิวหนังหนึ่งหน่วย บริเวณที่มี innervation density สูงจะมีความสามารถในการรับความรู้สึกและแยกแยะตำแหน่งได้ดีกว่าบริเวณที่มีความหนาแน่นต่ำ",
+            "state": false
+        },
+        {
+            "problem": "29. A lesion in the thalamus can cause profound sensory loss on which side of the body?",
+            "img": "",
+            "choices": "Ipsilateral side (same side)///Bilateral (both sides)///Contralateral side (opposite side)///Primarily in the face only///Primarily in the limbs only",
+            "answer": "Contralateral side (opposite side)",
+            "select": "",
+            "explain": "Thalamus เป็นศูนย์รวมข้อมูลความรู้สึกก่อนส่งไปยัง cortex ข้อมูลจากร่างกายซีกซ้ายจะถูกส่งไปยัง thalamus ด้านขวา และข้อมูลจากร่างกายซีกขวาจะถูกส่งไปยัง thalamus ด้านซ้าย ดังนั้นความเสียหายที่ thalamus ข้างใดข้างหนึ่งจะทำให้เกิดการสูญเสียความรู้สึกครึ่งซีกในด้านตรงข้าม (contralateral hemisensory loss)",
+            "state": false
+        },
+        {
+            "problem": "30. Radiculopathy, or nerve root compression, often presents with pain and sensory changes in what characteristic pattern?",
+            "img": "",
+            "choices": "A stocking-glove distribution///A dermatomal distribution///A contralateral body distribution///A non-specific, diffuse pattern///The distribution of a peripheral nerve",
+            "answer": "A dermatomal distribution",
+            "select": "",
+            "explain": "Radiculopathy คือภาวะที่รากประสาท (nerve root) ถูกกดทับ ซึ่งจะทำให้เกิดอาการปวดร้าว ชา หรืออ่อนแรง ตามบริเวณผิวหนังที่รากประสาทเส้นนั้นไปเลี้ยง ซึ่งเรียกว่า dermatome ดังนั้นอาการจะปรากฏเป็นแถบตาม dermatomal distribution ที่จำเพาะของรากประสาทเส้นนั้นๆ",
+            "state": false
+        }
+    ],
+    "Pain Itch by AI": [
+        {
+            "problem": "1. A patient describes a deep, dull, and poorly localized cramping pain in the abdomen. Which of the following best classifies this type of pain?",
+            "img": "",
+            "choices": "Somatic pain///Visceral pain///Neuropathic pain///Referred pain///Psychogenic pain",
+            "answer": "Visceral pain",
+            "select": "",
+            "explain": "Visceral pain คือความเจ็บปวดที่เกิดจากอวัยวะภายใน (viscera) มีลักษณะจำเพาะคือเป็นอาการปวดตื้อๆ (dull pain) ปวดบีบๆ (cramping) และไม่สามารถระบุตำแหน่งที่ปวดได้ชัดเจน (poorly localized) ซึ่งตรงข้ามกับ Somatic pain ที่จะคมชัดและระบุตำแหน่งได้ง่ายกว่า",
+            "state": false
+        },
+        {
+            "problem": "2. A patient with a kidney stone reports severe, intermittent waves of cramping pain in the flank area. What is the most appropriate medical term for this type of pain?",
+            "img": "",
+            "choices": "Throbbing pain///Burning pain///Tingling pain///Colicky pain///Stabbing pain",
+            "answer": "Colicky pain",
+            "select": "",
+            "explain": "Colicky pain หรืออาการปวดบีบ คือลักษณะการปวดที่เกิดจากการบีบตัวอย่างรุนแรงของอวัยวะภายในที่เป็นท่อกลวง (hollow viscus organ) เช่น ลำไส้ (intestine) ท่อไต (ureter) หรือท่อน้ำดี (biliary tract) โดยจะมีลักษณะปวดรุนแรงเป็นพักๆ สลับกับช่วงที่อาการทุเลาลง",
+            "state": false
+        },
+        {
+            "problem": "3. Which of the following best describes the characteristics of somatic pain?",
+            "img": "",
+            "choices": "Dull, diffuse, and hard to locate///Sharp, pricking, and well-localized///Burning, tingling, and radiating pain///Deep, squeezing, and constant ache///Throbbing, pulsating, and rhythmic",
+            "answer": "Sharp, pricking, and well-localized",
+            "select": "",
+            "explain": "Somatic pain คือความเจ็บปวดที่เกิดจากร่างกายภายนอก (ผิวหนัง กล้ามเนื้อ) หรือ parietal layer ของเยื่อบุอวัยวะ มีลักษณะเป็น fast pain, pricking pain, sharp pain คือเจ็บแปล๊บ เจ็บจี๊ด และสามารถระบุตำแหน่งที่เจ็บได้อย่างแม่นยำ (well-localized)",
+            "state": false
+        },
+        {
+            "problem": "4. After a sunburn, even a light touch on the skin can cause intense pain. This phenomenon of increased pain sensitivity is known as:",
+            "img": "",
+            "choices": "Analgesia///Anesthesia///Paresthesia///Hyperalgesia///Allodynia",
+            "answer": "Hyperalgesia",
+            "select": "",
+            "explain": "Hyperalgesia คือภาวะที่ตอบสนองต่อสิ่งกระตุ้นที่ทำให้เจ็บปวด (painful stimulus) มากกว่าปกติ เกิดจากการที่เนื้อเยื่อที่อักเสบมีการหลั่งสารเคมีเช่น prostaglandins, bradykinin ซึ่งไปลดระดับ pain threshold ของ nociceptors ทำให้เจ็บปวดได้ง่ายและรุนแรงขึ้น",
+            "state": false
+        },
+        {
+            "problem": "5. A patient with acute cholecystitis (gallbladder inflammation) complains of pain in the right shoulder tip. This phenomenon is an example of:",
+            "img": "",
+            "choices": "Visceral pain///Somatic pain///Referred pain///Neuropathic pain///Phantom pain",
+            "answer": "Referred pain",
+            "select": "",
+            "explain": "Referred pain คือความเจ็บปวดที่เกิดจากพยาธิสภาพของอวัยวะภายใน (visceral organ) แต่กลับไปรู้สึกปวดที่บริเวณผิวหนังภายนอก (somatic area) ที่อยู่ห่างออกไป กรณีถุงน้ำดีอักเสบ (cholecystitis) สามารถระคายเคืองกระบังลม (diaphragm) ซึ่งรับความรู้สึกโดย phrenic nerve (C3-C5) ระดับเดียวกับผิวหนังบริเวณไหล่ สมองจึงแปลผลว่าปวดที่ไหล่ได้",
+            "state": false
+        },
+        {
+            "problem": "6. Pain from the diaphragm is often perceived in the neck and shoulder area. This occurs because the diaphragm and the shoulder skin share sensory innervation from which spinal cord levels?",
+            "img": "",
+            "choices": "T1-T4///T5-T9///T10-L1///C3-C5///L2-L4",
+            "answer": "C3-C5",
+            "select": "",
+            "explain": "กลไกของ referred pain เกิดจากการที่เส้นประสาทรับความรู้สึกจากอวัยวะภายในและจากผิวหนังเข้าไปสู่ไขสันหลังในระดับเดียวกัน สำหรับกระบังลม (diaphragm) ถูกเลี้ยงโดย phrenic nerve ซึ่งมาจากไขสันหลังระดับคอที่ C3, C4, C5 ซึ่งเป็นระดับเดียวกับที่รับความรู้สึกจากผิวหนังบริเวณไหล่และคอ (supraclavicular nerves)",
+            "state": false
+        },
+        {
+            "problem": "7. Upon examination of a patient with peritonitis, the abdominal muscles are found to be stiff and tense. This involuntary muscle contraction is known as:",
+            "img": "",
+            "choices": "Withdrawal reflex///Guarding rigidity///Autonomic reflex///Spastic paralysis///Clonus response",
+            "answer": "Guarding rigidity",
+            "select": "",
+            "explain": "Guarding rigidity คือปฏิกิริยาการหดตัวของกล้ามเนื้อ (Contraction reflex) โดยเฉพาะกล้ามเนื้อหน้าท้อง เพื่อป้องกันอวัยวะภายในที่อักเสบจากการถูกกดหรือกระแทก เป็น reflex ที่เกิดขึ้นโดยอัตโนมัติเพื่อจำกัดการเคลื่อนไหวและลดความเจ็บปวด เป็นอาการแสดงที่สำคัญของภาวะเยื่อบุช่องท้องอักเสบ (peritonitis)",
+            "state": false
+        },
+        {
+            "problem": "8. Which of the following structures is considered a pain-sensitive structure within the cranium?",
+            "img": "",
+            "choices": "Brain parenchyma///Choroid plexus///Cerebral artery///Skull bone///Arachnoid mater",
+            "answer": "Cerebral artery",
+            "select": "",
+            "explain": "โครงสร้างในกะโหลกศีรษะที่ไวต่อความเจ็บปวด (pain-sensitive structures) ได้แก่ หลอดเลือดแดงของสมอง (cerebral artery), venous sinus, dura mater บริเวณฐานสมอง และเส้นประสาทสมองบางเส้น ส่วนเนื้อสมองส่วนใหญ่ (brain parenchyma) และกระดูกกะโหลก (skull) ไม่มีตัวรับความรู้สึกเจ็บปวด",
+            "state": false
+        },
+        {
+            "problem": "9. The primary ascending pathway that conveys pain and temperature sensations from the body to the thalamus is the:",
+            "img": "",
+            "choices": "Dorsal column tract///Corticospinal tract///Spinocerebellar tract///Lateral spinothalamic tract///Rubrospinal tract",
+            "answer": "Lateral spinothalamic tract",
+            "select": "",
+            "explain": "วิถีประสาทนำความรู้สึกเจ็บปวดและอุณหภูมิ (pain and temperature) ขึ้นสู่สมองคือ Anterolateral system ซึ่งมี tract ที่สำคัญที่สุดคือ Lateral spinothalamic tract โดยจะนำสัญญาณจากไขสันหลังขึ้นไปสู่ Thalamus ก่อนจะถูกส่งต่อไปยัง sensory cortex",
+            "state": false
+        },
+        {
+            "problem": "10. In early appendicitis, the patient often feels a dull, poorly localized pain around the umbilicus. This is because the visceral afferent fibers from the appendix enter the spinal cord at which level?",
+            "img": "",
+            "choices": "T4///T7///T10///L1///L4",
+            "answer": "T10",
+            "select": "",
+            "explain": "ในระยะแรกของไส้ติ่งอักเสบ (early appendicitis) เป็น visceral pain ซึ่งเส้นประสาทรับความรู้สึกจากไส้ติ่งจะเดินทางกลับเข้าสู่ไขสันหลังที่ระดับ T10 ซึ่งเป็น dermatome บริเวณรอบสะดือ (umbilicus) ทำให้ผู้ป่วยมีอาการปวดตื้อๆ รอบสะดือ ต่อมาเมื่อการอักเสบลามไปโดนเยื่อบุช่องท้อง (parietal peritoneum) จะกลายเป็น somatic pain ที่ย้ายมาปวดตรงตำแหน่งไส้ติ่งที่ท้องน้อยข้างขวา",
+            "state": false
+        },
+        {
+            "problem": "11. The brain can reduce the perception of pain through descending pathways that release endogenous opioids. Which substance is a key neurotransmitter in this process?",
+            "img": "",
+            "choices": "Acetylcholine///Dopamine///Substance P///Glutamate///Enkephalin",
+            "answer": "Enkephalin",
+            "select": "",
+            "explain": "Pain descending pathway คือการที่สมองส่งสัญญาณลงมาควบคุมความเจ็บปวดที่ระดับไขสันหลัง โดยมีศูนย์กลางสำคัญที่ periaqueductal gray (PAG) และ raphe nucleus ซึ่งจะหลั่งสารสื่อประสาทหลายชนิด แต่ที่สำคัญที่สุดคือกลุ่ม endogenous opioids เช่น Enkephalin และ Endorphin ซึ่งจะไปยับยั้งการส่งสัญญาณความเจ็บปวดในไขสันหลัง",
+            "state": false
+        },
+        {
+            "problem": "12. Rubbing or massaging an injured area often helps to alleviate pain. This phenomenon is best explained by the:",
+            "img": "",
+            "choices": "Descending modulation theory///Specific nerve energy theory///Gate control theory of pain///Opponent-process theory///Endogenous opioid theory",
+            "answer": "Gate control theory of pain",
+            "select": "",
+            "explain": "ทฤษฎี Gate control theory อธิบายว่าการกระตุ้นใยประสาทขนาดใหญ่ที่นำความรู้สึกสัมผัส (large diameter A-beta fibers) เช่น การนวด การถู จะไปกระตุ้น inhibitory interneuron ในไขสันหลัง ซึ่งจะไปปิดกั้น (close the gate) การส่งสัญญาณความเจ็บปวดที่นำโดยใยประสาทขนาดเล็ก (A-delta and C fibers) ไม่ให้ขึ้นไปสู่สมอง",
+            "state": false
+        },
+        {
+            "problem": "13. The visual disturbances, or 'aura,' that can precede a migraine headache are thought to be caused by which vascular phenomenon?",
+            "img": "",
+            "choices": "Intracranial vasodilation///Intracranial vasoconstriction///Arteriovenous malformation///Venous sinus thrombosis///Carotid artery dissection",
+            "answer": "Intracranial vasoconstriction",
+            "select": "",
+            "explain": "พยาธิกำเนิดของไมเกรนเชื่อว่าในระยะนำก่อนปวด (pre-headache phase) หรือระยะ aura เกิดจากการเพิ่มขึ้นของ serotonin ทำให้เกิดการหดตัวของหลอดเลือดแดงในกะโหลกศีรษะ (intracranial vasoconstriction) ส่งผลให้สมองบางส่วนขาดเลือดชั่วคราวและเกิดอาการผิดปกติทางระบบประสาท เช่น เห็นแสงซิกแซก หรือตามัว",
+            "state": false
+        },
+        {
+            "problem": "14. A patient with a brain tumor experiences headaches that are typically worst upon waking in the morning and are aggravated by coughing or sneezing. This pattern is characteristic of pain caused by:",
+            "img": "",
+            "choices": "Meningeal irritation///Arterial distension///Increased intracranial pressure///Trigeminal nerve compression///Muscle tension",
+            "answer": "Increased intracranial pressure",
+            "select": "",
+            "explain": "ภาวะความดันในกะโหลกศีรษะสูง (Increased Intracranial Pressure - ICP) ทำให้เกิดอาการปวดศีรษะได้ โดยเฉพาะในตอนเช้า (เนื่องจากการนอนราบทำให้เลือดไหลกลับจากสมองได้ไม่ดี) และอาการจะแย่ลงเมื่อมีการเบ่ง ไอ หรือจาม ซึ่งเป็นการเพิ่มความดันในช่องอกและช่องท้อง ทำให้ความดันในกะโหลกศีรษะสูงขึ้นไปอีก",
+            "state": false
+        },
+        {
+            "problem": "15. A severe headache that develops shortly after a lumbar puncture procedure is primarily caused by which mechanism?",
+            "img": "",
+            "choices": "Chemical meningitis///Bacterial infection///Increased intracranial pressure///Traction on pain-sensitive structures///Direct nerve root injury",
+            "answer": "Traction on pain-sensitive structures",
+            "select": "",
+            "explain": "Post-lumbar puncture headache เกิดจากการที่น้ำไขสันหลัง (CSF) รั่วออกจากรูที่เจาะ ทำให้ปริมาตรและความดันของ CSF ลดลง สมองจึงสูญเสียการพยุงตัวและเคลื่อนต่ำลงมา ทำให้เกิดการดึงรั้ง (traction) ต่อโครงสร้างที่ไวต่อความเจ็บปวดเช่นหลอดเลือดและเยื่อหุ้มสมองส่วนฐาน ซึ่งกระตุ้นให้เกิดอาการปวดศีรษะ",
+            "state": false
+        },
+        {
+            "problem": "16. A patient presents with fever, severe headache, and a stiff neck (nuchal rigidity). These signs are classic for headache caused by which mechanism?",
+            "img": "",
+            "choices": "Compression///Traction///Distension///Inflammation or irritation///Vasospasm",
+            "answer": "Inflammation or irritation",
+            "select": "",
+            "explain": "กลุ่มอาการไข้ ปวดศีรษะ และคอแข็ง (stiff neck) เป็น classic triad ของโรคเยื่อหุ้มสมองอักเสบ (meningitis) กลไกการปวดศีรษะเกิดจากการอักเสบและระคายเคือง (inflammation and irritation) ของเยื่อหุ้มสมอง (meninges) ซึ่งเป็น pain-sensitive structure ส่วนอาการคอแข็งเกิดจาก reflex การหดตัวของกล้ามเนื้อคอ",
+            "state": false
+        },
+        {
+            "problem": "17. A patient complains of a constant, bilateral, 'band-like' tightening sensation around the head, often occurring after a stressful day at work. Which type of headache is most likely?",
+            "img": "",
+            "choices": "Migraine headache///Cluster headache///Tension headache///Sinus headache///Post-traumatic headache",
+            "answer": "Tension headache",
+            "select": "",
+            "explain": "Tension headache เป็นชนิดของปวดศีรษะที่พบบ่อยที่สุด มีลักษณะจำเพาะคือปวดตื้อๆ เหมือนถูกบีบรัด (band-like pressure) รอบศีรษะทั้งสองข้าง มักสัมพันธ์กับความเครียดทางร่างกายหรือจิตใจ และการตึงตัวของกล้ามเนื้อบริเวณศีรษะและต้นคอ (pericranial muscle tenderness)",
+            "state": false
+        },
+        {
+            "problem": "18. A patient reports a dull, aching pain over the frontal sinuses that worsens when they bend forward. This is most characteristic of a headache originating from the:",
+            "img": "",
+            "choices": "Eyes (glaucoma)///Teeth (pulpitis)///Ears (otitis media)///Sinuses (sinusitis)///Neck muscles",
+            "answer": "Sinuses (sinusitis)",
+            "select": "",
+            "explain": "อาการปวดศีรษะจากโรคไซนัสอักเสบ (Sinusitis) มักมีลักษณะปวดตื้อๆ หน่วงๆ บริเวณใบหน้าตรงตำแหน่งของไซนัสที่อักเสบ เช่น หน้าผาก หรือโหนกแก้ม และมีลักษณะจำเพาะคืออาการปวดจะรุนแรงขึ้นเมื่อก้มศีรษะลง (bending forward) เนื่องจากมีการเปลี่ยนแปลงความดันในโพรงไซนัส",
+            "state": false
+        },
+        {
+            "problem": "19. A patient experiences sudden, severe, unilateral, 'electric shock-like' jabs of pain in the cheek and jaw area, often triggered by light touch or chewing. This presentation is classic for:",
+            "img": "",
+            "choices": "Glossopharyngeal neuralgia///Postherpetic neuralgia///Tension headache///Trigeminal neuralgia///Thalamic pain syndrome",
+            "answer": "Trigeminal neuralgia",
+            "select": "",
+            "explain": "Trigeminal neuralgia (Tic douloureux) เป็นกลุ่มอาการปวดเส้นประสาทใบหน้า (cranial nerve V) มีลักษณะจำเพาะคือปวดแปลบเหมือนไฟฟ้าช็อต (lancinating pain) เป็นพักๆ ในเวลาสั้นๆ เกิดขึ้นข้างเดียวตามแนวของเส้นประสาท Trigeminal แขนงที่ 2 หรือ 3 และมักถูกกระตุ้นได้ด้วยสิ่งกระตุ้นเบาๆ (trigger zones)",
+            "state": false
+        },
+        {
+            "problem": "20. Which pain syndrome is characterized by persistent burning pain in a dermatomal distribution following a shingles (herpes zoster) outbreak?",
+            "img": "",
+            "choices": "Radiculopathy///Thalamic pain syndrome///Complex regional pain syndrome///Postherpetic neuralgia///Trigeminal neuralgia",
+            "answer": "Postherpetic neuralgia",
+            "select": "",
+            "explain": "Postherpetic neuralgia (PHN) คืออาการปวดปลายประสาทที่เกิดขึ้นหลังจากการเป็นโรคงูสวัด (herpes zoster) โดยผู้ป่วยจะมีอาการปวดแสบปวดร้อน (burning pain) หรือปวดเหมือนไฟฟ้าช็อตต่อเนื่องในบริเวณผิวหนัง (dermatome) ที่เคยเป็นผื่นงูสวัด แม้ว่าผื่นจะหายไปแล้วก็ตาม",
+            "state": false
+        },
+        {
+            "problem": "21. A patient with advanced cancer who develops arm pain from nerve compression by a tumor undergoes a surgical procedure to cut the primary pain pathway in the spinal cord. This procedure is called:",
+            "img": "",
+            "choices": "Rhizotomy///Sympathectomy///Cordotomy///Laminectomy///Neurectomy",
+            "answer": "Cordotomy",
+            "select": "",
+            "explain": "Cordotomy คือการผ่าตัดเพื่อทำลายทางเดินประสาท Lateral spinothalamic tract ในไขสันหลัง ซึ่งเป็นทางเดินหลักที่นำสัญญาณความเจ็บปวดและอุณหภูมิขึ้นสู่สมอง เป็นวิธีที่ใช้ในการระงับอาการปวดที่รุนแรงและควบคุมไม่ได้ (intractable pain) โดยเฉพาะในผู้ป่วยมะเร็งระยะสุดท้าย",
+            "state": false
+        },
+        {
+            "problem": "22. Non-steroidal anti-inflammatory drugs (NSAIDs) like aspirin and diclofenac primarily reduce pain and inflammation by inhibiting the synthesis of which substance?",
+            "img": "",
+            "choices": "Bradykinin///Histamine///Serotonin///Leukotrienes///Prostaglandins",
+            "answer": "Prostaglandins",
+            "select": "",
+            "explain": "ยากลุ่ม NSAIDs ออกฤทธิ์โดยการยับยั้งเอนไซม์ Cyclo-oxygenase (COX) ซึ่งเป็นเอนไซม์สำคัญในกระบวนการสร้าง Prostaglandins ซึ่งเป็นสารสื่อกลางที่สำคัญในการกระตุ้นให้เกิดการอักเสบ (inflammation) ความเจ็บปวด (pain) และไข้ (fever) การยับยั้งการสร้าง Prostaglandins จึงช่วยลดอาการเหล่านี้ได้",
+            "state": false
+        },
+        {
+            "problem": "23. Local anesthetics like lidocaine and novocaine work by blocking which specific ion channels in nerve fibers?",
+            "img": "",
+            "choices": "Potassium (K+) channels///Calcium (Ca2+) channels///Chloride (Cl-) channels///Sodium (Na+) channels///Proton (H+) channels",
+            "answer": "Sodium (Na+) channels",
+            "select": "",
+            "explain": "ยาชาเฉพาะที่ (Local anesthetics) ออกฤทธิ์โดยการเข้าไปปิดกั้นช่องโซเดียมชนิดที่ต้องอาศัยไฟฟ้า (voltage-gated Sodium channels) จากภายในเซลล์ประสาท ทำให้โซเดียมไอออนไม่สามารถไหลเข้าเซลล์ได้ จึงไม่เกิด action potential และสกัดกั้นการส่งกระแสประสาทความเจ็บปวด",
+            "state": false
+        },
+        {
+            "problem": "24. Morphine exerts its potent analgesic effect by acting as an agonist primarily at receptors located in the:",
+            "img": "",
+            "choices": "Dorsal root ganglia///Sensory cortex///Thalamus and Sensory cortex///Periaqueductal gray and raphe nucleus///Peripheral nerve endings",
+            "answer": "Periaqueductal gray and raphe nucleus",
+            "select": "",
+            "explain": "Morphine และยากลุ่ม opioids ออกฤทธิ์ระงับปวดโดยจับกับ opioid receptors ในระบบประสาทส่วนกลาง ตำแหน่งที่สำคัญคือ Periaqueductal gray (PAG) และ Raphe nucleus ซึ่งเป็นส่วนหนึ่งของ descending pain modulation pathway การกระตุ้นที่ตำแหน่งนี้จะส่งเสริมการหลั่งสารระงับปวดตามธรรมชาติและยับยั้งการส่งสัญญาณความเจ็บปวดที่ไขสันหลัง",
+            "state": false
+        },
+        {
+            "problem": "25. Which of the following areas is known to have very few or no pain receptors (nociceptors)?",
+            "img": "",
+            "choices": "Joint surfaces///Periosteum (bone covering)///Pulmonary alveoli///Arterial walls///Skin epidermis",
+            "answer": "Pulmonary alveoli",
+            "select": "",
+            "explain": "เนื้อเยื่อบางส่วนในร่างกายมีตัวรับความรู้สึกเจ็บปวดอยู่น้อยมากหรือไม่มีเลย เช่น เนื้อตับ (liver parenchyma) และถุงลมปอด (pulmonary alveoli) ทำให้พยาธิสภาพที่เกิดจำกัดอยู่เฉพาะในบริเวณเหล่านี้อาจไม่ทำให้เกิดอาการเจ็บปวดโดยตรง ยกเว้นมีการลุกลามไปโดนโครงสร้างข้างเคียงที่มีตัวรับความรู้สึก เช่น เยื่อหุ้มปอด (pleura)",
+            "state": false
+        },
+        {
+            "problem": "26. Pain receptors are known to be non-adapting. What is the primary physiological benefit of this characteristic?",
+            "img": "",
+            "choices": "It prevents sensory overload in the brain///It allows the body to ignore minor injuries///It ensures a continuous signal of tissue damage///It helps in localizing the source of pain accurately///It reduces the emotional response to pain",
+            "answer": "It ensures a continuous signal of tissue damage",
+            "select": "",
+            "explain": "Pain receptor หรือ nociceptor เป็น non-adapting receptor ซึ่งหมายความว่ามันจะไม่หยุดส่งสัญญาณแม้จะถูกกระตุ้นเป็นเวลานาน คุณสมบัตินี้มีประโยชน์ในการแจ้งเตือนร่างกายอย่างต่อเนื่องว่ายังคงมีอันตรายหรือการทำลายเนื้อเยื่อเกิดขึ้นอยู่ เพื่อให้เกิดพฤติกรรมการป้องกันและหลีกเลี่ยงอันตรายนั้นต่อไป",
+            "state": false
+        },
+        {
+            "problem": "27. A patient in severe pain following a major trauma exhibits tachycardia, hypertension, and profuse sweating. These responses are mediated by which reflex pathway?",
+            "img": "",
+            "choices": "Contraction reflex///Withdrawal reflex///Parasympathetic reflex///Autonomic reflex///Somato-somatic reflex",
+            "answer": "Autonomic reflex",
+            "select": "",
+            "explain": "อาการหัวใจเต้นเร็ว (tachycardia) ความดันเลือดสูง (hypertension) และเหงื่อออก (sweating) เป็นการตอบสนองของระบบประสาทซิมพาเทติก (sympathetic response) ต่อความเจ็บปวดที่รุนแรง ซึ่งจัดเป็นปฏิกิริยาทางระบบอัตโนมัติ (Autonomic reflex) เพื่อเตรียมร่างกายให้พร้อมรับมือกับภาวะฉุกเฉิน",
+            "state": false
+        },
+        {
+            "problem": "28. A patient describes seeing flashing, zig-zag lights for 20 minutes, followed by a severe, unilateral, throbbing headache. This sequence is characteristic of which headache type?",
+            "img": "",
+            "choices": "Tension headache///Cluster headache///Migraine with aura///Sinus headache///Post-LP headache",
+            "answer": "Migraine with aura",
+            "select": "",
+            "explain": "โรคไมเกรน (Migraine) สามารถมีอาการนำ (aura) ก่อนการปวดศีรษะได้ ซึ่งมักเป็นอาการทางสายตา เช่น เห็นแสงสว่างวูบวาบ (flashing lights) หรือระยิบระยับ ตามมาด้วยอาการปวดศีรษะแบบตุบๆ (throbbing pain) ข้างเดียว (unilateral) ซึ่งเป็นลักษณะจำเพาะของ Migraine with aura",
+            "state": false
+        },
+        {
+            "problem": "29. Which clinical finding is a hallmark sign of severely increased intracranial pressure (ICP)?",
+            "img": "",
+            "choices": "Low-grade fever///Photophobia and neck stiffness///Projectile vomiting without nausea///A constant, band-like headache///Sharp, electric shock-like pain",
+            "answer": "Projectile vomiting without nausea",
+            "select": "",
+            "explain": "อาการแสดงที่สำคัญของภาวะความดันในกะโหลกศีรษะสูง (increased intracranial pressure) คือการอาเจียนพุ่งอย่างแรงโดยไม่มีอาการคลื่นไส้นำ (projectile vomiting without nausea) เกิดจากการที่ความดันที่สูงขึ้นไปกระตุ้น vomiting centers ในสมองโดยตรง",
+            "state": false
+        },
+        {
+            "problem": "30. A middle-aged man with chest tightness reports pain radiating to his left inner arm and jaw. This referred pain pattern is classic for which organ?",
+            "img": "",
+            "choices": "Gallbladder///Stomach///Appendix///Heart///Kidney",
+            "answer": "Heart",
+            "select": "",
+            "explain": "อาการปวดร้าว (referred pain) ที่เกิดจากภาวะกล้ามเนื้อหัวใจขาดเลือด (myocardial ischemia) มีลักษณะจำเพาะคือปวดบริเวณหน้าอกและอาจร้าวไปที่แขนด้านในข้างซ้าย คอ หรือขากรรไกร เนื่องจากเส้นประสาทรับความรู้สึกจากหัวใจเข้าสู่ไขสันหลังระดับเดียวกับบริเวณเหล่านี้ (C3-T5 dermatomes)",
+            "state": false
+        },
+        {
+            "problem": "31. According to the pain modulation pathways, which method primarily targets the cerebral cortex to reduce pain perception?",
+            "img": "",
+            "choices": "Applying a cold pack///Taking an NSAID like ibuprofen///Undergoing psychological therapy///Receiving a local anesthetic injection///Massaging the affected area",
+            "answer": "Undergoing psychological therapy",
+            "select": "",
+            "explain": "สมองส่วน Cerebral cortex สามารถปรับเปลี่ยนการรับรู้ความเจ็บปวดได้ผ่าน descending pathway วิธีการทางจิตวิทยา (psychological therapy) เช่น การทำสมาธิ การเบี่ยงเบนความสนใจ จะส่งผลต่อการทำงานของสมองส่วนนี้ ทำให้มีการหลั่งสารระงับปวดตามธรรมชาติเช่น endorphin และลดการรับรู้ความเจ็บปวดลง",
+            "state": false
+        },
+        {
+            "problem": "32. A patient with an aortic dissection might describe the pain as a severe, ripping or tearing sensation in the chest. Which term best describes this quality of pain?",
+            "img": "",
+            "choices": "Dull pain///Colicky pain///Burning pain///Tingling pain///Throbbing pain",
+            "answer": "Throbbing pain",
+            "select": "",
+            "explain": "เอกสารอ้างอิงบรรยาย Throbbing pain ว่าเป็นอาการปวดตุบๆ ตามจังหวะชีพจร หรือปวดแหลมคล้ายถูกฉีก (ripping, tearing) ซึ่งเป็นลักษณะอาการปวดที่พบได้ในภาวะหลอดเลือดแดงใหญ่ฉีกขาด (aortic dissection) จึงเป็นคำตอบที่เหมาะสมที่สุดตามคำจำกัดความที่ให้มา",
+            "state": false
+        },
+        {
+            "problem": "33. An elderly patient develops a severe, aching pain in one eye, sees halos around lights, and has blurry vision. On palpation, the eyeball feels hard. This presentation suggests a headache caused by:",
+            "img": "",
+            "choices": "Refractive error///Sinusitis///Tension headache///Glaucoma///Otitis media",
+            "answer": "Glaucoma",
+            "select": "",
+            "explain": "อาการปวดศีรษะรอบกระบอกตา ตาแดง มองเห็นภาพไม่ชัดหรือเห็นวงรุ้งรอบดวงไฟ (halos) และคลำลูกตาได้แข็ง เป็นอาการคลาสสิกของโรคต้อหินเฉียบพลัน (acute glaucoma) ซึ่งเกิดจากความดันในลูกตาสูงขึ้นอย่างรวดเร็ว เป็นภาวะฉุกเฉินทางตา",
+            "state": false
+        },
+        {
+            "problem": "34. A patient complains of stabbing pain that starts in the throat (tonsillar fossa) and radiates to the ear. This specific pattern is characteristic of:",
+            "img": "",
+            "choices": "Trigeminal neuralgia///Postherpetic neuralgia///Glossopharyngeal neuralgia///Atypical facial pain///Thalamic pain syndrome",
+            "answer": "Glossopharyngeal neuralgia",
+            "select": "",
+            "explain": "Glossopharyngeal neuralgia เป็นอาการปวดตามแนวเส้นประสาทสมองคู่ที่ 9 (CN IX) มีลักษณะจำเพาะคือเริ่มปวดแปลบในลำคอบริเวณแอ่งทอนซิล (tonsillar fossa) และอาจร้าวไปที่หูได้ ซึ่งต่างจาก Trigeminal neuralgia ที่มักปวดบริเวณใบหน้าส่วนกลางและส่วนล่าง",
+            "state": false
+        },
+        {
+            "problem": "35. Transcutaneous Electrical Nerve Stimulation (TENS) is a physical therapy method for pain relief. Its mechanism is primarily based on the:",
+            "img": "",
+            "choices": "Release of endogenous opioids///Blockade of sodium channels///Inhibition of prostaglandin synthesis///Activation of the gate control theory///Reduction of local inflammation",
+            "answer": "Activation of the gate control theory",
+            "select": "",
+            "explain": "การใช้ TENS คือการส่งกระแสไฟฟ้าความถี่สูงผ่านผิวหนังเพื่อกระตุ้นใยประสาทรับความรู้สึกสัมผัสขนาดใหญ่ (A-beta fibers) ตามทฤษฎี gate control theory การกระตุ้นใยประสาทขนาดใหญ่จะไป 'ปิดประตู' ที่ไขสันหลัง ทำให้สัญญาณความเจ็บปวดที่นำโดยใยประสาทขนาดเล็กไม่สามารถส่งผ่านขึ้นไปสู่สมองได้",
+            "state": false
+        },
+        {
+            "problem": "36. Which of the following tissues has the highest density of nociceptors?",
+            "img": "",
+            "choices": "Visceral pleura///Lung alveoli///Liver parenchyma///Brain tissue///Periosteum",
+            "answer": "Periosteum",
+            "select": "",
+            "explain": "Nociceptors หรือตัวรับความรู้สึกเจ็บปวดมีอยู่หนาแน่นในบางบริเวณของร่างกาย เช่น ผิวหนัง เยื่อหุ้มกระดูก (periosteum) ผนังหลอดเลือด และผิวของข้อต่อ (joint surface) การบาดเจ็บที่เยื่อหุ้มกระดูกจึงทำให้เกิดอาการเจ็บปวดอย่างรุนแรงได้",
+            "state": false
+        },
+        {
+            "problem": "37. Headache from an Arteriovenous Malformation (AVM) differs from a typical migraine because the AVM headache is typically:",
+            "img": "",
+            "choices": "Always bilateral and diffuse///Relieved by lying down flat///Always located on the same side///Accompanied by high fever///Episodic and alternates sides",
+            "answer": "Always located on the same side",
+            "select": "",
+            "explain": "การปวดศีรษะที่เกิดจาก AVM จะมีลักษณะคล้ายไมเกรนคือปวดตุบๆ แต่มีจุดแตกต่างที่สำคัญคือ อาการปวดจะคงอยู่เฉพาะข้างที่มีหลอดเลือดผิดปกติเท่านั้น (strictly unilateral) และไม่ย้ายข้างสลับไปมาเหมือนอาการปวดในโรคไมเกรนทั่วไป",
+            "state": false
+        },
+        {
+            "problem": "38. A syndrome caused by damage to the thalamus, often after a stroke, resulting in debilitating, chronic neuropathic pain on the contralateral side of the body is known as:",
+            "img": "",
+            "choices": "Radiculopathy///Dejerine-Roussy syndrome///Postherpetic neuralgia///Brown-Séquard syndrome///Complex regional pain syndrome",
+            "answer": "Dejerine-Roussy syndrome",
+            "select": "",
+            "explain": "Dejerine-Roussy syndrome หรือ Thalamic pain syndrome คือกลุ่มอาการปวดที่เกิดจากความเสียหายของ Thalamus ซึ่งเป็นศูนย์กลางการรับและส่งสัญญาณความรู้สึก ทำให้การประมวลผลความรู้สึกผิดปกติไป ผู้ป่วยจะมีอาการปวดแบบ neuropathic pain ที่รุนแรงในร่างกายซีกตรงข้ามกับสมองที่เสียหาย",
+            "state": false
+        },
+        {
+            "problem": "39. When a person steps on a sharp object, they immediately lift their foot. This action is an example of which reflex?",
+            "img": "",
+            "choices": "Stretch reflex///Tonic neck reflex///Autonomic reflex///Crossed extensor reflex///Flexor (withdrawal) reflex",
+            "answer": "Flexor (withdrawal) reflex",
+            "select": "",
+            "explain": "Flexor reflex หรือ Withdrawal reflex คือปฏิกิริยาที่เกิดขึ้นทันทีเพื่อดึงรยางค์ (แขนหรือขา) ให้หนีจากสิ่งกระตุ้นที่เป็นอันตรายหรือเจ็บปวด เช่น การเหยียบของแหลมแล้วงอขาหนีโดยอัตโนมัติ เป็น reflex ที่สำคัญในการป้องกันร่างกาย",
+            "state": false
+        },
+        {
+            "problem": "40. According to the provided text, what is a major disadvantage of long-term use of narcotic analgesics like morphine?",
+            "img": "",
+            "choices": "They cause severe liver damage///They are ineffective for chronic pain///They lead to tolerance and addiction///They significantly increase blood pressure///They cannot be administered orally",
+            "answer": "They lead to tolerance and addiction",
+            "select": "",
+            "explain": "ยาระงับปวดกลุ่ม Narcotic analgesic หรือ opioids เช่น morphine มีประสิทธิภาพสูงในการระงับปวด แต่ข้อเสียที่สำคัญของการใช้ในระยะยาวคือการทำให้เกิดภาวะทนต่อยา (tolerance) ซึ่งต้องใช้ยาในขนาดที่เพิ่มขึ้นเพื่อให้ได้ผลเท่าเดิม และเกิดการติดยา (addiction) ได้",
             "state": false
         }
     ],
