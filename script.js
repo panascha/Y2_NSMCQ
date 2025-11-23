@@ -889,10 +889,10 @@ var quizdata = {
         {
             "problem": "26. Mass 1 cm. at right floor of 4th ventricle. Which induces inability to eye abduction. What could be occurs due to this?",
             "img": "",
-            "choices": "Loss of left facial expression///Loss of taste from anterior 2/3 of right tongue///Contralateral hemiplegia///Loss of pain sensation from left face///Hearing loss in left ear",
-            "answer": "Loss of taste from anterior 2/3 of right tongue",
+            "choices": "Loss of Rt motor control of facial expression///Loss of sensory Lt side of face///Ptosis of Rt eyelid///Mydriasis of Rt pupil///Deafness in Rt ear",
+            "answer": "Loss of Rt motor control of facial expression",
             "select": "",
-            "explain": "คล้ายกับข้อที่แล้ว ก้อนที่กดทับ floor of 4th ventricle ข้างขวาและทำให้ abduct ตาไม่ได้ แสดงว่ากระทบ Abducens nucleus (CN VI) และ Facial nerve (CN VII) ข้างขวา นอกจาก Facial nerve จะควบคุมกล้ามเนื้อใบหน้าแล้ว ยังมีแขนง Chorda tympani ที่รับรสจาก 2 ใน 3 ส่วนหน้าของลิ้น ดังนั้นรอยโรคนี้อาจทำให้สูญเสียการรับรสจากลิ้นซีกขวาได้",
+            "explain": "รอยโรคที่บริเวณ caudal pons ตรง floor of 4th ventricle ที่ทำให้ไม่สามารถ abduct ลูกตาขวาได้ (Rt. eyeball) แสดงว่ามีการทำลาย Abducens nucleus (CN VI) ข้างขวา บริเวณนี้มีลักษณะพิเศษคือมี motor fiber ของ Facial nerve (CN VII) วิ่งมาอ้อม (internal genu) ก่อนที่จะออกจาก brainstem ดังนั้นรอยโรคที่ตำแหน่งนี้มักจะทำลายทั้ง CN VI nucleus และ CN VII fiber ข้างเดียวกัน ทำให้เกิดอาการตาเหล่เข้าใน (abduction failure) ร่วมกับใบหน้าซีกขวาเป็นอัมพาต (loss of Rt motor control of facial expression)",
             "state": false
         },
         {
