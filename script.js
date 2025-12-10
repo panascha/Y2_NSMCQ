@@ -361,6 +361,711 @@ var quizdata = {
             "state": false
         }
     ],
+    "NS52FMT2": [{
+        problem: "1. Masha and her friends enjoyed a very delicious wagyu roast beef, Which of the following statements correctly describes the mechanism of umami taste perception?",
+        img: "",
+        choices: "Umami substances pass through Na+ channels.///Umami substances bind to receptors resulting in a decrease in IP3.///Umami substances block K+ channels.///Umami substances bind to metabotropic glutamate-type receptors or T1R1/T1R3 receptor///Umami substances bind to receptors causing hyperpolarization.",
+        answer: "Umami substances bind to metabotropic glutamate-type receptors or T1R1/T1R3 receptor",
+        select: "",
+        explain: "รสอูมามิ (Umami) เกิดจากสารพวก Glutamate (เช่นในเนื้อสัตว์, ผงชูรส) จับกับ G-protein coupled receptors (GPCRs) ชนิด T1R1 และ T1R3 heterodimer ซึ่งจะกระตุ้น phospholipase C (PLC) เพิ่ม IP3 และ Ca2+ ภายในเซลล์ ไม่ใช่ผ่าน Ion channel โดยตรงเหมือนรสเค็ม (Na+) หรือรสเปรี้ยว (H+)",
+        state: false
+    }, {
+        problem: "2. A 56-year-old male patient came to see the doctor according to the sleep problem. He underwent sleep examination. Which condition that the desynchronization of EEG will be observed?",
+        img: "",
+        choices: "Rapid eye movement sleep stage 3///Rapid eye movement sleep stage 4///Rapid eye movement sleep stage 2///Rapid eye movement sleep///Rapid eye movement sleep stage 1",
+        answer: "Rapid eye movement sleep",
+        select: "",
+        explain: "Desynchronization of EEG (low amplitude, high frequency waves เช่น Beta waves) จะพบได้ในขณะตื่น (Awake) และช่วง REM sleep (Paradoxical sleep) ซึ่งสมองมีการทำงานสูงคล้ายตอนตื่น ส่วนช่วง Non-REM (Stage 1-4) คลื่นจะมีความถี่ต่ำและ synchronized (เช่น Delta waves ใน Deep sleep)",
+        state: false
+    }, {
+        problem: "3. Lie detectors is the tool to detect deception. Which type of behavior that in accompany with deception that induced physiological arousal?",
+        img: "",
+        choices: "Anxiety///Frighten///Depression///Fantastic///Startle",
+        answer: "Anxiety",
+        select: "",
+        explain: "เครื่องจับเท็จ (Polygraph) ทำงานโดยการวัด physiological arousal ที่เกิดจากการทำงานของระบบประสาท Sympathetic (เช่น เหงื่อออก, หัวใจเต้นเร็ว) ซึ่งเป็นผลมาจากความวิตกกังวล (Anxiety) หรือความเครียดเมื่อบุคคลนั้นกำลังโกหก",
+        state: false
+    }, {
+        problem: "4. A 65-year-old male with a history of atrial fibrillation presents with sudden left-sided hemiparesis and dysarthria (slurred speech). He is diagnosed with a Middle Cerebral Artery (MCA) infarction. Unfortunately, he passes away 18 hours later due to cardiac complications. Microscopic examination of the affected brain tissue would most likely reveal which of the following changes first?",
+        img: "",
+        choices: "Red neurons (Eosinophilic neuronal necrosis)///Reactive gliosis///Liquefactive necrosis///Macrophage infiltration///Neutrophilic infiltration",
+        answer: "Red neurons (Eosinophilic neuronal necrosis)",
+        select: "",
+        explain: "ลำดับการเปลี่ยนแปลงทางจุลพยาธิวิทยาของ Ischemic stroke: <br>12-24 ชั่วโมง: Red neurons (Eosinophilic cytoplasm, pyknotic nuclei)<br>1-3 วัน: Neutrophils infiltration<br>3-7 วัน: Macrophages (Microglia)<br>2 สัปดาห์+: Reactive gliosis<br>ผู้ป่วยเสียชีวิตที่ 18 ชั่วโมง จึงจะพบ Red neurons เป็นลักษณะเด่น",
+        state: false
+    }, {
+        problem: "5. A 30-year-old female patient with a long-standing history of depression presents with drug addiction. Which of the following is the most likely reason for her substance dependence?",
+        img: "",
+        choices: "Impaired HPA axis function///Impaired prefrontal cortex function///Impaired reward circuit function///Impaired autonomic function///Impaired parietal lobe function",
+        answer: "Impaired reward circuit function",
+        select: "",
+        explain: "การเสพติด (Addiction/Dependence) เกี่ยวข้องโดยตรงกับ Mesolimbic pathway หรือ Reward circuit (Ventral Tegmental Area -> Nucleus Accumbens) ซึ่งใช้ Dopamine เป็นสารสื่อประสาทหลัก ทำให้เกิดความรู้สึกพึงพอใจและต้องการยาซ้ำ",
+        state: false
+    }, {
+        problem: "6. A 38-year-old man with a history of asthma presents with recurring migraines and needs preventive therapy. Which medication should be avoided?",
+        img: "",
+        choices: "Amitriptyline///Topiramate///Valproate///Propranolol///Cinnarizine",
+        answer: "Propranolol",
+        select: "",
+        explain: "Propranolol เป็น Non-selective beta-blocker ซึ่งสามารถ block beta-2 receptors ที่หลอดลม ทำให้เกิด Bronchoconstriction (หลอดลมตีบ) จึงเป็นข้อห้ามใช้ (Contraindication) หรือควรหลีกเลี่ยงในผู้ป่วย Asthma เพราะอาจกระตุ้นให้หอบหืดกำเริบได้",
+        state: false
+    }, {
+        problem: "7. A patient with anterograde amnesia will most likely result from bilateral ablation of which following structures?",
+        img: "",
+        choices: "Ventral tegmental area///Hippocampus///Cingulate gyrus///Hypothalamus///Amygdala",
+        answer: "Hippocampus",
+        select: "",
+        explain: "Hippocampus มีบทบาทสำคัญในการเปลี่ยนความจำระยะสั้นเป็นความจำระยะยาว (Memory consolidation) การทำลาย Hippocampus ทั้งสองข้าง (Bilateral ablation) จะทำให้เกิด Anterograde amnesia (ไม่สามารถสร้างความจำใหม่ได้) ดังกรณีศึกษาผู้ป่วย H.M.",
+        state: false
+    }, {
+        problem: "8. Which can be present if there is a disruption in the indirect pathway of basal ganglia?",
+        img: "",
+        choices: "Ballismus///Ataxia///Akinesia///Motor weakness///Resting tremor",
+        answer: "Ballismus",
+        select: "",
+        explain: "Indirect pathway ของ Basal ganglia มีหน้าที่ยับยั้งการเคลื่อนไหว (Inhibitory) หากเกิดความผิดปกติ (เช่น Lesion ที่ Subthalamic nucleus) จะทำให้สูญเสียการยับยั้ง เกิดการเคลื่อนไหวที่มากผิดปกติและรุนแรง เรียกว่า Ballismus หรือ Hemiballismus",
+        state: false
+    }, {
+        problem: "9. A 3-day-old newborn develops poor feeding, lethargy, and temperature instability. Examination shows bulging fontanelle. CSF profile: High WBC (neutrophils), Low sugar. CSF Gram stain: Gram-positive cocci in chains. Which organism is the most likely cause?",
+        img: "",
+        choices: "Streptococcus pneumoniae///Listeria monocytogenes///Escherichia coli///Neisseria meningitidis///Streptococcus agalactiae",
+        answer: "Streptococcus agalactiae",
+        select: "",
+        explain: "ในเด็กแรกเกิด (Neonatal meningitis) เชื้อก่อโรคที่พบบ่อยคือ Group B Streptococcus (S. agalactiae), E. coli, และ Listeria ลักษณะ Gram-positive cocci in chains (ต่อเป็นสาย) บ่งบอกถึง Streptococcus agalactiae (GBS) ส่วน S. pneumoniae มักพบเป็น lancet-shaped diplococci และพบบ่อยในเด็กโตหรือผู้ใหญ่",
+        state: false
+    }, {
+        problem: "10. The basal ganglia modulate the cerebral cortex function via which structure?",
+        img: "",
+        choices: "Pontine nuclei///Substantia nigra///Red nucleus///Thalamus///Cerebellum",
+        answer: "Thalamus",
+        select: "",
+        explain: "วงจรของ Basal ganglia (Cortex -> Striatum -> Globus Pallidus -> Thalamus -> Cortex) จะส่งสัญญาณกลับไปที่ Cerebral cortex โดยผ่านทาง Thalamus (Ventral Anterior/Ventral Lateral nuclei) เพื่อควบคุมการเคลื่อนไหว",
+        state: false
+    }, {
+        problem: "11. A 24-year-old AID patient presented with a headache and seizures. Brain CT scan showed enhancing lesion suspicious for brain abscess. Histopathological of the lesion revealed microorganisms with halo-nucleus and spine-like pseudopodia. What is the most likely parasite?",
+        img: "",
+        choices: "Cysticercus cellulosae///Toxoplasma gondii///Acanthamoeba sp.///Naegleria fowleri///Entamoeba histolytica",
+        answer: "Acanthamoeba sp.",
+        select: "",
+        explain: "ลักษณะทางพยาธิวิทยาที่มี 'Spine-like pseudopodia' (Acanthopodia) เป็นลักษณะจำเพาะของเชื้อ Acanthamoeba ซึ่งก่อโรค Granulomatous Amebic Encephalitis (GAE) มักพบในผู้ป่วยภูมิคุ้มกันบกพร่อง (AIDS) หรือผู้ใส่คอนแทคเลนส์",
+        state: false
+    }, {
+        problem: "12. Which of the following is classified as a disynaptic reflex?",
+        img: "",
+        choices: "Baroreflex///Flexor withdrawal reflex///Golgi tendon reflex///Muscle stretch reflex///Corneal reflex",
+        answer: "Golgi tendon reflex",
+        select: "",
+        explain: "Golgi tendon reflex (Inverse stretch reflex) เป็น Disynaptic reflex คือประกอบด้วย Sensory neuron -> Inhibitory interneuron -> Motor neuron (มีจุดเชื่อมต่อประสาท 2 จุด) ต่างจาก Muscle stretch reflex (Knee jerk) ที่เป็น Monosynaptic reflex",
+        state: false
+    }, {
+        problem: "13. Two months after a stroke, the patient fully recovered. On physical examination, the rehabilitation doctor found normal muscle tone. Which of the following describes normal muscle tone in this patient?",
+        img: "",
+        choices: "Continuous and maximal contraction of the muscle///The muscle power: grade I/V///Muscle contraction against load///Continuous and partial contraction of the muscle at rest///Tension of muscle during voluntary contraction",
+        answer: "Continuous and partial contraction of the muscle at rest",
+        select: "",
+        explain: "Muscle tone (ความตึงตัวของกล้ามเนื้อ) หมายถึงภาวะที่มีการหดตัวของกล้ามเนื้อเพียงบางส่วนอย่างต่อเนื่องในขณะพัก (Continuous and partial contraction at rest) เพื่อรักษาสรีระท่าทางและเตรียมพร้อมสำหรับการเคลื่อนไหว",
+        state: false
+    }, {
+        problem: "14. A 22-year-old man was bitten by a stray dog during a COMMED field trip. The wound was cleaned immediately, and he went to the emergency department within 6 hours. On examination, there was a contusion lesion and scratch wound with bleeding. What is the most appropriate post-exposure prophylaxis (PEP) regimen for this patient?",
+        img: "",
+        choices: "RIG, and rabies vaccine schedule as intramuscularly///Rabies vaccine only, schedule as intramuscularly///RIG only, due to the patient is immunocompetent///Close observation without PEP///Rabies vaccine was prescribed as intradermally.",
+        answer: "RIG, and rabies vaccine schedule as intramuscularly",
+        select: "",
+        explain: "แผลที่มีเลือดออก (Scratch wound with bleeding) จัดเป็น WHO Category III exposure ซึ่งมีความเสี่ยงสูง ต้องได้รับการรักษาด้วยการล้างแผล + ฉีดวัคซีนป้องกันพิษสุนัขบ้า (Rabies Vaccine) + ฉีดอิมมูโนโกลบูลิน (Rabies Immunoglobulin - RIG) ทันที",
+        state: false
+    }, {
+        problem: "15. Which neurotransmitter is most prominently associated with cognitive decline in Alzheimer's disease due to its loss in the basal forebrain?",
+        img: "",
+        choices: "Serotonin///Dopamine///Acetylcholine///GABA///Norepinephrine",
+        answer: "Acetylcholine",
+        select: "",
+        explain: "ในโรค Alzheimer's disease มีการเสื่อมสลายของเซลล์ประสาทที่สร้าง Acetylcholine ในบริเวณ Basal forebrain (Nucleus Basalis of Meynert) อย่างชัดเจน ซึ่งส่งผลโดยตรงต่อความจำและการรับรู้ (Cognitive decline)",
+        state: false
+    }, {
+        problem: "16. The following statements concern the efferent connections of the hippocampus:",
+        img: "",
+        choices: "They arise from the small granular cells of the cortex.///They travel through the fornix///The fibers within the fornix pass posterior to the interventricular foramen.///Some of the fibers end in the posterior nuclei of the thalamus.///None of the fibers enter the mammillary body",
+        answer: "They travel through the fornix",
+        select: "",
+        explain: "Fornix เป็นโครงสร้างหลักที่นำสัญญาณออกจาก Hippocampus (Efferent pathway) ไปยัง Mammillary bodies ใน Hypothalamus ซึ่งเป็นส่วนหนึ่งของ Papez circuit ที่เกี่ยวข้องกับอารมณ์และความจำ",
+        state: false
+    }, {
+        problem: "17. Which anti vertigo inhibit histamine receptor at presynaptic histaminergic neurons?",
+        img: "",
+        choices: "Scopolamine///Flunarizine///Betahistine///Diazepam///Diphenhydramine",
+        answer: "Betahistine",
+        select: "",
+        explain: "Betahistine มีกลไกการออกฤทธิ์เป็น H3-receptor antagonist ที่เซลล์ประสาทก่อนไซแนปส์ (Presynaptic) ซึ่งช่วยเพิ่มการหลั่ง Histamine และเป็น H1-receptor agonist ที่หลอดเลือด ช่วยเพิ่มการไหลเวียนเลือดในหูชั้นใน ลดอาการเวียนศีรษะ",
+        state: false
+    }, {
+        problem: "18. The ice skater suddenly stops spinning after completing 10 rotations. Immediately upon stopping, the skater experiences brief but intense dizziness (vertigo and nystagmus). This perception of continued, reversed rotation is physiologically caused by:",
+        img: "",
+        choices: "A temporary depletion of neurotransmitter (glutamate) at the hair cell base///The immediate cessation of central cerebellar compensatory signals///Acute fluid shift (hydrops) due to centrifugal force.///The Inertia of the endolymph causing it to continue moving briefly in the direction of the original spin (reverse flow).///The angular position data from the otolith organs being mismatched with visual input.",
+        answer: "The Inertia of the endolymph causing it to continue moving briefly in the direction of the original spin (reverse flow).",
+        select: "",
+        explain: "เมื่อหยุดหมุนทันที ของเหลว Endolymph ใน Semicircular canal จะยังคงไหลต่อไปในทิศทางเดิมด้วยแรงเฉื่อย (Inertia) ทำให้ Cupula โค้งไปในทิศทางตรงกันข้ามกับการหมุน (เมื่อเทียบกับศีรษะที่หยุดนิ่ง) สมองจึงแปลผลว่าร่างกายกำลังหมุนสวนทาง ทำให้เกิดอาการเวียนศีรษะ",
+        state: false
+    }, {
+        problem: "19. Which of the following best describes calcium-dependent mechanism in nerve terminal?",
+        img: "",
+        choices: "Calcium diffuses across the synaptic cleft to stimulate neighboring neurons///Calcium inhibits neurotransmitter reuptake into the presynaptic neuron///Calcium activates monoamine oxidase to degrade neurotransmitters///Calcium binds to postsynaptic receptors to open Ion channels directly///Depolarization of the presynaptic membrane opens voltage-gated calcium channels, allowing Ca2+ Influx that triggers vesicle fusion",
+        answer: "Depolarization of the presynaptic membrane opens voltage-gated calcium channels, allowing Ca2+ Influx that triggers vesicle fusion",
+        select: "",
+        explain: "เมื่อ Action potential มาถึงปลายประสาท จะทำให้ Voltage-gated calcium channels เปิดออก แคลเซียม (Ca2+) จะไหลเข้าสู่เซลล์และไปจับกับโปรตีน (เช่น Synaptotagmin) ทำให้ถุงบรรจุสารสื่อประสาท (Synaptic vesicles) เคลื่อนไปรวมตัวกับเยื่อหุ้มเซลล์และปล่อยสารสื่อประสาทออกมา (Exocytosis)",
+        state: false
+    }, {
+        problem: "20. Which is a sign of lower motor neuron lesions?",
+        img: "",
+        choices: "Fasciculation///Myoclonus///Hyperreflexia///Spasticity///Anesthesia",
+        answer: "Fasciculation",
+        select: "",
+        explain: "Lower Motor Neuron (LMN) lesions จะมีอาการแสดงคือ กล้ามเนื้อลีบ (Atrophy), กล้ามเนื้ออ่อนแรง (Flaccid paralysis), Reflex ลดลง (Hyporeflexia) และมีการเต้นพริ้วของกล้ามเนื้อ (Fasciculation) ส่วน Hyperreflexia และ Spasticity เป็นอาการของ UMN lesion",
+        state: false
+    }, {
+        problem: "21. A 14-month-old Laos boy develops paralysis of his left leg 2 weeks after receiving the oral polio vaccine (OPV). Neurological exam shows areflexia with preserved sensation, CSF reveals lymphocytic pleocytosis. Which of the following best describes this condition?",
+        img: "",
+        choices: "Transverse myelitis due to autoimmune activation///Early wild-type poliovirus infection///Vaccine-associated paralytic poliomyelitis (VAPP)///Post-polio syndrome E. Transverse myelitis due to autoimmune activation///Guillain-Barré syndrome following vaccination",
+        answer: "Vaccine-associated paralytic poliomyelitis (VAPP)",
+        select: "",
+        explain: "OPV เป็นวัคซีนเชื้อเป็น (Live attenuated virus) ซึ่งในกรณีที่พบได้ยาก เชื้อสามารถกลายพันธุ์กลับมาก่อโรค (Revert to virulence) ทำให้เกิดอาการอัมพาตคล้ายโปลิโอ (VAPP) โดยเฉพาะในผู้ที่ได้รับวัคซีนเข็มแรกหรือภูมิคุ้มกันต่ำ",
+        state: false
+    }, {
+        problem: "22. What is the correct mechanism of muscle tone?",
+        img: "",
+        choices: "The gamma motor neuron initiates a nerve impulse and sends it to the neuromuscular junction.///The alpha motor neuron initiates a nerve impulse and sends it to the effector muscle.///The alpha motor neuron initiates a nerve Impulse and sends it to the muscle spindle.///The gamma motor neuron initiates a nerve impulse and sends it to the alpha motor neuron.///The gamma motor neuron initiates a nerve impulse and sends it to the Golgi tendon organ,",
+        answer: "The gamma motor neuron initiates a nerve impulse and sends it to the alpha motor neuron.",
+        select: "",
+        explain: "กลไกการคง Muscle tone อาศัย Gamma loop: Gamma motor neuron กระตุ้น Intrafusal fibers ใน Muscle spindle ให้หดตัว -> ดึงยืดตัวรับความรู้สึก -> ส่งสัญญาณผ่าน Ia sensory fiber ไปกระตุ้น Alpha motor neuron -> กล้ามเนื้อ (Extrafusal) หดตัวเล็กน้อยเพื่อคงความตึงตัว (Tone)",
+        state: false
+    }, {
+        problem: "23. A 60-year-old male lives in Tak Province, near Thai-Myanmar border area, presents with fever and seizure, Blood examination reveals Plasmodium falciparum infection. What is the most Important factor causing cerebral malaria in this patient?",
+        img: "",
+        choices: "Sequestration in microcirculation///Able to cause platelet hyper-agglutination///Ability to be dormant in liver cell///Ability of immune evasion///Able to multiply rapidly",
+        answer: "Sequestration in microcirculation",
+        select: "",
+        explain: "Cerebral malaria เกิดจากการที่เม็ดเลือดแดงติดเชื้อ P. falciparum มีการเปลี่ยนแปลงที่ผิวเซลล์ (Cytoadherence/Knobs) ทำให้เกาะติดกับผนังหลอดเลือดฝอยในสมอง (Sequestration) เกิดการอุดตัน ขัดขวางการไหลเวียนเลือดและนำไปสู่ภาวะสมองขาดออกซิเจน",
+        state: false
+    }, {
+        problem: "24. A 25-year-old female was brought to consult the doctor at the hospital by her husband. Her husband informed the doctor that the patient might be bipolar disorder. The doctor assessed and prescribed lithium... later patient took an overdose... What is the toxicity of lithium overdose?",
+        img: "",
+        choices: "Psychosis///Hyperthyroidism///Polyuria///Serotonin syndrome///Hypertensive crisis",
+        answer: "Polyuria",
+        select: "",
+        explain: "อาการพิษจาก Lithium (Toxicity/Side effect) ที่เด่นชัดคือผลต่อไต ทำให้เกิด Nephrogenic Diabetes Insipidus (เบาจืด) ผู้ป่วยจะมีอาการปัสสาวะบ่อย (Polyuria) และกระหายน้ำมาก นอกจากนี้ยังพบอาการทางระบบประสาท เช่น มือสั่น เดินเซ สับสน ได้",
+        state: false
+    }, {
+        problem: "25. Which of the following antiseizure medication is most likely to impair learning and memory, and produce behavioral abnormalities in children?",
+        img: "",
+        choices: "Phenytoin///Topiramate///Lamotrigine///Valproic acid///Phenobarbital",
+        answer: "Phenobarbital",
+        select: "",
+        explain: "Phenobarbital เป็นยากันชักกลุ่ม Barbiturates ซึ่งมีผลข้างเคียงสำคัญในเด็กคือ ทำให้เกิดปัญหาด้านพฤติกรรม (ซนสมาธิสั้น หรือ ก้าวร้าว) และรบกวนการเรียนรู้และความจำ (Cognitive impairment) จึงไม่นิยมใช้เป็นยาตัวแรกในเด็ก",
+        state: false
+    }, {
+        problem: "26. Smelling a particular thing is directly related to a feeling via which of the following pathway?",
+        img: "",
+        choices: "Stria terminalis///Medial olfactory stria///Lateral olfactory stria///Ventral amygdalofugal///Stria medullaris",
+        answer: "Lateral olfactory stria",
+        select: "",
+        explain: "สัญญาณประสาทรับกลิ่น (Olfactory tract) จะแยกออกเป็น Medial และ Lateral striae โดย Lateral olfactory stria จะส่งสัญญาณไปยัง Primary olfactory cortex และ Amygdala (ในระบบ Limbic system) โดยตรง ซึ่งเกี่ยวข้องกับความจำและอารมณ์ความรู้สึก",
+        state: false
+    }, {
+        problem: "27. A 25-year-old male had severe headache and vomiting for 10 days... CSF Indian ink found encapsulated yeasts. What is mode of transmission of this organism?",
+        img: "",
+        choices: "Contact///Ingestion///Wound///Blood///Inhalation",
+        answer: "Inhalation",
+        select: "",
+        explain: "Encapsulated yeast ใน CSF บ่งบอกถึง Cryptococcus neoformans (ก่อโรค Cryptococcal meningitis) การติดต่อเกิดจากการหายใจเอาสปอร์เชื้อราที่ปนเปื้อนในมูลนกพิราบหรือดิน (Inhalation) เข้าสู่ปอด แล้วแพร่กระจายเข้าสู่กระแสเลือดไปยังสมอง",
+        state: false
+    }, {
+        problem: "28. A newborn is diagnosed with congenital blockage of the nasolacrimal duct. Which structure would be dilated because it normally drains directly into the nasolacrimal duct?",
+        img: "",
+        choices: "Lacrimal punctum///Conjunctival sac///Lacrimal canaliculi///Inferior orbital fissure///Lacrimal sac",
+        answer: "Lacrimal sac",
+        select: "",
+        explain: "น้ำตาไหลจากตาผ่าน Punctum -> Canaliculi -> Lacrimal sac -> Nasolacrimal duct -> จมูก หากมีการอุดตันที่ Nasolacrimal duct (ท่อน้ำตา) ของเหลวจะทนกลับมาขังอยู่ที่โครงสร้างก่อนหน้าคือ Lacrimal sac (ถุงน้ำตา) ทำให้เกิดการขยายตัวหรือติดเชื้อ (Dacryocystitis)",
+        state: false
+    }, {
+        problem: "29. A 30-year-old female presents with a sudden onset of the 'thunderclap' headache... CT scan shows blood in the basal cisterns. Which of the following is the most likely diagnosis?",
+        img: "",
+        choices: "Intraventricular Hemorrhage///Acute Subdural Hematoma///Chronic Subdural Hematoma///Subarachnoid Hemorrhage///Epidural Hematoma",
+        answer: "Subarachnoid Hemorrhage",
+        select: "",
+        explain: "Thunderclap headache (ปวดหัวรุนแรงทันทีทันใด) ร่วมกับ Nuchal rigidity และ CT พบเลือดใน Basal cisterns (Subarachnoid space) เป็นอาการแสดงจำเพาะของ Subarachnoid Hemorrhage (SAH) ซึ่งสาเหตุส่วนใหญ่เกิดจาก Berry aneurysm แตก",
+        state: false
+    }, {
+        problem: "30. The odorant-binding olfactory receptor proteins, located on the cilia of olfactory sensory neurons, belong to which type of receptors?",
+        img: "",
+        choices: "Ionotropic receptors///Ion channels///G-protein coupled receptors///Metabotropic acetylcholine receptors///Intracellular receptors",
+        answer: "G-protein coupled receptors",
+        select: "",
+        explain: "Olfactory receptors (ORs) จัดเป็น G-protein coupled receptors (GPCRs) เมื่อมีกลิ่นมาจับ จะกระตุ้น G-protein (Golf) -> Adenylyl cyclase -> เพิ่ม cAMP -> เปิด Ion channel ทำให้เกิด Action potential",
+        state: false
+    }, {
+        problem: "31. A 17-year-old boy was presented with fever and headache for 7 days. He suffered from root abscess for 2 weeks. Physical examination revealed multiple odontitis, muscle power grade 3 and reflex 3+ at Rt. extremities, What is the most likely diagnosis?",
+        img: "",
+        choices: "Encephalitis///Brain abscess///Myelitis///Meningitis///Meningoencephalitis",
+        answer: "Brain abscess",
+        select: "",
+        explain: "ประวัติการติดเชื้อที่รากฟัน (Root abscess/Odontogenic infection) แล้วตามด้วยไข้ ปวดศีรษะ และอาการทางระบบประสาทเฉพาะที่ (Focal deficit - แขนขาซีกขวาอ่อนแรง) บ่งชี้ว่าเชื้อลุกลามขึ้นสมองทำให้เกิดฝีในสมอง (Brain abscess) ด้านซ้าย",
+        state: false
+    }, {
+        problem: "32. When an individual shifts their focus from a distant object to a near object... Which combination of muscular or neurological actions represents the three components required for bringing a near object into sharp focus?",
+        img: "",
+        choices: "Ciliary muscle contraction, pupillary constriction, and eye convergence///Ciliary muscle relaxation, pupillary dilation, and eye divergence///Ciliary muscle contraction, pupillary dilation, and eye divergence///Ciliary muscle relaxation, pupillary constriction, and eye convergence///Radial muscle contraction, pupillary constriction, and eye divergence",
+        answer: "Ciliary muscle contraction, pupillary constriction, and eye convergence",
+        select: "",
+        explain: "Near response triad ประกอบด้วย 3 อย่างคือ: 1. Convergence (ตาสองข้างมองเข้าหากัน) 2. Constriction of pupil (ม่านตาหดเล็กลงเพื่อเพิ่ม Depth of field) 3. Accommodation (Ciliary muscle หดตัว ทำให้เอ็นยึดเลนส์หย่อน เลนส์นูนขึ้นเพื่อโฟกัสภาพใกล้)",
+        state: false
+    }, {
+        problem: "33. Which group of hypnotic drugs is most likely to cause significant CNS depression?",
+        img: "",
+        choices: "Barbiturates///Z-drugs///Benzodiazepines///Melatonin agonists///Orexin antagonists",
+        answer: "Barbiturates",
+        select: "",
+        explain: "Barbiturates มีผลกดประสาท (CNS depression) ที่รุนแรงกว่ากลุ่มอื่น เนื่องจากมี Dose-response curve ที่ชันและไม่มีเพดาน (Ceiling effect) การใช้เกินขนาดสามารถกดศูนย์หายใจและทำให้เสียชีวิตได้ง่ายกว่า Benzodiazepines",
+        state: false
+    }, {
+        problem: "34. A 32-year-old male with schizophrenia has been treated with haloperidol for the past 3 months. Recently, the physician decided to switch his medication to an atypical antipsychotic. What is the most appropriate reason for switching to an atypical antipsychotic in this patient?",
+        img: "",
+        choices: "To enhance serotonin release in the mesolimbic system///To increase the potency of D2 receptor antagonism///To Improve absorption of the drug in the gastrointestinal tract///To increase dopamine blockade in the nigrostriatal pathway///To reduce the risk of extrapyramidal symptoms",
+        answer: "To reduce the risk of extrapyramidal symptoms",
+        select: "",
+        explain: "Haloperidol (Typical antipsychotic) ออกฤทธิ์บล็อก D2 receptor อย่างแรง ทำให้เสี่ยงต่อ Extrapyramidal symptoms (EPS) สูง (เช่น กล้ามเนื้อเกร็ง, เดินซอยเท้า) การเปลี่ยนไปใช้ Atypical antipsychotic จะช่วยลดความเสี่ยงนี้ เพราะจับ D2 receptor น้อยกว่าและไปจับ 5-HT2A receptor แทน",
+        state: false
+    }, {
+        problem: "35. What is the Indication for medical cannabis?",
+        img: "",
+        choices: "First line drug for antiemetic in chemotherapy treatment///Parkinson patients with severe tremor///Intractable epileptic patients after 2 drugs treatment///First line for neuropathic pains///Insomnia patients with diazepam addicted",
+        answer: "Intractable epileptic patients after 2 drugs treatment",
+        select: "",
+        explain: "ข้อบ่งใช้ทางการแพทย์ของกัญชา (CBD oil) ที่มีหลักฐานยืนยันชัดเจนคือ ใช้รักษาโรคลมชักที่ดื้อต่อยา (Refractory/Intractable epilepsy) เช่น Dravet syndrome หรือ Lennox-Gastaut syndrome",
+        state: false
+    }, {
+        problem: "36. Destruction of which structure can lead to the decerebrate deformity?",
+        img: "",
+        choices: "Vestibular nucleus///Red nucleus///Cerebellum///Reticular formation///Cerebellar cortex",
+        answer: "Red nucleus",
+        select: "",
+        explain: "Decerebrate posture (เหยียดแขนขา) เกิดจากรอยโรคที่อยู่ต่ำกว่า Red nucleus (Midbrain) ทำให้สูญเสียการควบคุมจาก Rubrospinal tract (ที่ช่วยในการงอแขน) เหลือเพียง Vestibulospinal tract ที่กระตุ้นให้เหยียด (Extensor tone) ทำงานเด่นขึ้น",
+        state: false
+    }, {
+        problem: "37. A 7-year-old girl is brought to the pediatrician due to worsening clumsiness, frequent falls, and morning vomiting. Physical examination reveals gait ataxia and papilledema, An MRI shows a well-circumscribed cystic lesion with an enhancing mural nodule in the cerebellum. What is the most likely diagnosis?",
+        img: "",
+        choices: "Ependymoma///Craniopharyngioma///Hemangioblastoma///Pilocytic astrocytoma///Medulloblastoma",
+        answer: "Pilocytic astrocytoma",
+        select: "",
+        explain: "เนื้องอกสมองที่พบบ่อยในเด็กและมีลักษณะเฉพาะทาง MRI คือ เป็นถุงน้ำ (Cystic) และมีก้อนเนื้อเกาะที่ผนัง (Mural nodule) ในสมองน้อย (Cerebellum) คือ Pilocytic astrocytoma (WHO Grade I) ซึ่งมีการพยากรณ์โรคที่ดี",
+        state: false
+    }, {
+        problem: "38. A 35-year-old female presents with acute anxiety. Which of the following medications is the most appropriate choice for her treatment?",
+        img: "",
+        choices: "Diazepam///Amobarbital///Eszopiclone///Flumazenil///Midazolam",
+        answer: "Diazepam",
+        select: "",
+        explain: "สำหรับการรักษา Acute anxiety (ความวิตกกังวลเฉียบพลัน) ยาในกลุ่ม Benzodiazepines เช่น Diazepam เป็นตัวเลือกที่เหมาะสมเพราะออกฤทธิ์เร็วในการลดความกังวล (Anxiolytic) ส่วน Midazolam ออกฤทธิ์สั้นเกินไปมักใช้ระงับประสาทก่อนทำหัตถการ",
+        state: false
+    }, {
+        problem: "39. Which of the following drug mechanisms is possibly involved in the development or treatment of psychosis, according to current and emerging hypotheses?",
+        img: "",
+        choices: "Inhibition of NMDA receptor activity///Inhibition of norepinephrine reuptake///Blockade of mGluR2/3 receptors///Antagonism of 5-HT2A receptors///Agonism of D2 dopamine receptors",
+        answer: "Antagonism of 5-HT2A receptors",
+        select: "",
+        explain: "กลไกสำคัญของยาต้านโรคจิตกลุ่มใหม่ (Atypical antipsychotics) คือการยับยั้งตัวรับ Serotonin ชนิด 5-HT2A (5-HT2A antagonism) ร่วมกับ D2 blockade ซึ่งช่วยลดอาการทางจิตและลดผลข้างเคียง EPS",
+        state: false
+    }, {
+        problem: "40. Where is origin of this mass?",
+        img: "https://drive.google.com/open?id=1xKkFrPUzc82iDXtzk31jH1eKTYTt98Ts&usp=drive_copy",
+        choices: "Sphenoid sinus///Pituitary gland///Clivus///Brain///Sphenoid bone",
+        answer: "Pituitary gland",
+        select: "",
+        explain: "ภาพ MRI แสดงก้อนเนื้องอกในบริเวณ Sella turcica ซึ่งเป็นที่อยู่ของต่อมใต้สมอง (Pituitary gland) และมีการกดเบียด Optic chiasm ลักษณะเข้าได้กับ Pituitary Macroadenoma",
+        state: false
+    }, {
+        problem: "41. What is the advantage of bone window image of CT scan brain?",
+        img: "",
+        choices: "Locate hydrocephalus///Locate brain cortex///Locate fracture skull///Locate brain herniation///Locate hemorrhage",
+        answer: "Locate fracture skull",
+        select: "",
+        explain: "Bone window เป็นการปรับค่าการแสดงผลของ CT scan เพื่อให้เห็นรายละเอียดของกระดูกชัดเจนที่สุด จึงมีประโยชน์หลักในการหากระดูกกะโหลกศีรษะแตก (Skull fracture)",
+        state: false
+    }, {
+        problem: "42. A 55-year-old woman has sudden spinning sensations and imbalance when looking up or rolling over in bed. She feels nauseous during these episodes, but her hearing is normal. Which structure is likely to cause her symptoms?",
+        img: "",
+        choices: "Vestibular apparatus///Lateral lemniscus///Cochlear nerve///Primary auditory cortex///Inferior cerebellar peduncle",
+        answer: "Vestibular apparatus",
+        select: "",
+        explain: "อาการบ้านหมุนเมื่อเปลี่ยนท่าทาง (Benign Paroxysmal Positional Vertigo - BPPV) เกิดจากความผิดปกติใน Vestibular apparatus (Semicircular canals) โดยมีผลึกหินปูน (Otoliths) หลุดเข้าไปรบกวนการไหลของน้ำในท่อ",
+        state: false
+    }, {
+        problem: "43. A patient presents with truncal ataxia and difficulty maintaining posture while standing or walking. Which structure is most likely involved?",
+        img: "",
+        choices: "Middle cerebellar peduncle///Cerebellar hemisphere///Inferior olivary nucleus///Dentate nucleus///Cerebellar vermis",
+        answer: "Cerebellar vermis",
+        select: "",
+        explain: "Cerebellar vermis (ส่วนแกนกลางของสมองน้อย) ทำหน้าที่ควบคุมการทรงตัวของลำตัว (Trunk stability) หากเสียหายจะทำให้เกิด Truncal ataxia (เดินเซ ทรงตัวไม่ได้) ต่างจาก Cerebellar hemisphere ที่ควบคุมความแม่นยำของแขนขา (Limb ataxia)",
+        state: false
+    }, {
+        problem: "44. A 25-year-old female was brought to consult the doctor at the hospital by her friend. Her friend informed the doctor that the patient might be depressed. The doctor assessed and prescribed sertraline... What is the mechanism of action of sertraline?",
+        img: "",
+        choices: "Serotonin agonist///Noradrenaline antagonist///Serotonin reuptake inhibitor///Noradrenaline reuptake inhibitor///Dopamine reuptake inhibitor",
+        answer: "Serotonin reuptake inhibitor",
+        select: "",
+        explain: "Sertraline เป็นยาต้านซึมเศร้าในกลุ่ม SSRIs (Selective Serotonin Reuptake Inhibitors) กลไกคือยับยั้งการดูดกลับของ Serotonin เข้าสู่เซลล์ประสาท ทำให้ปริมาณ Serotonin ใน Synapse เพิ่มขึ้น ช่วยให้อารมณ์ดีขึ้น",
+        state: false
+    }, {
+        problem: "45. A 19-year-old male college student presents to the emergency department with a sudden onset of high fever, severe headache, and photophobia. Physical examination reveals nuchal rigidity... CSF analysis shows significantly elevated neutrophils, elevated protein, and decreased glucose levels. Which of the following is the most likely pathological diagnosis?",
+        img: "",
+        choices: "Chronic Tuberculous Meningitis///Cryptococcal Meningitis///Brain Abscess///Acute Viral Meningitis///Acute Pyogenic Meningitis",
+        answer: "Acute Pyogenic Meningitis",
+        select: "",
+        explain: "อาการไข้สูง ปวดหัว คอแข็ง (Meningeal signs) ร่วมกับผล CSF ที่พบเม็ดเลือดขาวชนิด Neutrophil สูง, โปรตีนสูง และน้ำตาลต่ำ เป็นลักษณะจำเพาะของเยื่อหุ้มสมองอักเสบจากแบคทีเรีย (Acute Pyogenic/Bacterial Meningitis)",
+        state: false
+    }, {
+        problem: "46. A 41-year-old male presents with a fever and headache for a week. Over the past 3 weeks, he had a history of painful intermittent migrating erythematous edema on his neck and face. Lumbar puncture was done, and CSF analysis reveals 38% eosinophil. What is the most probable parasitic infection?",
+        img: "",
+        choices: "Gnathostoma spinigerum///Toxoplasma gondii///Spirometra mansoni///Cysticercus cellulosae///Anglostrongylus cantonensis",
+        answer: "Gnathostoma spinigerum",
+        select: "",
+        explain: "ประวัติรอยบวมแดงเคลื่อนที่ได้ (Migrating swelling/Cutaneous larva migrans) ร่วมกับ Eosinophilic meningitis (Eosinophil สูงใน CSF) บ่งชี้ถึงการติดเชื้อพยาธิตัวจี๊ด (Gnathostoma spinigerum) ซึ่งไชไปตามผิวหนังและเข้าสู่ระบบประสาทได้",
+        state: false
+    }, {
+        problem: "47. A 68-year-old woman is newly diagnosed with mild Alzheimer's disease. Her physician decides to initiate pharmacologic therapy to Improve cognitive function. Which class of medication is most appropriate to start at this stage of the disease?",
+        img: "",
+        choices: "Cholinesterase inhibitors///Antipsychotics///Selective serotonin reuptake inhibitors (SSRIs)///NMDA receptor antagonists///Benzodiazepines",
+        answer: "Cholinesterase inhibitors",
+        select: "",
+        explain: "ยาหลักที่ใช้รักษา Alzheimer's disease ในระยะเริ่มแรกถึงปานกลาง (Mild to moderate) คือ Cholinesterase inhibitors (เช่น Donepezil, Rivastigmine) เพื่อเพิ่มปริมาณ Acetylcholine ในสมอง ช่วยชะลอความจำเสื่อม",
+        state: false
+    }, {
+        problem: "48. The patient has inappropriate social behavior and difficulty integrating into social situations. Which part of the cerebrum has lesion?",
+        img: "",
+        choices: "Primary somatosensory area///Supplementary motor area///Premotor area///Broca area///Prefrontal area",
+        answer: "Prefrontal area",
+        select: "",
+        explain: "Prefrontal cortex (โดยเฉพาะส่วน Orbitofrontal) ทำหน้าที่เกี่ยวกับบุคลิกภาพ การตัดสินใจ และการควบคุมพฤติกรรมทางสังคม (Executive function & Social inhibition) หากเสียหายจะทำให้เสียมารยาททางสังคม มีพฤติกรรมไม่เหมาะสม (Phineas Gage syndrome)",
+        state: false
+    }, {
+        problem: "49. What type of brain herniation in this CT image?",
+        img: "https://drive.google.com/open?id=1aYEfGhyFIc_TquAk_aKOaFttuhn5Pke7&usp=drive_copy",
+        choices: "Transtentorial brain herniation///Subfalcine brain herniation///Central brain herniation///Uncal brain herniation///Tonsillar brain herniation",
+        answer: "Subfalcine brain herniation",
+        select: "",
+        explain: "Subfalcine herniation (Cingulate herniation) เป็น brain herniation ที่พบบ่อยที่สุด เกิดจากเนื้อสมองส่วน Cingulate gyrus ถูกดันลอดใต้ Falx cerebri ข้ามไปยังอีกซีกหนึ่ง ทำให้เกิด Midline shift ในภาพ CT",
+        state: false
+    }, {
+        problem: "50. A 12-year-old boy with a history of chronic otitis media presents with a worsening headache... A CT scan shows a 3-cm ring-enhancing lesion in the right temporal lobe... Histologic examination of the lesion's wall would most likely reveal which of the following?",
+        img: "",
+        choices: "Non-caseating granulomas///Palisading necrosis with high-grade atypia///Caseating granulomas with Langhans giant cells///Perivascular lymphocytic cuffing only///A collagenous capsule surrounded by gliosis",
+        answer: "A collagenous capsule surrounded by gliosis",
+        select: "",
+        explain: "Brain abscess (ฝีในสมอง) ในระยะที่เป็นฝีสมบูรณ์ (Capsule stage) ผนังของฝีจะประกอบด้วย Fibrous capsule (สร้างจาก Fibroblast/Collagen) และล้อมรอบด้วย Gliosis (ปฏิกิริยาของเซลล์ค้ำจุนประสาท) เพื่อจำกัดการติดเชื้อ",
+        state: false
+    }, {
+        problem: "51. A 45-year-old male is brought to the emergency department following a motor vehicle accident. Witnesses report that he lost consciousness briefly at the scene, then woke up and was conversing normally (lucid interval) for about one hour before developing a severe headache, becoming drowsy, and losing consciousness again. Physical examination reveals a fixed dilated pupil on the right side. Which of the following pathological mechanisms best explains this patient's condition?",
+        img: "",
+        choices: "Subdural hematoma caused by tearing of bridging veins.///Epidural hematoma caused by tearing of the middle meningeal artery.///Diffuse axonal injury caused by rotational acceleration forces.///Subarachnoid hemorrhage caused by rupture of a berry aneurysm.///Intracerebral hemorrhage caused by chronic hypertension.",
+        answer: "Epidural hematoma caused by tearing of the middle meningeal artery.",
+        select: "",
+        explain: "อาการ Lucid interval (สลบ-ตื่น-สลบ) เป็นลักษณะคลาสสิกของ Epidural Hematoma (เลือดออกเหนือเยื่อหุ้มสมอง) สาเหตุหลักเกิดจากกะโหลกศีรษะแตกไปฉีกขาดเส้นเลือด Middle Meningeal Artery (MMA)",
+        state: false
+    }, {
+        problem: "52. The sign of chorea and muscle stiffness (dystonia) are typically in....................disease",
+        img: "",
+        choices: "cerebellar///Parkinsons///Huntingtons///meningitis///hemiballismus",
+        answer: "Huntingtons",
+        select: "",
+        explain: "Chorea (การเคลื่อนไหวผิดปกติแบบร่ายรำ) เป็นอาการเด่นของโรค Huntington's disease ร่วมกับอาการทางจิตและ Dystonia ซึ่งเกิดจากความเสื่อมของ Caudate nucleus ใน Basal ganglia",
+        state: false
+    }, {
+        problem: "53. A 50-year-old man reports horizontal diplopia that worsens when looking toward the left side. On examination, his left eye cannot fully abduct. Which muscle is affected?",
+        img: "",
+        choices: "Left medial rectus///Right lateral rectus///Left lateral rectus///Right inferior oblique.///Left superior oblique",
+        answer: "Left lateral rectus",
+        select: "",
+        explain: "อาการตาซ้ายเหลือบออกนอก (Abduct) ไม่ได้ บ่งบอกถึงความผิดปกติของกล้ามเนื้อ Left Lateral Rectus (LR) หรือเส้นประสาทคู่ที่ 6 (Abducens nerve) ที่เลี้ยงกล้ามเนื้อนี้",
+        state: false
+    }, {
+        problem: "54. Which of the following anesthetic drug has high analgesic effect but low muscle relaxation effect?",
+        img: "",
+        choices: "Nitrous oxide///Isoflurane///Ketamine///Sevoflurane///Halothane",
+        answer: "Nitrous oxide",
+        select: "",
+        explain: "Nitrous oxide (ก๊าซหัวเราะ) เป็นยาดมสลบที่มีฤทธิ์แก้ปวด (Analgesic) สูงมาก แต่มีฤทธิ์ทำให้กล้ามเนื้อคลายตัวน้อยและทำให้สลบได้ยาก (MAC สูง) จึงมักใช้ร่วมกับยาดมสลบตัวอื่น",
+        state: false
+    }, {
+        problem: "55. Which of the following factors decreases the effectiveness of local anesthetics?",
+        img: "",
+        choices: "Use with vasoconstrictors///High lipid solubility///Increased protein binding///Infection or low tissue pH///Administration near the nerve trunk",
+        answer: "Infection or low tissue pH",
+        select: "",
+        explain: "ยาชาเฉพาะที่ (Local anesthetics) เป็น Weak bases ในภาวะที่มีการติดเชื้อ เนื้อเยื่อจะเป็นกรด (Low pH) ทำให้ยาชาแตกตัวเป็นประจุ (Ionized form) มากขึ้น ทำให้ไม่สามารถแพร่ผ่านเยื่อหุ้มเซลล์ประสาทเข้าไปออกฤทธิ์ได้ ประสิทธิภาพจึงลดลง",
+        state: false
+    }, {
+        problem: "56. An MRI examination of the brain of a 30-year-old male patient reveals a tumor at the cerebellopontine angle. This is likely secondary to a tumor of the nerve sheath associated with which cranial nerves?",
+        img: "",
+        choices: "CV IV///CV X///CV VIII///CV VI///CV XII",
+        answer: "CV VIII",
+        select: "",
+        explain: "เนื้องอกที่พบบ่อยที่สุดบริเวณ Cerebellopontine angle (CPA) คือ Acoustic Neuroma (Vestibular Schwannoma) ซึ่งเกิดจากปลอกหุ้มเส้นประสาทคู่ที่ 8 (CN VIII - Vestibulocochlear nerve)",
+        state: false
+    }, {
+        problem: "57. Which structure is linking occipital with temporal lobes?",
+        img: "",
+        choices: "Superior longitudinal fasciculus///Anterior commissure///Corpus callosum///Inferior longitudinal fasciculus///Uncinate fasciculus",
+        answer: "Inferior longitudinal fasciculus",
+        select: "",
+        explain: "Inferior longitudinal fasciculus เป็นเส้นใยประสาทเชื่อมโยง (Association fibers) ที่เชื่อมระหว่าง Occipital lobe (การมองเห็น) กับ Temporal lobe (ความจำ/การจดจำวัตถุ) มีบทบาทในการรับรู้ภาพ (Visual object recognition)",
+        state: false
+    }, {
+        problem: "58. Which condition that the synchronization of EEG will be observed?",
+        img: "",
+        choices: "Watching TV///Sleep walking///Deep sleep///Calculating mathematic equation///Making conversation",
+        answer: "Deep sleep",
+        select: "",
+        explain: "Synchronization of EEG (คลื่นมีความถี่ต่ำ แต่ความสูงคลื่นมาก เช่น Delta waves) จะพบได้ในขณะหลับลึก (Deep sleep / Slow-wave sleep) ซึ่งเซลล์ประสาททำงานประสานกันเป็นจังหวะ ต่างจากตอนตื่นที่คลื่นจะไม่เป็นจังหวะ (Desynchronized)",
+        state: false
+    }, {
+        problem: "59. Which of the following is the adverse effect of trihexyphenidyl?",
+        img: "",
+        choices: "Insomnia///Bradycardia///Diarrhea///Increase sweating///Urinary retention",
+        answer: "Urinary retention",
+        select: "",
+        explain: "Trihexyphenidyl เป็นยาในกลุ่ม Anticholinergic (ใช้รักษา Parkinson's) ผลข้างเคียงเกิดจากการต้านระบบ Parasympathetic ได้แก่ ปากแห้ง ตาพร่า ท้องผูก ปัสสาวะคั่ง (Urinary retention) และหัวใจเต้นเร็ว",
+        state: false
+    }, {
+        problem: "60. Which of the following general anesthetic drug can cause hypertension?",
+        img: "",
+        choices: "Nitrous oxide///Propofol///Halothane///Ketamine///Thiopental",
+        answer: "Ketamine",
+        select: "",
+        explain: "Ketamine เป็นยาสลบที่กระตุ้นระบบประสาท Sympathetic ทำให้หัวใจเต้นเร็วและความดันโลหิตสูงขึ้น (Hypertension) ต่างจากยาสลบตัวอื่นที่มักกดการทำงานของหัวใจและลดความดัน",
+        state: false
+    }, {
+        problem: "61. A 32-year-old man with generalized tonic-clonic seizures is started on valproic acid. Which combination of mechanisms best explains its antiseizure effects?",
+        img: "",
+        choices: "Potentiates GABAB receptors + blocks AMPA receptors///Inhibits NMDA receptors + induces GABA transaminase///Blocks T-type Ca2+ channels + inhibits succinate semialdehyde dehydrogenase///Enhances GABA release + Inhibits GABA uptake///Inhibits GABA transaminase + prolongs Na+ channel inactivation",
+        answer: "Blocks T-type Ca2+ channels + inhibits succinate semialdehyde dehydrogenase",
+        select: "",
+        explain: "Valproic acid มีกลไกหลายอย่าง (Broad spectrum): 1. Block Na+ channels 2. Block T-type Ca2+ channels (เหมือน Ethosuximide) 3. เพิ่ม GABA โดยยับยั้งเอนไซม์ที่ทำลาย GABA (GABA Transaminase และ Succinate semialdehyde dehydrogenase)",
+        state: false
+    }, {
+        problem: "62. A 65-year-old male presents with a new-onset generalized seizure... MRI reveals a large, irregular, ring enhancing lesion crossing the corpus callosum ('Butterfly lesion')... Which of the following microscopic findings is most characteristic of this tumor?",
+        img: "",
+        choices: "Pseudopalisading necrosis and microvascular proliferation///Small round blue cells forming Homer-Wright rosettes///Fried-egg appearance with chicken-wire capillary network///Whorls of meningothelial cells with psammoma bodies///Perivascular pseudorosettes",
+        answer: "Pseudopalisading necrosis and microvascular proliferation",
+        select: "",
+        explain: "Butterfly glioma ที่ข้าม Corpus callosum คือ Glioblastoma Multiforme (GBM) ลักษณะทางจุลพยาธิวิทยาที่สำคัญคือ เซลล์เนื้องอกเรียงตัวรอบบริเวณเนื้อตาย (Pseudopalisading necrosis) และมีการเพิ่มจำนวนของหลอดเลือด (Microvascular proliferation)",
+        state: false
+    }, {
+        problem: "63. A 35-year-old male with untreated HIV... India ink positive... cystic lesions in the basal ganglia. What are these cystic lesions commonly called?",
+        img: "",
+        choices: "Gummas///Tuberculomas///Soap bubble lesions///Lacunar infarcts///Ghon complex",
+        answer: "Soap bubble lesions",
+        select: "",
+        explain: "การติดเชื้อ Cryptococcus ในสมอง เชื้อราสามารถแพร่กระจายไปตาม Virchow-Robin spaces ใน Basal ganglia และสร้างสารเมือก (Mucin) ดันให้ช่องว่างขยายตัว เกิดเป็นถุงน้ำเล็กๆ จำนวนมากเรียกว่า Soap bubble lesions",
+        state: false
+    }, {
+        problem: "64. A woman presented to the hospital with a seizure, palpitation, hypertension, low-grade fever, sweating, and tremor after she used a weight-reducing substance. What is the possible substance abuse?",
+        img: "",
+        choices: "Marijuana///Ethanol///Heroin///Amphetamine///Diazepam",
+        answer: "Amphetamine",
+        select: "",
+        explain: "อาการใจสั่น ความดันสูง เหงื่อออก มือสั่น ชัก (Sympathomimetic toxidrome) ในบริบทของการใช้ยาลดความอ้วน มักเกิดจาก Amphetamine หรืออนุพันธ์ ซึ่งมีฤทธิ์กดความอยากอาหารและกระตุ้นระบบประสาท",
+        state: false
+    }, {
+        problem: "65. A patient exhibits normal vestibulo-ocular reflex during rapid head rotation. Which pathway transmits vestibular information to the ocular motor nuclei (III, IV, VI) to generate compensatory eye movements?",
+        img: "",
+        choices: "Medial vestibulospinal tract///Lateral lemniscus///Lateral vestibulospinal tract///Descending MLF///Ascending MLF",
+        answer: "Ascending MLF",
+        select: "",
+        explain: "Vestibulo-ocular reflex (VOR) อาศัยสัญญาณจาก Vestibular nuclei ส่งผ่าน Ascending Medial Longitudinal Fasciculus (MLF) ขึ้นไปสั่งงานนิวเคลียสของกล้ามเนื้อตา (CN III, IV, VI) ให้กลอกตาชดเชยการหมุนของศีรษะ",
+        state: false
+    }, {
+        problem: "66. A patient presents with a sudden inability to comprehend speech and uses nonsensical words and sentences. The clinician Immediately suspects an infarct in a branch of what artery?",
+        img: "",
+        choices: "Anterior communicating artery///Middle cerebral artery///Basilar artery///Anterior spinal artery///Posterior cerebral artery",
+        answer: "Middle cerebral artery",
+        select: "",
+        explain: "อาการพูดได้คล่องแต่ไม่เข้าใจความหมาย (Fluent/Wernicke's aphasia) เกิดจากรอยโรคที่ Wernicke's area ใน Temporal lobe ซึ่งเลี้ยงโดยแขนงของ Middle Cerebral Artery (MCA) ด้านล่าง (Inferior division)",
+        state: false
+    }, {
+        problem: "67. A 72-year-old male... progressive memory loss... generalized cortical atrophy... Microscopic examination shows intracellular neurofibrillary tangles. These tangles are composed of which of the following?",
+        img: "",
+        choices: "Beta-amyloid peptide///TDP-43///Prion protein (PrP-sc)///Alpha-synuclein///Hyperphosphorylated Tau protein",
+        answer: "Hyperphosphorylated Tau protein",
+        select: "",
+        explain: "พยาธิสภาพของ Alzheimer's disease ประกอบด้วย 2 ส่วนหลัก: 1. Senile plaques (อยู่นอกเซลล์) ประกอบด้วย Beta-amyloid 2. Neurofibrillary tangles (อยู่ในเซลล์) ประกอบด้วย Hyperphosphorylated Tau protein",
+        state: false
+    }, {
+        problem: "68. Intention tremor and ataxic gait are characteristic signs of which structure or diseases?",
+        img: "",
+        choices: "Cerebellum///Parkinsons///Basal ganglia///Huntingtons///Hemiballismus",
+        answer: "Cerebellum",
+        select: "",
+        explain: "อาการสั่นเมื่อตั้งใจทำกิจกรรม (Intention tremor) และเดินเซ (Ataxic gait) เป็นอาการแสดงหลักของความผิดปกติที่สมองน้อย (Cerebellum) (ส่วน Parkinson's จะเป็น Resting tremor)",
+        state: false
+    }, {
+        problem: "69. A patient presents with difficulty seeing things during the nighttime with low-light conditions. Which of the following physiological processes is most likely impaired in this patient?",
+        img: "",
+        choices: "Accommodation reflex///Conduction of action potentials in the optic nerve///Lateral inhibition in the retina///Photopsin stimulation///Rhodopsin synthesis and regeneration",
+        answer: "Rhodopsin synthesis and regeneration",
+        select: "",
+        explain: "ตาบอดกลางคืน (Night blindness) เกิดจากความผิดปกติของเซลล์ Rods ที่ใช้มองในที่มืด ซึ่งต้องใช้สาร Rhodopsin (สร้างจาก Vitamin A) การขาด Rhodopsin ทำให้กระบวนการมองเห็นในที่แสงน้อยบกพร่อง",
+        state: false
+    }, {
+        problem: "70. Which sign is most likely present in a patient with a stroke in left cerebellar hemisphere?",
+        img: "",
+        choices: "Motor weakness on the right///Dysdiadochokinesia on the left///Down-beat nystagmus///Intention tremor on the right///Resting tremor on the left",
+        answer: "Dysdiadochokinesia on the left",
+        select: "",
+        explain: "สมองน้อย (Cerebellum) ควบคุมร่างกายซีกเดียวกัน (Ipsilateral control) ดังนั้นรอยโรคที่ Left cerebellar hemisphere จะทำให้เกิดอาการผิดปกติทางด้านซ้าย เช่น Dysdiadochokinesia (ขยับมือสลับด้านไม่สัมพันธ์กัน) ทางด้านซ้าย",
+        state: false
+    }, {
+        problem: "71. Which of the following antiseizure medication is classified as hepatic enzyme Inducer?",
+        img: "",
+        choices: "Lamotrigine and phenytoin///Carbamazepine and levetiracetam///Phenytoin and phenobarbital///Phenobarbital and levetiracetam///Topiramate and valproate",
+        answer: "Phenytoin and phenobarbital",
+        select: "",
+        explain: "ยากันชักที่เป็น Enzyme inducers (กระตุ้นการทำงานของเอนไซม์ตับ CYP450) ที่สำคัญคือ Phenytoin, Phenobarbital และ Carbamazepine ทำให้ระดับยาอื่นในเลือดลดลงได้",
+        state: false
+    }, {
+        problem: "72. Which one of these is the reference anatomy for the lowest point of axial slice of CT scan brain?",
+        img: "",
+        choices: "Foramen magnum///Pons///C2///C1///Midbrain",
+        answer: "Foramen magnum",
+        select: "",
+        explain: "ในการทำ CT brain ตามมาตรฐาน ภาพ Axial slice ล่างสุดมักจะเริ่มที่ระดับ Foramen magnum (ฐานกะโหลก) เพื่อให้ครอบคลุมส่วนของ Brainstem และ Cerebellum ทั้งหมด",
+        state: false
+    }, {
+        problem: "73. A 45-year-old female... bizarre behavior, confusion, and olfactory hallucinations... MRI... hemorrhagic necrosis involving the bilateral temporal lobes. Which of the following microscopic findings is most characteristic of this condition?",
+        img: "",
+        choices: "Spongiform change in the neuropil///Cowdry type A intranuclear inclusions///Microglial nodules with multinucleated giant cells///Negri bodies in Purkinje cells///Owl's eye intranuclear inclusions",
+        answer: "Cowdry type A intranuclear inclusions",
+        select: "",
+        explain: "อาการและ MRI (Temporal hemorrhagic necrosis) บ่งชี้ถึง Herpes Simplex Encephalitis ลักษณะทางจุลพยาธิวิทยาที่จำเพาะคือ Cowdry type A intranuclear inclusions ในเซลล์ประสาทและ Glia",
+        state: false
+    }, {
+        problem: "74. A 70-year-old man had tremor... Parkinson's disease... prescribed levodopa-carbidopa... How can levodopa-carbidopa relieve the symptoms of Parkinson's disease?",
+        img: "",
+        choices: "Nicotinic antagonist///Increase dopamine neurotransmitter///Muscarinic antagonist///Dopamine antagonist///Decrease acetylcholine neurotransmitter",
+        answer: "Increase dopamine neurotransmitter",
+        select: "",
+        explain: "Levodopa เป็นสารตั้งต้นของ Dopamine ที่สามารถผ่าน Blood-brain barrier ได้ เมื่อเข้าสู่สมองจะถูกเปลี่ยนเป็น Dopamine เพื่อชดเชยสารสื่อประสาทที่ขาดหายไปในผู้ป่วย Parkinson's",
+        state: false
+    }, {
+        problem: "75. A 28-year-old female presents with sudden vision loss... numbness... MRI periventricular white matter plaques... Which of the following is the primary target of the immune attack in this condition?",
+        img: "",
+        choices: "Astrocytes///Neuronal cell bodies///Oligodendrocytes///Ependymal cells///Schwann cells",
+        answer: "Oligodendrocytes",
+        select: "",
+        explain: "อาการและ MRI เข้าได้กับโรค Multiple Sclerosis (MS) ซึ่งเป็นโรคแพ้ภูมิตัวเองที่ทำลาย Myelin sheath ในระบบประสาทส่วนกลาง (CNS) เซลล์ที่ทำหน้าที่สร้าง Myelin ใน CNS คือ Oligodendrocytes",
+        state: false
+    }, {
+        problem: "76. A 78-year-old woman recently started memantine. Which of the following adverse effects should be monitored?",
+        img: "",
+        choices: "Hypersalivation///Hypertension and confusion///Severe diarrhea///Hepatotoxicity///Bradycardia",
+        answer: "Hypertension and confusion",
+        select: "",
+        explain: "Memantine (NMDA receptor antagonist) มักมีผลข้างเคียงคือ มึนงง (Dizziness) ปวดหัว และสับสน (Confusion) ต่างจากยากลุ่ม Cholinesterase inhibitors ที่ทำให้หัวใจเต้นช้าและท้องเสีย",
+        state: false
+    }, {
+        problem: "77. A pituitary macroadenoma compresses the optic chiasm. What visual field defect is most characteristic?",
+        img: "",
+        choices: "Right inferior quadrantanopia///Bitemporal hemianopsia///Left superior quadrantanopia///Left homonymous hemianopsia///Left monocular blindness",
+        answer: "Bitemporal hemianopsia",
+        select: "",
+        explain: "Optic chiasm เป็นจุดตัดของเส้นประสาทตาจากฝั่ง Nasal retina (รับภาพจากลานสายตาด้านข้าง - Temporal field) การกดเบียดที่ตำแหน่งนี้ทำให้เสียลานสายตาด้านนอกทั้งสองข้าง เรียกว่า Bitemporal hemianopsia",
+        state: false
+    }, {
+        problem: "78. A 35-year-old woman presented with fever and headache. CSF revealed 24% eosinophils and brain MRI revealed normal. What is the most likely parasite?",
+        img: "",
+        choices: "Cysticercus cellulosae///Entamoeba histolytica///Gnathostoma spinigerum///Spirometra mansoni///Angiostrongylus cantonensis",
+        answer: "Angiostrongylus cantonensis",
+        select: "",
+        explain: "Eosinophilic meningitis (Eosinophil สูงใน CSF) สาเหตุที่พบบ่อยที่สุดในไทยคือ พยาธิหอยโข่ง (Angiostrongylus cantonensis) ซึ่งมักมีประวัติกินหอยดิบ และ MRI อาจปกติหรือพบความผิดปกติเล็กน้อย ต่างจาก Gnathostoma ที่มักมีรอยบวมตามตัวนำมาก่อน",
+        state: false
+    }, {
+        problem: "79. During the competition, the ice skater is spinning (figure 1) for several times and rapidly skating forward to the right side (figure 2). For doing these 2 actions, what structures are involved in perceiving the position of head and body?",
+        img: "https://drive.google.com/open?id=16kP-cEC2DKx2MjH0nXwd7p-kIyjb3WLJ&usp=drive_copy",
+        choices: "Posterior and Lateral of semicircular canal///Lateral semicircular canal and Utricle///Saccule and Utricle///Saccule and Lateral semicircular canal///Superior semicircular canal and Utricle",
+        answer: "Lateral semicircular canal and Utricle",
+        select: "",
+        explain: "การหมุนตัว (Spinning) เป็นการเคลื่อนไหวเชิงมุม (Angular acceleration) ในแนวระนาบ รับรู้โดย Lateral Semicircular canal ส่วนการสเก็ตพุ่งไปข้างหน้า (Forward skating) เป็นการเคลื่อนไหวเชิงเส้น (Linear acceleration) ในแนวราบ รับรู้โดย Utricle",
+        state: false
+    }, {
+        problem: "80. The patient presented with placidity, with loss of fear, rage, and aggression. Which of the following structures is most likely to damage?",
+        img: "",
+        choices: "Ventral tegmental area///Amygdala///Hippocampus///Cingulate gyrus///Hypothalamus",
+        answer: "Amygdala",
+        select: "",
+        explain: "อาการสงบเงียบผิดปกติ ไม่มีความกลัว ไม่ก้าวร้าว (Placidity, Loss of fear/aggression) เป็นส่วนหนึ่งของ Kluver-Bucy syndrome ซึ่งเกิดจากการทำลาย Amygdala ทั้งสองข้าง ซึ่งเป็นศูนย์ควบคุมอารมณ์กลัวและก้าวร้าว",
+        state: false
+    }, {
+        problem: "81. A teenage male is brought in after being assaulted. Physical examination reveals bruising behind the ear (Battle sign), bilateral periorbital ecchymosis (Raccoon eyes), and clear fluid leaking from the nose (rhinorrhea). These findings are most indicative of which type of injury?",
+        img: "",
+        choices: "Concussion///Cerebral contusion///Depressed skull fracture of the frontal bone///Basilar skull fracture///Linear skull fracture of the parietal bone",
+        answer: "Basilar skull fracture",
+        select: "",
+        explain: "อาการ Battle sign (ช้ำหลังหู), Raccoon eyes (ขอบตาดำ), และ Rhinorrhea (น้ำไขสันหลังรั่วออกจมูก) เป็น 3 อาการแสดงหลัก (Classic triad) ของกระดูกฐานกะโหลกแตก (Basilar skull fracture)",
+        state: false
+    }, {
+        problem: "82. A 28-year-old man suffers a fracture near the optic canal. Which structure is most likely injured?",
+        img: "",
+        choices: "Ophthalmic artery///Maxillary nerve///Superior ophthalmic vein///Frontal nerve///Trochlear nerve",
+        answer: "Ophthalmic artery",
+        select: "",
+        explain: "Optic canal เป็นช่องทางผ่านของ 1. Optic nerve (CN II) และ 2. Ophthalmic artery ดังนั้นกระดูกแตกบริเวณนี้จึงเสี่ยงต่อการบาดเจ็บของโครงสร้างทั้งสองนี้",
+        state: false
+    }, {
+        problem: "83. Which of the following is the primary mechanism of action of local anesthetics?",
+        img: "",
+        choices: "Blockade of calcium channels///Blockade of voltage-gated sodium channels///Activation of voltage-gated potassium channels///Inhibition of NMDA receptors///Enhancement of GABAergic transmission",
+        answer: "Blockade of voltage-gated sodium channels",
+        select: "",
+        explain: "ยาชาเฉพาะที่ (Local anesthetics) ออกฤทธิ์โดยการเข้าไปบล็อก Voltage-gated Na+ channels จากภายในเซลล์ ทำให้โซเดียมไม่สามารถไหลเข้าเซลล์ได้ จึงไม่เกิด Action potential และยับยั้งการนำกระแสประสาท",
+        state: false
+    }, {
+        problem: "84. A patient is brought to the emergency department following a stroke in the perfusion territory of the right middle cerebral artery. Which one of the following syndromes best describes the possible outcome of this lesion?",
+        img: "",
+        choices: "Inability to recognize faces///Personality changes///Paralysis of the left leg///Left-sided neglect///Broca aphasia",
+        answer: "Left-sided neglect",
+        select: "",
+        explain: "สมองซีกขวา (Nondominant hemisphere) ทำหน้าที่เกี่ยวกับมิติสัมพันธ์ (Visuospatial) การเกิด Stroke ที่ Right MCA (เลี้ยง Parietal lobe ขวา) มักทำให้ผู้ป่วยละเลยร่างกายและสิ่งแวดล้อมด้านซ้าย (Hemineglect / Left-sided neglect)",
+        state: false
+    }, {
+        problem: "85. A 3-year-old unvaccinated child presents with fever, irritability, and seizures... CSF suggests bacterial meningitis... Blood culture grows encapsulated Gram-positive diplococci. Which virulence factor most strongly contributes to the pathogen's ability to cause meningitis?",
+        img: "",
+        choices: "Lipooligosaccharide///Urease productions///Flagella///Protein A///Polysaccharide capsule",
+        answer: "Polysaccharide capsule",
+        select: "",
+        explain: "เชื้อ S. pneumoniae (Encapsulated G+ diplococci) มีปัจจัยก่อโรคที่สำคัญที่สุดคือ Polysaccharide capsule ซึ่งช่วยป้องกันไม่ให้เชื้อถูกจับกิน (Phagocytosis) โดยเม็ดเลือดขาว ทำให้เชื้อสามารถอยู่รอดในกระแสเลือดและเข้าสู่สมองได้",
+        state: false
+    }, {
+        problem: "86. Which antiseizure medication is the drug of choice for trigeminal neuralgia?",
+        img: "",
+        choices: "Topiramate///Valproic acid///Carbamazepine///Phenobarbital///Phenytoin",
+        answer: "Carbamazepine",
+        select: "",
+        explain: "Carbamazepine เป็นยาเลือกใช้ลำดับแรก (Drug of choice) ในการรักษาโรคปวดเส้นประสาทใบหน้า (Trigeminal neuralgia) โดยลดการนำกระแสประสาทที่ไวเกินไป",
+        state: false
+    }, {
+        problem: "87. A patient with a small midbrain lesion involving the inferior colliculi reports difficulty distinguishing certain sounds and delayed responses to auditory cues. His vision and gait are unchanged. Which symptom is most likely associated with his condition?",
+        img: "",
+        choices: "Loss of balance///Impaired auditory processing///Difficulty in motor coordination///Difficulty in speech production///Visual disturbances",
+        answer: "Impaired auditory processing",
+        select: "",
+        explain: "Inferior Colliculi (อยู่ใน Midbrain) เป็นสถานีถ่ายทอดสัญญาณเสียง (Auditory pathway) หากเสียหายจะส่งผลต่อการประมวลผลเสียง (ต่างจาก Superior Colliculi ที่เกี่ยวกับสายตา)",
+        state: false
+    }, {
+        problem: "88. A patient presents with difficulty focusing on near objects. During the neurological exam, the physician tests the accommodation reflex. Which of the following carries the motor (efferent) signal responsible for lens adjustment?",
+        img: "",
+        choices: "Optic nerve///Glossopharyngeal nerve///Vagus nerve///Oculomotor nerve///Trochlear nerve",
+        answer: "Oculomotor nerve",
+        select: "",
+        explain: "ใน Accommodation reflex สัญญาณขาเข้า (Afferent) มาทาง Optic nerve (CN II) ส่วนสัญญาณขาออก (Efferent) ที่ไปสั่งการ Ciliary muscle ให้หดตัวเพื่อปรับเลนส์ จะมาทาง Oculomotor nerve (CN III) (ผ่าน Parasympathetic fibers)",
+        state: false
+    }],
     "facescalpfromms": [
         {
             "problem": "X3. An inferior alveolar nerve block involves injecting anesthetic near the mandibular foramen. Which nerve is the primary target of this injection?",
@@ -5651,7 +6356,7 @@ var quizdata = {
             "state": false
         },
         {
-            "problem": "10. ให้เรียงลำดับการส่งสัญญาณใน rod cell (Phototransduction) ที่ถูกต้อง",
+            "problem": "10. ให้เรียงลำดับการส่งสัญญาณใน rod cell (Phototransduction) ที่ถูกต้อง \nA. แสงกระตุ้นให้ retinal เกิด isomerization. \nB. Na+ channel ปิด. \nC. ระดับ cGMP ลดลง. \nD. Rhodopsin ที่ถูกกระตุ้นจะไป activate G-protein ที่ชื่อ transducin. \nE. Cell เกิด hyperpolarization และลดการหลั่ง synaptic transmitter (glutamate) ลง.",
             "img": "",
             "choices": "A-B-C-D-E///A-D-C-B-E///D-C-A-B-E///C-B-A-D-E///B-E-C-D-A",
             "answer": "A-D-C-B-E",
