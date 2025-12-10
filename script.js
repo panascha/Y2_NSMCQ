@@ -11554,5 +11554,3398 @@ var quizdata = {
             "explain": "Membranous labyrinth คือโครงสร้างทั้งหมดที่เจริญมาจาก Otic vesicle และบรรจุ endolymph อยู่ภายใน ซึ่งได้แก่ Cochlear duct, Semicircular canals, Utricle, Saccule, และ Endolymphatic duct/sac ส่วน Stapes (กระดูกโกลน) เป็นกระดูกหูในหูชั้นกลางซึ่งมาจาก 2nd pharyngeal arch ไม่ได้มาจาก otic vesicle",
             "state": false
         }
+    ],
+    "Reflex by AI": [
+        {
+            "problem": "1. Which sensory fiber type originating from the muscle spindle is primarily responsible for transmitting signals that maintain continuous muscle tone and posture?",
+            "img": "",
+            "choices": "Intrafusal motor fiber (γ) neuron///Ia sensory neuron (Annulospiral)///Ib sensory neuron (Golgi Tendon)///II sensory neuron (Flower-spray)///Alpha motor neuron (Extrafusal)",
+            "answer": "II sensory neuron (Flower-spray)",
+            "select": "",
+            "explain": "การควบคุมความตึงตัวของกล้ามเนื้อ (Tonic reflex) และการรักษาสรีระท่าทาง (Postural control) เป็นรีเฟล็กซ์แบบโพลีไซแนปส์ที่เกี่ยวข้องกับการรับสัญญาณจาก Muscle spindle โดยใช้เซลล์ประสาทรับความรู้สึกชนิด II sensory neuron (Flower-spray ending) เป็นหลักในการรับรู้ความยาวของกล้ามเนื้อที่คงที่",
+            "state": false
+        },
+        {
+            "problem": "2. The sudden contraction of the quadriceps femoris muscle in response to tapping the patellar tendon (Knee-jerk reflex) is physiologically characterized as which type of reflex arc?",
+            "img": "",
+            "choices": "Disynaptic inhibitory reflex///Polysynaptic excitatory reflex///Monosynaptic excitatory reflex///Somato-somatic polysynaptic reflex///Autonomic polysynaptic reflex",
+            "answer": "Monosynaptic excitatory reflex",
+            "select": "",
+            "explain": "ปฏิกิริยารีเฟล็กซ์การยืดกล้ามเนื้อ (Phasic reflex หรือ Deep Tendon Reflex - DTR) เช่น Patella reflex เป็นรีเฟล็กซ์ที่ง่ายและเร็วที่สุด โดยเป็นรีเฟล็กซ์แบบโมโนไซแนปส์ (Monosynaptic reflex) ซึ่งมีการเชื่อมต่อโดยตรงระหว่างเซลล์ประสาทรับความรู้สึกชนิด Ia และอัลฟามอเตอร์นิวรอนในไขสันหลัง",
+            "state": false
+        },
+        {
+            "problem": "3. The physiological function of the Golgi tendon reflex (GTR) is best described as an action that achieves which primary outcome?",
+            "img": "",
+            "choices": "Quick adjustment for muscle stabilization///Postural maintenance through muscle tone///Rhythmic contraction of opposing muscle///Involuntary muscle relaxation///Sustained contraction against gravity",
+            "answer": "Involuntary muscle relaxation",
+            "select": "",
+            "explain": "Golgi tendon reflex เป็นรีเฟล็กซ์ป้องกันที่เกิดขึ้นเมื่อกล้ามเนื้อมีความตึงตัวสูงเกินไป (High muscle tension) โดยสัญญาณจาก Golgi Tendon Organ (GTO) จะส่งมายังไขสันหลังเพื่อยับยั้งอัลฟามอเตอร์นิวรอนของกล้ามเนื้อนั้น ทำให้เกิดการคลายตัวของกล้ามเนื้อโดยไม่สมัครใจ (Involuntary muscle relaxation) เพื่อป้องกันการฉีกขาดของกล้ามเนื้อหรือเอ็น",
+            "state": false
+        },
+        {
+            "problem": "4. In the pupillary light reflex, if light is shone into the left eye and both pupils constrict (direct and consensual), the afferent limb to the midbrain is primarily mediated by the function of which cranial nerve?",
+            "img": "",
+            "choices": "Oculomotor nerve (CN III) on the left side///Optic nerve (CN II) on the left side///Trigeminal nerve (CN V) ophthalmic division///Trochlear nerve (CN IV) on the right side///Abducens nerve (CN VI) on the left side",
+            "answer": "Optic nerve (CN II) on the left side",
+            "select": "",
+            "explain": "ปฏิกิริยารูม่านตาต่อแสง (Pupillary light reflex) มีทางนำเข้า (Afferent limb) คือเส้นประสาทตา (Optic nerve, CN II) ซึ่งนำสัญญาณแสงจากจอประสาทตาไปยัง Pretectal nucleus ในสมองส่วน Midbrain ก่อนที่จะส่งสัญญาณต่อไปยัง Edinger-Westphal nucleus",
+            "state": false
+        },
+        {
+            "problem": "5. Which pair of cranial nerves correctly represents the afferent and efferent limbs of the normal corneal reflex (blink response)?",
+            "img": "",
+            "choices": "Afferent: CN II, Efferent: CN III///Afferent: CN IX, Efferent: CN X///Afferent: CN V1, Efferent: CN VII///Afferent: CN III, Efferent: CN V1///Afferent: CN V2, Efferent: CN VII",
+            "answer": "Afferent: CN V1, Efferent: CN VII",
+            "select": "",
+            "explain": "Corneal reflex คือการกระพริบตาเมื่อมีสิ่งสัมผัสกระจกตา ทางนำเข้า (Afferent) คือเส้นประสาทรับความรู้สึกจากกระจกตา ซึ่งคือ Ophthalmic division (V1) ของ Trigeminal nerve (CN V) และทางนำออก (Efferent) คือเส้นประสาทที่สั่งการให้กล้ามเนื้อ Orbicularis oculi หดตัว ซึ่งคือ Facial nerve (CN VII)",
+            "state": false
+        },
+        {
+            "problem": "6. A patient is found to have an absent gag reflex, while all other motor functions of the cranial nerves are intact. Which cranial nerve carries the afferent sensory information for the normal gag reflex?",
+            "img": "",
+            "choices": "Oculomotor nerve (CN III)///Hypoglossal nerve (CN XII)///Vagus nerve (CN X)///Glossopharyngeal nerve (CN IX)///Trigeminal nerve (CN V)",
+            "answer": "Glossopharyngeal nerve (CN IX)",
+            "select": "",
+            "explain": "Gag reflex คือรีเฟล็กซ์การกลืนและไอเมื่อมีสิ่งแปลกปลอมในลำคอ โดยมีทางนำเข้า (Afferent limb) คือเส้นประสาท Glossopharyngeal nerve (CN IX) ที่รับความรู้สึกจากบริเวณ Soft palate และ Pharynx และมีทางนำออก (Efferent limb) คือ Vagus nerve (CN X) ที่สั่งการให้กล้ามเนื้อคอหอยหดตัว",
+            "state": false
+        },
+        {
+            "problem": "7. The accommodative reflex allows focusing on a near object. Which of the following is an active efferent muscular action mediated by the parasympathetic output of the oculomotor nerve (CN III)?",
+            "img": "",
+            "choices": "Radial muscle contraction///Ciliary muscle contraction///Pupillary dilation///Zonular ligament tensioning///Superior rectus muscle contraction",
+            "answer": "Ciliary muscle contraction",
+            "select": "",
+            "explain": "องค์ประกอบหนึ่งของ Accommodative reflex คือการปรับเลนส์ตา (Accommodation) ซึ่งเป็นผลจากการทำงานของระบบประสาท Parasympathetic ที่มากับ Oculomotor nerve (CN III) โดยสั่งการให้ Ciliary muscle หดตัว ทำให้ Zonular ligament หย่อนตัว เลนส์ตาจึงนูนขึ้นเพื่อโฟกัสภาพใกล้",
+            "state": false
+        },
+        {
+            "problem": "8. A patient with a right-sided stroke exhibits a positive Babinski sign (great toe extension and fanning of other toes). This pathological response is physiologically due to which mechanism?",
+            "img": "",
+            "choices": "Increased rhythmic contraction of muscle spindle///Monosynaptic excitation of LMNs at S1 dermatome///Loss of inhibitory control from CST///Hyperpolarization of alpha motor neurons///Hypersensitivity of Group Ib sensory neurons",
+            "answer": "Loss of inhibitory control from CST",
+            "select": "",
+            "explain": "Babinski sign เป็นอาการแสดงของ Upper Motor Neuron (UMN) lesion ซึ่งเกิดจากการสูญเสียการควบคุมแบบยับยั้ง (Inhibitory control) ที่ส่งมาจาก Corticospinal Tract (CST) ทำให้รีเฟล็กซ์ปฏิกิริยาของไขสันหลังทำงานผิดปกติจนเกิดการกระดกขึ้นของนิ้วเท้าหัวแม่มือแทนการงุ้มลงตามปกติ",
+            "state": false
+        },
+        {
+            "problem": "9. Clonus is a characteristic finding in Upper Motor Neuron (UMN) lesions. This involuntary, rhythmic contraction is essentially a sustained activation of which normal reflex arc?",
+            "img": "",
+            "choices": "Tonic stretch reflex///Flexor withdrawal reflex///Golgi tendon reflex///Phasic stretch reflex///Cross-extension reflex",
+            "answer": "Phasic stretch reflex",
+            "select": "",
+            "explain": "Clonus คือการหดตัวของกล้ามเนื้อที่เกิดขึ้นซ้ำๆ เป็นจังหวะเมื่อมีการยืดกล้ามเนื้อเพียงครั้งเดียว อาการนี้เกิดจากการที่ Phasic stretch reflex (รีเฟล็กซ์ยืดกล้ามเนื้อแบบโมโนไซแนปส์) ที่ถูกควบคุมโดย UMN เกิดภาวะทำงานไวเกิน (Hyperexcitability) จนทำให้เกิดการตอบสนองที่ต่อเนื่องเป็นวงจร",
+            "state": false
+        },
+        {
+            "problem": "10. Which neurological sign, if observed in an adult, is highly suggestive of an Upper Motor Neuron (UMN) lesion, specifically involving the corticospinal tract?",
+            "img": "",
+            "choices": "Flaccid paralysis and muscle atrophy///Absent deep tendon reflexes///Fasciculations and fibrillations///Great toe extension on plantar stimulation///Hypotonia and a-motor neuron death",
+            "answer": "Great toe extension on plantar stimulation",
+            "select": "",
+            "explain": "การกระดกขึ้นของนิ้วเท้าหัวแม่มือ (Great toe extension) เมื่อกระตุ้นฝ่าเท้า (Extensor plantar response หรือ Babinski sign) เป็นอาการแสดงที่จำเพาะเจาะจงของ UMN lesion ในผู้ใหญ่ เนื่องจากปกติแล้ว CST จะทำหน้าที่ยับยั้งปฏิกิริยานี้ไว้",
+            "state": false
+        },
+        {
+            "problem": "11. A physician performs the pupillary light reflex test. When light is shone into the left eye, neither the left nor the right pupil constricts. However, when light is shone into the right eye, both pupils constrict normally. Where is the lesion located?",
+            "img": "",
+            "choices": "Left Oculomotor nerve (CN III)///Left Optic nerve (CN II)///Right Oculomotor nerve (CN III)///Right Optic nerve (CN II)///Posterior commissure in the midbrain",
+            "answer": "Left Optic nerve (CN II)",
+            "select": "",
+            "explain": "เมื่อส่องไฟตาซ้ายแล้วตาไม่หดทั้งสองข้าง (ไม่มี Direct และ Consensual reflex) แสดงว่าทางนำเข้า (Afferent limb) คือ Left Optic nerve (CN II) เสียหาย แต่เมื่อส่องไฟตาขวาแล้วตาหดทั้งสองข้าง (Direct และ Consensual reflex ปกติ) แสดงว่าทางนำออก (Efferent limb) คือ Right และ Left Oculomotor nerve (CN III) ยังทำงานปกติ ภาวะนี้คือ Left Relative Afferent Pupillary Defect",
+            "state": false
+        },
+        {
+            "problem": "12. During the pupillary light reflex test, shining a light into the right eye causes the right pupil to constrict, but the left pupil fails to constrict. Where is the most likely location of the lesion?",
+            "img": "",
+            "choices": "Right Optic nerve (CN II)///Left Optic nerve (CN II)///Left Edinger-Westphal nucleus///Left Oculomotor nerve (CN III)///Pretectal nucleus on the right side",
+            "answer": "Left Oculomotor nerve (CN III)",
+            "select": "",
+            "explain": "เมื่อส่องไฟตาขวาแล้วตาขวาหด (Direct reflex ปกติ) แสดงว่า Right CN II และ Right CN III ปกติ แต่ตาซ้ายไม่หด (Consensual reflex หายไป) แสดงว่าสัญญาณจาก Left Edinger-Westphal nucleus ไม่สามารถส่งออกไปกระตุ้น Left Iris sphincter muscle ได้ ซึ่งเป็นหน้าที่ของ Left Oculomotor nerve (CN III) ที่เป็นทางนำออก (Efferent limb) ไปยังตาซ้าย",
+            "state": false
+        },
+        {
+            "problem": "13. A patient is observed to flex his right knee and withdraw the right foot immediately after stepping on a sharp object, while simultaneously extending his left leg to maintain balance. This motor pattern is executed via which spinal reflex?",
+            "img": "",
+            "choices": "Phasic stretch reflex///Monosynaptic flexor reflex///Cross-extension withdrawal reflex///Inhibitory Golgi tendon reflex///Tonic stretch reflex",
+            "answer": "Cross-extension withdrawal reflex",
+            "select": "",
+            "explain": "ปฏิกิริยานี้คือ Cross-extension withdrawal reflex ซึ่งเป็นรีเฟล็กซ์แบบโพลีไซแนปส์ที่ซับซ้อน โดยมี Flexor withdrawal reflex ที่ขาข้างที่ถูกกระตุ้น (IPSI Flexion) และมีการกระตุ้น Extensor motor neuron ที่ขาข้างตรงข้าม (CNTR Extension) เพื่อให้ร่างกายสามารถทรงตัวไม่ให้ล้ม",
+            "state": false
+        },
+        {
+            "problem": "14. Which sequence accurately represents the functional components of the complete reflex arc pathway, starting from the external signal?",
+            "img": "",
+            "choices": "Receptor, Effector, Afferent neuron, Integrating center, Motor neuron///Stimulus, Efferent neuron, Effector, Receptor, Integrating center///Stimulus, Receptor, Afferent neuron, Integrating center, Efferent neuron, Effector///Afferent neuron, Receptor, Integrating center, Efferent neuron, Effector///Integrating center, Efferent neuron, Effector, Afferent neuron, Receptor",
+            "answer": "Stimulus, Receptor, Afferent neuron, Integrating center, Efferent neuron, Effector",
+            "select": "",
+            "explain": "องค์ประกอบของ Reflex arc ตามลำดับเหตุการณ์คือ สิ่งกระตุ้น (Stimulus) ไปกระตุ้นตัวรับ (Receptor) ส่งสัญญาณผ่านเซลล์ประสาทนำเข้า (Afferent neuron) ไปยังศูนย์รวม (Integrating center) ที่ทำการประมวลผลและส่งสัญญาณผ่านเซลล์ประสาทนำออก (Efferent neuron) ไปยังอวัยวะตอบสนอง (Effector)",
+            "state": false
+        },
+        {
+            "problem": "15. What is the principal difference in the primary function between the Phasic reflex (DTR) and the Tonic reflex (muscle tone)?",
+            "img": "",
+            "choices": "DTR involves a Type Ib fiber while Tone involves a Type Ia fiber///DTR is monosynaptic while Tone is polysynaptic///DTR is for rapid protective adjustments while Tone is for postural control///DTR is involuntary while Tone is highly subject to voluntary control///DTR monitors constant length while Tone monitors rate of change",
+            "answer": "DTR is for rapid protective adjustments while Tone is for postural control",
+            "select": "",
+            "explain": "Phasic stretch reflex (DTR) เป็นรีเฟล็กซ์แบบเร็ว ที่มีหน้าที่เพื่อการปรับตัวอย่างรวดเร็วและเป็นกลไกการป้องกัน (Rapid protective adjustments) ส่วน Tonic reflex (Muscle tone) เป็นการหดตัวแบบคงที่และยั่งยืน (steady sustained contraction) มีหน้าที่หลักในการควบคุมสรีระท่าทาง (Postural control) และต้านแรงโน้มถ่วง",
+            "state": false
+        },
+        {
+            "problem": "16. Which descending motor tract plays a crucial and primary role in facilitating the extensor muscle tone (anti-gravity muscles) necessary for maintaining erect posture and resisting the force of gravity?",
+            "img": "",
+            "choices": "Rubrospinal tract///Lateral vestibulospinal tract///Corticospinal tract (Lateral)///Medial reticulospinal tract///Tectospinal tract",
+            "answer": "Lateral vestibulospinal tract",
+            "select": "",
+            "explain": "Lateral vestibulospinal tract (LVST) มีบทบาทสำคัญอย่างยิ่งในการกระตุ้นมอเตอร์นิวรอนที่เลี้ยงกล้ามเนื้อเหยียด (Extensor muscles) หรือกล้ามเนื้อต้านแรงโน้มถ่วง (Anti-gravity muscles) เพื่อรักษาการทรงตัวและท่าทางให้ตั้งตรง โดยจะทำงานแบบเดียวกับแรงดึงดูดของโลก",
+            "state": false
+        },
+        {
+            "problem": "17. Which cranial nerve directly innervates the pharyngeal constrictor muscles, performing the efferent motor function of preventing choking during the gag reflex?",
+            "img": "",
+            "choices": "Hypoglossal nerve (CN XII)///Vagus nerve (CN X)///Facial nerve (CN VII)///Trigeminal nerve (CN V)///Glossopharyngeal nerve (CN IX)",
+            "answer": "Vagus nerve (CN X)",
+            "select": "",
+            "explain": "ใน Gag reflex ทางนำออก (Efferent limb) คือ Vagus nerve (CN X) ที่สั่งการให้กล้ามเนื้อของคอหอย (Pharyngeal constrictor muscles) และกล้ามเนื้อ Soft palate หดตัวเพื่อป้องกันการสำลักและป้องกันสิ่งแปลกปลอมเข้าสู่ทางเดินหายใจ",
+            "state": false
+        },
+        {
+            "problem": "18. Which spinal reflex involves a disynaptic connection where the primary afferent signal leads to the inhibition of the corresponding alpha motor neuron?",
+            "img": "",
+            "choices": "Phasic stretch reflex (Patellar)///Tonic stretch reflex (Muscle Tone)///Flexor withdrawal reflex (Arm)///Golgi tendon reflex (GTR)///Cross-extension reflex (Leg)",
+            "answer": "Golgi tendon reflex (GTR)",
+            "select": "",
+            "explain": "Golgi tendon reflex (GTR) เป็นรีเฟล็กซ์ชนิด Disynaptic reflex ซึ่งมีเซลล์ประสาทเชื่อม (Interneuron) เข้ามาเกี่ยวข้อง โดยเซลล์ประสาทรับความรู้สึกชนิด Ib ที่มาจาก GTO จะไปกระตุ้นเซลล์ประสาทเชื่อมชนิดยับยั้ง (Inhibitory interneuron) ซึ่งจะไปยับยั้ง Alpha motor neuron ของกล้ามเนื้อเดียวกัน ทำให้กล้ามเนื้อคลายตัว",
+            "state": false
+        },
+        {
+            "problem": "19. The integrating center for the pupillary light reflex (Pretectal nucleus/Edinger-Westphal nucleus) is anatomically located within which primary section of the brainstem?",
+            "img": "",
+            "choices": "Caudal Pons///Medulla Oblongata///Spinal cord (C3-C5)///Midbrain///Rostral Pons",
+            "answer": "Midbrain",
+            "select": "",
+            "explain": "ศูนย์รวมของรีเฟล็กซ์การตอบสนองต่อแสง (Pupillary light reflex) คือ Pretectal nucleus และ Edinger-Westphal nucleus (EW nuc.) ซึ่งนิวเคลียสเหล่านี้ตั้งอยู่ในสมองส่วนกลาง (Midbrain)",
+            "state": false
+        },
+        {
+            "problem": "20. The sensory receptor embedded in the muscle tendon that is essential for detecting high muscle tension and initiating the protective Golgi tendon reflex is the:",
+            "img": "",
+            "choices": "Pacinian corpuscle///Ruffini ending///Muscle spindle///Golgi Tendon Organ (GTO)///Merkel's disc",
+            "answer": "Golgi Tendon Organ (GTO)",
+            "select": "",
+            "explain": "Golgi Tendon Organ (GTO) เป็นตัวรับความรู้สึกที่อยู่ภายในเอ็นกล้ามเนื้อ ทำหน้าที่ตรวจจับความตึงเครียด (tension) ที่เกิดขึ้นในเอ็นกล้ามเนื้อ โดยเฉพาะเมื่อมีความตึงสูง ซึ่งเป็นตัวกระตุ้นให้เกิด Golgi tendon reflex เพื่อป้องกันการบาดเจ็บ",
+            "state": false
+        },
+        {
+            "problem": "21. Postganglionic parasympathetic fibers involved in the accommodation reflex (lens bulging and pupillary constriction) have their cell bodies in which structure?",
+            "img": "",
+            "choices": "Superior cervical ganglion///Ciliary ganglion///Otic ganglion///Pterygopalatine ganglion///Trigeminal ganglion",
+            "answer": "Ciliary ganglion",
+            "select": "",
+            "explain": "เส้นประสาท Parasympathetic ที่ควบคุมการหดตัวของ Ciliary muscle และ Iris sphincter muscle (Pupil constriction) จะมี Pre-ganglionic neuron อยู่ที่ Edinger-Westphal nucleus ใน Midbrain และจะมาทำไซแนปส์ที่ Ciliary ganglion ซึ่งเป็นที่อยู่ของ Post-ganglionic neuron ก่อนที่จะส่งเส้นใยประสาทสั้นๆ ไปยังกล้ามเนื้อในลูกตา",
+            "state": false
+        },
+        {
+            "problem": "22. The Flexor withdrawal reflex, which serves to immediately protect the body from a noxious stimulus (e.g., touching a hot stove), transmits the initial afferent sensory signal via which nerve fiber type?",
+            "img": "",
+            "choices": "Type Ia sensory fiber///Type Ib sensory fiber///A-delta and C fibers///Type II sensory fiber///Large myelinated A-alpha fibers",
+            "answer": "A-delta and C fibers",
+            "select": "",
+            "explain": "สัญญาณความเจ็บปวด (Nociceptor) ที่กระตุ้นให้เกิด Flexor withdrawal reflex จะถูกนำส่งผ่านเส้นประสาทรับความรู้สึกที่มีขนาดเล็กและมีปลอกไมอีลินน้อย (A-delta fibers) หรือไม่มีปลอกไมอีลินเลย (C fibers) ซึ่งเป็นเส้นใยประสาทที่รับความรู้สึกเจ็บปวด",
+            "state": false
+        },
+        {
+            "problem": "23. In the spinal cord, the cell bodies of the alpha motor neurons that innervate the skeletal muscle (effector) of the stretch reflex arc are anatomically located within which structure?",
+            "img": "",
+            "choices": "Dorsal root ganglion///Posterior horn of the gray matter///Lateral column of the white matter///Anterior horn of the gray matter///Central canal of the spinal cord",
+            "answer": "Anterior horn of the gray matter",
+            "select": "",
+            "explain": "Alpha motor neuron ซึ่งเป็นเซลล์ประสาทสั่งการส่วนล่าง (Lower Motor Neuron) ที่เลี้ยงกล้ามเนื้อโครงร่าง (Skeletal muscle) มีตัวเซลล์ (Cell body) อยู่ภายใน Anterior horn (หรือ Ventral horn) ของ Gray matter ในไขสันหลัง",
+            "state": false
+        },
+        {
+            "problem": "24. A patient is observed to have a negative corneal reflex and an absent gag reflex. Anatomically, a single, strategically placed lesion damaging both afferent and efferent components in the brainstem could involve which structures simultaneously?",
+            "img": "",
+            "choices": "Optic chiasm and Hypoglossal nucleus///Trigeminal sensory nucleus and Nucleus ambiguus///Superior colliculus and Inferior olive///Facial motor nucleus and VPM thalamic nucleus///Dorsal raphe nucleus and Superior colliculus",
+            "answer": "Trigeminal sensory nucleus and Nucleus ambiguus",
+            "select": "",
+            "explain": "Corneal reflex เกี่ยวข้องกับ Trigeminal n. (V) และ Facial n. (VII) Gag reflex เกี่ยวข้องกับ Glossopharyngeal n. (IX) และ Vagus n. (X) การที่รีเฟล็กซ์ทั้งสองหายไปอาจเกิดจากความเสียหายในบริเวณ Lateral medulla (Wallenberg's syndrome) ซึ่งเป็นที่ตั้งของ Trigeminal sensory nucleus (รับความรู้สึก V, IX, X) และ Nucleus ambiguus (Motor X, IX) ทำให้ทั้งทางนำเข้าของ Corneal reflex และทางนำออกของ Gag reflex ได้รับผลกระทบ",
+            "state": false
+        },
+        {
+            "problem": "25. Pathological reflexes such as the positive Babinski sign and sustained clonus are primarily attributed to the disruption of which specific modulatory function normally exerted by the cerebral cortex?",
+            "img": "",
+            "choices": "Loss of excitatory input to gamma motor neuron///Loss of tonic afferent input from Type Ia fiber///Loss of inhibitory control from Corticospinal Tract///Loss of disynaptic inhibition from Golgi Tendon Organ///Loss of Alpha motor neuron co-activation",
+            "answer": "Loss of inhibitory control from Corticospinal Tract",
+            "select": "",
+            "explain": "อาการรีเฟล็กซ์ที่ผิดปกติหรือไวเกิน (Pathological reflexes) เกิดจากความเสียหายของ Upper Motor Neuron (UMN) ซึ่งหมายถึงการสูญเสียการควบคุมแบบยับยั้ง (Inhibitory control) ที่สมองส่วนบนส่งลงมายังศูนย์รีเฟล็กซ์ในไขสันหลัง โดยเฉพาะอย่างยิ่งจาก Corticospinal Tract (CST) ทำให้รีเฟล็กซ์เดิมทำงานอย่างไม่ถูกยับยั้ง (Disinhibition) จนแสดงอาการผิดปกติออกมา",
+            "state": false
+        }
+    ],
+    "Cerebrum by AI": [
+        {
+            "problem": "1. A pathology specimen from the cerebral cortex reveals a layer characterized by a high concentration of large pyramidal neurons (Betz cells). Which functional area of the cortex does this layer most prominently define?",
+            "img": "",
+            "choices": "Primary visual cortex (Brodmann area 17)///Primary motor cortex (Brodmann area 4)///Primary somatosensory cortex (Brodmann area 3, 2, 1)///Wernicke speech area (Brodmann area 22)///Frontal eye field (Brodmann area 8)",
+            "answer": "Primary motor cortex (Brodmann area 4)",
+            "select": "",
+            "explain": "ชั้นที่ 5 Internal pyramidal layer ของ Neocortex มี Pyramidal cell ขนาดใหญ่อยู่จำนวนมาก โดยเฉพาะใน Primary motor cortex (BA 4) เซลล์ประสาทเหล่านี้เรียกว่า Betz cell ซึ่งเป็นเซลล์ประสาทสั่งการส่วนบน (Upper Motor Neuron) ที่ส่ง Axon ลงไปใน Corticospinal tract",
+            "state": false
+        },
+        {
+            "problem": "2. Which layer of the cerebral neocortex is primarily dedicated to receiving input signals, mainly from the thalamus, and is therefore significantly thicker in sensory-specific cortical areas?",
+            "img": "",
+            "choices": "Molecular layer (Layer 1)///External granular layer (Layer 2)///External pyramidal layer (Layer 3)///Internal granular layer (Layer 4)///Multiform layer (Layer 6)",
+            "answer": "Internal granular layer (Layer 4)",
+            "select": "",
+            "explain": "ชั้นที่ 4 Internal granular layer เป็นชั้นที่รับใยประสาทขาเข้า (Afferent input) หลักจาก Thalamus ดังนั้นใน Sensory cortex (เช่น Primary somatosensory cortex) ชั้นนี้จะหนาเป็นพิเศษและเต็มไปด้วย Granule cell",
+            "state": false
+        },
+        {
+            "problem": "3. Which neuroglial cell type in the central nervous system is responsible for forming the myelin sheath around multiple axons, allowing for rapid nerve impulse conduction?",
+            "img": "",
+            "choices": "Astrocyte, essential for forming the blood-brain barrier and regulating the synaptic environment///Microglia, which act as the resident macrophages and immune surveillance cells///Ependymal cell, which lines the ventricles and contributes to choroid plexus function///Oligodendrocyte, which is structurally responsible for CNS myelination///Schwann cell, responsible for peripheral nervous system myelination",
+            "answer": "Oligodendrocyte, which is structurally responsible for CNS myelination",
+            "select": "",
+            "explain": "Oligodendrocyte เป็นเซลล์ Neuroglia ที่มีหน้าที่สร้างปลอก Myelin ให้กับ Axon ในระบบประสาทส่วนกลาง (CNS) โดย Oligodendrocyte หนึ่งเซลล์สามารถสร้างปลอก Myelin ให้กับ Axon ได้หลายเส้น",
+            "state": false
+        },
+        {
+            "problem": "4. Which white matter tract connects the frontal lobe's orbital and inferior frontal gyri with the anterior part of the temporal lobe, playing a role in the limbic system?",
+            "img": "",
+            "choices": "Superior longitudinal fasciculus (SLF)///Inferior longitudinal fasciculus (ILF)///Arcuate fasciculus (AF)///Uncinate fasciculus (UF)///Cingulum",
+            "answer": "Uncinate fasciculus (UF)",
+            "select": "",
+            "explain": "Uncinate fasciculus เป็น Association fiber ที่มีลักษณะคล้ายตะขอ (hook-shaped) ทำหน้าที่เชื่อมต่อระหว่างสมองส่วนหน้า (Frontal lobe) กับสมองส่วนขมับด้านหน้า (Anterior temporal lobe) ซึ่งเกี่ยวข้องกับอารมณ์และความจำ",
+            "state": false
+        },
+        {
+            "problem": "5. Which commissural fiber bundle connects the two cerebral hemispheres at the anterior part of the optic tract, playing a significant role in connecting the temporal lobes?",
+            "img": "",
+            "choices": "Posterior commissure (PC)///Internal capsule (IC)///Corona radiata (CR)///Fornix///Anterior commissure (AC)",
+            "answer": "Anterior commissure (AC)",
+            "select": "",
+            "explain": "Anterior commissure เป็น Commissural fiber ที่เชื่อมต่อระหว่าง Temporal lobe ทั้งสองข้าง และเป็นทางผ่านของใยประสาทที่เกี่ยวข้องกับระบบ Olfactory system ด้วย",
+            "state": false
+        },
+        {
+            "problem": "6. A patient presents with contralateral weakness and sensory loss predominantly affecting the left arm and hand. The lesion most likely involves the fiber bundles that pass through which part of the internal capsule?",
+            "img": "",
+            "choices": "Anterior limb of the internal capsule///Genu of the internal capsule///Posterior limb of the internal capsule///Retrolenticular portion of the internal capsule///Sublenticular portion of the internal capsule",
+            "answer": "Posterior limb of the internal capsule",
+            "select": "",
+            "explain": "Posterior limb of the Internal Capsule เป็นบริเวณที่ Corticospinal tract (motor) และ Somatosensory fibers (sensory) ที่ควบคุมแขนขาอยู่รวมกันอย่างหนาแน่น ดังนั้นรอยโรคที่ Posterior limb ซีกขวาจะทำให้เกิดอาการอ่อนแรงและสูญเสียความรู้สึกที่แขนและขาด้านซ้าย",
+            "state": false
+        },
+        {
+            "problem": "7. A patient is unable to voluntarily turn their eyes horizontally towards a specific visual target. This deficit is most directly associated with a lesion in which Brodmann area?",
+            "img": "",
+            "choices": "Brodmann area 4 (Primary motor cortex)///Brodmann area 6 (Supplementary motor cortex)///Brodmann area 8 (Frontal eye field)///Brodmann area 44 (Broca speech area)///Brodmann area 41, 42 (Primary auditory area)",
+            "answer": "Brodmann area 8 (Frontal eye field)",
+            "select": "",
+            "explain": "Brodmann area 8 (BA 8) หรือ Frontal eye field มีหน้าที่สำคัญในการควบคุมการเคลื่อนไหวของลูกตาแบบสมัครใจ (Voluntary eye movements) โดยเฉพาะการกลอกตาไปด้านตรงข้าม การเกิดรอยโรคในบริเวณนี้จะทำให้ผู้ป่วยไม่สามารถกลอกตาไปทางด้านตรงข้ามได้อย่างอิสระ",
+            "state": false
+        },
+        {
+            "problem": "8. A patient can fluently describe an object but cannot visually recognize its function or name it. This condition (Visual Agnosia) indicates a lesion in the pathway primarily responsible for which function?",
+            "img": "",
+            "choices": "Spatial location and visually guided action (Dorsal pathway)///Object, form, and face recognition (Ventral pathway)///Processing of primary somatosensory information (BA 3, 2, 1)///Coordinating non-verbal emotional responses (Limbic system)///Planning of sequential motor movements (Supplementary motor area)",
+            "answer": "Object, form, and face recognition (Ventral pathway)",
+            "select": "",
+            "explain": "Visual Agnosia คือภาวะที่ไม่สามารถจดจำหรือระบุวัตถุได้จากการมองเห็น แม้ว่าการมองเห็นโดยพื้นฐานยังปกติ ซึ่งเกิดจากความเสียหายใน Ventral pathway (What pathway) ซึ่งทำหน้าที่ประมวลผล Object, form, color, และ face recognition (Occipital lobe ไป Temporal lobe)",
+            "state": false
+        },
+        {
+            "problem": "9. An MRI reveals a lesion in the right Inferior Parietal Lobule (BA 39 and 40). Which severe clinical syndrome involving attention to the left side of the body and space is the patient most likely to present?",
+            "img": "",
+            "choices": "Broca's aphasia (impaired speech production)///Wernicke's aphasia (impaired speech comprehension)///Left-sided hemispatial neglect///Right-sided prosopagnosia (face blindness)///Achromatopsia (loss of color vision)",
+            "answer": "Left-sided hemispatial neglect",
+            "select": "",
+            "explain": "Inferior Parietal Lobule โดยเฉพาะซีกสมองที่ไม่เป็นซีกเด่น (Non-dominant, มักเป็นด้านขวา) มีบทบาทสำคัญในการรับรู้พื้นที่และร่างกาย การเกิดรอยโรคที่ Right Parietal Lobe จึงมักทำให้เกิดอาการ Hemispatial neglect (ละเลยพื้นที่ซีกซ้าย) โดยผู้ป่วยจะละเลยสิ่งกระตุ้นในซีกตรงข้ามกับรอยโรค",
+            "state": false
+        },
+        {
+            "problem": "10. Which area of the cerebral cortex is defined by Brodmann areas 41 and 42 and is located primarily within the transverse temporal gyri of the temporal lobe?",
+            "img": "",
+            "choices": "Primary motor cortex///Primary somatosensory cortex///Primary auditory area///Primary visual cortex///Broca speech area",
+            "answer": "Primary auditory area",
+            "select": "",
+            "explain": "Transverse temporal gyri (หรือ Heschl's gyri) เป็นที่ตั้งของ Primary auditory area ซึ่งมี Brodmann areas 41 และ 42 เป็นส่วนประกอบหลัก มีหน้าที่ในการรับและประมวลผลข้อมูลเสียงที่เข้ามา",
+            "state": false
+        },
+        {
+            "problem": "11. A 60-year-old patient suddenly develops motor deficits on the right side of the body, specifically affecting the lower face, arm, and hand more severely than the leg. Which of the following cerebral artery occlusions is the most likely cause?",
+            "img": "",
+            "choices": "Left Anterior Cerebral Artery (ACA)///Right Anterior Cerebral Artery (ACA)///Left Middle Cerebral Artery (MCA)///Right Middle Cerebral Artery (MCA)///Left Posterior Cerebral Artery (PCA)",
+            "answer": "Left Middle Cerebral Artery (MCA)",
+            "select": "",
+            "explain": "อาการอ่อนแรงซีกขวาที่เด่นบริเวณใบหน้า แขน และมือ เป็นลักษณะจำเพาะของรอยโรคที่ Lateral surface ของ Cerebral hemisphere ซึ่งเลี้ยงโดย Left Middle Cerebral Artery (MCA) เนื่องจากบริเวณนี้เป็นที่ตั้งของ Motor cortex ที่ควบคุมส่วนบนของร่างกาย",
+            "state": false
+        },
+        {
+            "problem": "12. Occlusion of the Posterior Cerebral Artery (PCA) would most directly impair function in which region of the cerebral cortex?",
+            "img": "",
+            "choices": "Frontal pole and superior medial surface///Inferior frontal gyrus and Broca's area///Most of the lateral surface of the hemispheres///Occipital pole and inferior part of temporal lobe///Primary motor and somatosensory cortices",
+            "answer": "Occipital pole and inferior part of temporal lobe",
+            "select": "",
+            "explain": "Posterior Cerebral Artery (PCA) เป็นหลอดเลือดที่เลี้ยง Occipital lobe (มี Visual cortex) และ Inferior part of the temporal lobe (เกี่ยวข้องกับ Visual association) ดังนั้นการอุดตันของ PCA จะส่งผลกระทบต่อบริเวณเหล่านี้ ทำให้เกิด Visual field defect เช่น Homonymous hemianopia",
+            "state": false
+        },
+        {
+            "problem": "13. Aneurysmal rupture leading to Subarachnoid Hemorrhage (SAH) most commonly involves which of the following cerebral arteries or their communicating branches?",
+            "img": "",
+            "choices": "Middle meningeal artery (MMA)///Posterior cerebral artery (PCA)///Basilar artery (BA)///Anterior communicating artery (AComA)///Lenticulostriate artery (LSA)",
+            "answer": "Anterior communicating artery (AComA)",
+            "select": "",
+            "explain": "Subarachnoid Hemorrhage (SAH) ที่ไม่ได้เกิดจากอุบัติเหตุ (Non-traumatic SAH) มักเกิดจากการแตกของ Saccular (Berry) Aneurysm ซึ่งตำแหน่งที่พบบ่อยที่สุดคือบริเวณ Circle of Willis โดยเฉพาะอย่างยิ่งที่ Anterior communicating artery (AComA)",
+            "state": false
+        },
+        {
+            "problem": "14. A 40-year-old patient presents with a progressive inability to understand spoken language (Wernicke's aphasia). Based on the anatomical localization of the lesion, which Brodmann area is likely involved?",
+            "img": "",
+            "choices": "Brodmann area 44 (Broca area)///Brodmann area 45 (Broca area)///Brodmann area 17 (Primary visual cortex)///Brodmann area 22 (Wernicke speech area)///Brodmann area 41, 42 (Primary auditory area)",
+            "answer": "Brodmann area 22 (Wernicke speech area)",
+            "select": "",
+            "explain": "Wernicke's aphasia เป็นภาวะเสียความสามารถในการเข้าใจภาษา (Speech comprehension) โดยเกิดจากรอยโรคที่ Wernicke speech area ซึ่งอยู่ใน Brodmann area 22 ของ Superior temporal gyrus",
+            "state": false
+        },
+        {
+            "problem": "15. A deep lacerated wound on the scalp is noted. Bleeding and pus accumulating in this \"danger area\" of the scalp suggests that infection has spread rapidly through which layer?",
+            "img": "",
+            "choices": "Skin layer, which is vascularized///Dense connective tissue layer, which holds vessels///Aponeurosis epicranialis, due to strong tension///Loose areolar connective tissue layer, permitting easy spread///Pericranium, which is the periosteum of the skull",
+            "answer": "Loose areolar connective tissue layer, permitting easy spread",
+            "select": "",
+            "explain": "ชั้นที่ 4 ของหนังศีรษะ (SCALP) คือ Loose areolar connective tissue เป็นชั้นที่มีการยึดเกาะกันอย่างหลวมๆ ทำให้เลือดหรือหนองสามารถสะสมและแพร่กระจายไปทั่วหนังศีรษะได้ง่าย ชั้นนี้จึงถูกเรียกว่า 'Danger area of the scalp' และเป็นตำแหน่งที่ต้องระมัดระวังการติดเชื้อ",
+            "state": false
+        },
+        {
+            "problem": "16. Which structure of the cerebrum separates the occipital and parietal lobes superiorly from the cerebellum inferiorly?",
+            "img": "",
+            "choices": "Falx cerebri, which separates the hemispheres///Falx cerebelli, which separates the cerebellar hemispheres///Tentorium cerebelli, which is a dural shelf///Superior sagittal sinus, which drains venous blood///Anterior cranial fossa, which houses the frontal lobes",
+            "answer": "Tentorium cerebelli, which is a dural shelf",
+            "select": "",
+            "explain": "Tentorium cerebelli เป็นแผ่นเยื่อหุ้มสมองชั้น Dura mater ที่ขึงในแนวราบ คล้ายเต็นท์ ทำหน้าที่กั้นและแบ่งสมองส่วน Cerebrum ที่อยู่ด้านบน (เหนือ Tentorium) ออกจาก Cerebellum ที่อยู่ด้านล่าง (ใต้ Tentorium)",
+            "state": false
+        },
+        {
+            "problem": "17. A patient with stroke experiences difficulty in accurately reaching for objects under visual guidance, a condition known as Optic Ataxia. This symptom suggests damage to the pathway responsible for which function?",
+            "img": "",
+            "choices": "Visual recognition of objects and forms (Ventral pathway)///Spatial location and visually guided action (Dorsal pathway)///Visual memory formation and retrieval (Limbic pathway)///Primary processing of auditory information (Temporal lobe)///Verbal production of language (Frontal lobe)",
+            "answer": "Spatial location and visually guided action (Dorsal pathway)",
+            "select": "",
+            "explain": "Optic Ataxia คือภาวะที่มีปัญหาในการเคลื่อนไหวที่ต้องอาศัยการนำทางด้วยสายตา (Visually guided action) ซึ่งเป็นหน้าที่หลักของ Dorsal pathway (Where/How pathway) ที่ส่งสัญญาณจาก Occipital lobe ไปยัง Parietal lobe",
+            "state": false
+        },
+        {
+            "problem": "18. Which projection fiber bundle connects the entire cerebral cortex to the caudal (lower) parts of the central nervous system (CNS), including the brainstem and spinal cord?",
+            "img": "",
+            "choices": "Corpus callosum///Internal capsule///Arcuate fasciculus///Anterior commissure///Cingulum",
+            "answer": "Internal capsule",
+            "select": "",
+            "explain": "Internal capsule เป็นกลุ่มของ Projection fiber ที่อัดแน่นและเชื่อมต่อ Cerebral cortex กับส่วนต่างๆ ที่อยู่ต่ำลงไปใน CNS เช่น Brainstem และ Spinal cord ซึ่งรวมถึง Motor tract (Corticospinal) และ Sensory tract ด้วย",
+            "state": false
+        },
+        {
+            "problem": "19. A small, deep infarct in the area supplied by the lenticulostriate arteries often leads to a pure motor stroke. These arteries are distal branches of which major cerebral artery?",
+            "img": "",
+            "choices": "Anterior cerebral artery (ACA)///Posterior cerebral artery (PCA)///Right coronary artery (RCA)///Middle cerebral artery (MCA)///Anterior communicating artery (AComA)",
+            "answer": "Middle cerebral artery (MCA)",
+            "select": "",
+            "explain": "Lenticulostriate arteries เป็นแขนงขนาดเล็กที่แยกออกมาจาก Middle Cerebral Artery (MCA) และ Internal Carotid Artery (ICA) โดยจะไปเลี้ยงโครงสร้างส่วนลึกของสมอง เช่น Basal ganglia และ Internal capsule การอุดตันของหลอดเลือดเหล่านี้มักทำให้เกิด Lacunar stroke ซึ่งมีอาการเป็น Pure motor hemiparesis",
+            "state": false
+        },
+        {
+            "problem": "20. A patient presents with weakness and sensory loss primarily confined to the left leg. The lesion is most likely an occlusion of the large artery that supplies which specific cortical region?",
+            "img": "",
+            "choices": "Left posterior part of the internal capsule///Left superior temporal gyrus (Wernicke area)///Right superior longitudinal fasciculus///Right anterior paracentral lobule///Left middle frontal gyrus (Frontal eye field)",
+            "answer": "Right anterior paracentral lobule",
+            "select": "",
+            "explain": "Paracentral lobule อยู่บน Medial surface ของ Cerebral hemisphere และเป็นตำแหน่งของ Motor และ Sensory cortex ที่ควบคุมขา การอ่อนแรงและชาที่ขาซ้าย แสดงว่ารอยโรคอยู่ที่ซีกขวา ดังนั้น Right anterior paracentral lobule ซึ่งเลี้ยงโดย Right Anterior Cerebral Artery (ACA) จึงเป็นตำแหน่งที่เป็นไปได้มากที่สุด",
+            "state": false
+        },
+        {
+            "problem": "21. The main projection to the primary somatosensory area (BA 3, 2, 1) arrives from which thalamic nucleus?",
+            "img": "",
+            "choices": "Ventral Anterior (VA) nucleus///Ventral Lateral (VL) nucleus///Lateral Geniculate Body (LGB)///Medial Geniculate Body (MGB)///Ventral Posterior (VP) nucleus",
+            "answer": "Ventral Posterior (VP) nucleus",
+            "select": "",
+            "explain": "Ventral Posterior (VP) nucleus ของ Thalamus ทำหน้าที่เป็นสถานีถ่ายทอดสัญญาณความรู้สึกทั้งหมดจากร่างกาย (Ventral Posterior Lateral nucleus) และใบหน้า (Ventral Posterior Medial nucleus) ก่อนที่จะส่งต่อไปยัง Primary Somatosensory Cortex (BA 3, 2, 1)",
+            "state": false
+        },
+        {
+            "problem": "22. The most common cause of Epidural Hematoma (EDH) is a skull fracture tearing which specific artery in the meningeal layers?",
+            "img": "",
+            "choices": "Internal Carotid Artery (ICA)///Anterior Cerebral Artery (ACA)///Middle Meningeal Artery (MMA)///Bridging Veins (BVs)///Superior Sagittal Sinus (SSS)",
+            "answer": "Middle Meningeal Artery (MMA)",
+            "select": "",
+            "explain": "Epidural Hematoma (EDH) เกิดจากมีเลือดออกในช่องว่างเหนือ Dura mater สาเหตุที่พบบ่อยที่สุดคือการฉีกขาดของ Middle Meningeal Artery (MMA) ซึ่งมักเกิดขึ้นเมื่อมีกะโหลกศีรษะแตกบริเวณ Temporal bone",
+            "state": false
+        },
+        {
+            "problem": "23. Which white matter fiber tract connects Wernicke's area (comprehension) and Broca's area (speech production) within the same hemisphere, facilitating communication for speech repetition?",
+            "img": "",
+            "choices": "Cingulum///Fornix///Uncinate fasciculus///Arcuate fasciculus///Posterior commissure",
+            "answer": "Arcuate fasciculus",
+            "select": "",
+            "explain": "Arcuate fasciculus เป็น Association fiber ที่เชื่อมต่อระหว่าง Wernicke's area ใน Temporal lobe กับ Broca's area ใน Frontal lobe การบาดเจ็บของ Tract นี้ทำให้เกิด Conduction aphasia (พูดทวนคำไม่ได้) แต่ความเข้าใจภาษาและการพูดโดยทั่วไปยังคงอยู่",
+            "state": false
+        },
+        {
+            "problem": "24. The main arterial supply for the cerebral cortex located on the lateral aspect of the brain, including most of the primary motor and somatosensory cortices for the face and arm, originates from which major artery?",
+            "img": "",
+            "choices": "Basilar artery (BA)///Vertebral artery (VA)///Anterior cerebral artery (ACA)///Internal carotid artery (ICA)///Posterior cerebral artery (PCA)",
+            "answer": "Internal carotid artery (ICA)",
+            "select": "",
+            "explain": "Middle Cerebral Artery (MCA) ซึ่งเป็นหลอดเลือดที่เลี้ยงพื้นที่ Lateral surface ส่วนใหญ่ของสมอง เป็นแขนงที่ใหญ่ที่สุดของ Internal Carotid Artery (ICA) ดังนั้น ICA จึงเป็นแหล่งกำเนิดหลักของเลือดที่ไปเลี้ยงบริเวณนี้",
+            "state": false
+        },
+        {
+            "problem": "25. A chronic Subdural Hematoma (SDH) in an elderly patient is most commonly caused by the tearing of which vascular structure, often without significant trauma?",
+            "img": "",
+            "choices": "Middle meningeal artery (MMA)///Anterior cerebral artery (ACA)///Bridging veins (BVs)///Basilar artery (BA)///Lenticulostriate artery (LSA)",
+            "answer": "Bridging veins (BVs)",
+            "select": "",
+            "explain": "Subdural Hematoma (SDH) เกิดจากการฉีกขาดของ Bridging veins ซึ่งเป็นหลอดเลือดดำที่ทอดข้าม Subdural space ไปยัง Dural venous sinuses มักเกิดขึ้นในผู้สูงอายุที่มีภาวะสมองฝ่อ (Brain atrophy) เพียงการกระทบกระเทือนศีรษะเล็กน้อยก็ทำให้หลอดเลือดเหล่านี้ถูกดึงรั้งและฉีกขาดได้ง่าย",
+            "state": false
+        },
+        {
+            "problem": "26. Which anatomical structure is the primary site where Cerebrospinal Fluid (CSF) is reabsorbed from the subarachnoid space back into the venous circulation?",
+            "img": "",
+            "choices": "Choroid plexus///Cerebral aqueduct///Foramen of Monro///Arachnoid granulations (villi)///Ependymal cell lining",
+            "answer": "Arachnoid granulations (villi)",
+            "select": "",
+            "explain": "Arachnoid granulations (หรือ Arachnoid villi) เป็นส่วนที่ยื่นออกมาของ Arachnoid mater ทะลุผ่าน Dura mater เข้าไปใน Dural venous sinuses โดยเฉพาะ Superior sagittal sinus ทำหน้าที่เป็นทางผ่านให้ Cerebrospinal Fluid (CSF) ไหลกลับเข้าสู่ระบบเลือดดำ",
+            "state": false
+        },
+        {
+            "problem": "27. Damage to the primary motor cortex (BA 4) in the Precentral Gyrus of the left hemisphere would result in which classical clinical finding?",
+            "img": "",
+            "choices": "Contralateral hemispatial neglect///Contralateral flaccid paralysis of the entire body///Ipsilateral flaccid paralysis of the lower limb///Contralateral spastic paralysis of the body (UMN lesion)///Bilateral paralysis of the lower extremities",
+            "answer": "Contralateral spastic paralysis of the body (UMN lesion)",
+            "select": "",
+            "explain": "รอยโรคที่ Primary motor cortex (BA 4) เป็นรอยโรคของ Upper Motor Neuron (UMN) ซึ่งจะส่งผลให้เกิดอาการอ่อนแรงครึ่งซีกในด้านตรงข้าม (Contralateral hemiparesis) โดยเป็นอัมพาตแบบแข็งเกร็ง (Spastic paralysis)",
+            "state": false
+        },
+        {
+            "problem": "28. Which component of the Corpus Callosum interconnects the posterior parietal and occipital lobes?",
+            "img": "",
+            "choices": "Genu (Knee)///Rostrum (Beak)///Body (Trunk)///Splenium (Bandage)///Anterior commissure",
+            "answer": "Splenium (Bandage)",
+            "select": "",
+            "explain": "Corpus callosum เป็น Commissural fiber ที่ใหญ่ที่สุด Splenium เป็นส่วนท้ายสุดของ Corpus callosum มีหน้าที่ในการเชื่อมต่อ Occipital lobe และ Parietal lobe ส่วนหลังเข้าด้วยกัน ซึ่งมีบทบาทสำคัญในการบูรณาการข้อมูลการมองเห็น",
+            "state": false
+        },
+        {
+            "problem": "29. A lesion in the Posterior Commissure would most directly disrupt which part of the pupillary light reflex pathway?",
+            "img": "",
+            "choices": "Afferent limb from the optic nerve///Efferent limb via the oculomotor nerve///Crossing fibers connecting the pretectal nuclei and Edinger-Westphal nuclei///Processing in the Lateral Geniculate Body///Sympathetic input to the dilator pupillae muscle",
+            "answer": "Crossing fibers connecting the pretectal nuclei and Edinger-Westphal nuclei",
+            "select": "",
+            "explain": "Pupillary light reflex อาศัยสัญญาณประสาทที่ต้องข้ามฝั่ง (Decussation) เพื่อให้เกิด Consensual response สัญญาณจะส่งจาก Pretectal nucleus ข้างหนึ่ง ไปกระตุ้น Edinger-Westphal nucleus ของอีกข้างหนึ่ง โดยการข้ามฝั่งนี้เกิดขึ้นที่ Posterior commissure ดังนั้นรอยโรคที่นี่จึงทำให้ Consensual reflex ผิดปกติ",
+            "state": false
+        },
+        {
+            "problem": "30. The medial and superior surfaces of the cerebral hemispheres, including the Paracentral Lobule and the Cingulate Gyrus, receive their main arterial supply from which major vessel?",
+            "img": "",
+            "choices": "Internal carotid artery (ICA)///Middle cerebral artery (MCA)///Posterior cerebral artery (PCA)///Anterior cerebral artery (ACA)///Vertebral artery (VA)",
+            "answer": "Anterior cerebral artery (ACA)",
+            "select": "",
+            "explain": "Anterior Cerebral Artery (ACA) เป็นหลอดเลือดที่เลี้ยง Frontal pole, Medial surface ของ Frontal และ Parietal lobes รวมถึง Paracentral lobule และ Cingulate gyrus ด้วย",
+            "state": false
+        }
+    ],
+    "Motor by AI": [
+        {
+            "problem": "1. A patient with stroke exhibits spastic paralysis, hyperreflexia, and a positive Babinski sign on the right side of the body. This constellation of signs is characteristic of a lesion in which motor pathway component?",
+            "img": "",
+            "choices": "Alpha motor neuron within the anterior horn cell///Lower motor neuron pool in the cervical cord///Upper motor neuron involving the corticospinal tract///Peripheral nerve of the brachial plexus///Gamma motor neuron in the muscle spindle",
+            "answer": "Upper motor neuron involving the corticospinal tract",
+            "select": "",
+            "explain": "อาการอัมพาตแบบเกร็งตัว hyperreflexia และ Babinski sign เป็นบวก เป็นลักษณะจำเพาะของ Upper motor neuron lesion ซึ่งหมายถึงรอยโรคที่เกิดขึ้นกับเซลล์ประสาทที่สั่งการจากสมองและไขสันหลังส่วนบน เช่น corticospinal tract",
+            "state": false
+        },
+        {
+            "problem": "2. A 55-year-old man presents with acute left-sided hemiplegia and contralateral lower face palsy. An MRI reveals a small infarction. The lesion is most likely localized to the white matter tract that connects the contralateral face, arm, and leg motor areas. Which anatomical structure is this?",
+            "img": "",
+            "choices": "Anterior limb of internal capsule///Genu of internal capsule///Posterior limb of internal capsule///Corona radiata near the motor cortex///Crus cerebri of the midbrain",
+            "answer": "Posterior limb of internal capsule",
+            "select": "",
+            "explain": "Corticospinal tract และ Corticobulbar tract ที่ควบคุมแขนขาและใบหน้าส่วนล่างจะวิ่งรวมกันอย่างหนาแน่นที่ Posterior limb of internal capsule การบาดเจ็บของบริเวณนี้ทำให้เกิดอาการอ่อนแรงของร่างกายซีกตรงข้ามเกือบทั้งหมด ซึ่งเรียกว่า pure motor hemiparesis",
+            "state": false
+        },
+        {
+            "problem": "3. The majority of the corticospinal tract axons cross the midline before descending into the spinal cord. This large decussation occurs at which brainstem landmark?",
+            "img": "",
+            "choices": "Caudal pons reticular formation///Pyramids of the rostral medulla///Ventral tegmentum of the midbrain///Pyramidal decussation in the caudal medulla///Lateral aspect of the cervical spinal cord",
+            "answer": "Pyramidal decussation in the caudal medulla",
+            "select": "",
+            "explain": "ใยประสาทส่วนใหญ่ของ corticospinal tract จะไขว้จากด้านหนึ่งไปยังอีกด้านหนึ่งที่บริเวณรอยต่อของก้านสมองส่วน medulla และไขสันหลัง ซึ่งเรียกว่า Pyramidal decussation ก่อนที่จะกลายเป็น Lateral corticospinal tract",
+            "state": false
+        },
+        {
+            "problem": "4. A patient with a right cerebral hemisphere stroke presents with isolated weakness of the left lower face, but can still wrinkle his forehead and close his left eye. The lesion affects the UMN pathway. Which structure receives strictly contralateral UMN input for the lower facial expression?",
+            "img": "",
+            "choices": "Right facial nucleus (upper face portion)///Left facial nucleus (upper face portion)///Right trigeminal motor nucleus///Left facial nucleus (lower face portion)///Left hypoglossal nucleus",
+            "answer": "Left facial nucleus (lower face portion)",
+            "select": "",
+            "explain": "ใบหน้าส่วนบนรับการเลี้ยงจากสมองทั้งสองซีก Bilateral innervation ส่วนใบหน้าส่วนล่างรับการเลี้ยงจากสมองซีกตรงข้าม Contralateral innervation เท่านั้น ดังนั้นรอยโรคที่สมองซีกขวา UMN จะส่งผลต่อใบหน้าส่วนล่างด้านซ้าย ซึ่งควบคุมโดย Left facial nucleus lower face portion",
+            "state": false
+        },
+        {
+            "problem": "5. Which cranial nerve nucleus receives UMN input that is exclusively or predominantly contralateral, similar to the lower facial nucleus?",
+            "img": "",
+            "choices": "Trigeminal motor nucleus (V3)///Accessory nucleus (CN XI)///Vagus nucleus ambiguus (CN X)///Hypoglossal nucleus (CN XII)///Facial nucleus (upper face portion)",
+            "answer": "Hypoglossal nucleus (CN XII)",
+            "select": "",
+            "explain": "กล้ามเนื้อลิ้น Genioglossus ส่วนใหญ่ได้รับการควบคุมจาก UMN ของสมองซีกตรงข้าม Contralateral innervation เท่านั้น ซึ่งคล้ายคลึงกับการควบคุมกล้ามเนื้อใบหน้าส่วนล่าง ดังนั้นรอยโรคที่ UMN pathway มักทำให้ลิ้นเบี้ยวไปด้านตรงข้ามกับรอยโรค",
+            "state": false
+        },
+        {
+            "problem": "6. Damage to the most medial part of the Primary Motor Cortex (BA 4) would result in the most severe weakness in which part of the body, according to the motor homunculus?",
+            "img": "",
+            "choices": "Pharynx and Larynx for vocalization///Trunk and proximal upper limb///Contralateral lower limb and foot///Ipsilateral hand and fingers for fine control///Face and tongue muscles for swallowing",
+            "answer": "Contralateral lower limb and foot",
+            "select": "",
+            "explain": "ตามแผนที่ Motor homunculus ส่วนที่ควบคุมขาและเท้าจะอยู่ในบริเวณส่วนหน้าของ Paracentral lobule ซึ่งเป็นส่วนที่อยู่ด้านในสุด Medial surface ของ Primary motor cortex",
+            "state": false
+        },
+        {
+            "problem": "7. The Corticobulbar tract travels through which part of the Internal Capsule on its way to the brainstem cranial nerve nuclei?",
+            "img": "",
+            "choices": "Rostrum of corpus callosum///Anterior limb of internal capsule///Genu of internal capsule///Posterior limb of internal capsule///Retrolenticular limb of internal capsule",
+            "answer": "Genu of internal capsule",
+            "select": "",
+            "explain": "Corticobulbar tract ซึ่งเป็น UMN pathway ที่ควบคุมกล้ามเนื้อบริเวณศีรษะและคอ จะวิ่งผ่านบริเวณ Genu ของ Internal capsule ส่วน Corticospinal tract จะวิ่งผ่าน Posterior limb",
+            "state": false
+        },
+        {
+            "problem": "8. Which of the following is an expected clinical finding in a patient who has sustained an acute UMN lesion due to a stroke?",
+            "img": "",
+            "choices": "Muscle atrophy and fasciculations in the affected limbs///Flaccid paralysis with loss of muscle tone///Presence of hyperreflexia and clonus///Loss of sensory perception to pain and temperature///Absence of the deep tendon reflexes",
+            "answer": "Presence of hyperreflexia and clonus",
+            "select": "",
+            "explain": "Upper motor neuron lesion ทำให้เกิด Spastic paralysis ซึ่งมีอาการ hyperreflexia รีเฟล็กซ์ไวเกิน clonus กล้ามเนื้อเกร็งซ้ำและ Babinski sign เป็นบวก ส่วนอาการ atrophy flaccid paralysis และ hyporeflexia เป็นลักษณะของ Lower motor neuron lesion",
+            "state": false
+        },
+        {
+            "problem": "9. A patient is unable to perform complex movements and sequences, such as tying a shoelace, despite normal muscle strength and sensation. The lesion is most likely in which motor region?",
+            "img": "",
+            "choices": "Primary motor cortex (M1)///Supplementary motor cortex (SMC)///Postcentral gyrus (S1)///Caudate nucleus of the basal ganglia///Lateral vestibulospinal tract",
+            "answer": "Supplementary motor cortex (SMC)",
+            "select": "",
+            "explain": "Supplementary motor cortex SMC มีหน้าที่หลักในการวางแผน รูปแบบ และลำดับของการเคลื่อนไหวที่ซับซ้อน เช่น การประสานงานแบบ Bilateral Coordination หากส่วนนี้เสียหาย ผู้ป่วยจะไม่สามารถวางแผนและทำกิจกรรมที่ต้องใช้ลำดับการเคลื่อนไหวที่ซับซ้อนได้",
+            "state": false
+        },
+        {
+            "problem": "10. The cranial nerve nuclei that receive bilateral UMN input from the corticobulbar tracts help to ensure that vital functions are protected against unilateral cortical damage. Which cranial nerve nucleus is primarily involved in controlling the muscles of vocalization and swallowing?",
+            "img": "",
+            "choices": "Trigeminal motor nucleus (V3)///Abducens nucleus (VI)///Facial nucleus (lower face) (VII)///Hypoglossal nucleus (XII)///Nucleus ambiguus (IX, X)",
+            "answer": "Nucleus ambiguus (IX, X)",
+            "select": "",
+            "explain": "Nucleus ambiguus ควบคุมกล้ามเนื้อของเพดานอ่อน คอหอย และกล่องเสียง ซึ่งจำเป็นสำหรับการพูด Vocalization และการกลืน Swallowing นิวเคลียสนี้ได้รับ Bilateral UMN input เพื่อให้แน่ใจว่าฟังก์ชันเหล่านี้จะไม่ถูกรบกวนง่ายๆ หากเกิดอัมพาตครึ่งซีก",
+            "state": false
+        },
+        {
+            "problem": "11. The Lateral Vestibulospinal Tract (LVST) is critical for maintaining posture and balance. What is the primary function of the LVST in the spinal cord?",
+            "img": "",
+            "choices": "Excitatory to contralateral proximal limb flexors///Inhibitory to ipsilateral limb extensors///Excitatory to ipsilateral back and lower limb extensors///Excitatory to ipsilateral limb flexors for withdrawal reflex///Inhibitory to bilateral axial and truncal muscles",
+            "answer": "Excitatory to ipsilateral back and lower limb extensors",
+            "select": "",
+            "explain": "Lateral Vestibulospinal Tract LVST ซึ่งมีกำเนิดจาก Lateral vestibular nucleus จะส่งสัญญาณกระตุ้น Excitatory ไปยัง motor neurons ที่ควบคุมกล้ามเนื้อ Extensor ของหลังและขา Antigravity muscles เพื่อช่วยในการทรงตัวและต้านแรงโน้มถ่วง",
+            "state": false
+        },
+        {
+            "problem": "12. A lesion above the level of the Red Nucleus, but sparing it, leads to a posture where the arms are flexed and the legs are extended. Which phenomenon is this and what causes the upper limb flexion?",
+            "img": "",
+            "choices": "Decerebrate rigidity; Increased LVST activity///Decorticate rigidity; Increased Rubrospinal tract activity///Decerebrate rigidity; Loss of Rubrospinal inhibition///Decorticate rigidity; Decreased LVST activity///Decorticate rigidity; Loss of Rubrospinal inhibition",
+            "answer": "Decorticate rigidity; Increased Rubrospinal tract activity",
+            "select": "",
+            "explain": "รอยโรคที่อยู่เหนือ Red Nucleus เรียกว่า Decorticate rigidity ทำให้แขนงอ Upper limb flex และขาเหยียด Lower limb extend เนื่องจากขาดการควบคุมจาก Cortex แต่ Rubrospinal tract ซึ่งกระตุ้นกล้ามเนื้องอ Upper limb flexors ยังทำงานได้เต็มที่",
+            "state": false
+        },
+        {
+            "problem": "13. Complete transection of the brainstem below the level of the Red Nucleus (midbrain) results in a posture where all four limbs are rigidly extended. What is the cause of this exaggerated extensor tone?",
+            "img": "",
+            "choices": "Increased inhibitory activity of the Lateral Reticulospinal Tract///Loss of excitatory input from the Rubrospinal Tract///Increased excitatory activity of the LVST and MRST///Increased inhibitory activity of the Medial Vestibulospinal Tract///Loss of inhibitory input from the Cerebral Cortex",
+            "answer": "Increased excitatory activity of the LVST and MRST",
+            "select": "",
+            "explain": "ภาวะ Decerebrate rigidity เกิดจากรอยโรคที่ตัดการเชื่อมต่อระหว่าง Red Nucleus และ Motor Nuclei ที่อยู่ต่ำกว่า ส่งผลให้ Lateral Vestibulospinal Tract LVST และ Medial Reticulospinal Tract MRST ซึ่งมีฤทธิ์กระตุ้นกล้ามเนื้อเหยียด Extensor muscles ทำงานมากเกินไปโดยปราศจากการยับยั้งจากส่วนบน",
+            "state": false
+        },
+        {
+            "problem": "14. Which descending tract primarily plays a role in the precise control of voluntary movement of the proximal flexor muscles of the upper limb and receives strong input from the Red Nucleus?",
+            "img": "",
+            "choices": "Lateral Vestibulospinal Tract///Medial Vestibulospinal Tract///Medial Reticulospinal Tract///Lateral Reticulospinal Tract///Rubrospinal Tract",
+            "answer": "Rubrospinal Tract",
+            "select": "",
+            "explain": "Rubrospinal Tract มีกำเนิดจาก Magnocellular part ของ Red Nucleus และไขว้ลงมาเพื่อกระตุ้นกล้ามเนื้อ Flexor ของรยางค์ส่วนต้น Proximal limb flexors โดยเฉพาะที่แขน มีบทบาทในการควบคุมการเคลื่อนไหวของแขนส่วนต้นที่ค่อนข้างละเอียด",
+            "state": false
+        },
+        {
+            "problem": "15. The Pontine (Medial) Reticulospinal Tract descends mainly ipsilaterally and is functionally similar to the LVST. What is its main function in relation to muscle tone?",
+            "img": "",
+            "choices": "Inhibitory to lower limb extensors///Excitatory to axial and limb extensors///Inhibitory to proximal limb flexors///Excitatory to distal limb flexors///Excitatory to bilateral neck and eye muscles",
+            "answer": "Excitatory to axial and limb extensors",
+            "select": "",
+            "explain": "Pontine Medial Reticulospinal Tract มีกำเนิดจาก Pontine Reticular Nuclei และมีฤทธิ์กระตุ้นกล้ามเนื้อ Extensor ของลำตัวและแขนขา ซึ่งทำงานร่วมกับ Lateral Vestibulospinal Tract ในการรักษาความสมดุลของร่างกาย",
+            "state": false
+        },
+        {
+            "problem": "16. Which cerebellar peduncle exclusively carries afferent fibers from the contralateral pontine nuclei to the cerebellum?",
+            "img": "",
+            "choices": "Superior cerebellar peduncle (SCP)///Middle cerebellar peduncle (MCP)///Inferior cerebellar peduncle (ICP)///Juxtarestiform body of ICP///Reticular body of ICP",
+            "answer": "Middle cerebellar peduncle (MCP)",
+            "select": "",
+            "explain": "Middle cerebellar peduncle MCP เป็นทางเข้า Afferent fibers ที่ใหญ่ที่สุดของ cerebellum ทำหน้าที่นำข้อมูลการวางแผนการเคลื่อนไหวจาก Pontine nuclei ซึ่งเป็นจุดพักของข้อมูลจาก Cerebral cortex ซีกตรงข้าม Contralateral Pontocerebellar fiber เข้าสู่ Cerebellum",
+            "state": false
+        },
+        {
+            "problem": "17. A patient presents with truncal ataxia, characterized by difficulty maintaining balance while sitting or standing (wide-based gait), but has no significant limb incoordination. Which cerebellar zone is most likely affected?",
+            "img": "",
+            "choices": "Lateral hemisphere (Cerebrocerebellum)///Dentate nucleus (Deep cerebellar nucleus)///Flocculonodular lobe (Vestibulocerebellum)///Medial vermal zone (Spinocerebellum)///Intermediate paravermal zone",
+            "answer": "Medial vermal zone (Spinocerebellum)",
+            "select": "",
+            "explain": "Cerebellar vermis ซึ่งเป็นส่วนหนึ่งของ Spinocerebellum มีหน้าที่หลักในการควบคุมกล้ามเนื้อแกนกลางลำตัว Axial muscle และการทรงตัวของลำตัว Trunk balance รอยโรคที่ Vermis ทำให้เกิด Truncal ataxia",
+            "state": false
+        },
+        {
+            "problem": "18. Which deep cerebellar nucleus is the main output for the Lateral Cerebellar Hemisphere, involved in the planning and initiation of movement?",
+            "img": "",
+            "choices": "Fastigial nucleus///Interposed nucleus (Globose and Emboliform)///Vestibular nucleus///Dentate nucleus///Red nucleus",
+            "answer": "Dentate nucleus",
+            "select": "",
+            "explain": "Lateral Cerebellar Hemisphere Cerebrocerebellum ซึ่งทำหน้าที่ในการวางแผนการเคลื่อนไหว มี output หลักผ่านทาง Dentate nucleus ซึ่งเป็นนิวเคลียสที่ใหญ่ที่สุดและอยู่ด้านข้างที่สุดของ deep cerebellar nuclei",
+            "state": false
+        },
+        {
+            "problem": "19. Climbing fibers, a major excitatory input to the cerebellar cortex, originate exclusively from which brainstem structure?",
+            "img": "",
+            "choices": "Pontine nuclei///Inferior olivary nucleus (ION)///Vestibular nuclei///Spinal cord (Dorsal nucleus of Clarke)///Brainstem Reticular Formation",
+            "answer": "Inferior olivary nucleus (ION)",
+            "select": "",
+            "explain": "Climbing fibers เป็น input pathway ที่ส่งสัญญาณกระตุ้น Excitation ไปยัง Purkinje cells ทุกเส้นมีกำเนิดมาจาก Inferior olivary nucleus ION ใน Medulla Oblongata ซึ่งเป็นส่วนหนึ่งของ Olivocerebellar tract",
+            "state": false
+        },
+        {
+            "problem": "20. What is the primary function and neurotransmitter of the Purkinje cells, the sole output neurons of the cerebellar cortex?",
+            "img": "",
+            "choices": "Excitatory (Glutamate) to deep cerebellar nuclei///Inhibitory (GABA) to deep cerebellar nuclei///Excitatory (Aspartate) to granule cells///Inhibitory (Glycine) to vestibular nuclei///Excitatory (Dopamine) to Red Nucleus",
+            "answer": "Inhibitory (GABA) to deep cerebellar nuclei",
+            "select": "",
+            "explain": "Purkinje cells เป็นเซลล์ประสาทขนาดใหญ่ใน cerebellar cortex และเป็นเซลล์เดียวที่ส่ง output ออกจาก cortex หน้าที่ของมันคือการยับยั้ง Inhibitory โดยใช้สารสื่อประสาท GABA ไปยัง Deep cerebellar nuclei",
+            "state": false
+        },
+        {
+            "problem": "21. Damage to the Flocculonodular Lobe would primarily impair which cerebellar function?",
+            "img": "",
+            "choices": "Fine coordination of the distal upper limb///Motor learning for complex skills///Posture, balance, and eye movements///Planning of bilateral movements///Control of muscle tone of the lower limb",
+            "answer": "Posture, balance, and eye movements",
+            "select": "",
+            "explain": "Flocculonodular Lobe หรือ Vestibulocerebellum ทำหน้าที่หลักในการรับข้อมูลจากระบบการทรงตัว Vestibular system และควบคุม Posture Balance และ Eye movement หากเสียหายจะเกิดอาการเดินเซแบบ Truncal ataxia",
+            "state": false
+        },
+        {
+            "problem": "22. Occlusion of the Posterior Inferior Cerebellar Artery (PICA) would most likely cause a deficit related to which cerebellar peduncle and surface?",
+            "img": "",
+            "choices": "SCP, Superior surface///MCP, Anterior surface///ICP, Posteroinferior surface///SCP, Anterior surface///ICP, Superior surface",
+            "answer": "ICP, Posteroinferior surface",
+            "select": "",
+            "explain": "Posterior Inferior Cerebellar Artery PICA ไปเลี้ยง Posteroinferior surface ของ Cerebellum และ Inferior cerebellar peduncle ICP ซึ่งนำข้อมูลจากไขสันหลังและ Vestibular system เข้าสู่ Cerebellum",
+            "state": false
+        },
+        {
+            "problem": "23. A patient demonstrates difficulty in smoothly performing rapid alternating movements (dysdiadochokinesia) and consistently overshoots targets when reaching (dysmetria). These signs suggest a lesion in which functional zone of the cerebellum?",
+            "img": "",
+            "choices": "Vermal zone (Truncal control)///Flocculonodular zone (Balance)///Lateral hemisphere (Coordination)///Inferior olivary nucleus (ION)///Vestibular nuclei",
+            "answer": "Lateral hemisphere (Coordination)",
+            "select": "",
+            "explain": "Dysdiadochokinesia และ Dysmetria เป็นอาการของ Appendicular ataxia ซึ่งเป็นความผิดปกติของการประสานงานของแขนขา Limb coordination ซึ่งควบคุมโดย Lateral hemisphere Cerebrocerebellum",
+            "state": false
+        },
+        {
+            "problem": "24. The main efferent output from the cerebellum to the cerebral cortex is mediated by the Dentatothalamic tract. This tract projects to which thalamic nucleus before reaching the motor cortex?",
+            "img": "",
+            "choices": "Ventral Posterolateral nucleus VPL///Ventral Posteromedial nucleus VPM///Lateral Geniculate Body LGB///Ventral Lateral nucleus VL///Anterior nucleus",
+            "answer": "Ventral Lateral nucleus VL",
+            "select": "",
+            "explain": "สัญญาณ Efferent Output จาก Cerebellum จะออกจาก Dentate nucleus และเดินทางไป synapse ที่ Ventral Lateral nucleus VL ของ Thalamus ซึ่งเป็น Motor relay center ก่อนจะส่งสัญญาณต่อไปยัง Motor cortex BA4",
+            "state": false
+        },
+        {
+            "problem": "25. Which is the most abundant cell type in the cerebellar cortex, acting as the main excitatory input to the Purkinje cells via their parallel fibers?",
+            "img": "",
+            "choices": "Purkinje cells///Basket cells///Golgi cells///Stellate cells///Granule cells",
+            "answer": "Granule cells",
+            "select": "",
+            "explain": "Granule cells เป็นเซลล์ประสาทที่เล็กที่สุดและมีจำนวนมากที่สุดในสมอง ทำหน้าที่เป็น Excitatory neuron โดยใช้ Glutamate และ Aspartate เป็นสารสื่อประสาท Axon ของ Granule cells จะขึ้นไปที่ Molecular layer และแยกออกเป็น Parallel fibers เพื่อกระตุ้น Purkinje cells",
+            "state": false
+        },
+        {
+            "problem": "26. The primary input structure (Entrance) of the Basal Ganglia motor loop, receiving excitatory input from the cerebral cortex and the substantia nigra, is known as:",
+            "img": "",
+            "choices": "Globus pallidus internus GPi///Globus pallidus externus GPe///Subthalamic nucleus STN///Striatal complex (Caudate and Putamen)///Substantia nigra pars reticulata SNr",
+            "answer": "Striatal complex (Caudate and Putamen)///Subthalamic nucleus STN",
+            "select": "",
+            "explain": "Striatal complex ซึ่งประกอบด้วย Caudate nucleus และ Putamen Neostriatum เป็นด่านแรก Entrance ของ Basal Ganglia motor loop รับข้อมูลจาก Cerebral cortex และ Substantia nigra pars compacta",
+            "state": false
+        },
+        {
+            "problem": "27. The final output signal of the Basal Ganglia motor loop, which is an inhibitory GABAergic signal to the Thalamus, is generated by which two structures?",
+            "img": "",
+            "choices": "Caudate nucleus and Putamen///Globus pallidus externus GPe and STN///Subthalamic nucleus STN and Striatum///Globus pallidus internus GPi and SNr///Red nucleus and Subthalamic nucleus STN",
+            "answer": "Globus pallidus internus GPi and SNr",
+            "select": "",
+            "explain": "Globus pallidus internus GPi และ Substantia nigra pars reticulata SNr เป็น Output nuclei ของ Basal Ganglia ที่ส่งสัญญาณยับยั้ง GABAergic ออกไปสู่ Thalamus เพื่อควบคุมการเคลื่อนไหว",
+            "state": false
+        },
+        {
+            "problem": "28. Parkinson's disease is pathologically characterized by the degeneration and loss of dopamine-producing neurons in which part of the Nigral complex?",
+            "img": "",
+            "choices": "Globus pallidus externus GPe///Substantia nigra pars reticulata SNr///Globus pallidus internus GPi///Subthalamic nucleus STN///Substantia nigra pars compacta SNc",
+            "answer": "Substantia nigra pars compacta SNc",
+            "select": "",
+            "explain": "โรคพาร์กินสัน Parkinson's disease เกิดจากการเสื่อมของเซลล์ประสาทที่สร้าง Dopamine ใน Substantia nigra pars compacta SNc ซึ่งเป็นจุดเริ่มต้นของ Nigrostriatal pathway",
+            "state": false
+        },
+        {
+            "problem": "29. Huntington's disease, a hyperkinetic disorder, results from the selective loss of which cell type within the Striatal complex?",
+            "img": "",
+            "choices": "Dopaminergic neurons of the SNc///GABAergic medium spiny neurons///Glutamatergic neurons of the cerebral cortex///GABAergic neurons of the GPi///Cholinergic interneurons of the striatum",
+            "answer": "GABAergic medium spiny neurons",
+            "select": "",
+            "explain": "Huntington's disease มีพยาธิสภาพคือการตายของ GABAergic medium spiny neurons ใน Striatum โดยเฉพาะที่ Caudate nucleus การสูญเสียเซลล์เหล่านี้ทำให้ Indirect pathway ซึ่งทำหน้าที่ยับยั้งการเคลื่อนไหวทำงานบกพร่องไป เกิดอาการเคลื่อนไหวผิดปกติแบบ Chorea",
+            "state": false
+        },
+        {
+            "problem": "30. The two main functional circuits of the Basal Ganglia are the Direct and Indirect pathways. The critical difference between them is the inclusion of which nucleus in the inhibitory indirect pathway?",
+            "img": "",
+            "choices": "Globus pallidus internus GPi///Subthalamic nucleus STN///Substantia nigra pars compacta SNc///Caudate nucleus///Thalamus VA VL",
+            "answer": "Subthalamic nucleus STN",
+            "select": "",
+            "explain": "Indirect pathway มีองค์ประกอบคือ Striatum → Globus pallidus externus GPe → Subthalamic nucleus STN → Globus pallidus internus GPi STN เป็นส่วนประกอบที่สำคัญและมีเฉพาะใน Indirect pathway เท่านั้น",
+            "state": false
+        },
+        {
+            "problem": "31. Activation of the Direct pathway of the Basal Ganglia ultimately results in what effect on the motor cortex?",
+            "img": "",
+            "choices": "Increased inhibitory GABAergic output to the thalamus///Decreased excitatory Glutamatergic input to the striatum///Increased inhibitory output from GPe to STN///Increased excitatory drive to the thalamus and cortex///Decreased inhibitory GABAergic output to the thalamus",
+            "answer": "Increased excitatory drive to the thalamus and cortex",
+            "select": "",
+            "explain": "Direct pathway เป็นวงจรส่งเสริมการเคลื่อนไหว Excitatory โดยจะส่งสัญญาณยับยั้ง GABA ไปยัง GPi Output nucleus ทำให้ GPi ถูกยับยั้ง Inhibition น้อยลง GPi จึงส่งสัญญาณยับยั้งไปสู่ Thalamus น้อยลง Disinhibition ผลลัพธ์คือ Thalamus สามารถกระตุ้น Cortex ได้มากขึ้น",
+            "state": false
+        },
+        {
+            "problem": "32. Dopamine released by the Substantia Nigra pars compacta (SNc) affects the direct pathway via which receptor to promote movement?",
+            "img": "",
+            "choices": "Alpha-1 adrenergic receptor (Excitatory)///Dopamine D1 receptor (Excitatory)///Dopamine D2 receptor (Inhibitory)///GABA-A receptor (Inhibitory)///NMDA receptor (Excitatory)",
+            "answer": "Dopamine D1 receptor (Excitatory)",
+            "select": "",
+            "explain": "Dopamine ที่หลั่งจาก SNc จะกระตุ้น Direct pathway ผ่าน Dopamine D1 receptor ซึ่งมีผล Excitatory ต่อ Striatum ทำให้ Direct pathway ทำงานมากขึ้นและส่งเสริมการเคลื่อนไหว",
+            "state": false
+        },
+        {
+            "problem": "33. A patient presents with violent, involuntary flinging movements of the right arm and leg (hemiballismus). The lesion most likely involves the subthalamic nucleus (STN) on which side of the brain?",
+            "img": "",
+            "choices": "Ipsilateral (Right STN)///Contralateral (Left STN)///Bilateral STN///Ipsilateral Globus Pallidus Internus///Contralateral Substantia Nigra pars compacta",
+            "answer": "Contralateral (Left STN)",
+            "select": "",
+            "explain": "Hemiballismus เป็นภาวะ Hyperkinetic Movement Disorder ที่เกิดจากการเสียหายของ Subthalamic Nucleus STN ซึ่งเป็นส่วนสำคัญของ Indirect pathway ที่ส่งสัญญาณกระตุ้น Excitation ไปยัง Output nucleus เมื่อ STN เสียหาย Indirect pathway จะถูกยับยั้ง ทำให้เกิดการกระตุ้นจาก Thalamus มากเกินไป อาการจะเกิดกับร่างกายซีกตรงข้าม Contralateral",
+            "state": false
+        },
+        {
+            "problem": "34. The major clinical manifestation of Parkinson's disease, Bradykinesia (slowed movement), is primarily due to the net effect of the basal ganglia on the motor loop. What is this net effect?",
+            "img": "",
+            "choices": "Increased excitatory output from the SNc to the striatum///Decreased inhibitory output from GPe to STN///Increased inhibitory output from GPi SNr to the thalamus///Decreased excitatory output from the STN to GPi///Increased excitatory output from the thalamus to the cortex",
+            "answer": "Increased inhibitory output from GPi SNr to the thalamus",
+            "select": "",
+            "explain": "การขาด Dopamine ใน Parkinson's disease ทำให้ Direct pathway ถูกยับยั้งและ Indirect pathway ถูกกระตุ้น Net effect คือ Output nuclei GPi และ SNr ส่งสัญญาณยับยั้ง Inhibitory ไปยัง Thalamus มากกว่าปกติ ทำให้ Thalamus กระตุ้น Cortex น้อยลง ส่งผลให้การเริ่มต้นและการดำเนินการเคลื่อนไหวช้าลง Bradykinesia",
+            "state": false
+        },
+        {
+            "problem": "35. The Globus Pallidus Internus GPi projects its inhibitory output fibers to the Thalamus via two major bundles. One of these curves around the anterior limb of the internal capsule. What is this curved bundle called?",
+            "img": "",
+            "choices": "Fasciculus retroflexus///Fasciculus lenticularis///Ansa lenticularis///Stria terminalis///Ventral amygdalofugal pathway",
+            "answer": "Ansa lenticularis",
+            "select": "",
+            "explain": "สัญญาณ Output จาก GPi ไปยัง Thalamus เดินทางผ่าน 2 ทางหลักคือ Fasciculus lenticularis ที่ลอดผ่าน Internal capsule และ Ansa lenticularis ที่โค้งตัวรอบ Anterior limb ของ Internal capsule",
+            "state": false
+        },
+        {
+            "problem": "36. The major input of the motor cortex (BA 4, 6, 8) in the Basal Ganglia motor loop is mainly derived from which part of the Thalamus?",
+            "img": "",
+            "choices": "Ventral Posterior Lateral nucleus VPL///Lateral Dorsal nucleus LD///Ventral Anterior and Ventral Lateral nuclei VA VL///Anterior nucleus AN///Pulvinar nucleus",
+            "answer": "Ventral Anterior and Ventral Lateral nuclei VA VL",
+            "select": "",
+            "explain": "Thalamus เป็นสถานีถ่ายทอดข้อมูล Motor จาก Cerebellum และ Basal Ganglia ไปยัง Cerebral cortex โดยเฉพาะ Motor cortex BA4 ข้อมูลจาก Basal Ganglia จะส่งผ่านไปยัง VA VL nucleus ของ Thalamus",
+            "state": false
+        },
+        {
+            "problem": "37. Which of the following is an example of a cell with primarily an inhibitory function in the Basal Ganglia circuitry, using GABA as its neurotransmitter?",
+            "img": "",
+            "choices": "Subthalamic nucleus neuron///Striatal medium spiny neuron///Cerebral cortex pyramidal neuron///Substantia nigra pars compacta neuron///Pontine nucleus neuron",
+            "answer": "Striatal medium spiny neuron",
+            "select": "",
+            "explain": "Medium spiny neurons ใน Striatum เป็นเซลล์ประสาทที่มีจำนวนมากที่สุดใน Basal Ganglia ทำหน้าที่เป็น Inhibitory neuron โดยใช้ GABA และเป็นจุดกำเนิดของทั้ง Direct และ Indirect pathway",
+            "state": false
+        },
+        {
+            "problem": "38. Dopamine released by the SNc affects the indirect pathway via which receptor to suppress the unwanted movement suppression and favor movement?",
+            "img": "",
+            "choices": "Alpha-1 adrenergic receptor (Inhibitory)///Dopamine D1 receptor (Excitatory)///Dopamine D2 receptor (Inhibitory)///GABA-B receptor (Excitatory)///NMDA receptor (Excitatory)",
+            "answer": "Dopamine D2 receptor (Inhibitory)",
+            "select": "",
+            "explain": "Dopamine ที่หลั่งจาก SNc จะกระตุ้น Indirect pathway ผ่าน Dopamine D2 receptor ซึ่งมีผล Inhibitory ต่อ Striatum ทำให้ Indirect pathway ถูกยับยั้งและส่งผลให้เกิดการส่งเสริมการเคลื่อนไหว",
+            "state": false
+        },
+        {
+            "problem": "39. The overall function of the Indirect Pathway of the Basal Ganglia motor circuit is best described as:",
+            "img": "",
+            "choices": "Facilitate desired movement by disinhibiting the thalamus///Inhibit unwanted movements by increasing GPi SNr output///Generate the initial impulse for motor action///Provide proprioceptive feedback to the cerebellum///Regulate muscle tone of the axial musculature",
+            "answer": "Inhibit unwanted movements by increasing GPi SNr output",
+            "select": "",
+            "explain": "Indirect Pathway เป็นวงจรยับยั้งการเคลื่อนไหว โดยจะกระตุ้น GPi SNr Output nucleus ทำให้ GPi SNr ส่งสัญญาณยับยั้ง Inhibitory ไปยัง Thalamus มากขึ้น ส่งผลให้การเคลื่อนไหวที่ไม่ต้องการถูกยับยั้ง",
+            "state": false
+        },
+        {
+            "problem": "40. Degeneration of the Subthalamic Nucleus (STN) causes Hemiballismus. This is due to the loss of STN's excitatory output onto which major output structure?",
+            "img": "",
+            "choices": "Striatal medium spiny neuron///Substantia nigra pars compacta SNc///Globus pallidus externus GPe///Globus pallidus internus GPi///Cerebral cortex",
+            "answer": "Globus pallidus internus GPi",
+            "select": "",
+            "explain": "STN ส่งสัญญาณกระตุ้น Excitation ไปยัง GPi Output nucleus เป็นส่วนหนึ่งของ Indirect pathway การสูญเสีย STN ทำให้ GPi ถูกยับยั้งน้อยลงและส่งสัญญาณยับยั้งไปยัง Thalamus น้อยลง ทำให้เกิดการเคลื่อนไหวที่มากเกินไป Hyperkinesia",
+            "state": false
+        },
+        {
+            "problem": "41. What is the neurotransmitter released by the Subthalamic Nucleus STN to both GPi and SNr?",
+            "img": "",
+            "choices": "GABA (Inhibitory)///Glutamate (Excitatory)///Dopamine (Modulatory)///Acetylcholine (Excitatory)///Serotonin (Inhibitory)",
+            "answer": "Glutamate (Excitatory)",
+            "select": "",
+            "explain": "STN เป็น Nucleus เดียวใน Basal Ganglia ที่เป็น Excitatory โดยใช้ Glutamate เป็นสารสื่อประสาท และส่งสัญญาณไปยัง GPi และ SNr",
+            "state": false
+        },
+        {
+            "problem": "42. The anatomical location where the striatal complex receives afferent fibers from the entire cerebral cortex is mainly mediated by which part of the striatum?",
+            "img": "",
+            "choices": "Nucleus accumbens///Globus pallidus internus GPi///Globus pallidus externus GPe///Putamen and Caudate Nucleus///Substantia nigra pars reticulata SNr",
+            "answer": "Putamen and Caudate Nucleus",
+            "select": "",
+            "explain": "Putamen และ Caudate Nucleus ซึ่งประกอบเป็น Neostriatum เป็น Input Nucleus ที่ใหญ่ที่สุดของ Basal Ganglia ทำหน้าที่รับข้อมูลจาก Cerebral cortex ทั้งหมด",
+            "state": false
+        },
+        {
+            "problem": "43. What is the net effect of Dopamine on the Basal Ganglia motor loop when it is released from the Substantia Nigra pars compacta (SNc)?",
+            "img": "",
+            "choices": "Overall inhibition of the Direct Pathway///Overall inhibition of the Indirect Pathway///Overall net suppression of movement///Overall facilitation of movement///No net effect on motor action",
+            "answer": "Overall facilitation of movement",
+            "select": "",
+            "explain": "Dopamine กระตุ้น Direct pathway ผ่าน D1 receptor และยับยั้ง Indirect pathway ผ่าน D2 receptor ผลลัพธ์สุทธิคือการส่งเสริมการเคลื่อนไหว Overall facilitation of movement",
+            "state": false
+        },
+        {
+            "problem": "44. The Nigrostriatal pathway refers to the connection from which part of the Nigral complex to which part of the Striatal complex?",
+            "img": "",
+            "choices": "SNr to Caudate nucleus///SNc to Putamen and Caudate///VTA to Nucleus accumbens///SNr to Globus pallidus externus///SNc to Subthalamic nucleus STN",
+            "answer": "SNc to Putamen and Caudate",
+            "select": "",
+            "explain": "Nigrostriatal pathway เป็นเส้นทางที่ Dopaminergic neurons จาก Substantia nigra pars compacta SNc ส่ง axon ไปยัง Putamen และ Caudate nucleus Striatum ซึ่งเป็นส่วนประกอบหลักของ Motor loop",
+            "state": false
+        },
+        {
+            "problem": "45. The mechanism that causes Bradykinesia in Parkinson's disease is mainly due to the imbalance of activity in the two basal ganglia pathways. What is this imbalance?",
+            "img": "",
+            "choices": "Increased Direct pathway and decreased Indirect pathway activity///Decreased Direct pathway and increased Indirect pathway activity///Decreased both Direct and Indirect pathways activity///Increased both Direct and Indirect pathways activity///Loss of D1 receptor function only",
+            "answer": "Decreased Direct pathway and increased Indirect pathway activity",
+            "select": "",
+            "explain": "การขาด Dopamine ใน Parkinson's disease ทำให้ Direct pathway ถูกกระตุ้นน้อยลง Decrease D1 และ Indirect pathway ถูกยับยั้งน้อยลง Increase D2 ทำให้เกิดภาวะไม่สมดุลนี้ Net effect คือการยับยั้ง Thalamus ที่เพิ่มขึ้นและนำไปสู่ Bradykinesia",
+            "state": false
+        },
+        {
+            "problem": "A patient presents with a complete unilateral facial palsy (both forehead and lower face) and ipsilateral loss of the corneal reflex. Which of the following is the most likely location of the lesion?",
+            "img": "",
+            "choices": "Primary motor cortex Brodmann area 4///Internal capsule anterior limb fibers///Corticobulbar fibers in the brainstem///Facial motor nucleus in the pons///Anterior horn cell of the spinal cord",
+            "answer": "Facial motor nucleus in the pons",
+            "select": "",
+            "explain": "อาการใบหน้าอ่อนแรงครึ่งซีกทั้งด้านบนและล่าง (complete facial palsy) เป็นลักษณะของ Lower Motor Neuron (LMN) lesion ซึ่งบ่งชี้ว่ามีความเสียหายที่ Facial nerve (CN VII) หรือ Facial motor nucleus ใน Pons การที่สูญเสีย Corneal reflex ด้วย แสดงว่าทั้ง Afferent limb (CN V1) และ Efferent limb (CN VII) มีปัญหา ดังนั้นรอยโรคที่ Facial motor nucleus เป็นไปได้มากที่สุด"
+        },
+        {
+            "problem": "Which clinical feature is MOST indicative of a Lower Motor Neuron (LMN) lesion in a muscle and its innervating nerve?",
+            "img": "",
+            "choices": "Clasp-knife rigidity after fast passive stretch///Muscle atrophy secondary to long-term disuse///Pathological reflex such as positive Babinski sign///Decreased or absent deep tendon reflexes (DTRs)///Increased muscle tone (hypertonia) at the joints",
+            "answer": "Decreased or absent deep tendon reflexes (DTRs)",
+            "select": "",
+            "explain": "LMN lesion (เกิดที่ Anterior horn cell หรือ Peripheral nerve) จะทำลายส่วน Efferent limb ของ Reflex arc ส่งผลให้ Deep Tendon Reflexes (DTRs) ลดลงหรือหายไป (Hyporeflexia/Areflexia) นี่คือลักษณะคลาสสิกของ LMN lesion ในขณะที่ Spasticity, Hyperreflexia, และ Babinski sign เป็นลักษณะของ UMN lesion ส่วน Muscle atrophy (ลีบ) เป็นผลลัพธ์ของ LMN lesion"
+        },
+        {
+            "problem": "Which of the following descending motor pathways is primarily responsible for the execution of skilled, individual finger movements?",
+            "img": "",
+            "choices": "Medial vestibulospinal tract for balance control///Lateral corticospinal tract for fine control///Medial reticulospinal tract for posture support///Ventral corticospinal tract for axial muscles///Rubrospinal tract for distal limb flexion",
+            "answer": "Lateral corticospinal tract for fine control",
+            "select": "",
+            "explain": "Lateral corticospinal tract ซึ่งเป็นส่วนที่ไขว้กันแล้วของ Pyramidal tract นั้นมีหน้าที่หลักในการควบคุมการเคลื่อนไหวที่ละเอียดอ่อนและเป็นอิสระของรยางค์ (Fine movement control) โดยเฉพาะกล้ามเนื้อปลายมือและนิ้วมือ ซึ่งจำเป็นต่อทักษะการเคลื่อนไหวที่ซับซ้อน"
+        },
+        {
+            "problem": "According to the Activation Coding Principles, how is the strength or force of a muscle contraction typically encoded in the motor system?",
+            "img": "",
+            "choices": "By decreasing the amplitude of the action potentials (APs)///By increasing the amplitude of the action potentials (APs)///By increasing the frequency of the action potentials (APs)///By decreasing the speed of the nerve conduction velocity (NCV)///By recruiting motor units with lower innervation ratios",
+            "answer": "By increasing the frequency of the action potentials (APs)",
+            "select": "",
+            "explain": "ตามหลักการ Firing Rate Principle ความแรงของการหดตัวของกล้ามเนื้อ (Strength) ถูกเข้ารหัสโดยความถี่ (Frequency) ของ Action Potential (AP) ที่ถูกส่งมาจาก Motor neuron เท่านั้น โดยที่ขนาด (Amplitude) ของ APs จะไม่เปลี่ยนแปลง (All-or-None principle)"
+        },
+        {
+            "problem": "A patient presents with a lesion affecting the Rubrospinal tract. What would be the expected functional deficit?",
+            "img": "",
+            "choices": "Impaired head and eye coordination in response to sound///Loss of balance and inability to maintain upright posture///Fine movement control of the distal lower limbs is compromised///Control of upper extremity flexors and lower extremity extensors is impaired///Tone and posture support of the trunk and proximal limbs are reduced",
+            "answer": "Control of upper extremity flexors and lower extremity extensors is impaired",
+            "select": "",
+            "explain": "Rubrospinal tract ซึ่งมาจาก Red nucleus มีหน้าที่ในการกระตุ้นกล้ามเนื้อ Flexors ของ Upper Extremities (UE) และยับยั้ง Extensors ของ Lower Extremities (LE) แม้ว่าส่วนใหญ่จะถูกแทนที่ด้วย Corticospinal tract แต่ยังคงมีบทบาทในการควบคุมการเคลื่อนไหวของรยางค์ส่วนปลาย"
+        },
+        {
+            "problem": "A lesion that causes the characteristic Decorticate posture results from the removal of which inhibitory influence from the cerebral cortex?",
+            "img": "",
+            "choices": "Cortex inhibition over the Rubrospinal tract and Tectospinal tract///Cortex inhibition over the Reticulospinal and Vestibulospinal tracts///Cortex inhibition over the Lower Extremity (LE) extensors and Upper Extremity (UE) flexors///Cortex inhibition over the Upper Extremity (UE) extensors and Lower Extremity (LE) flexors///Cortex inhibition over the Cerebellum and Basal Ganglia output nuclei",
+            "answer": "Cortex inhibition over the Upper Extremity (UE) extensors and Lower Extremity (LE) flexors",
+            "select": "",
+            "explain": "Decorticate posture เกิดจากรอยโรคเหนือ Red nucleus ทำให้ขาดการควบคุมจาก Cortex (UMN) ที่ปกติจะยับยั้งกล้ามเนื้อ UE Extensors และ LE Flexors เมื่อขาดการยับยั้ง กล้ามเนื้อ UE Flexors และ LE Extensors จะทำงานเด่น ทำให้แขนงอเข้า (Flexion) และขาเหยียดออก (Extension)"
+        },
+        {
+            "problem": "Which function is primarily mediated by the Gamma (γ) motor neuron in the final common pathway?",
+            "img": "",
+            "choices": "Generating the main force for muscle contraction and movement///Controlling the extrafusal fibers of the skeletal muscle///Regulating the sensitivity of the muscle spindle apparatus///Inhibiting the adjacent alpha motor neurons via Renshaw cells///Maintaining muscle tone and supporting static posture",
+            "answer": "Regulating the sensitivity of the muscle spindle apparatus",
+            "select": "",
+            "explain": "Gamma motor neuron จะส่งสัญญาณไปเลี้ยง Intrafusal fibers (ใยกล้ามเนื้อภายใน Muscle spindle) ทำหน้าที่ควบคุมความตึงของ Muscle spindle และปรับความไว (sensitivity) ของ Spindle ต่อการยืดกล้ามเนื้อ ซึ่งมีบทบาทสำคัญในการคง Muscle tone"
+        },
+        {
+            "problem": "The primary afferent input structure of the Basal Ganglia, which receives excitatory signals from almost all areas of the cerebral cortex, is the:",
+            "img": "",
+            "choices": "Globus pallidus internus (GPi)///Substantia nigra pars reticulata (SNr)///Subthalamic nucleus (STN)///Striatum (Caudate and Putamen)///Red nucleus",
+            "answer": "Striatum (Caudate and Putamen)",
+            "select": "",
+            "explain": "Striatum (Caudate nucleus และ Putamen) เป็นส่วนรับสัญญาณเข้า (Input) หลักของ Basal Ganglia โดยรับสัญญาณกระตุ้น (Excitatory input) จาก Motor cortex และ Cortical areas อื่นๆ เกือบทั้งหมด"
+        },
+        {
+            "problem": "A patient with Cerebellar dysfunction is characterized by Ataxia, often described as 'clumsiness,' rather than motor weakness. Which of the following defines 'Ataxia' in this context?",
+            "img": "",
+            "choices": "Inability to sustain muscle contraction over time///A loss of force generation in a specific muscle group///Impaired coordination and inaccuracy of voluntary movements///An involuntary, repetitive oscillation of a limb at rest///A loss of sensation causing movement inaccuracy",
+            "answer": "Impaired coordination and inaccuracy of voluntary movements",
+            "select": "",
+            "explain": "Cerebellum มีหน้าที่ในการควบคุมการประสานงาน (Coordination) และความแม่นยำของการเคลื่อนไหว (Inaccuracy) เมื่อ Cerebellum ทำงานผิดปกติจะเกิดภาวะ Ataxia ซึ่งเป็นการเคลื่อนไหวที่ผิดพลาดและไม่สม่ำเสมอ แต่ยังคงมีกำลังกล้ามเนื้อ (Motor power) ที่ปกติ"
+        },
+        {
+            "problem": "A patient with a cerebrovascular accident presents with contralateral hemiparesis and hyperreflexia. The lesion is most likely located in the Pyramidal tract before it reaches the anterior horn cell. Which feature of a pathological reflex would be present?",
+            "img": "",
+            "choices": "Absent deep tendon reflexes (DTRs)///Flaccid hypotonia of the affected limb///Muscle fasciculations and fibrillations///Positive Babinski's sign or Hoffman's sign///Normal nerve conduction velocity (NCV) results",
+            "answer": "Positive Babinski's sign or Hoffman's sign",
+            "select": "",
+            "explain": "อาการอ่อนแรงครึ่งซีกและ Hyperreflexia บ่งชี้ถึง Upper Motor Neuron (UMN) lesion ซึ่งหนึ่งในลักษณะทางพยาธิวิทยาที่สำคัญที่สุดคือการมี Pathological Reflexes ได้แก่ Positive Babinski's sign (นิ้วหัวแม่เท้ากระดกขึ้นเมื่อกระตุ้นฝ่าเท้า) และ Hoffman's sign"
+        },
+        {
+            "problem": "Which of the following is the primary function of the Vestibulospinal tract, which originates from the Vestibular nuclei?",
+            "img": "",
+            "choices": "Coordinating head and eye movements (Ocular reflex)///Regulating muscle tone for fine movement control///Exciting the extensor muscles for balance and posture///Inhibiting the flexor muscles for gait initiation///Controlling the precise, skilled movements of the distal limb",
+            "answer": "Exciting the extensor muscles for balance and posture",
+            "select": "",
+            "explain": "Vestibulospinal tract มีหน้าที่หลักในการรับข้อมูลเกี่ยวกับการทรงตัวจาก Vestibular system แล้วส่งสัญญาณกระตุ้น (Excitatory signal) ไปยัง Motor neurons ของกล้ามเนื้อ Extensor (Antigravity muscles) เพื่อช่วยในการรักษาสมดุลและท่าทางของร่างกาย"
+        },
+        {
+            "problem": "The pathway for speech programming involves the transmission of processed sensory information from Wernicke's area to Broca's area via which major association fiber bundle?",
+            "img": "",
+            "choices": "Corpus callosum (Commissural fiber)///Internal capsule (Projection fiber)///Fornix (Limbic pathway)///Arcuate fasciculus (Association fiber)///Cingulum (Limbic association fiber)",
+            "answer": "Arcuate fasciculus (Association fiber)",
+            "select": "",
+            "explain": "Arcuate fasciculus เป็น Association fiber bundle ที่ทำหน้าที่เชื่อมต่อ Wernicke's area (ความเข้าใจภาษา) กับ Broca's area (การสร้างคำพูด) การบาดเจ็บของเส้นทางนี้ทำให้เกิด Conduction aphasia ซึ่งมีลักษณะเด่นคือไม่สามารถพูดทวนคำได้"
+        },
+        {
+            "problem": "In the context of electrodiagnostic examination, the observation of denervation potentials (fibrillation, positive sharp waves) is a characteristic finding of pathology in which component?",
+            "img": "",
+            "choices": "Peripheral nerve fiber and muscle (LMN)///Motor cortex and pyramidal tract (UMN)///Deep cerebellar nuclei and their projections///Basal ganglia output nuclei (GPi, SNr)///Thalamus and its cortical projections",
+            "answer": "Peripheral nerve fiber and muscle (LMN) รอยโรคที่ Peripheral nerve fiber และ Muscle (LMN)",
+            "select": "",
+            "explain": "Denervation potentials (Fibrillation potentials และ Positive sharp waves) เป็นสัญญาณไฟฟ้าที่เกิดจากการที่ Motor neuron (LMN) ไม่สามารถส่งสัญญาณไปยังกล้ามเนื้อได้ ทำให้กล้ามเนื้อขาดการกระตุ้นและมีการหดตัวเองของใยกล้ามเนื้อ ซึ่งสามารถตรวจพบได้ในการตรวจ Electromyography (EMG) และเป็นลักษณะเฉพาะของ LMN lesion"
+        },
+        {
+            "problem": "Which descending pathway is primarily responsible for the continuous, tonic maintenance of muscle tone and posture in the trunk and proximal limbs?",
+            "img": "",
+            "choices": "Lateral corticospinal tract///Medial vestibulospinal tract///Reticulospinal tract///Tectospinal tract///Rubrospinal tract",
+            "answer": "Reticulospinal tract",
+            "select": "",
+            "explain": "Reticulospinal tract ซึ่งมาจาก Reticular formation (RF) ใน Brainstem มีบทบาทสำคัญในการควบคุมการหายใจ (Breathing) และการควบคุม Muscle tone และ Posture ในลำตัวและรยางค์ส่วนต้น (Trunk and proximal limbs) อย่างต่อเนื่อง (Tonic control)"
+        },
+        {
+            "problem": "A patient undergoing physical examination shows a movement with muscle weakness in which the limb can only be moved in a horizontal plane after gravity is eliminated. What is the corresponding Muscle Power Grade?",
+            "img": "",
+            "choices": "Grade 0///Grade 1///Grade 2///Grade 3///Grade 4",
+            "answer": "Grade 2",
+            "select": "",
+            "explain": "ตามการให้คะแนน Motor Power 5 Grades: Grade 2 คือกล้ามเนื้อสามารถเคลื่อนไหวได้เมื่อไม่มีแรงโน้มถ่วง (Gravity eliminated) หรือในระนาบราบเท่านั้น Grade 3 คือสามารถยกแขน/ขาได้ต้านแรงโน้มถ่วง (ต้าน Gravity ได้) แต่ต้านแรงคนตรวจไม่ได้"
+        },
+        {
+            "problem": "The Pyramidal tract is composed of the Lateral and Ventral corticospinal tracts. What is the approximate percentage and location of decussation (crossing over) for the Lateral corticospinal tract fibers?",
+            "img": "",
+            "choices": "25% Ipsilateral at the spinal cord level///75% Contralateral at the Pyramidal decussation///25% Contralateral at the Pyramidal decussation///75% Ipsilateral at the level of the internal capsule///25% Contralateral at the level of the brainstem",
+            "answer": "75% Contralateral at the Pyramidal decussation",
+            "select": "",
+            "explain": "Lateral corticospinal tract ประกอบด้วยใยประสาทประมาณ 75% ของ Pyramidal tract ทั้งหมด ซึ่งจะทำการไขว้ (Decussation) ที่บริเวณ Pyramidal decussation ที่รอยต่อระหว่าง Medulla oblongata กับ Spinal cord และลงไปควบคุมกล้ามเนื้อรยางค์ส่วนปลายในซีกตรงข้าม (Contralateral)"
+        },
+        {
+            "problem": "In the process of producing voluntary speech, which Brodmann Area is identified as the center for Speech Programming, coordinating the complex motor sequences for articulation?",
+            "img": "",
+            "choices": "Brodmann Area 22 (Wernicke's area)///Brodmann Area 44, 45 (Broca's area)///Brodmann Area 4 (Primary Motor Cortex)///Brodmann Area 3, 1, 2 (Primary Somatosensory)///Brodmann Area 6 (Premotor Cortex)",
+            "answer": "Brodmann Area 44, 45 (Broca's area)",
+            "select": "",
+            "explain": "Broca's area ซึ่งประกอบด้วย Brodmann Areas 44 และ 45 ทำหน้าที่เป็นศูนย์กลางการวางแผนโปรแกรมการเคลื่อนไหว (Speech Programming) ที่จำเป็นต่อการออกเสียงและการพูด (Articulation) โดยจะส่งสัญญาณไปยัง Primary motor area (BA 4) เพื่อสั่งการกล้ามเนื้อในการพูดต่อไป"
+        },
+        {
+            "problem": "Which inhibitory interneuron in the spinal cord regulates the firing rate of the Alpha (α) motor neuron and functions in recurrent inhibition, preventing over-activity?",
+            "img": "",
+            "choices": "Golgi tendon organ neuron///Spinocerebellar neuron///Renshaw cell///Alpha motor neuron itself///Gamma motor neuron",
+            "answer": "Renshaw cell",
+            "select": "",
+            "explain": "Renshaw cell เป็น Inhibitory interneuron ที่อยู่ใน Anterior horn ของ Spinal cord โดยรับสัญญาณกระตุ้นจาก Alpha motor neuron และส่งสัญญาณย้อนกลับไปยับยั้ง Alpha motor neuron ตัวเองและ Alpha motor neuron ตัวอื่นที่อยู่ใกล้เคียง กลไกนี้เรียกว่า Recurrent inhibition ทำหน้าที่จำกัดการทำงานของ Alpha motor neuron เพื่อป้องกันการกระตุ้นที่มากเกินไป"
+        },
+        {
+            "problem": "A patient with a lesion in the Internal Capsule develops spastic paralysis and hyperreflexia affecting a large group of muscles (hemiparesis). This presentation is characteristic of a lesion in which motor system component?",
+            "img": "",
+            "choices": "Cerebellum (Accessory of motor system)///Final Common Pathway (LMN)///Descending Pathway (UMN)///Basal Ganglia Input Nuclei (Striatum)///Muscle Fiber Unit (Motor Unit)",
+            "answer": "Descending Pathway (UMN)",
+            "select": "",
+            "explain": "Internal Capsule เป็นทางผ่านที่รวมตัวกันอย่างหนาแน่นของ Descending Pathway (UMN) เช่น Corticospinal tract การบาดเจ็บที่ตำแหน่งนี้ทำให้เกิดอาการของ Upper Motor Neuron (UMN) lesion ที่รุนแรงและกินบริเวณกว้าง เช่น Spastic paralysis และ Hyperreflexia"
+        },
+        {
+            "problem": "According to the Cerebellar functions, which of the following is the primary role of the Cerebellum in movement control?",
+            "img": "",
+            "choices": "Initiating movement and maintaining static posture///Ensuring smooth and controlled basic muscle tone///Controlling the execution of rapid and sequential movements///Translating motor codes into precise muscle commands///Selecting the appropriate motor program from stored options",
+            "answer": "Controlling the execution of rapid and sequential movements",
+            "select": "",
+            "explain": "Cerebellum มีบทบาทสำคัญในการควบคุมการเคลื่อนไหวให้มีความราบรื่น แม่นยำ และเป็นไปตามลำดับ (Sequence movement) โดยเฉพาะการเคลื่อนไหวที่รวดเร็ว (Rapid movement) และการเรียนรู้การเคลื่อนไหว (Motor learning) ซึ่งรวมถึงการเปรียบเทียบคำสั่ง motor กับผลลัพธ์ที่แท้จริงเพื่อปรับแก้การเคลื่อนไหว (Feedback mechanism)"
+        },
+        {
+            "problem": "A key finding in the EMG/NCV reaction for a Lower Motor Neuron (LMN) lesion involves the presence of:",
+            "img": "",
+            "choices": "Increased nerve conduction velocity (NCV)///Decreased nerve conduction velocity (NCV)///Normal nerve conduction velocity (NCV) with positive sharp waves///Normal nerve conduction velocity (NCV) with absent fibrillation///Reduced motor unit action potential (MUAP) amplitude with normal sensory NCV",
+            "answer": "Normal nerve conduction velocity (NCV) with positive sharp waves",
+            "select": "",
+            "explain": "LMN lesion ที่ Anterior horn cell จะมีผลกระทบต่อ Motor nerve fibers แต่ Sensory nerve fibers ยังคงอยู่ ดังนั้น NCV ของ Motor nerve จะผิดปกติ (หรือวัดไม่ได้) แต่ NCV ของ Sensory nerve จะยังปกติ และ EMG จะพบ Denervation potentials เช่น Positive sharp waves และ Fibrillation potentials"
+        },
+        {
+            "problem": "Which of the following is the CORRECT pair describing the origin and primary function of a descending UMN tract?",
+            "img": "",
+            "choices": "Lateral Corticospinal tr. – Primary motor cortex – Fine movement control///Tectospinal tr. – Reticular formation (RF) – Balance and posture///Vestibulospinal tr. – Superior colliculus – Head and eye coordination///Rubrospinal tr. – Vestibular nuc. – Tone muscle and breathing control///Ventral Corticospinal tr. – Red nucleus – Skeletal muscle voluntary movement",
+            "answer": "Lateral Corticospinal tr. – Primary motor cortex – Fine movement control",
+            "select": "",
+            "explain": "Lateral Corticospinal tract มีจุดกำเนิดหลักที่ Primary motor cortex (BA 4) และมีหน้าที่หลักในการควบคุมการเคลื่อนไหวที่ละเอียดอ่อนและเป็นทักษะของรยางค์ (Fine movement control) ซึ่งเป็นการจับคู่ที่ถูกต้อง"
+        },
+        {
+            "problem": "The motor network controlling gait and posture is a multisystem network. Which two primary systems are explicitly combined with the visual system for posture control?",
+            "img": "",
+            "choices": "Limbic system and Cognitive system///Vestibular system and Proprioceptive system///Basal ganglia and Cerebellum///Speech programming and Voice mechanism///Motor Cortex and Spinal Cord",
+            "answer": "Vestibular system and Proprioceptive system",
+            "select": "",
+            "explain": "การควบคุมท่าทาง (Posture) ต้องอาศัยการประมวลผลข้อมูลจาก 3 ระบบหลักคือ Visual input (การมองเห็น), Vestibular input (การทรงตัวจากหูชั้นใน), และ Proprioceptive input (การรับรู้ตำแหน่งของร่างกายจากข้อต่อและกล้ามเนื้อ)"
+        },
+        {
+            "problem": "In the mechanism of voice production, which of the following is the correct order of physiological steps?",
+            "img": "",
+            "choices": "Resonation → Phonation → Respiration → Articulation///Respiration → Phonation → Resonation → Articulation///Articulation → Respiration → Phonation → Resonation///Phonation → Resonation → Articulation → Respiration///Respiration → Resonation → Phonation → Articulation",
+            "answer": "Respiration → Phonation → Resonation → Articulation",
+            "select": "",
+            "explain": "กลไกการผลิตเสียง (Mechanism of voice) มีลำดับขั้นตอนดังนี้ 1. Respiration (การหายใจ): ลมจากปอด 2. Phonation (การออกเสียง): ลมผ่านสายเสียงที่ Larynx 3. Resonation (การก้องเสียง): เสียงก้องในช่องว่างต่างๆ 4. Articulation (การออกอักขระ): การใช้ลิ้น, ริมฝีปาก, ฟัน เพื่อสร้างคำพูด"
+        },
+        {
+            "problem": "If a physician administers a muscle relaxant that selectively decreases the firing rate of the Gamma (γ) motor neurons. What immediate effect would be observed on the muscle's mechanical properties?",
+            "img": "",
+            "choices": "A flaccid paralysis is observed in all muscle groups///A decrease in the sensitivity of the muscle spindle///An increase in the overall muscle tone and stiffness///A marked increase in the motor power (strength)///An increased firing rate of the adjacent alpha motor neurons",
+            "answer": "A decrease in the sensitivity of the muscle spindle",
+            "select": "",
+            "explain": "Gamma motor neuron ทำหน้าที่ควบคุมความตึงของ Intrafusal fibers และปรับความไว (sensitivity) ของ Muscle spindle หากมีการยับยั้ง Gamma motor neuron จะทำให้ความไวของ Muscle spindle ต่อการยืดลดลง ส่งผลให้การส่งสัญญาณเข้าสู่ Spinal cord น้อยลง และทำให้ Muscle tone ลดลง (Hypotonia/Flaccidity)"
+        }],
+    "Limbic Olfectory Gustatory by AI": [
+        {
+            "problem": "1. Bilateral damage to the hippocampal formation, specifically the CA1 region and dentate gyrus, is most likely to result in which type of memory impairment?",
+            "img": "",
+            "choices": "Retrograde amnesia for remote events///Inability to learn new facts or events///Loss of procedural memory and skills///Impaired emotional memory processing///Total global aphasia and apraxia",
+            "answer": "Inability to learn new facts or events",
+            "select": "",
+            "explain": "Hippocampus มีบทบาทสำคัญในการเปลี่ยนความจำระยะสั้นเป็นความจำระยะยาว memory consolidation การทำลาย hippocampus ทั้งสองข้างจะทำให้ไม่สามารถสร้างความจำใหม่ๆ ได้ ซึ่งเป็นลักษณะของ Anterograde amnesia ไม่สามารถเรียนรู้ข้อเท็จจริงหรือเหตุการณ์ใหม่ๆ ได้",
+            "state": false
+        },
+        {
+            "problem": "2. An individual suffering from bilateral temporal lobe damage, particularly affecting the amygdala, exhibits hyperorality, hypersexuality, and a loss of fear. This clinical presentation is characteristic of which syndrome?",
+            "img": "",
+            "choices": "Parkinson-dementia complex syndrome///Klüver-Bucy syndrome complex///Huntington's chorea-dementia syndrome///Korsakoff's amnestic-confabulatory syndrome///Pick's disease behavioral variant syndrome",
+            "answer": "Klüver-Bucy syndrome complex",
+            "select": "",
+            "explain": "กลุ่มอาการ Klüver-Bucy เกิดจากการทำลาย medial temporal lobe สองข้างโดยเฉพาะ amygdala ซึ่งเป็นศูนย์กลางของอารมณ์กลัวและความก้าวร้าว อาการแสดงที่สำคัญคือความเชื่อง docility ความกลัวลดลง การเอาสิ่งของเข้าปาก hyperorality และพฤติกรรมทางเพศที่สูงขึ้น hypersexuality",
+            "state": false
+        },
+        {
+            "problem": "3. The efferent fibers from the hippocampus proper (CA1) exit the hippocampal formation primarily via which anatomical structure before joining the fornix?",
+            "img": "",
+            "choices": "Entorhinal cortex perforant path///Dentate gyrus mossy fiber///Subiculum alvear path///Mamillary body postcommissural fiber///Anterior thalamic nucleus column",
+            "answer": "Subiculum alvear path",
+            "select": "",
+            "explain": "สัญญาณประสาทออกจาก hippocampus proper CA1 ไปยัง subiculum จากนั้นจะออกจาก hippocampal formation ไปยัง fimbria และ fornix ผ่านทาง alvear path เพื่อส่งต่อไปยัง mamillary bodies ซึ่งเป็นส่วนหนึ่งของวงจร Papez circuit",
+            "state": false
+        },
+        {
+            "problem": "4. The initial processing of olfactory information differs from other sensory modalities in that it bypasses direct relay through which major diencephalic structure?",
+            "img": "",
+            "choices": "Pineal gland region///Hypothalamic nuclei///Thalamic relay center///Subthalamic nucleus///Basal ganglia circuitry",
+            "answer": "Thalamic relay center",
+            "select": "",
+            "explain": "ระบบการรับกลิ่นเป็นประสาทสัมผัสเดียวที่ส่งสัญญาณโดยตรงไปยัง primary olfactory cortex piriform cortex ใน allocortex โดยไม่ผ่านการถ่ายทอดสัญญาณใน thalamus ก่อน ส่วนประสาทสัมผัสอื่นจะต้องผ่าน thalamus ก่อนจึงจะไปยัง cerebral cortex",
+            "state": false
+        },
+        {
+            "problem": "5. Second-order neurons responsible for gustatory sensation (taste) primarily synapse and originate within which structure in the medulla oblongata?",
+            "img": "",
+            "choices": "Nucleus ambiguus motor part///Inferior salivatory nucleus///Spinal trigeminal nucleus sensory///Solitary nucleus rostral part///Dorsal motor nucleus of vagus parasympathetic",
+            "answer": "Solitary nucleus rostral part",
+            "select": "",
+            "explain": "เส้นประสาทรับรส CN VII CN IX และ CN X จะนำสัญญาณรสชาติไปรวมกันและถ่ายทอดสัญญาณแรกที่ solitary nucleus ในก้านสมอง โดยเฉพาะส่วน rostral gustatory part ก่อนจะส่งสัญญาณต่อไปยัง VPM nucleus ของ thalamus",
+            "state": false
+        },
+        {
+            "problem": "6. A patient undergoing functional neuroimaging shows high activity in the Anterior Cingulate Cortex (ACC) in response to a painful stimulus. The ACC's primary role in this context is most related to which function?",
+            "img": "",
+            "choices": "Emotional processing of pain///Direct physical pain pathway mediation///Motor control of pain avoidance///Visual perception of pain source///Cognitive memory of pain experience",
+            "answer": "Emotional processing of pain",
+            "select": "",
+            "explain": "Anterior Cingulate Cortex หรือ ACC มีบทบาทสำคัญใน Emotional pain คือการประมวลผลทางอารมณ์ต่อความเจ็บปวด โดยเชื่อมต่อกับ amygdala insular cortex และ orbitofrontal cortex ส่วน Physical pain จะเดินทางผ่าน anterolateral system ALS DM tract",
+            "state": false
+        },
+        {
+            "problem": "7. The primary olfactory cortex (piriform cortex) projects directly to the Orbitofrontal Cortex (OFC) for the critical function of what?",
+            "img": "",
+            "choices": "Modulating the fight-or-flight response///Linking smell to memory and emotion///Conscious perception and discrimination///Initiating an autonomic feeding response///Coordinating movement driven by reward",
+            "answer": "Conscious perception and discrimination",
+            "select": "",
+            "explain": "Olfactory perception และ discrimination อาศัยการส่งสัญญาณจาก piriform cortex ไปยัง orbitofrontal cortex OFC ซึ่งเป็นส่วนหนึ่งของการประมวลผลกลิ่นที่ซับซ้อนและมีสติ",
+            "state": false
+        },
+        {
+            "problem": "8. Which type of cell, located in the Dentate Gyrus, sends its excitatory efferent fibers known as mossy fibers to synapse directly with the pyramidal cells of the CA3 region?",
+            "img": "",
+            "choices": "Granule cells of dentate gyrus///Pyramidal cells of hippocampus///Basket cells of hippocampus///Stellate cells of hippocampus///Mitral cells of olfactory bulb",
+            "answer": "Granule cells of dentate gyrus",
+            "select": "",
+            "explain": "Granule cells เป็นเซลล์ประสาทหลักใน Dentate Gyrus โดย axon ของเซลล์เหล่านี้เรียกว่า mossy fibers ซึ่งเป็นใยประสาทที่ส่งสัญญาณกระตุ้นไปยัง pyramidal cells ในบริเวณ CA3 ของ hippocampus proper",
+            "state": false
+        },
+        {
+            "problem": "9. A small lesion selectively damages the nerve supplying taste sensation to the anterior two-thirds of the tongue. This sensory input is conveyed primarily by a branch of which cranial nerve?",
+            "img": "",
+            "choices": "Vagus nerve internal laryngeal branch///Hypoglossal nerve lingual branch///Glossopharyngeal nerve tympanic branch///Facial nerve chorda tympani branch///Trigeminal nerve lingual branch",
+            "answer": "Facial nerve chorda tympani branch",
+            "select": "",
+            "explain": "การรับรสชาติจาก 2 ใน 3 ส่วนหน้าของลิ้นถูกส่งผ่านเส้นประสาท chorda tympani ซึ่งเป็นแขนงของ facial nerve CN VII ส่วน CN IX รับรสจาก 1 ใน 3 ส่วนหลังของลิ้น",
+            "state": false
+        },
+        {
+            "problem": "10. Damage to the Medial Frontal and Orbitofrontal Gyrus, which receive input from subcortical reward centers, would primarily impair a patient's ability to perform which function?",
+            "img": "",
+            "choices": "Consolidate new episodic memory///Evaluate the hedonic value of a stimulus///Control fine motor movements of the face///Discriminate complex auditory stimuli///Maintain a normal sleep-wake cycle",
+            "answer": "Evaluate the hedonic value of a stimulus",
+            "select": "",
+            "explain": "Medial frontal และ orbitofrontal gyrus มีหน้าที่สำคัญในการประเมินคุณค่าความพึงพอใจ hedonic value ของสิ่งกระตุ้น ซึ่งเป็นส่วนหนึ่งของกระบวนการตัดสินใจ โดยรับข้อมูลจาก reward centers เช่น nucleus accumbens",
+            "state": false
+        },
+        {
+            "problem": "11. Substance dependence and addiction, characterized by overactivity, are directly linked to the excessive release of which neurotransmitter in the Nucleus Accumbens (NA)?",
+            "img": "",
+            "choices": "Serotonin 5-HT from the raphe nuclei///Dopamine DA from the ventral tegmental area///Acetylcholine ACh from the basal forebrain///GABA from the globus pallidus interna///Norepinephrine NE from the locus coeruleus",
+            "answer": "Dopamine DA from the ventral tegmental area",
+            "select": "",
+            "explain": "การเสพติดเกี่ยวข้องกับ mesolimbic dopamine pathway หรือ reward circuit ซึ่งเริ่มต้นจาก dopamine neuron ใน Ventral Tegmental Area VTA และส่ง dopamine ไปยัง Nucleus Accumbens NA ใน striatum การใช้สารเสพติดจะเพิ่ม dopamine ในบริเวณนี้อย่างมากทำให้เกิดความรู้สึกพึงพอใจ",
+            "state": false
+        },
+        {
+            "problem": "12. The memory of knowing that the Eiffel Tower is located in Paris, France (general factual knowledge) is classified as which type of long-term memory?",
+            "img": "",
+            "choices": "Procedural memory nondeclarative type///Nondeclarative memory skills and habits///Episodic memory specific event///Semantic memory factual knowledge///Implicit memory priming task",
+            "answer": "Semantic memory factual knowledge",
+            "select": "",
+            "explain": "ความจำเกี่ยวกับข้อเท็จจริงทั่วไปและข้อมูลความรู้จัดอยู่ในกลุ่ม Semantic memory ซึ่งเป็นส่วนหนึ่งของ Declarative memory หรือ Explicit memory ส่วน Episodic memory เป็นความจำเกี่ยวกับเหตุการณ์ส่วนตัว Procedural memory เป็นความจำเกี่ยวกับทักษะ",
+            "state": false
+        },
+        {
+            "problem": "13. The emotional 'fear response' involves the Amygdala sending signals to the Hypothalamus for autonomic nervous system (ANS) control via which major efferent fiber pathway?",
+            "img": "",
+            "choices": "Lateral olfactory stria projection///Fornix commissural fiber///Ventral amygdalofugal pathway///Precommissural fiber tract///Stria medullaris thalami bundle",
+            "answer": "Ventral amygdalofugal pathway",
+            "select": "",
+            "explain": "Amygdala ส่งสัญญาณออกไปเพื่อควบคุมการตอบสนองของระบบประสาทอัตโนมัติ ANS และ hypothalamus ผ่านทาง Ventral amygdalofugal pathway ส่วน Stria terminalis ส่งสัญญาณไปควบคุม feeding และ sexual behavior",
+            "state": false
+        },
+        {
+            "problem": "14. A lesion selectively affecting the Temporal Pole (BA 38) is likely to impair which higher-order function, potentially leading to social and behavioral difficulties?",
+            "img": "",
+            "choices": "Spatial recognition and localization///Olfactory discrimination and perception///Social and emotional processing///Motor skill learning and execution///Verbal fluency and speech production",
+            "answer": "Social and emotional processing",
+            "select": "",
+            "explain": "Temporal pole หรือ Brodmann Area 38 มีบทบาทสำคัญในการประมวลผลทางอารมณ์และสังคม รวมถึงการบูรณาการข้อมูลประสาทสัมผัสหลายรูปแบบ ความผิดปกติในบริเวณนี้สัมพันธ์กับการเปลี่ยนแปลงบุคลิกภาพทางสังคม เช่น social withdrawal",
+            "state": false
+        },
+        {
+            "problem": "15. After the initial synapse, gustatory information is relayed through the thalamus, while olfactory information is not. Which thalamic nucleus is the primary relay center for gustatory sensation?",
+            "img": "",
+            "choices": "Lateral Geniculate Body LGB visual///Ventral Lateral Nucleus VL motor///Ventral Posteromedial Nucleus VPM general and taste///Medial Dorsal Nucleus MD limbic/olfactory///Pulvinar Nucleus visual/association",
+            "answer": "Ventral Posteromedial Nucleus VPM general and taste",
+            "select": "",
+            "explain": "VPM nucleus หรือ Ventral Posteromedial Nucleus เป็นศูนย์กลางการถ่ายทอดสัญญาณความรู้สึกหลักจากศีรษะและใบหน้า รวมถึงสัญญาณรับรสชาติ gustatory sensation ก่อนส่งต่อไปยัง gustatory cortex ที่ insula และ parietal operculum",
+            "state": false
+        },
+        {
+            "problem": "1. Which component of the hippocampal circuit carries the major excitatory input from the entorhinal cortex to the granule cells of the dentate gyrus?",
+            "img": "",
+            "choices": "Alvear path fiber///Perforant path fiber///Mossy fiber tract///Schaffer collateral fiber///Precommissural fiber",
+            "answer": "Perforant path fiber",
+            "select": "",
+            "explain": "Perforant path fiber เป็นใยประสาทที่นำสัญญาณกระตุ้นหลักเข้าสู่ hippocampal formation โดยมีจุดเริ่มต้นจาก Entorhinal cortex และไป synapse กับ Granule cells ของ Dentate gyrus เป็นขั้นตอนแรกของวงจรหลักในฮิปโปแคมปัส",
+            "state": false
+        },
+        {
+            "problem": "2. An individual experiencing persistent emotional pain that strongly influences decision-making is likely exhibiting abnormal activity in which limbic cortical area?",
+            "img": "",
+            "choices": "Posterior cingulate cortex///Hippocampal gyrus uncus///Anterior cingulate cortex///Median orbitofrontal gyrus///Temporal pole Brodmann area 38",
+            "answer": "Anterior cingulate cortex",
+            "select": "",
+            "explain": "Anterior cingulate cortex (ACC) มีบทบาทสำคัญในการประมวลผลความเจ็บปวดทางอารมณ์ (emotional pain) โดยเฉพาะอย่างยิ่งการเชื่อมต่อกับ amygdala, insular และ orbitofrontal cortex เพื่อประเมินคุณค่าทางอารมณ์ของสิ่งเร้า (hedonic value) และมีอิทธิพลต่อการตัดสินใจและการตอบสนอง",
+            "state": false
+        },
+        {
+            "problem": "3. The crucial step in synaptic plasticity for memory consolidation, which links CA3 pyramidal cells to CA1 pyramidal cells, is mediated by which type of axon fiber?",
+            "img": "",
+            "choices": "Perforant path fiber///Mossy fiber tract///Schaffer collateral fiber///Alvear path fiber///Fimbria projection",
+            "answer": "Schaffer collateral fiber",
+            "select": "",
+            "explain": "Schaffer collateral fiber เป็นส่วนสำคัญของวงจร Trisynaptic ใน Hippocampus โดยเป็น axon ที่แตกแขนงออกมาจาก CA3 pyramidal cells และไป synapse ที่ dendrite ของ CA1 pyramidal cells ซึ่งเป็นขั้นตอนที่สำคัญที่สุดในการเรียนรู้และความจำระยะยาว (long-term potentiation, LTP)",
+            "state": false
+        },
+        {
+            "problem": "4. Which structure receives the output from the postcommissural fibers of the fornix, completing the key loop of the Papez circuit related to memory?",
+            "img": "",
+            "choices": "Septal nuclei///Entorhinal cortex///Anterior thalamic nucleus///Mamillary body///Posterior cingulate cortex",
+            "answer": "Mamillary body",
+            "select": "",
+            "explain": "Fornix เป็นทางออกหลักของ Hippocampal formation โดย Postcommissural fiber ของ Fornix จะนำสัญญาณออกจาก Hippocampus ไปยัง Mamillary body ซึ่งเป็นส่วนสำคัญของ Papez circuit ที่เกี่ยวข้องกับความจำ จากนั้น Mamillary body จะส่งต่อไปยัง Anterior thalamic nucleus ผ่าน Mammillothalamic tract",
+            "state": false
+        },
+        {
+            "problem": "5. Damage to the primary output projection of the cingulate gyrus (via cingulum) to the hippocampal formation would disrupt input primarily to which compartment?",
+            "img": "",
+            "choices": "Hippocampus proper CA1 region///Dentate gyrus granule cells///Subiculum pyramidal cells///Anterior thalamic nucleus///Entorhinal cortex",
+            "answer": "Entorhinal cortex",
+            "select": "",
+            "explain": "Posterior cingulate cortex จะรับข้อมูลจาก Middle cingulate cortex และส่งข้อมูลนั้นต่อไปยัง Entorhinal cortex ซึ่งทำหน้าที่เป็นประตูหลักในการส่งข้อมูลความรู้สึกและการรับรู้ไปยัง Hippocampal formation ต่อไป",
+            "state": false
+        },
+        {
+            "problem": "6. A patient with bilateral medial temporal lobe damage exhibits emotional blunting, hyperorality, and hypersexuality. This behavioral change is primarily linked to the destruction of which limbic structure?",
+            "img": "",
+            "choices": "Septal nuclei///Parahippocampal gyrus///Hippocampal proper CA3///Amygdala complex///Mammillary body",
+            "answer": "Amygdala complex",
+            "select": "",
+            "explain": "กลุ่มอาการนี้เรียกว่า Klüver-Bucy syndrome ซึ่งเกิดจากการทำลาย Medial temporal lobe ทั้งสองข้าง โดยเฉพาะอย่างยิ่ง Amygdala ซึ่งเป็นศูนย์กลางของอารมณ์กลัว ความโกรธ และการประเมินทางอารมณ์ การทำลายโครงสร้างนี้ส่งผลให้เกิดการสูญเสียความกลัว (loss of fear) และพฤติกรรมผิดปกติทางสังคมและทางเพศ",
+            "state": false
+        },
+        {
+            "problem": "7. Which efferent pathway from the amygdala is primarily responsible for mediating the autonomic nervous system (ANS) responses such as increased heart rate and blood pressure during a fear response?",
+            "img": "",
+            "choices": "Stria terminalis pathway///Lateral olfactory stria///Ventral amygdalofugal pathway///Precommissural fornix fiber///Mammillothalamic tract",
+            "answer": "Ventral amygdalofugal pathway",
+            "select": "",
+            "explain": "Amygdala มีทางออกหลัก 2 ทางคือ Stria terminalis และ Ventral amygdalofugal pathway (VAFP) VAFP มีบทบาทสำคัญในการควบคุม ANS และอารมณ์ โดยส่งสัญญาณไปยัง Hypothalamus และ Brainstem ซึ่งเป็นศูนย์ควบคุมระบบประสาท Sympathetic (เช่น การเต้นของหัวใจและความดันโลหิต) และ Parasympathetic",
+            "state": false
+        },
+        {
+            "problem": "8. Information regarding an unpleasant odor first reaches the primary olfactory cortex without relaying in which structure, which is typical for all other sensory modalities?",
+            "img": "",
+            "choices": "Amygdala///Hypothalamus///Thalamus///Entorhinal cortex///Orbitofrontal cortex",
+            "answer": "Thalamus",
+            "select": "",
+            "explain": "ระบบประสาทรับกลิ่น (Olfactory system) มีความแตกต่างจากระบบประสาทสัมผัสอื่น ๆ ตรงที่สัญญาณประสาทจะเดินทางจาก Olfactory bulb ผ่าน Olfactory tract โดยตรงไปยัง Primary olfactory cortex (Piriform cortex, Entorhinal cortex, Amygdala) ก่อนที่จะมีการส่งต่อไปยัง Thalamus (Ventro-medial nucleus) เป็นลำดับที่สอง ทำให้สามารถเกิดปฏิกิริยาทางอารมณ์หรือความทรงจำต่อกลิ่นได้อย่างรวดเร็ว",
+            "state": false
+        },
+        {
+            "problem": "9. Which part of the gustatory pathway directly conveys taste information from the solitary nucleus to the Ventral Posteromedial (VPM) nucleus of the thalamus?",
+            "img": "",
+            "choices": "Spinal trigeminal tract///Medial lemniscus///Central tegmental tract///Solitary tract///Internal capsule posterior limb",
+            "answer": "Central tegmental tract",
+            "select": "",
+            "explain": "สัญญาณรับรส (taste sensation) จาก Solitary nucleus (ใน medulla) จะเดินทางขึ้นไปยัง Thalamus (VPM) ผ่านทาง Central tegmental tract ซึ่งเป็นทางเดินประสาทที่อยู่บริเวณกึ่งกลางของก้านสมอง",
+            "state": false
+        },
+        {
+            "problem": "10. The conscious perception of taste is ultimately achieved by the final relay of signals from the VPM nucleus of the thalamus to which cortical region?",
+            "img": "",
+            "choices": "Middle cingulate cortex///Parainsular cortex and parietal operculum///Posterior cingulate cortex///Temporal pole (BA 38)///Orbitofrontal cortex",
+            "answer": "Parainsular cortex and parietal operculum",
+            "select": "",
+            "explain": "VPM nucleus ของ Thalamus ทำหน้าที่เป็นสถานีถ่ายทอดสุดท้ายของสัญญาณรับรส โดยจะส่งสัญญาณต่อไปยัง Primary Gustatory Cortex ซึ่งอยู่ในบริเวณ Parainsular cortex และ Parietal operculum ใน Telencephalon",
+            "state": false
+        },
+        {
+            "problem": "11. The primary mechanism by which the receptor cell for the perception of a salty taste depolarizes involves the direct passage of sodium ions (Na+) through which structure?",
+            "img": "",
+            "choices": "Voltage-gated potassium channel///Epithelial sodium channel (ENaC)///G-protein coupled receptor (GPCR)///Voltage-gated calcium channel///Metabotropic glutamate receptor",
+            "answer": "Epithelial sodium channel (ENaC)",
+            "select": "",
+            "explain": "การรับรสเค็มเกิดจากการที่ Sodium ion (Na+) เข้าสู่เซลล์รับรสโดยตรงผ่าน Epithelial Sodium Channel (ENaC) ซึ่งเป็น Ion channel ทำให้เกิด Depolarization และกระตุ้นการหลั่งสารสื่อประสาทโดยตรง",
+            "state": false
+        },
+        {
+            "problem": "12. A 35-year-old female presents with an inability to recognize familiar objects by sight despite having normal visual acuity (visual agnosia). This clinical finding is associated with damage to which lobe of the cerebral cortex?",
+            "img": "",
+            "choices": "Anterior cingulate cortex///Posterior parietal lobe///Median frontal gyrus///Inferior temporal lobe///Orbitofrontal cortex",
+            "answer": "Inferior temporal lobe",
+            "select": "",
+            "explain": "Visual agnosia หรือภาวะไม่สามารถรับรู้และจดจำวัตถุด้วยการมองเห็นได้ ทั้งที่การมองเห็นพื้นฐานยังดีอยู่ เป็นผลมาจากการเสียหายของ 'What pathway' หรือ Ventral visual stream ซึ่งมีบทบาทสำคัญในการประมวลผลข้อมูลภาพเพื่อระบุวัตถุ (object recognition) พยาธิสภาพมักอยู่ที่ Inferior temporal lobe",
+            "state": false
+        },
+        {
+            "problem": "13. Loss of semantic memory, a component of declarative memory, is primarily associated with the functional integrity of which part of the limbic-related cortex?",
+            "img": "",
+            "choices": "Middle cingulate cortex///Dentate gyrus of hippocampus///Temporal pole Brodmann area 38///Subiculum///Posterior cingulate cortex",
+            "answer": "Temporal pole Brodmann area 38",
+            "select": "",
+            "explain": "Temporal pole (Brodmann area 38) มีความสำคัญอย่างยิ่งต่อความจำเชิงความหมาย (Semantic memory) การประมวลผลทางสังคมและอารมณ์ (Social and emotional processing) และการบูรณาการข้อมูลหลายประสาทสัมผัส (multimodal integration) การบาดเจ็บของส่วนนี้มักทำให้เกิดความบกพร่องของความจำเชิงความหมาย",
+            "state": false
+        },
+        {
+            "problem": "14. Which form of nondeclarative memory is demonstrated when repeated exposure to a non-noxious stimulus leads to a decreased behavioral response?",
+            "img": "",
+            "choices": "Sensitization///Classical conditioning///Procedural memory///Priming///Habituation",
+            "answer": "Habituation",
+            "select": "",
+            "explain": "Habituation เป็นรูปแบบหนึ่งของ Nondeclarative memory ในกลุ่ม Non-associative learning ซึ่งหมายถึงการลดการตอบสนองลงเมื่อมีการกระตุ้นซ้ำๆ ด้วยสิ่งเร้าที่ไม่เป็นอันตราย ตรงข้ามกับ Sensitization ซึ่งเป็นการเพิ่มการตอบสนอง",
+            "state": false
+        },
+        {
+            "problem": "15. The efferent fibers carrying inhibitory signals from the Purkinje cells of the cerebellar cortex primarily project to and modulate the activity of which structures, ultimately influencing movement control?",
+            "img": "",
+            "choices": "Red nucleus and Spinal cord///Deep cerebellar nuclei///Vestibular nuclei and Thalamus///Globus pallidus and Putamen///Internal capsule and Cerebellar peduncles",
+            "answer": "Deep cerebellar nuclei",
+            "select": "",
+            "explain": "Purkinje cells เป็นเซลล์ประสาทเพียงชนิดเดียวที่ส่งสัญญาณ Output ออกจาก Cerebellar cortex โดยมีฤทธิ์เป็น Inhibitory (ยับยั้ง) โดยจะส่ง Axon ไปยัง Deep cerebellar nuclei ซึ่งเป็น output hub ของ Cerebellum ทั้งหมด",
+            "state": false
+        },
+        {
+            "problem": "16. Which of the following cranial nerves is NOT involved in the transmission of taste (gustatory) information?",
+            "img": "",
+            "choices": "Facial nerve (CN VII)///Trigeminal nerve (CN V)///Glossopharyngeal nerve (CN IX)///Vagus nerve (CN X)///None of the above",
+            "answer": "Trigeminal nerve (CN V)",
+            "select": "",
+            "explain": "Trigeminal nerve (CN V) ทำหน้าที่รับความรู้สึกทั่วไป (General sensation: สัมผัส, อุณหภูมิ, ความเจ็บปวด) จากลิ้นและช่องปาก แต่ไม่เกี่ยวข้องกับการรับรส (Taste sensation) ซึ่งเป็นหน้าที่ของ CN VII, CN IX, และ CN X",
+            "state": false
+        },
+        {
+            "problem": "17. The perception of an 'Umami' taste involves the binding of glutamate or similar substances to which type of receptor?",
+            "img": "",
+            "choices": "Epithelial sodium channel (ENaC)///Ionotropic glutamate receptor///Voltage-gated calcium channel///G-protein coupled receptor (GPCR) T1R1/T1R3///Hyperpolarization-activated cyclic nucleotide-gated channel",
+            "answer": "G-protein coupled receptor (GPCR) T1R1/T1R3",
+            "select": "",
+            "explain": "รสอูมามิ (Umami) รสหวาน (Sweet) และรสขม (Bitter) ถูกรับรู้ผ่านกลไก G-protein coupled receptor (GPCR) โดยเฉพาะรสอูมามิจะอาศัย heterodimer receptor ชนิด T1R1 และ T1R3",
+            "state": false
+        },
+        {
+            "problem": "18. Which efferent pathway from the amygdala is primarily targeted at the septal nuclei and nucleus accumbens, linking emotional response to motivated behavior?",
+            "img": "",
+            "choices": "Medial olfactory stria///Lateral olfactory stria///Ventral amygdalofugal pathway///Stria terminalis pathway///Mammillothalamic tract",
+            "answer": "Stria terminalis pathway",
+            "select": "",
+            "explain": "Stria terminalis เป็นเส้นทางที่นำสัญญาณออกจาก Amygdala ไปยัง Septal nuclei และ Nucleus Accumbens ซึ่งเป็นส่วนสำคัญของ Mesolimbic pathway (Reward circuit) และวงจรความต้องการทางเพศ (Sexual/Feeding behavior) ซึ่งเกี่ยวข้องกับแรงจูงใจและพฤติกรรมที่ถูกขับเคลื่อน",
+            "state": false
+        },
+        {
+            "problem": "19. The consolidation of declarative memory, transforming short-term memories into 'memory traces', is the principal function attributed to which anatomical part of the parahippocampal gyrus?",
+            "img": "",
+            "choices": "Posterior cingulate cortex///Uncus of the temporal lobe///Entorhinal cortex (Anterior part)///Subiculum///Middle cingulate cortex",
+            "answer": "Entorhinal cortex (Anterior part)",
+            "select": "",
+            "explain": "Entorhinal cortex โดยเฉพาะส่วน Anterior part ทำหน้าที่เป็นประตูหลักในการนำข้อมูลเข้าสู่ Hippocampal formation และมีบทบาทสำคัญในการรวบรวมความจำ (consolidation) เพื่อสร้าง 'memory traces' ซึ่งเป็นขั้นตอนสำคัญในการเปลี่ยนความจำระยะสั้นเป็นระยะยาว",
+            "state": false
+        },
+        {
+            "problem": "20. The primary processing center that evaluates the 'hedonic value' of a stimulus, driving decision-making and connecting with subcortical reward centers, is mainly located in which gyrus?",
+            "img": "",
+            "choices": "Temporal pole (BA 38)///Caudate nucleus head///Middle cingulate cortex///Median frontal and orbitofrontal gyrus///Hippocampal gyrus uncus",
+            "answer": "Median frontal and orbitofrontal gyrus",
+            "select": "",
+            "explain": "Median frontal และ Orbitofrontal gyrus เป็นส่วนของ Prefrontal cortex ที่รับข้อมูลความรู้สึกระดับสูงและจาก Subcortical reward centers มีหน้าที่หลักในการประเมินมูลค่าความพึงพอใจ (hedonic value) ของสิ่งเร้าและพฤติกรรม เพื่อขับเคลื่อนการตัดสินใจ",
+            "state": false
+        },
+        {
+            "problem": "21. A patient with severe anterograde amnesia caused by chronic alcoholism (Korsakoff syndrome) most likely has damage to the mammillary body and which thalamic nucleus, which are both crucial for the Papez circuit?",
+            "img": "",
+            "choices": "Ventral Posteromedial (VPM) nucleus///Lateral Geniculate Body (LGB)///Anterior Thalamic Nucleus///Ventral Lateral (VL) nucleus///Pulvinar nucleus",
+            "answer": "Anterior Thalamic Nucleus",
+            "select": "",
+            "explain": "Papez circuit เป็นวงจรประสาทที่สำคัญที่สุดสำหรับความจำและการเรียนรู้ ซึ่งประกอบด้วย Hippocampal formation, Fornix, Mamillary body, Anterior Thalamic Nucleus, และ Cingulate gyrus รอยโรคที่ทำลาย Mamillary body และ Anterior Thalamic Nucleus เป็นสาเหตุสำคัญของ Anterograde amnesia ใน Korsakoff syndrome",
+            "state": false
+        },
+        {
+            "problem": "22. Olfactory receptor cell axons synapse on which principal projecting neurons within the olfactory bulb before relaying signals to the primary olfactory cortex?",
+            "img": "",
+            "choices": "Granule cells and Periglomerular cells///Mitral cells and Tufted cells///Basket cells and Stellate cells///Pyramidal cells and Granule cells///Horizontal cells and Amacrine cells",
+            "answer": "Mitral cells and Tufted cells",
+            "select": "",
+            "explain": "Olfactory bulb ทำหน้าที่ประมวลผลสัญญาณกลิ่น โดย Axon ของ Olfactory receptor cells จะมา synapse กับเซลล์ประสาทหลัก 2 ชนิดคือ Mitral cells และ Tufted cells ซึ่งเป็น Projecting neurons ที่ส่งสัญญาณต่อไปยัง Olfactory cortex",
+            "state": false
+        },
+        {
+            "problem": "23. A patient with a stroke in the posterior parietal lobe exhibits spatial disorientation and a profound inability to accurately grasp or locate objects in space ('Where pathway' deficit). This inability is termed as a deficit in:",
+            "img": "",
+            "choices": "Visual agnosia///Auditory discrimination///Semantic memory///Object localization///Emotional response modulation",
+            "answer": "Object localization",
+            "select": "",
+            "explain": "Posterior parietal lobe เป็นส่วนของ 'Where pathway' หรือ Dorsal visual stream ซึ่งทำหน้าที่ในการประมวลผลข้อมูลเชิงพื้นที่ (spatial information) และการหาตำแหน่งของวัตถุในอวกาศ (object localization) การบาดเจ็บของส่วนนี้จะทำให้เกิดความบกพร่องในการกำหนดตำแหน่งของวัตถุในพื้นที่",
+            "state": false
+        },
+        {
+            "problem": "24. The nucleus accumbens, a key component of the reward circuit, receives its crucial dopaminergic input primarily from which ventral midbrain area?",
+            "img": "",
+            "choices": "Substantia nigra pars compacta///Locus coeruleus///Raphe nuclei///Ventral tegmental area (VTA)///Red nucleus",
+            "answer": "Ventral tegmental area (VTA)",
+            "select": "",
+            "explain": "Nucleus Accumbens (NA) เป็นส่วนสำคัญของ Mesolimbic pathway ซึ่งเป็น Reward circuit ในสมอง โดยรับ Dopaminergic input หลักจากเซลล์ประสาทใน Ventral Tegmental Area (VTA) ซึ่งการเพิ่มขึ้นของ Dopamine ใน NA เกี่ยวข้องกับความพึงพอใจและการเสพติด",
+            "state": false
+        },
+        {
+            "problem": "25. Which nondeclarative memory function is primarily mediated by the dorsolateral prefrontal association cortex (DLPFC) and holds information temporarily for reasoning and decision-making?",
+            "img": "",
+            "choices": "Episodic memory///Working memory///Habituation///Semantic memory///Procedural memory",
+            "answer": "Working memory",
+            "select": "",
+            "explain": "Working memory เป็นความสามารถในการเก็บและจัดการข้อมูลจำนวนจำกัดไว้ชั่วคราวเพื่อใช้ในการคิด การให้เหตุผล และการตัดสินใจ ซึ่งถูกควบคุมโดย Dorsolateral Prefrontal Association Cortex (DLPFC) ซึ่งแตกต่างจาก Short-term memory ทั่วไปที่ไม่ได้รวมถึงการจัดการข้อมูล",
+            "state": false
+        },
+        {
+            "problem": "26. Which type of taste involves a direct interaction of the tastant substance with an ion channel, leading to immediate cell depolarization, rather than utilizing a G-protein mechanism?",
+            "img": "",
+            "choices": "Sweet and Bitter///Umami and Sweet///Salty and Sour///Bitter and Sour///Sweet and Salty",
+            "answer": "Salty and Sour",
+            "select": "",
+            "explain": "รสเค็ม (Salty) เกิดจากการเข้าของ Na+ ion ผ่าน ENaC channel และรสเปรี้ยว (Sour) เกิดจากการเข้าของ H+ ion ผ่าน Ion channel และไปยับยั้ง K+ channel ทั้งสองรสนี้ใช้กลไก Ion Channel โดยตรง ส่วนรสอื่นๆ ใช้ G-protein coupled receptor (GPCR) เป็นกลไกหลัก",
+            "state": false
+        },
+        {
+            "problem": "27. The mossy fibers that link the dentate gyrus to the CA3 region of the hippocampus proper are characterized by which of the following neurotransmitter properties?",
+            "img": "",
+            "choices": "GABAergic inhibitory activity///Dopaminergic modulatory effect///Cholinergic excitatory transmission///Glutamatergic excitatory activity///Serotoninergic inhibitory activity",
+            "answer": "Glutamatergic excitatory activity",
+            "select": "",
+            "explain": "Mossy fiber เป็น Axon ของ Granule cell ใน Dentate gyrus ที่ส่งสัญญาณไปยัง CA3 Pyramidal cell ใน Hippocampus ซึ่งสารสื่อประสาทหลักที่ใช้ในการส่งสัญญาณกระตุ้นนี้คือ Glutamate",
+            "state": false
+        },
+        {
+            "problem": "28. An olfactory hallucination (phantosmia) is most likely associated with abnormal activity or a lesion in which anatomical part of the limbic system that directly receives olfactory input?",
+            "img": "",
+            "choices": "Middle cingulate cortex///Mammillary body///Hippocampal gyrus uncus///Anterior thalamic nucleus///Lateral prefrontal cortex",
+            "answer": "Hippocampal gyrus uncus",
+            "select": "",
+            "explain": "Uncus ซึ่งเป็นส่วนหนึ่งของ Parahippocampal gyrus และ Entorhinal cortex เป็นที่ตั้งของ Primary Olfactory Cortex (Piriform cortex) และ Amygdala ที่รับสัญญาณกลิ่นโดยตรง การเกิดอาการชักหรือรอยโรคในบริเวณนี้มักจะทำให้เกิดอาการได้กลิ่นหลอน (Olfactory hallucination) หรือที่เรียกว่า Uncinate fit",
+            "state": false
+        },
+        {
+            "problem": "29. The motor control of voluntary movements that is highly driven by immediate emotional states and rewards is primarily mediated by which section of the cingulate gyrus?",
+            "img": "",
+            "choices": "Anterior cingulate cortex///Entorhinal cortex///Middle cingulate cortex (Cingulate motor areas)///Uncus of the temporal lobe///Posterior cingulate cortex",
+            "answer": "Middle cingulate cortex (Cingulate motor areas)",
+            "select": "",
+            "explain": "Middle cingulate cortex มีส่วนประกอบที่เรียกว่า Cingulate motor areas (CMA) ซึ่งเกี่ยวข้องกับการควบคุมการเคลื่อนไหวที่ถูกขับเคลื่อนโดยอารมณ์และแรงจูงใจ (movement control driven by emotion and rewards) เช่น การตอบสนองต่อสิ่งเร้าที่ให้รางวัล",
+            "state": false
+        },
+        {
+            "problem": "30. The final stage of information flow within the hippocampal circuit, involving the output from CA1 pyramidal cells to the fimbria, primarily travels via which axon path?",
+            "img": "",
+            "choices": "Perforant path fiber///Mossy fiber tract///Alvear path fiber///Mammillothalamic tract///Schaffer collateral fiber",
+            "answer": "Alvear path fiber",
+            "select": "",
+            "explain": "Alvear path fiber เป็นกลุ่มใยประสาทที่ออกมาจาก Pyramidal cell ของ Subiculum และ CA1 และทอดตัวเป็นทางออกหลักของ Hippocampus ไปยัง Fimbria และ Fornix",
+            "state": false
+        },
+        {
+            "problem": "31. The afferent pathway to the gustatory nucleus (Solitary nucleus) from the anterior two-thirds of the tongue (taste sensation) is carried by the chorda tympani, which is a branch of which cranial nerve?",
+            "img": "",
+            "choices": "Trigeminal nerve (CN V)///Vagus nerve (CN X)///Hypoglossal nerve (CN XII)///Glossopharyngeal nerve (CN IX)///Facial nerve (CN VII)",
+            "answer": "Facial nerve (CN VII)",
+            "select": "",
+            "explain": "Chorda tympani เป็นแขนงของ Facial nerve (CN VII) ที่นำสัญญาณรับรส (Taste sensation) จากลิ้นส่วนหน้าสองในสามไปรวมกับ Lingual nerve ก่อนจะแยกไปที่ Geniculate ganglion และเข้าสู่ Solitary nucleus ใน Medulla",
+            "state": false
+        },
+        {
+            "problem": "32. The ability to distinguish between different odors (olfactory discrimination) is principally a function of the integration that occurs in which cortical area after the primary olfactory cortex processes the signal?",
+            "img": "",
+            "choices": "Hippocampal formation///Amygdala complex///Orbitofrontal cortex (OFC)///Anterior thalamic nucleus///Posterior cingulate cortex",
+            "answer": "Orbitofrontal cortex (OFC)",
+            "select": "",
+            "explain": "Olfactory Discrimination หรือความสามารถในการแยกแยะกลิ่นต่างๆ เป็นหน้าที่ระดับสูงของสมอง ซึ่งอาศัยการประมวลผลที่ Orbitofrontal Cortex (OFC) ซึ่งได้รับสัญญาณโดยตรงและโดยอ้อม (ผ่าน Thalamus) จาก Primary olfactory cortex (Piriform cortex) อีกที",
+            "state": false
+        },
+        {
+            "problem": "33. Which taste receptor cell type is primarily responsible for detecting 'Sweet' taste via a G-protein coupled receptor mechanism?",
+            "img": "",
+            "choices": "Type I supporting cells///Type II receptor cells///Type III presynaptic cells///Type IV basal cells///Type V gustatory cells",
+            "answer": "Type II receptor cells",
+            "select": "",
+            "explain": "เซลล์รับรสชนิด Type II receptor cells เป็นเซลล์ที่ตอบสนองต่อรสหวาน ขม และอูมามิ โดยอาศัยกลไก G-protein coupled receptor (GPCR) และไม่สร้าง synapse กับเส้นประสาทโดยตรง แต่หลั่ง ATP ไปกระตุ้นเซลล์ข้างเคียง",
+            "state": false
+        },
+        {
+            "problem": "34. The somatotopic organization of the gustatory system at the level of the primary gustatory cortex suggests that taste information from the tongue is primarily processed in which part of the internal capsule before reaching the cortex?",
+            "img": "",
+            "choices": "Anterior limb of internal capsule///Genu of internal capsule///Posterior limb of internal capsule///Sublenticular limb of internal capsule///Retrolenticular limb of internal capsule",
+            "answer": "Posterior limb of internal capsule",
+            "select": "",
+            "explain": "ใยประสาทที่นำสัญญาณรสชาติจาก VPM nucleus ของ Thalamus ไปยัง Primary Gustatory Cortex (Insular/Parietal operculum) จะวิ่งผ่านบริเวณ Posterior limb ของ Internal capsule ซึ่งเป็นส่วนที่เส้นใยประสาทรับความรู้สึกของใบหน้าและลำตัวส่วนบนวิ่งผ่าน",
+            "state": false
+        },
+        {
+            "problem": "35. A lesion to the posterior part of the parahippocampal gyrus would primarily impair the transfer of which type of information to the entorhinal cortex?",
+            "img": "",
+            "choices": "Visual memory traces///Emotional significance data///Reward and motivation values///Information from the cingulate gyrus///Olfactory input from the bulb",
+            "answer": "Information from the cingulate gyrus",
+            "select": "",
+            "explain": "Posterior part ของ Parahippocampal gyrus ทำหน้าที่รับข้อมูลจาก Posterior cingulate cortex แล้วส่งต่อไปยัง Entorhinal cortex ซึ่งข้อมูลเหล่านี้เป็นข้อมูลที่ได้รับการประมวลผลแล้วจาก cingulate gyrus ที่เกี่ยวข้องกับ Higher-order sensory function และ memory",
+            "state": false
+        },
+        {
+            "problem": "36. The superior vertical fold of dura mater that descends into the longitudinal cerebral fissure to separate the two cerebral hemispheres is known as which structure?",
+            "img": "",
+            "choices": "Tentorium cerebelli///Falx cerebelli///Diaphragma sellae///Falx cerebri///Superior petrosal sinus",
+            "answer": "Falx cerebri",
+            "select": "",
+            "explain": "Falx cerebri เป็นแผ่นเยื่อหุ้มสมองชั้น dura mater ที่มีลักษณะคล้ายเคียว (sickle-shaped) ที่กั้นระหว่างสมองใหญ่ (cerebral hemispheres) ทั้งสองซีก และมี Superior sagittal sinus อยู่ในขอบบน",
+            "state": false
+        },
+        {
+            "problem": "37. Which functional area of the limbic system is responsible for the higher-order sensory function and memory components of the limbic association cortex, connecting directly to the parahippocampal gyrus?",
+            "img": "",
+            "choices": "Anterior cingulate cortex///Middle cingulate cortex///Median frontal gyrus///Posterior cingulate cortex///Temporal pole (BA 38)",
+            "answer": "Posterior cingulate cortex",
+            "select": "",
+            "explain": "Posterior cingulate cortex (PCC) ทำหน้าที่เกี่ยวกับ Higher-order sensory function และ Memory โดยส่งข้อมูลไปยัง Parahippocampal gyrus ซึ่งเป็นส่วนสำคัญในการรวบรวมความจำ",
+            "state": false
+        },
+        {
+            "problem": "38. Damage to the primary motor pathway (corticospinal tract) at the level of the medullary pyramids would result in which type of paralysis below the neck?",
+            "img": "",
+            "choices": "Ipsilateral flaccid paralysis///Contralateral flaccid paralysis///Ipsilateral spastic paralysis///Contralateral spastic paralysis///Bilateral flaccid paralysis",
+            "answer": "Contralateral spastic paralysis",
+            "select": "",
+            "explain": "Corticospinal tract เป็น Upper Motor Neuron (UMN) pathway ที่ควบคุมการเคลื่อนไหวของร่างกาย ส่วนใหญ่ของใยประสาทจะยังไม่ไขว้ที่ Medullary pyramids การบาดเจ็บของ Pyramids ใน Medulla ก่อนที่ใยประสาทจะไขว้ (Pyramidal decussation) จะทำให้เกิดอัมพาตแบบแข็งเกร็ง (spastic paralysis) ในร่างกายซีกตรงข้าม (contralateral) ซึ่งเป็น UMN sign",
+            "state": false
+        },
+        {
+            "problem": "39. Which of the following is the anatomical structure that directly contains the olfactory bulb?",
+            "img": "",
+            "choices": "Foramen magnum///Cribriform plate of ethmoid bone///Optic canal///Superior orbital fissure///Foramen rotundum",
+            "answer": "Cribriform plate of ethmoid bone",
+            "select": "",
+            "explain": "Olfactory bulb เป็นโครงสร้างของระบบประสาทรับกลิ่นที่วางตัวอยู่บนแผ่น Cribriform plate ของกระดูก Ethmoid ซึ่งเป็นแผ่นที่มีรูพรุนเพื่อให้ Axon ของ Olfactory receptor cells (CN I) ทะลุผ่านขึ้นไป synapse ได้",
+            "state": false
+        },
+        {
+            "problem": "40. A sudden, unexplained loss of the ability to retrieve previously formed factual knowledge (memory retrieval failure) without loss of skill memory or the ability to form new memories is most suggestive of a dysfunction primarily at the level of which brain area?",
+            "img": "",
+            "choices": "Hippocampus proper CA1///Entorhinal cortex///Dentate gyrus///Retrieval cortex (neocortex)///Mammillary body",
+            "answer": "Retrieval cortex (neocortex)",
+            "select": "",
+            "explain": "ความจำแบบ Declarative memory จะถูกเข้ารหัสและรวบรวม (encoding and consolidation) โดย Hippocampus แต่จะถูกเก็บไว้ใน Neocortex ทั่วไป การสูญเสียความสามารถในการดึงความจำเก่า (memory retrieval) โดยเฉพาะความจำเชิงความหมายและเหตุการณ์ (factual/semantic/episodic memory) จึงบ่งชี้ว่ามีความผิดปกติที่ Neocortex ที่เก็บความจำเหล่านั้นไว้ ไม่ใช่ที่ Hippocampal formation ซึ่งเกี่ยวข้องกับการสร้างความจำใหม่",
+            "state": false
+        },
+        {
+            "problem": "1. Which of the following correctly describes the main mechanism of signal transduction for salty taste perception?",
+            "img": "",
+            "choices": "Binding to T1R2/T1R3 GPCR dimer///Proton blockade of potassium efflux channel///Entry of Na+ ions via epithelial sodium channel (ENaC)///Activation of PLC pathway releasing intracellular Ca2+///Binding to T2Rs coupled to the gustducin G-protein",
+            "answer": "Entry of Na+ ions via epithelial sodium channel (ENaC)",
+            "select": "",
+            "explain": "รสเค็มเกิดจากโซเดียมไอออน Na+ เข้าสู่เซลล์รับรสโดยตรงผ่านช่องโซเดียมชนิด ENaC ซึ่งเป็นกลไกที่ใช้ Gated-ion channel ทำให้เกิด Depolarization และหลั่งสารสื่อประสาทเพื่อส่งสัญญาณรสเค็มไปยังสมอง",
+            "state": false
+        },
+        {
+            "problem": "2. The initial depolarization event in sour taste transduction is primarily caused by which action?",
+            "img": "",
+            "choices": "Activation of T2R GPCR by bitter molecules///Opening of a calcium-activated non-selective ion channel///Blockade of K+ efflux through acid-sensitive potassium channels///Direct influx of Na+ through ENaC///Inhibition of cyclic nucleotide-gated (CNG) channels",
+            "answer": "Blockade of K+ efflux through acid-sensitive potassium channels",
+            "select": "",
+            "explain": "รสเปรี้ยวเกิดจากโปรตอน H+ ซึ่ง H+ จะเข้าสู่เซลล์และไปยับยั้งการทำงานของช่องโพแทสเซียม (Potassium channel) ทำให้โพแทสเซียมไม่สามารถไหลออกได้ (K+ Efflux) เกิดการสะสมของประจุบวกและทำให้เซลล์ Depolarization เพื่อส่งสัญญาณรสเปรี้ยว",
+            "state": false
+        },
+        {
+            "problem": "3. Umami taste is triggered by L-amino acids binding to which specific receptor complex?",
+            "img": "",
+            "choices": "PKD2L1 and CA IV channels///T2R family of G-protein coupled receptors///ENaC epithelial sodium channel///T1R1 and T1R3 G-protein coupled receptors///T1R2 and T1R3 G-protein coupled receptors",
+            "answer": "T1R1 and T1R3 G-protein coupled receptors",
+            "select": "",
+            "explain": "รสอูมามิเกิดจากกรดแอลอะมิโนจับกับตัวรับชนิด G-protein coupled receptor (GPCR) ที่เป็น Heterodimer ของ T1R1 และ T1R3 ซึ่งจะกระตุ้นเอนไซม์ PLC และสร้าง IP3 เป็น Second messenger นำไปสู่การ Depolarization ของเซลล์",
+            "state": false
+        },
+        {
+            "problem": "4. The signal transduction pathway for sweet taste involves IP3 leading to the release of intracellular calcium (Ca2+). This process immediately precedes which event?",
+            "img": "",
+            "choices": "Potassium channel blockade and K+ efflux decrease///Na+ influx through ENaC channels///Conformational change in T1R2/T1R3 receptors///Depolarization via calcium-activated non-selective ion channel///Neurotransmitter release at the synapse",
+            "answer": "Depolarization via calcium-activated non-selective ion channel",
+            "select": "",
+            "explain": "ตามแผนภาพหลังจาก IP3 กระตุ้นให้เกิดการหลั่งแคลเซียมภายในเซลล์แล้ว แคลเซียมที่เพิ่มขึ้นจะไปกระตุ้นให้ช่องไอออนชนิด Calcium-activated ion channel เปิดออก ทำให้โซเดียมและแคลเซียม Na+, Ca2+ ไหลเข้าสู่เซลล์และเกิด Depolarization ก่อนที่จะหลั่งสารสื่อประสาท",
+            "state": false
+        },
+        {
+            "problem": "5. Based on the taste threshold hierarchy (bitter > sour > salt > sweet), which taste requires the lowest concentration of molecules to be perceived?",
+            "img": "",
+            "choices": "Sour///Salty///Sweet///Umami///Bitter",
+            "answer": "Bitter",
+            "select": "",
+            "explain": "ระดับความไวต่อรสชาติ (Taste thresholds) เรียงลำดับจากไวที่สุดไปน้อยที่สุดคือ ขมมากกว่าเปรี้ยวมากกว่าเค็มมากกว่าหวาน ซึ่งหมายความว่ารสขมเป็นรสที่ต้องใช้ความเข้มข้นต่ำที่สุดจึงจะสามารถรับรสได้",
+            "state": false
+        },
+        {
+            "problem": "6. A small tumor compresses the Facial nerve (CN VII) before it gives off the Chorda tympani branch. The patient would most likely experience loss of taste sensation in which region?",
+            "img": "",
+            "choices": "Posterior one-third of the tongue///Soft palate and epiglottis///Anterior two-thirds of the tongue///Whole side of the tongue and throat///Sublingual and submandibular gland ducts",
+            "answer": "Anterior two-thirds of the tongue",
+            "select": "",
+            "explain": "เส้นประสาท Facial nerve CN VII ให้แขนง Chorda tympani ที่ทำหน้าที่รับรสชาติจากลิ้นส่วนหน้าสองในสาม ดังนั้นรอยโรคที่ทำลายเส้นประสาทนี้ก่อนที่จะแยกแขนงจะทำให้สูญเสียการรับรสในบริเวณดังกล่าว",
+            "state": false
+        },
+        {
+            "problem": "7. All cranial nerves (CN VII, IX, X) carrying taste information first converge and synapse in which nucleus of the brainstem?",
+            "img": "",
+            "choices": "Nucleus Ambiguus///Dorsal motor nucleus of Vagus///Spinal trigeminal nucleus///Solitary nucleus (Gustatory portion)///Ventral posteromedial nucleus (VPM)",
+            "answer": "Solitary nucleus (Gustatory portion)",
+            "select": "",
+            "explain": "ใยประสาทรับรสจาก CN VII, CN IX, และ CN X จะเดินทางเข้าสู่ก้านสมองและไปรวมกันที่ Solitary nucleus ส่วน Gustatory portion ใน Medulla ซึ่งเป็นจุด Synapse แรกใน Central gustatory pathway",
+            "state": false
+        },
+        {
+            "problem": "8. After the initial synapse in the brainstem, where is the main thalamic nucleus that relays taste information to the primary gustatory cortex?",
+            "img": "",
+            "choices": "Medial geniculate body (MGB)///Ventral anterior nucleus (VA)///Lateral geniculate body (LGB)///Ventral posteromedial nucleus (VPM)///Lateral dorsal nucleus (LD)",
+            "answer": "Ventral posteromedial nucleus (VPM)",
+            "select": "",
+            "explain": "สัญญาณรสชาติจะเดินทางจาก Solitary nucleus ไปยัง Thalamus และไป Synapse ที่ Ventral posteromedial nucleus VPM ก่อนที่จะถูกส่งต่อไปยัง Gustatory cortex ใน Insula และ Frontal cortex",
+            "state": false
+        },
+        {
+            "problem": "9. Olfactory transduction in the sensory neurons relies on which type of receptor system?",
+            "img": "",
+            "choices": "Ionotropic receptor activating Na+ channels directly///Ligand-gated ion channel for H+ and K+///GPCR coupled to G-protein Gs stimulating ACIII///Voltage-gated calcium channel (VGCC) coupled to T2Rs///Ionotropic receptor coupled to ENaC channels",
+            "answer": "GPCR coupled to G-protein Gs stimulating ACIII",
+            "select": "",
+            "explain": "เซลล์รับกลิ่น Olfactory receptor cells ใช้ตัวรับชนิด G-protein coupled receptor GPCR โดยเมื่อมีกลิ่นมาจับจะกระตุ้น G-protein Golf ซึ่งจะไปกระตุ้น Adenylate cyclase type III ACIII ทำให้เพิ่ม cAMP ซึ่งจะเปิดช่องไอออน CNG channels นำไปสู่ Depolarization",
+            "state": false
+        },
+        {
+            "problem": "10. In the olfactory signal termination process, which mechanism is primarily responsible for reducing the elevated Ca2+ concentration inside the receptor cell?",
+            "img": "",
+            "choices": "Calcium pump (Ca2+-ATPase) extrusion///Na+-Ca2+ exchange mechanism///Active reuptake into the presynaptic terminal///Breakdown of IP3 by specific enzymes///Closure of the CNG channels directly",
+            "answer": "Na+-Ca2+ exchange mechanism",
+            "select": "",
+            "explain": "หลังจากเกิด Depolarization และมีการหลั่งสารสื่อประสาทแล้ว การทำให้เซลล์กลับสู่ภาวะพัก (Repolarization) ต้องลดระดับแคลเซียมภายในเซลล์ลง โดยกลไกหลักคือการแลกเปลี่ยนไอออน Na+-Ca2+ exchange mechanism ซึ่งจะขับแคลเซียมออกจากเซลล์",
+            "state": false
+        },
+        {
+            "problem": "11. A unique feature of the main olfactory pathway that differentiates it from other primary sensory pathways is its direct projection to which part of the brain?",
+            "img": "",
+            "choices": "The brainstem reticular formation for arousal///The cerebellum for fine motor coordination///The thalamus before reaching the cortex///The limbic system (hypothalamus and memory centers)///The primary somatosensory cortex",
+            "answer": "The limbic system (hypothalamus and memory centers)",
+            "select": "",
+            "explain": "สัญญาณรับกลิ่นจาก Lateral olfactory stria มีลักษณะพิเศษคือสามารถส่งสัญญาณตรงไปยัง Hypothalamus และส่วน Limbic system ที่เกี่ยวข้องกับความจำและอารมณ์ได้เลย โดยไม่ต้องผ่าน Thalamus ก่อนไปยัง Cortex ทำให้กลิ่นมีความเชื่อมโยงกับอารมณ์และความทรงจำได้ง่าย ต่างจากประสาทสัมผัสอื่นๆ ที่ต้องผ่าน Thalamus ก่อน",
+            "state": false
+        },
+        {
+            "problem": "12. Which structure in the olfactory pathway is primarily involved in the conscious perception, discrimination, and identification of odors?",
+            "img": "",
+            "choices": "Lateral olfactory stria///Hypothalamus///Septal nuclei///Solitary nucleus///Orbitofrontal cortex",
+            "answer": "Orbitofrontal cortex",
+            "select": "",
+            "explain": "การรับรู้กลิ่นอย่างมีสติ (Conscious perception of smell) และการแยกแยะกลิ่นที่ซับซ้อนนั้นต้องอาศัยการประมวลผลในระดับสูง ซึ่งเป็นหน้าที่หลักของ Orbitofrontal cortex โดยข้อมูลจะถูกส่งมาถึงบริเวณนี้ผ่านการถ่ายทอดสัญญาณจาก Thalamus อีกต่อหนึ่ง",
+            "state": false
+        },
+        {
+            "problem": "13. In the olfactory bulb, which cells are the main output neurons that send axons to the primary olfactory cortex and limbic system?",
+            "img": "",
+            "choices": "Olfactory receptor cells///Periglomerular cells///Granule cells///Mitral cells///Centrifugal fibers",
+            "answer": "Mitral cells",
+            "select": "",
+            "explain": "Mitral cells และ Tufted cells เป็นเซลล์ประสาทหลักใน Olfactory bulb ที่รับสัญญาณจาก Olfactory receptor axons ภายใน Glomerulus และทำหน้าที่เป็น Output neuron ส่ง Axon ผ่าน Olfactory tract ไปยังสมองส่วนต่างๆ",
+            "state": false
+        },
+        {
+            "problem": "14. Which taste is primarily transduced by a receptor that is classified as a Gated-ion channel?",
+            "img": "",
+            "choices": "Bitter///Umami///Sweet///Salty///Metallic",
+            "answer": "Salty",
+            "select": "",
+            "explain": "รสเค็มและรสเปรี้ยวเป็นรสชาติที่ถูก transduce ผ่าน Gated-ion channel โดยรสเค็มใช้ ENaC ในการนำ Na+ เข้าสู่เซลล์",
+            "state": false
+        },
+        {
+            "problem": "15. Lesion at the Solitary tract and nucleus (Gustatory portion) in the medulla would result in the loss of taste from which combination of cranial nerves?",
+            "img": "",
+            "choices": "CN V, CN VII, and CN IX///CN IX, CN X, and CN XII///CN VII, CN IX, and CN X///CN VII, CN VIII, and CN IX///CN V, CN IX, and CN X",
+            "answer": "CN VII, CN IX, and CN X",
+            "select": "",
+            "explain": "Gustatory portion of the solitary nucleus เป็นจุดรวมของใยประสาทรับรสจาก CN VII (Chorda tympani, ลิ้นส่วนหน้า 2/3), CN IX (Glossopharyngeal nerve, ลิ้นส่วนหลัง 1/3), และ CN X (Vagus nerve, บริเวณ Epiglottis และ Palate) ดังนั้นรอยโรคที่นี่จะกระทบต่อการรับรสจากเส้นประสาททั้งสามเส้นนี้",
+            "state": false
+        },
+        {
+            "problem": "16. A boxer sustains a nasal injury leading to the shearing of olfactory nerve axons as they pass through the cribriform plate. This condition, resulting in the inability to smell, is medically termed:",
+            "img": "",
+            "choices": "Phantosmia///Hyperosmia///Presbyosmia///Anosmia///Dysosmia",
+            "answer": "Anosmia",
+            "select": "",
+            "explain": "การบาดเจ็บที่รุนแรงบริเวณจมูกสามารถทำให้ Olfactory nerve CN I ซึ่งเป็น Axon ของ Olfactory receptor cells ที่ต้องทะลุผ่าน Cribriform plate ของกระดูก Ethmoid ขาดออกจากกันได้ ส่งผลให้สูญเสียการได้กลิ่นทั้งหมด ซึ่งเรียกว่า Anosmia",
+            "state": false
+        },
+        {
+            "problem": "17. The bitter taste receptor (T2Rs) and the sweet taste receptor (T1R2 + T1R3) share a common signaling pathway beginning with the activation of which enzyme?",
+            "img": "",
+            "choices": "Adenylate cyclase type III (ACIII)///Phospholipase C (PLC)///Guanylate cyclase (GC)///Sodium-potassium ATPase///Monoamine oxidase (MAO)",
+            "answer": "Phospholipase C (PLC)",
+            "select": "",
+            "explain": "รสหวาน ขม และอูมามิ ล้วนเป็นรสชาติที่ใช้ G-protein coupled receptor GPCR ในการส่งสัญญาณ โดยหลังจากตัวรับถูกกระตุ้น G-protein จะไปกระตุ้นเอนไซม์ Phospholipase C PLC ซึ่งเป็นขั้นตอนร่วมในการสร้าง Second messenger IP3 เพื่อนำไปสู่การหลั่งแคลเซียมภายในเซลล์",
+            "state": false
+        },
+        {
+            "problem": "18. Conscious perception of gustatory sensation occurs when the signal is finally projected to which area of the cerebral cortex?",
+            "img": "",
+            "choices": "Primary visual cortex///Somatosensory cortex (Postcentral gyrus)///Insula and Frontal cortex///Wernicke's area (Superior temporal gyrus)///Primary auditory cortex (Temporal lobe)",
+            "answer": "Insula and Frontal cortex",
+            "select": "",
+            "explain": "สัญญาณรสชาติจะถูกส่งจาก Thalamus VPM ไปยัง Primary gustatory cortex ซึ่งเชื่อว่าอยู่บริเวณ Insula และ Operculum ของ Frontal cortex เพื่อให้เกิดการรับรู้รสชาติอย่างมีสติ",
+            "state": false
+        },
+        {
+            "problem": "19. What is the primary role of the Periglomerular cells and Granule cells within the Olfactory Bulb circuit?",
+            "img": "",
+            "choices": "Output neurons that transmit signal to the olfactory tract///Relaying taste information to the solitary nucleus///Excitatory interneurons that amplify the signal///Inhibitory interneurons that regulate mitral and tufted cells///Sensory receptor cells that detect odor molecules",
+            "answer": "Inhibitory interneurons that regulate mitral and tufted cells",
+            "select": "",
+            "explain": "Periglomerular cells และ Granule cells เป็นเซลล์ประสาทขนาดเล็กใน Olfactory bulb ที่ทำหน้าที่เป็น Inhibitory interneuron โดยใช้ GABA เป็นสารสื่อประสาท เพื่อควบคุมและปรับสัญญาณที่ส่งออกไปจาก Mitral cells และ Tufted cells",
+            "state": false
+        },
+        {
+            "problem": "20. Taste sensation from the area of the epiglottis and lower pharynx is carried by a branch of which cranial nerve?",
+            "img": "",
+            "choices": "Trigeminal nerve (CN V)///Facial nerve (CN VII)///Glossopharyngeal nerve (CN IX)///Vagus nerve (CN X)///Hypoglossal nerve (CN XII)",
+            "answer": "Vagus nerve (CN X)",
+            "select": "",
+            "explain": "เส้นประสาท Vagus nerve CN X มีแขนงที่ทำหน้าที่รับรสชาติจากบริเวณ Epiglottis และส่วนล่างของ Pharynx ซึ่งเป็นเส้นประสาทที่รับรสจากบริเวณที่อยู่ด้านหลังและต่ำที่สุดในช่องปากและลำคอ",
+            "state": false
+        }
+    ],
+    "Visual by AI": [{
+        "problem": "1. A patient presents with complete right oculomotor nerve (CN III) palsy. Which cranial nerve passing through the superior orbital fissure is least likely to be affected by an isolated mass lesion in the fissure?",
+        "img": "",
+        "choices": "Ophthalmic division of the trigeminal nerve (V1)///Abducens nerve (CN VI)///Trochlear nerve (CN IV)///Optic nerve (CN II)///Oculomotor nerve (CN III)",
+        "answer": "Optic nerve (CN II)",
+        "select": "",
+        "explain": "Optic nerve (CN II) จะวิ่งผ่าน Optic canal ซึ่งเป็นช่องที่แยกออกจาก Superior orbital fissure (SOF) การมีรอยโรคใน SOF จึงมีโอกาสน้อยที่สุดที่จะส่งผลกระทบต่อ Optic nerve โดยตรง ส่วน CN III, IV, VI และ V1 ล้วนวิ่งผ่าน SOF",
+        "state": false
+    },
+    {
+        "problem": "2. A small tumor is localized in the infraorbital groove, causing numbness and loss of sensation in the upper lip and cheek. Which foramen is the closest anatomical landmark for the nerve involved?",
+        "img": "",
+        "choices": "Optic canal///Superior orbital fissure///Inferior orbital fissure///Ethmoidal foramen///Frontal incisure",
+        "answer": "Inferior orbital fissure",
+        "select": "",
+        "explain": "อาการชาที่ริมฝีปากบนและแก้มเป็นผลมาจากการเสียหายของ Maxillary nerve (CN V2) แขนง Infraorbital nerve ซึ่งเส้นประสาทนี้เข้าสู่เบ้าตาทาง Inferior orbital fissure โดยมี Infraorbital artery และ Inferior ophthalmic vein ร่วมด้วย",
+        "state": false
+    },
+    {
+        "problem": "3. A patient suffers a fracture involving the optic canal. Which pair of anatomical structures is most likely to be injured?",
+        "img": "",
+        "choices": "CN II and CN III///CN II and Ophthalmic artery///CN III and CN IV///CN V1 and CN VI///CN V2 and Inferior ophthalmic vein",
+        "answer": "CN II and Ophthalmic artery",
+        "select": "",
+        "explain": "Optic canal เป็นช่องทางผ่านของ Optic nerve (CN II) ซึ่งเป็นเส้นประสาทในการมองเห็น และ Ophthalmic artery ซึ่งเป็นแขนงจาก Internal Carotid Artery (ICA) การบาดเจ็บที่ช่องนี้จึงทำให้โครงสร้างทั้งสองนี้เสียหาย",
+        "state": false
+    },
+    {
+        "problem": "24. A stroke is found in the Primary visual cortex. Which visual field defect would be the resulting clinical correlation?",
+        "img": "",
+        "choices": "Monocular loss vision///Bitemporal hemianopia///Contralateral superior quadrantanopia///Contralateral inferior quadrantanopia///Contralateral homonymous hemianopia",
+        "answer": "Contralateral homonymous hemianopia",
+        "select": "",
+        "explain": "Primary visual cortex อยู่ใน Occipital lobe ซึ่งรับข้อมูลภาพจากลานสายตาครึ่งซีกตรงข้าม (Contralateral visual field) ดังนั้นรอยโรคที่ Primary visual cortex จะทำให้เกิด Contralateral homonymous hemianopia ซึ่งเป็นการสูญเสียการมองเห็นครึ่งซีกตรงข้ามของตาทั้งสองข้าง",
+        "state": false
+    },
+    {
+        "problem": "25. A tumor compressing the Optic chiasm would most typically result in which visual field defect?",
+        "img": "",
+        "choices": "Monocular vision loss///Contralateral homonymous hemianopia///Bitemporal hemianopia///Contralateral superior quadrantanopia///Contralateral inferior quadrantanopia",
+        "answer": "Bitemporal hemianopia",
+        "select": "",
+        "explain": "Optic chiasm เป็นจุดที่ใยประสาทจาก Nasal retina (รับภาพจาก Temporal field) ของตาทั้งสองข้างมาไขว้กัน การกดทับที่ Chiasm จึงทำให้เกิดการสูญเสียลานสายตาด้านนอกของตาทั้งสองข้าง เรียกว่า Bitemporal hemianopia",
+        "state": false
+    },
+    {
+        "problem": "26. A lesion in the right Optic tract would lead to a visual defect in which visual field?",
+        "img": "",
+        "choices": "Left Monocular vision loss///Bitemporal vision loss///Right Monocular vision loss///Left homonymous hemianopia///Right homonymous hemianopia",
+        "answer": "Left homonymous hemianopia",
+        "select": "",
+        "explain": "Right Optic tract ประกอบด้วยใยประสาทที่นำข้อมูลภาพจากลานสายตาซีกซ้าย (Left visual field) ของตาทั้งสองข้าง ดังนั้นรอยโรคที่ Right Optic tract จะทำให้เกิด Left homonymous hemianopia",
+        "state": false
+    },
+    {
+        "problem": "27. Damage to the temporal lobe on the left side, affecting Meyer's loop, would result in which specific visual field defect?",
+        "img": "",
+        "choices": "Right superior quadrantanopia///Right inferior quadrantanopia///Left superior quadrantanopia///Left inferior quadrantanopia///Left homonymous hemianopia",
+        "answer": "Right superior quadrantanopia",
+        "select": "",
+        "explain": "Meyer's loop เป็นส่วนของ Optic radiation ที่วิ่งผ่าน Temporal lobe ซึ่งนำข้อมูลจากลานสายตาซีกบนด้านตรงข้าม ดังนั้น Lesion ที่ Left Temporal lobe (Meyer's loop) จะทำให้เกิด Right superior quadrantanopia (Pie in the sky)",
+        "state": false
+    },
+    {
+        "problem": "28. A patient has a lesion in the left parietal lobe affecting the optic radiation. Which visual field defect is most characteristic?",
+        "img": "",
+        "choices": "Right monocular loss vision///Left superior quadrantanopia///Right inferior quadrantanopia///Left inferior quadrantanopia///Right homonymous hemianopia",
+        "answer": "Right inferior quadrantanopia",
+        "select": "",
+        "explain": "Optic radiation ส่วนที่วิ่งผ่าน Parietal lobe จะนำข้อมูลจากลานสายตาซีกด้านล่าง (Inferior visual field) ของซีกตรงข้าม ดังนั้น Lesion ที่ Left Parietal lobe จะทำให้เกิด Right inferior quadrantanopia (Pie on the floor)",
+        "state": false
+    },
+    {
+        "problem": "29. In the pupillary light reflex pathway, where are the cell bodies of the preganglionic parasympathetic fibers located?",
+        "img": "",
+        "choices": "Pretectal nucleus///EW nucleus (Edinger-Westphal)///Ciliary ganglion///Oculomotor complex///Optic chiasm",
+        "answer": "EW nucleus (Edinger-Westphal)",
+        "select": "",
+        "explain": "Pupillary light reflex มี Afferent limb คือ CN II ไป Pretectal nucleus จากนั้นจะส่งสัญญาณไปยัง EW nucleus ทั้งสองข้าง ซึ่ง EW nucleus นี้เป็นที่อยู่ของ cell body ของ preganglionic parasympathetic fiber ซึ่งจะเดินทางไป synapse ที่ Ciliary ganglion",
+        "state": false
+    },
+    {
+        "problem": "30. A lesion destroys the right Oculomotor nerve (CN III). When a light is shone into the left eye, what is the expected response in the right eye?",
+        "img": "",
+        "choices": "Pupil constricts (Direct reflex)///Pupil constricts (Consensual reflex)///Pupil dilates (Direct reflex)///Pupil remains dilated (Consensual reflex absent)///Pupil remains constricted",
+        "answer": "Pupil constricts (Consensual reflex)",
+        "select": "",
+        "explain": "เมื่อส่องไฟตาซ้าย (Left eye) ซึ่งมี CN II ปกติ สัญญาณจะไปกระตุ้น EW nucleus ทั้งซ้ายและขวา Efferent limb ของตาขวา คือ Right CN III ซึ่งเสียหายไปแล้ว แต่เนื่องจากโจทย์ถามถึง Consensual reflex เมื่อส่องไฟตาซ้าย สัญญาณจะไปกระตุ้น EW nucleus ขวา ซึ่งหาก CN III เสียหาย รูม่านตาขวาจะขยายอยู่ตลอดเวลาและไม่ตอบสนองต่อแสงใดๆ แต่ถ้าโจทย์หมายถึงการตอบสนองที่เกิดขึ้นในตาซ้าย (Direct reflex) ก็จะหดตัวปกติ",
+        "state": false
+    },
+    {
+        "problem": "31. A stroke causes a lesion in the right Pretectal nucleus. When a light is shone into the right eye, what happens to the left pupil?",
+        "img": "",
+        "choices": "Constricts (Direct reflex)///Dilates (Consensual reflex absent)///Constricts (Consensual reflex)///Dilates (Direct reflex absent)///Remains unchanged",
+        "answer": "Constricts (Consensual reflex)",
+        "select": "",
+        "explain": "Pretectal nucleus ทำหน้าที่เป็นสถานีถ่ายทอดสัญญาณจาก CN II ไปยัง EW nucleus ทั้งสองข้าง การมีรอยโรคที่ Right Pretectal nucleus จะส่งผลต่อการนำสัญญาณไปยัง EW nucleus ทั้งสองข้าง หากรอยโรคนี้ทำให้สัญญาณเสียไปทั้งหมด การตอบสนองของตาทั้งสองข้างก็จะเสียไปด้วย แต่ถ้าสัญญาณถูกขัดขวางไม่สมบูรณ์ การตอบสนองอาจยังคงอยู่ โดยเฉพาะ consensual reflex ที่ตาซ้าย ซึ่ง Efferent limb (CN III ซ้าย) ปกติ",
+        "state": false
+    },
+    {
+        "problem": "33. Which nerve is the afferent limb (sensory input) of the protective Corneal reflex?",
+        "img": "",
+        "choices": "Oculomotor nerve (CN III)///Facial nerve (CN VII)///Trigeminal nerve (CN V) - Ophthalmic division (V1)///Trigeminal nerve (CN V) - Maxillary division (V2)///Optic nerve (CN II)",
+        "answer": "Trigeminal nerve (CN V) - Ophthalmic division (V1)",
+        "select": "",
+        "explain": "Corneal reflex คือการกะพริบตาเมื่อมีสิ่งสัมผัสกระจกตา Afferent limb (รับความรู้สึก) คือ Ophthalmic nerve (V1) ซึ่งส่งสัญญาณไป Spinal trigeminal tract ส่วน Efferent limb (สั่งการกะพริบตา) คือ Facial nerve (CN VII) ไป Orbicularis oculi muscle",
+        "state": false
+    },
+    {
+        "problem": "34. Where is the location of the preganglionic neurons that initiate the Pupillodilator reflex?",
+        "img": "",
+        "choices": "Pretectal nucleus///Edinger-Westphal nucleus///Superior cervical ganglion///Posterior hypothalamus///Pupillary dilator muscle",
+        "answer": "Posterior hypothalamus",
+        "select": "",
+        "explain": "Pupillodilator reflex เป็นการตอบสนองของระบบ Sympathetic เพื่อขยายรูม่านตา (Mydriasis) โดย Pre-ganglionic sympathetic neuron จะเริ่มต้นที่ Posterior hypothalamus แล้วลงไปยัง Spinal cord ระดับ T1-L2 จากนั้นจึงส่ง Post-ganglionic fiber จาก Superior cervical ganglion ไปยัง Dilator pupillae muscle",
+        "state": false
+    },
+    {
+        "problem": "35. Internuclear Ophthalmoplegia (INO) pathology is characterized by a lesion in which specific white matter tract that controls horizontal eye movement?",
+        "img": "",
+        "choices": "Rostral interstitial nucleus of the medial longitudinal fasciculus (riMLF)///Medial longitudinal fasciculus (MLF)///Lateral longitudinal fasciculus///Paramedian pontine reticular formation (PPRF)///Interstitial nucleus of Cajal (INC)",
+        "answer": "Medial longitudinal fasciculus (MLF)",
+        "select": "",
+        "explain": "Internuclear Ophthalmoplegia (INO) เกิดจากการทำลาย Medial longitudinal fasciculus (MLF) ซึ่งเป็น tract ที่เชื่อมต่อ Abducens nucleus (CN VI) ข้างหนึ่งกับ Oculomotor nucleus (CN III) อีกข้างหนึ่ง ความเสียหายของ MLF ทำให้เกิดความอ่อนแรงในการกลอกตาเข้าด้านใน (Adduction weakness) ของตาข้างเดียวกับรอยโรค",
+        "state": false
+    },
+    {
+        "problem": "36. Which nucleus is considered to be the horizontal gaze center that sends the primary signal to the ipsilateral abducens nucleus?",
+        "img": "",
+        "choices": "Edinger-Westphal nucleus (EWN)///Interstitial nucleus of Cajal (INC)///Rostral interstitial nucleus of the medial longitudinal fasciculus (riMLF)///Paramedian pontine reticular formation (PPRF)///Abducens nucleus",
+        "answer": "Paramedian pontine reticular formation (PPRF)",
+        "select": "",
+        "explain": "Paramedian pontine reticular formation (PPRF) เป็นศูนย์กลางการมองตามแนวราบ (Horizontal gaze center) ที่อยู่ใน Pons ทำหน้าที่สั่งการให้ดวงตาทั้งสองข้างกลอกไปด้านเดียวกัน โดยจะกระตุ้น Abducens nucleus (CN VI) ข้างเดียวกับรอยโรคโดยตรง",
+        "state": false
+    },
+    {
+        "problem": "37. A lesion to the PPRF (Paramedian Pontine Reticular Formation) would most immediately result in a pathology known as?",
+        "img": "",
+        "choices": "Internuclear Ophthalmoplegia (INO)///Monocular loss vision///Complete loss of horizontal gaze to the ipsilateral side///Complete loss of vertical gaze to the contralateral side///Bilateral adduction defect",
+        "answer": "Complete loss of horizontal gaze to the ipsilateral side",
+        "select": "",
+        "explain": "PPRF ควบคุมการกลอกตาไปด้านเดียวกัน (Ipsilateral horizontal gaze) ดังนั้นการมีรอยโรคที่ PPRF จะทำให้ผู้ป่วยไม่สามารถกลอกตาในแนวราบไปยังด้านเดียวกับรอยโรคได้เลย ซึ่งเรียกว่า Ipsilateral horizontal gaze palsy",
+        "state": false
+    },
+    {
+        "problem": "38. Which nucleus, located in the midbrain, is considered the 'start signal' for vertical gaze control?",
+        "img": "",
+        "choices": "Abducens nucleus///Interstitial nucleus of Cajal (INC)///Edinger-Westphal nucleus (EWN)///Paramedian pontine reticular formation (PPRF)///Rostral interstitial nucleus of the medial longitudinal fasciculus (riMLF)",
+        "answer": "Interstitial nucleus of Cajal (INC)",
+        "select": "",
+        "explain": "Vertical gaze control (การกลอกตาขึ้น-ลง) ถูกควบคุมโดยศูนย์ที่เรียกว่า Interstitial nucleus of Cajal (INC) และ Rostral interstitial nucleus of the medial longitudinal fasciculus (riMLF) โดย INC เป็นส่วนที่ให้สัญญาณเริ่มต้น (Start signal) สำหรับการกลอกตาในแนวตั้ง",
+        "state": false
+    },
+    {
+        "problem": "39. The functional test 'Look laterally' is used to evaluate which extraocular muscle and its corresponding innervation?",
+        "img": "",
+        "choices": "Medial rectus m., CN III///Lateral rectus m., CN VI///Superior oblique m., CN IV///Inferior oblique m., CN III///Inferior rectus m., CN III",
+        "answer": "Lateral rectus m., CN VI",
+        "select": "",
+        "explain": "การกลอกตาไปด้านข้าง (Look laterally) เป็นการทดสอบการทำงานหลักของ Lateral rectus muscle ซึ่งทำหน้าที่ในการ Abduction (กลอกตาออกนอก) และถูกเลี้ยงโดย Abducens nerve (CN VI)",
+        "state": false
+    },
+    {
+        "problem": "1. A 70-year-old man with a history of hypertension presents with left-sided weakness of the medial rectus muscle and right-beating nystagmus when looking to the right. Which structure in the horizontal gaze control pathway is most likely injured?",
+        "img": "",
+        "choices": "Left Paramedian Pontine Reticular Formation (PPRF)///Left Abducens nucleus///Right Medial Longitudinal Fasciculus (MLF)///Left Medial Longitudinal Fasciculus (MLF)///Right Abducens nucleus",
+        "answer": "Left Medial Longitudinal Fasciculus (MLF)",
+        "select": "",
+        "explain": "อาการอ่อนแรงของกล้ามเนื้อ Medial Rectus ด้านซ้าย เมื่อมองไปทางด้านขวา (Adduction defect) ร่วมกับ Nystagmus ที่ตาด้านขวาที่ Abduct ออกไป เป็นลักษณะคลาสสิกของ Internuclear Ophthalmoplegia (INO) ซึ่งเกิดจากรอยโรคที่ Medial Longitudinal Fasciculus (MLF) ด้านซ้าย ซึ่งเป็นเส้นทางที่เชื่อมต่อ Abducens nucleus ด้านขวา (สั่งมองขวา) กับ Oculomotor nucleus ด้านซ้าย (สั่งตาซ้าย Adduct เข้า)",
+        "state": false
+    },
+    {
+        "problem": "2. A young woman presents with complete left-sided ptosis, an eyeball resting in a 'down and out' position, and a fixed, dilated pupil. Damage to which single cranial nerve is the most likely cause of this combination of signs?",
+        "img": "",
+        "choices": "Left Abducens nerve (CN VI)///Left Oculomotor nerve (CN III)///Left Trochlear nerve (CN IV)///Left Facial nerve (CN VII)///Left Ophthalmic nerve (CN V1)",
+        "answer": "Left Oculomotor nerve (CN III)",
+        "select": "",
+        "explain": "อาการหนังตาตก (ptosis) เกิดจากความอ่อนแรงของ Levator Palpebrae Superioris ที่เลี้ยงโดย CN III และ Superior Tarsal Muscle ที่เลี้ยงโดย Sympathetic อาการตาเหล่ลงล่างและออกนอก (down and out) เกิดจากกล้ามเนื้อ Superior Oblique (CN IV) และ Lateral Rectus (CN VI) ยังทำงานได้ ส่วนกล้ามเนื้ออื่นๆ ที่เลี้ยงโดย CN III เป็นอัมพาต อาการรูม่านตาขยาย (fixed, dilated pupil) เกิดจากใยประสาท Parasympathetic ที่มากับ CN III เสียหาย กลุ่มอาการนี้เป็นลักษณะจำเพาะของการบาดเจ็บของ Oculomotor nerve ทั้งหมด",
+        "state": false
+    },
+    {
+        "problem": "3. Which of the following structures is responsible for secreting the aqueous humor, a fluid essential for maintaining intraocular pressure and nourishing the cornea and lens?",
+        "img": "",
+        "choices": "Corneal endothelium///Choroid blood vessels///Ciliary epithelium///Pigment epithelium layer///Ora serrata",
+        "answer": "Ciliary epithelium",
+        "select": "",
+        "explain": "Aqueous humor ถูกสร้างโดย Ciliary epithelium ซึ่งเป็นส่วนหนึ่งของ Ciliary process ใน Ciliary body จากนั้นจะไหลผ่าน Posterior chamber ไปยัง Anterior chamber ก่อนที่จะระบายออกทาง Canal of Schlemm",
+        "state": false
+    },
+    {
+        "problem": "4. A fracture involving the optic canal will most likely result in combined injury to which pair of structures?",
+        "img": "",
+        "choices": "Oculomotor nerve and Ophthalmic artery///Optic nerve and Inferior ophthalmic vein///Optic nerve and Ophthalmic artery///Trochlear nerve and Ophthalmic vein///Abducens nerve and Maxillary nerve",
+        "answer": "Optic nerve and Ophthalmic artery",
+        "select": "",
+        "explain": "Optic canal เป็นช่องทางผ่านเฉพาะของเส้นประสาทตา (CN II) และหลอดเลือดแดง Ophthalmic artery ซึ่งเป็นแขนงของ Internal Carotid Artery (ICA) ดังนั้นการแตกของกระดูกบริเวณนี้จึงมีความเสี่ยงสูงที่จะทำลายโครงสร้างทั้งสองนี้พร้อมกัน",
+        "state": false
+    },
+    {
+        "problem": "5. Which layer of the cornea is derived from the neural crest cells and is directly continuous with the trabecular meshwork for aqueous humor drainage?",
+        "img": "",
+        "choices": "Bowman's membrane///Corneal stroma///Descemet's membrane///Corneal epithelium///Corneal endothelium",
+        "answer": "Corneal endothelium",
+        "select": "",
+        "explain": "Corneal endothelium เป็นชั้นที่อยู่ด้านในสุดของกระจกตา ซึ่งมีความเชื่อมโยงทางพัฒนาการกับ neural crest cells เช่นเดียวกับ Corneal stroma นอกจากนี้ยังมีความสำคัญในการรักษาความสมดุลของน้ำในกระจกตา และอยู่ติดกับ Anterior Chamber ซึ่งเป็นจุดเริ่มต้นของการระบาย Aqueous humor",
+        "state": false
+    },
+    {
+        "problem": "6. A patient presents with a painful, swollen lump on the outside edge of his eyelid due to a localized infection of a sebaceous gland. This condition is an external hordeolum, involving which gland?",
+        "img": "",
+        "choices": "Tarsal (Meibomian) gland///Gland of Moll///Lacrimal gland///Gland of Wolfring///Gland of Krause",
+        "answer": "Gland of Moll",
+        "select": "",
+        "explain": "External hordeolum (Stye) เป็นการติดเชื้อของต่อมไขมันที่อยู่โคนขนตา (Gland of Zeis) หรือต่อมเหงื่อที่ดัดแปลงแล้ว (Gland of Moll) ส่วน Internal hordeolum จะเป็นการติดเชื้อที่ Tarsal gland (Meibomian gland)",
+        "state": false
+    },
+    {
+        "problem": "7. A pituitary tumor compressing the optic chiasm most commonly causes which type of visual field defect?",
+        "img": "",
+        "choices": "Monocular vision loss///Contralateral homonymous hemianopsia///Bitemporal hemianopsia///Contralateral superior quadrantanopia///Contralateral inferior quadrantanopia",
+        "answer": "Bitemporal hemianopsia",
+        "select": "",
+        "explain": "Optic chiasm เป็นจุดที่ใยประสาทจาก Nasal retina ของตาทั้งสองข้างมาไขว้กัน ซึ่งใยประสาทเหล่านี้รับภาพจาก Temporal visual field (ลานสายตาด้านข้าง) การถูกกดทับที่ Chiasm จึงทำให้เสียลานสายตาด้านข้างของตาทั้งสองข้าง เรียกว่า Bitemporal hemianopsia",
+        "state": false
+    },
+    {
+        "problem": "8. A patient is unable to look down when her right eye is adducted (turned medially). Which extraocular muscle is most likely weak or paralyzed?",
+        "img": "",
+        "choices": "Right Inferior rectus muscle///Right Superior oblique muscle///Right Medial rectus muscle///Right Inferior oblique muscle///Right Superior rectus muscle",
+        "answer": "Right Superior oblique muscle",
+        "select": "",
+        "explain": "กล้ามเนื้อ Superior Oblique (CN IV) มีหน้าที่หลักในการกลอกตาลง (Depression) เมื่อตากรอกเข้าด้านใน (Adduction) ซึ่งเป็นท่าทางที่ใช้ในการมองลงและเข้าใน การอ่อนแรงของกล้ามเนื้อมัดนี้จะทำให้ไม่สามารถกลอกตาลงในท่า Adduction ได้ตามปกติ ซึ่งเป็นอาการคลาสสิกของ Trochlear nerve palsy",
+        "state": false
+    },
+    {
+        "problem": "9. Which part of the visual pathway is damaged if a patient loses sight in the upper-left quadrant of their visual field (Left Superior Quadrantanopia)?",
+        "img": "",
+        "choices": "Left Temporal lobe (Meyer loop)///Left Parietal lobe (Optic radiation)///Right Temporal lobe (Meyer loop)///Right Optic tract///Left Primary visual cortex",
+        "answer": "Right Temporal lobe (Meyer loop)",
+        "select": "",
+        "explain": "การสูญเสียลานสายตาซีกซ้ายบน (Left Superior Quadrantanopia) เกิดจากความเสียหายของใยประสาทที่นำข้อมูลจากจอประสาทตาส่วนล่าง (inferior retina) ซึ่งอยู่ในสมองซีกขวา ใยประสาทส่วนนี้คือ Meyer's loop ที่วิ่งอ้อมเข้าไปใน Temporal lobe ด้านขวา",
+        "state": false
+    },
+    {
+        "problem": "10. What is the correct sequence for the efferent (motor) limb of the pupillary light reflex?",
+        "img": "",
+        "choices": "CN. II → Pretectal nuc. → EW nuc. → CN. III → Ciliary gg. → Short ciliary n.///CN. III → Ciliary gg. → Long ciliary n. → Pupillary constriction///CN. III → EW nuc. → Pretectal nuc. → Short ciliary n.///EW nuc. → CN. III → Ciliary gg. → Short ciliary n.///EW nuc. → CN. III → Ciliary gg. → Long ciliary n.",
+        "answer": "EW nuc. → CN. III → Ciliary gg. → Short ciliary n.",
+        "select": "",
+        "explain": "Efferent limb ของ Pupillary light reflex เริ่มจาก Edinger-Westphal nucleus (EW nuc.) ซึ่งเป็น Parasympathetic nucleus ของ CN III จากนั้นใยประสาท Preganglionic จะเดินทางไปกับ CN III เพื่อไป Synapse ที่ Ciliary ganglion (Ciliary gg.) และใยประสาท Postganglionic จะเดินทางต่อด้วย Short ciliary nerve ไปสั่งให้กล้ามเนื้อ Pupillary constrictor (Sphincter pupillae) หดตัว",
+        "state": false
+    },
+    {
+        "problem": "11. A 45-year-old female presents with complete visual loss in her left eye. The lesion is most likely located at which structure?",
+        "img": "",
+        "choices": "Left Optic chiasm///Left Optic tract///Left Optic nerve///Left Temporal lobe///Left Primary visual cortex",
+        "answer": "Left Optic nerve",
+        "select": "",
+        "explain": "การสูญเสียการมองเห็นในตาข้างเดียว (Monocular loss vision) เกิดจากการเสียหายของเส้นประสาทตา (Optic nerve) หรือจอประสาทตา (Retina) ก่อนที่ใยประสาทจะมาไขว้กันที่ Optic chiasm ดังนั้นรอยโรคที่ Left Optic nerve จึงทำให้สูญเสียการมองเห็นในตาซ้ายทั้งหมด",
+        "state": false
+    },
+    {
+        "problem": "12. What is the correct pathway for the lacrimal fluid to drain from the lacrimal gland to the nasal cavity?",
+        "img": "",
+        "choices": "Lacrimal gld. → Punctum → Sac → Canaliculi → Nasolacrimal duct///Lacrimal gld. → Sac → Canaliculi → Punctum → Nasolacrimal duct///Lacrimal gld. → Excretory duct → Punctum → Lacrimal canaliculi → Lacrimal sac///Lacrimal gld. → Excretory duct → Lacrimal punctum → Lacrimal canaliculi → Lacrimal sac → Nasolacrimal duct///Lacrimal gld. → Canaliculi → Sac → Nasolacrimal duct → Punctum",
+        "answer": "Lacrimal gld. → Excretory duct → Lacrimal punctum → Lacrimal canaliculi → Lacrimal sac → Nasolacrimal duct",
+        "select": "",
+        "explain": "Lacrimal fluid ถูกสร้างจาก Lacrimal gland → ผ่านท่อ Excretory duct → ไปยังพื้นผิวของตา จากนั้นจะถูกระบายออกทาง Lacrimal punctum → ผ่านท่อเล็กๆ คือ Lacrimal canaliculi → เข้าสู่ถุง Lacrimal sac → และออกสู่โพรงจมูกทาง Nasolacrimal duct",
+        "state": false
+    },
+    {
+        "problem": "13. Which muscle is primarily responsible for the lateral rotation (extorsion) of the eyeball?",
+        "img": "",
+        "choices": "Superior oblique muscle///Inferior rectus muscle///Lateral rectus muscle///Medial rectus muscle///Inferior oblique muscle",
+        "answer": "Inferior oblique muscle",
+        "select": "",
+        "explain": "กล้ามเนื้อ Extraocular muscles (EOMs) มีหน้าที่หลักและรองแตกต่างกันไป กล้ามเนื้อ Inferior oblique มีหน้าที่หลักในการกลอกตาขึ้น (Elevation) เมื่อตากรอกเข้าด้านใน และมีหน้าที่รองที่สำคัญคือการหมุนตาออกด้านนอก (Lateral rotation หรือ Extorsion)",
+        "state": false
+    },
+    {
+        "problem": "14. When shifting focus from a distant object to a near object, which component of the near triad is mediated by the somatic motor fiber (efferent limb) of CN III?",
+        "img": "",
+        "choices": "Pupillary constriction (miosis)///Lens thickening (bulging)///Medial convergence (adduction)///Pupil dilation (mydriasis)///Zonular ligaments relaxation",
+        "answer": "Medial convergence (adduction)",
+        "select": "",
+        "explain": "Near triad ประกอบด้วย 3 องค์ประกอบ: 1) Pupillary constriction และ 2) Lens bulging/Ciliary muscle contraction (Accommodation) ซึ่งถูกควบคุมโดย Visceral motor fiber (Parasympathetic) ของ CN III และ 3) Medial convergence (การกรอกตาเข้าใน) ซึ่งถูกควบคุมโดย Somatic motor fiber ของ CN III ที่ไปเลี้ยง Medial rectus muscle",
+        "state": false
+    },
+    {
+        "problem": "15. Which structure of the nervous system contains the postganglionic sympathetic cell bodies (ganglia) that send fibers to the dilator pupillae muscle of the iris?",
+        "img": "",
+        "choices": "Ciliary ganglion///Pterygopalatine ganglion///Superior cervical ganglion///Otic ganglion///Edinger-Westphal nucleus",
+        "answer": "Superior cervical ganglion",
+        "select": "",
+        "explain": "ใยประสาท Sympathetic Postganglionic ที่ไปเลี้ยงกล้ามเนื้อ Dilator pupillae (ทำให้รูม่านตาขยาย) และ Superior Tarsal muscle มี Cell body อยู่ที่ Superior Cervical Ganglion ซึ่งเป็น ganglion สุดท้ายของ Sympathetic chain ก่อนที่ใยประสาทจะเดินทางเข้าสู่ลูกตา",
+        "state": false
+    },
+    {
+        "problem": "16. A patient with a chronic history of Glaucoma has had difficulty draining aqueous humor. Which structure in the internal anatomy of the eye is primarily involved in the outflow of aqueous humor?",
+        "img": "",
+        "choices": "Zonular fiber///Canal of Schlemm///Lens capsule///Corneal stroma///Descemet's membrane",
+        "answer": "Canal of Schlemm",
+        "select": "",
+        "explain": "Aqueous humor ถูกสร้างจาก Ciliary epithelium และจะระบายออกทาง Trabecular meshwork ไปสู่ Canal of Schlemm (Scleral venous sinus) ซึ่งทำหน้าที่เป็นท่อระบายหลัก หากท่อนี้เกิดการอุดตันหรือแรงต้านทานการไหลสูงขึ้น จะนำไปสู่ภาวะความดันลูกตาเพิ่มขึ้น (Glaucoma)",
+        "state": false
+    },
+    {
+        "problem": "17. Which cranial nerve carries the afferent (sensory) signal for the corneal reflex, a protective reflex to prevent the cornea from drying out or being injured?",
+        "img": "",
+        "choices": "Oculomotor nerve (CN III)///Facial nerve (CN VII)///Trigeminal nerve (CN V1)///Trigeminal nerve (CN V2)///Optic nerve (CN II)",
+        "answer": "Trigeminal nerve (CN V1)",
+        "select": "",
+        "explain": "Corneal reflex คือการกะพริบตาเมื่อมีการสัมผัสกระจกตา เส้นประสาทที่รับความรู้สึกสัมผัสจากกระจกตา (Afferent limb) คือ Ophthalmic nerve (V1) ซึ่งเป็นแขนงของ Trigeminal nerve (CN V) จากนั้นสัญญาณจะเดินทางไปยัง Spinal trigeminal tract",
+        "state": false
+    },
+    {
+        "problem": "18. The lens of the eye becomes thinner (flattened) to focus on distant objects. This process is caused by the action of which structure?",
+        "img": "",
+        "choices": "Pupillary constrictor muscle relaxing///Radial muscle contracting///Ciliary muscle contracting///Ciliary muscle relaxing///Orbicularis oculi muscle contracting",
+        "answer": "Ciliary muscle relaxing",
+        "select": "",
+        "explain": "การมองวัตถุไกล (Distant focus) Ciliary muscle จะคลายตัว (relax) ทำให้ Zonular fibers ถูกดึงให้ตึง (tense) ซึ่งจะไปดึง Lens capsule ทำให้เลนส์บางลงและแบนลงเพื่อลดกำลังการรวมแสง",
+        "state": false
+    },
+    {
+        "problem": "19. Which structure is the primary output pathway from the occipital lobe that carries visual information to the primary visual cortex?",
+        "img": "",
+        "choices": "Optic tract///Optic chiasm///Optic radiation///Optic nerve///Lateral geniculate nucleus (LGN)",
+        "answer": "Optic radiation",
+        "select": "",
+        "explain": "Optic radiation คือกลุ่มใยประสาทที่ทอดยาวจาก Lateral Geniculate Nucleus (LGN) ไปยัง Primary Visual Cortex (อยู่ใน Occipital lobe) ทำหน้าที่นำสัญญาณภาพที่ผ่านการ Synapse ที่ LGN มายังสมองเพื่อการรับรู้ภาพ",
+        "state": false
+    },
+    {
+        "problem": "20. A patient has loss of sensation over the forehead, upper eyelid, and side of the nose. Which branch of the trigeminal nerve (V1) is responsible for general sensation in this region?",
+        "img": "",
+        "choices": "Lacrimal nerve///Maxillary nerve (V2)///Frontal nerve///Zygomatic nerve///Nasociliary nerve",
+        "answer": "Frontal nerve",
+        "select": "",
+        "explain": "Frontal nerve เป็นแขนงที่ใหญ่ที่สุดของ Ophthalmic nerve (V1) ซึ่งจะแบ่งออกเป็น Supraorbital nerve และ Supratrochlear nerve ทำหน้าที่รับความรู้สึกทั่วไปจากบริเวณหน้าผากและเปลือกตาบนเป็นส่วนใหญ่",
+        "state": false
+    },
+    {
+        "problem": "21. What is the clinical implication of a lesion located at the primary visual cortex in the right cerebral hemisphere?",
+        "img": "",
+        "choices": "Left Monocular vision loss///Bitemporal hemianopsia///Left Homonymous hemianopsia///Right Homonymous hemianopsia///Contralateral inferior quadrantanopia",
+        "answer": "Left Homonymous hemianopsia",
+        "select": "",
+        "explain": "Primary Visual Cortex ที่ Right cerebral hemisphere รับข้อมูลภาพจากลานสายตาซีกซ้าย (Left visual field) ของตาทั้งสองข้าง ดังนั้นรอยโรคที่นี่จะทำให้สูญเสียการมองเห็นลานสายตาซีกซ้ายทั้งหมด เรียกว่า Left Homonymous hemianopsia",
+        "state": false
+    },
+    {
+        "problem": "22. The most crucial structural feature of the fovea centralis that allows for the highest visual acuity is the presence of only which type of photoreceptor cells?",
+        "img": "",
+        "choices": "Rods with blue pigments///Rods with red pigments///Rods with green pigments///Cone cells with multiple pigments///Cone cells only",
+        "answer": "Cone cells only",
+        "select": "",
+        "explain": "Fovea centralis เป็นบริเวณตรงกลางของ Macula lutea ที่ให้ความคมชัดของภาพสูงสุด ลักษณะทางกายวิภาคที่สำคัญคือมีแต่ Cone cells ซึ่งทำงานในที่แสงจ้าและให้ความละเอียดของภาพสูง และไม่มี Rod cells เลย",
+        "state": false
+    },
+    {
+        "problem": "23. What is the primary function of the blood-vessel-rich choroid layer of the internal eye?",
+        "img": "",
+        "choices": "Protecting the retina from light reflection///Nourishing the inner retinal layer///Secreting aqueous humor for pressure regulation///Adjusting lens curvature for focusing///Producing tears for eye surface lubrication",
+        "answer": "Protecting the retina from light reflection",
+        "select": "",
+        "explain": "Choroid เป็นชั้นของหลอดเลือดที่มีเม็ดสี (Pigment) หนาแน่น มีหน้าที่หลักในการดูดซับแสงที่ไม่จำเป็นและป้องกันไม่ให้แสงสะท้อนกลับไปรบกวน Photoreceptor cells ซึ่งจะช่วยให้ภาพที่รับรู้มีความคมชัดและไม่มีแสงฟุ้ง",
+        "state": false
+    },
+    {
+        "problem": "24. Which structure is the gateway that carries all visual information from the optic tract to the optic radiation?",
+        "img": "",
+        "choices": "Medial geniculate nucleus (MGN)///Superior colliculus///Optic chiasm///Lateral geniculate nucleus (LGN)///Pulvinar nucleus of thalamus",
+        "answer": "Lateral geniculate nucleus (LGN)",
+        "select": "",
+        "explain": "Lateral Geniculate Nucleus (LGN) เป็นส่วนหนึ่งของ Thalamus และเป็นสถานีถ่ายทอด (relay station) ของสัญญาณภาพทั้งหมดที่มาจาก Optic tract ก่อนที่จะส่งสัญญาณต่อไปยัง Primary Visual Cortex ผ่านทาง Optic radiation",
+        "state": false
+    },
+    {
+        "problem": "25. The synapse between bipolar cells and ganglion cells occurs in which layer of the retina?",
+        "img": "",
+        "choices": "Outer nuclear layer///Inner nuclear layer///Outer plexiform layer///Inner plexiform layer///Nerve fiber layer",
+        "answer": "Inner plexiform layer",
+        "select": "",
+        "explain": "Retina มี 10 ชั้น ชั้นที่เกิด Synapse ระหว่าง Axon ของ Bipolar cells กับ Dendrite ของ Ganglion cells คือ Inner Plexiform Layer (IPL)",
+        "state": false
+    },
+    {
+        "problem": "26. What is the anatomical landmark that is insensitive to light because it is the exit point of the ganglion cell axons (optic nerve)?",
+        "img": "",
+        "choices": "Fovea centralis///Macula lutea///Ora serrata///Optic disk///Ciliary body",
+        "answer": "Optic disk",
+        "select": "",
+        "explain": "Optic disk คือบริเวณที่ Axon ของ Ganglion cells รวมกันและออกจากลูกตาเพื่อกลายเป็น Optic nerve บริเวณนี้ไม่มี Photoreceptor cells เลย จึงไม่สามารถรับแสงได้ เรียกว่า Blind spot",
+        "state": false
+    },
+    {
+        "problem": "27. A patient with a chronic history of dry eyes due to a disruption of the efferent lacrimation pathway should have a lesion affecting which specific ganglion?",
+        "img": "",
+        "choices": "Ciliary ganglion///Superior cervical ganglion///Otic ganglion///Pterygopalatine ganglion///Trigeminal ganglion",
+        "answer": "Pterygopalatine ganglion",
+        "select": "",
+        "explain": "การหลั่งน้ำตา (lacrimation) ถูกควบคุมโดย Parasympathetic pathway ที่มี Preganglionic fiber มากับ Facial nerve (CN VII) แล้วมา Synapse ที่ Pterygopalatine ganglion จากนั้น Postganglionic fiber จะเดินทางไปเลี้ยง Lacrimal gland การเสียหายของ ganglion นี้จะทำให้การหลั่งน้ำตาบกพร่อง",
+        "state": false
+    },
+    {
+        "problem": "28. Which branch of the Trigeminal nerve (CN V1) carries the postganglionic sympathetic fiber to the dilator pupillae muscle?",
+        "img": "",
+        "choices": "Frontal nerve///Lacrimal nerve///Supratrochlear nerve///Nasociliary nerve///Supraorbital nerve",
+        "answer": "Nasociliary nerve",
+        "select": "",
+        "explain": "ใยประสาท Sympathetic Postganglionic ที่มาจากการ Synapse ที่ Superior Cervical Ganglion จะเดินทางไปกับ Internal Carotid Artery (ICA) และ Long ciliary nerve (ซึ่งเป็นแขนงของ Nasociliary nerve) เพื่อไปยัง Dilator pupillae muscle",
+        "state": false
+    },
+    {
+        "problem": "29. A young child develops a swelling and redness at the inner edge of the lower eyelid due to a chronic infection of the tarsal gland. This condition is known as?",
+        "img": "",
+        "choices": "External hordeolum///Internal hordeolum///Chalazion///Nasolacrimal obstruction///Ptosis",
+        "answer": "Internal hordeolum",
+        "select": "",
+        "explain": "Internal hordeolum (หรือ Meibomian stye) เป็นการติดเชื้อของ Tarsal gland (Meibomian gland) ซึ่งอยู่ลึกเข้าไปใน Tarsal plate ของเปลือกตา",
+        "state": false
+    },
+    {
+        "problem": "30. Which EOM is primarily responsible for performing the functional test action of looking down and in?",
+        "img": "",
+        "choices": "Inferior rectus muscle///Superior oblique muscle///Inferior oblique muscle///Medial rectus muscle///Lateral rectus muscle",
+        "answer": "Superior oblique muscle",
+        "select": "",
+        "explain": "Functional testing ของ Superior Oblique muscle คือการให้ผู้ป่วยกรอกตาลงล่างและเข้าใน (Depression in Adduction) เนื่องจากกล้ามเนื้อ Superior Oblique มีหน้าที่ Depression เมื่อตาอยู่ในท่า Adduction",
+        "state": false
+    },
+    {
+        "problem": "31. A lesion to the lateral rectus muscle on the right side, innervated by the Abducens nerve (CN VI), would result in the right eye being held in which position when attempting a primary gaze?",
+        "img": "",
+        "choices": "Medially (Adducted)///Laterally (Abducted)///Down and out///Up and out///Down and in",
+        "answer": "Medially (Adducted)",
+        "select": "",
+        "explain": "เมื่อ Lateral rectus muscle (ทำหน้าที่ Abduction) ด้านขวาเป็นอัมพาต จะเหลือ Medial rectus muscle (ทำหน้าที่ Adduction) ที่เลี้ยงโดย CN III ทำงานอยู่ฝ่ายเดียว ทำให้ตาถูกดึงเข้าด้านใน (Adducted) หรือเหล่เข้าด้านใน",
+        "state": false
+    },
+    {
+        "problem": "32. The ocular motor nuclei (CN III, IV, VI) receive signals from which fasciculus to coordinate the Vestibulo-Ocular Reflex (VOR) for conjugate eye movement?",
+        "img": "",
+        "choices": "Medial vestibulospinal tract///Lateral vestibulospinal tract///Medial longitudinal fasciculus (MLF)///Lateral lemniscus///Corticobulbar tract",
+        "answer": "Medial longitudinal fasciculus (MLF)",
+        "select": "",
+        "explain": "Medial Longitudinal Fasciculus (MLF) เป็นเส้นใยประสาทที่เชื่อมต่อ Vestibular nuclei กับ Oculomotor nuclei (CN III, IV, VI) ซึ่งเป็นทางหลักในการส่งสัญญาณเพื่อควบคุม Conjugate eye movement เช่น VOR",
+        "state": false
+    },
+    {
+        "problem": "33. Which structure is the final target of postganglionic parasympathetic fibers that control pupillary constriction (miosis)?",
+        "img": "",
+        "choices": "Dilator pupillae muscle///Ciliary muscle///Superior tarsal muscle///Radial muscle of iris///Circular muscle of iris",
+        "answer": "Circular muscle of iris",
+        "select": "",
+        "explain": "ใยประสาท Parasympathetic Postganglionic (จาก Short ciliary n.) จะไปเลี้ยง Circular muscle of iris หรือ Sphincter pupillae muscle ซึ่งเมื่อกล้ามเนื้อนี้หดตัวจะทำให้รูม่านตาหดตัว (miosis)",
+        "state": false
+    },
+    {
+        "problem": "34. A patient is found to have difficulty blinking and keeping his left eye lubricated. This suggests a motor deficit in the efferent limb of the corneal reflex involving which nerve?",
+        "img": "",
+        "choices": "Left Oculomotor nerve (CN III)///Left Optic nerve (CN II)///Left Facial nerve (CN VII)///Left Trochlear nerve (CN IV)///Left Trigeminal nerve (CN V1)",
+        "answer": "Left Facial nerve (CN VII)",
+        "select": "",
+        "explain": "Efferent limb ของ Corneal reflex คือ Facial nerve (CN VII) ที่ไปเลี้ยง Orbicularis oculi muscle ซึ่งทำหน้าที่ในการปิดเปลือกตาและกะพริบตา การเสียหายของ CN VII จะทำให้ผู้ป่วยไม่สามารถปิดตาได้สนิทและไม่มีรีเฟล็กซ์กะพริบตา",
+        "state": false
+    },
+    {
+        "problem": "35. The movement that results in both eyes moving together to focus on the same target is defined as?",
+        "img": "",
+        "choices": "Vergence eye movement///Smooth pursuit eye movement///Nystagmus eye movement///Saccadic eye movement///Conjugate eye movement",
+        "answer": "Conjugate eye movement",
+        "select": "",
+        "explain": "Conjugate eye movement คือการเคลื่อนไหวของดวงตาทั้งสองข้างไปในทิศทางเดียวกันในเวลาเดียวกันเพื่อจับภาพเป้าหมายเดียวกัน เช่น การมองซ้ายหรือมองขวา ส่วน Vergence eye movement เป็นการเคลื่อนไหวที่ดวงตาทั้งสองข้างเคลื่อนที่เข้าหรือออกจากกัน (Deconjugated)",
+        "state": false
+    },
+    {
+        "problem": "36. Damage to the primary visual cortex (Brodmann area 17) in one hemisphere usually results in what type of complete visual field defect?",
+        "img": "",
+        "choices": "Monocular vision loss///Bitemporal hemianopsia///Contralateral homonymous hemianopsia///Contralateral superior quadrantanopia///Contralateral inferior quadrantanopia",
+        "answer": "Contralateral homonymous hemianopsia",
+        "select": "",
+        "explain": "Primary Visual Cortex (V1) คือจุดรับภาพสุดท้ายใน Occipital lobe ซึ่งรับสัญญาณภาพจากครึ่งลานสายตาซีกตรงข้าม การเสียหายของ V1 ทั้งหมดในซีกใดซีกหนึ่งจะทำให้สูญเสียการมองเห็นลานสายตาครึ่งซีกด้านตรงข้ามอย่างถาวร เรียกว่า Contralateral homonymous hemianopsia",
+        "state": false
+    },
+    {
+        "problem": "37. A patient with a midbrain lesion presents with Upward Gaze Palsy and pupillary abnormalities. The initial 'start signal' for vertical gaze control originates from which structure in the midbrain tegmentum?",
+        "img": "",
+        "choices": "Oculomotor nucleus (CN III)///Trochlear nucleus (CN IV)///Rostral interstitial nucleus of MLF (riMLF)///Interstitial nucleus of Cajal (INC)///Abducens nucleus (CN VI)",
+        "answer": "Interstitial nucleus of Cajal (INC)",
+        "select": "",
+        "explain": "Vertical Gaze Control อาศัยการทำงานของ Internuclear of Cajal (INC) เป็นจุดเริ่มต้นในการส่งสัญญาณสั่งการ Vertical gaze โดย INC จะส่งสัญญาณไปยัง Rostral interstitial nucleus of the MLF (riMLF) ซึ่ง riMLF เป็นตัวควบคุมที่ส่งสัญญาณต่อไปยัง Oculomotor และ Trochlear nuclei",
+        "state": false
+    },
+    {
+        "problem": "38. Which EOM is tested by having the patient attempt to look up and out, a movement that is primarily elevation in the abducted position?",
+        "img": "",
+        "choices": "Superior rectus muscle///Inferior rectus muscle///Medial rectus muscle///Inferior oblique muscle///Superior oblique muscle",
+        "answer": "Superior rectus muscle",
+        "select": "",
+        "explain": "Functional testing ของ Superior Rectus muscle คือการให้ผู้ป่วยกรอกตาขึ้นและออกนอก (Elevation in Abduction) ซึ่งเป็นหน้าที่หลักของกล้ามเนื้อมัดนี้",
+        "state": false
+    },
+    {
+        "problem": "39. The most common cause of unilateral adduction defect and contralateral abducting nystagmus (Typical INO) is a lesion to which structure?",
+        "img": "",
+        "choices": "Ciliary ganglion///Optic chiasm///Trochlear nerve nucleus///Medial longitudinal fasciculus///Superior colliculus",
+        "answer": "Medial longitudinal fasciculus",
+        "select": "",
+        "explain": "Typical Internuclear Ophthalmoplegia (INO) มีอาการ Adduction defect ที่ตาข้างเดียวกับรอยโรค และมี Nystagmus ที่ตาอีกข้างที่ Abduct ออกไป ซึ่งเป็นลักษณะที่เกิดจากรอยโรคที่ Medial Longitudinal Fasciculus (MLF) ด้านเดียว",
+        "state": false
+    },
+    {
+        "problem": "40. Sensory fibers from the lacrimal gland, part of the accessory structures, travel with which specific nerve branch that passes through the superior orbital fissure (SOF)?",
+        "img": "",
+        "choices": "Infraorbital nerve///Maxillary nerve (V2)///Frontal nerve///Lacrimal nerve (V1*)///Supratrochlear nerve",
+        "answer": "Lacrimal nerve (V1*)",
+        "select": "",
+        "explain": "Lacrimal nerve เป็นแขนงของ Ophthalmic nerve (V1) ที่รับความรู้สึกทั่วไป (Sensory) จากต่อมน้ำตา (Lacrimal gland) และผิวหนังบริเวณเปลือกตาบนด้านข้าง โดย Lacrimal nerve จะวิ่งผ่าน Superior Orbital Fissure (SOF) เพื่อเข้าสู่เบ้าตา",
+        "state": false
+    },
+    {
+        "problem": "1. A 70-year-old patient presents with progressive vision loss and pain, often worse in the morning. Physical examination reveals an increased intraocular pressure. The pathogenesis is most directly related to dysfunction in which structure of the aqueous humor outflow pathway?",
+        "img": "",
+        "choices": "Ciliary process epithelia///Canal of Schlemm///Extraocular vein///Posterior chamber///Trabeculae meshwork",
+        "answer": "Trabeculae meshwork",
+        "select": "",
+        "explain": "ตอหิน (Glaucoma) ส่วนใหญเกิดจากการระบายออกของน้ำเลี้ยงลูกตา (aqueous humor) ลดลง ตำแหน่งที่น้ำเลี้ยงลูกตาไหลผานเพื่อออกจากตาไปสู Canal of Schlemm คือ Trabeculae meshwork การอุดตันหรือความผิดปกติของโครงสรางนี้เป็นกลไกหลักที่ทำใหความดันในลูกตาเพิ่มสูงขึ้น",
+        "state": false
+    },
+    {
+        "problem": "2. Which of the following best describes the cleansing mechanism for maintaining the clarity of the trabecular spaces and intraocular fluid?",
+        "img": "",
+        "choices": "Active transport of macrophages into the anterior chamber///Phagocytic system involving endothelial cells in the Canal of Schlemm///Enzyme-mediated degradation of cellular debris in the aqueous humor///Absorption via the choroid plexus and diffusion through the lens///Filtration by reticuloendothelial cells of the ciliary body",
+        "answer": "Phagocytic system involving endothelial cells in the Canal of Schlemm",
+        "select": "",
+        "explain": "การทำความสะอาดทางเดินของน้ำเลี้ยงลูกตา (Cleansing mechanism) เกิดขึ้นโดยระบบฟาโกไซต (Phagocytic system) ที่มีเซลลผิวของ trabecular plate (Phagocytic cells) และ interstitial gel ของ Canal of Schlemm (Reticuloendothelial cells) ทำหน้าที่กำจัดเศษซากและเซลลที่ตายแล้ว",
+        "state": false
+    },
+    {
+        "problem": "3. Which of the following is the correct pathway for the bulk flow of aqueous humor before it exits the eye?",
+        "img": "",
+        "choices": "Ciliary process → Posterior chamber → Canal of Schlemm → Anterior chamber///Ciliary process → Anterior chamber → Posterior chamber → Trabeculae meshwork///Ciliary process → Posterior chamber → Anterior chamber → Trabeculae meshwork///Ciliary muscle → Canal of Schlemm → Trabeculae meshwork → Extraocular vein///Posterior chamber → Anterior chamber → Choroid plexus → Canal of Schlemm",
+        "answer": "Ciliary process → Posterior chamber → Anterior chamber → Trabeculae meshwork",
+        "select": "",
+        "explain": "น้ำเลี้ยงลูกตา (Aqueous humor) ถูกสรางโดย Ciliary process → ไหลสู Posterior chamber (ระหวางเลนสและ iris) → ผานรูมานตา (pupil) เขามาที่ Anterior chamber (ระหวาง cornea และ iris) → และระบายออกผาน Trabeculae meshwork และ Canal of Schlemm",
+        "state": false
+    },
+    {
+        "problem": "4. When a student shifts focus from the whiteboard (distant) to a textbook (near), which combination of ciliary muscle action and lens change occurs to achieve sharp focus?",
+        "img": "",
+        "choices": "Ciliary muscle relaxes and lens becomes thinner///Ciliary muscle relaxes and lens becomes thicker///Ciliary muscle contracts and lens becomes thinner///Ciliary muscle contracts and lens becomes thicker///Suspensory ligaments tense and lens becomes thicker",
+        "answer": "Ciliary muscle contracts and lens becomes thicker",
+        "select": "",
+        "explain": "การเพงมองวัตถุใกล (Accommodation) เป็นสภาวะที่ Ciliary muscle หดตัว (Contraction) ทำให้ Suspensory ligament คลายตัว (Relax) เลนสจึงนูนขึ้น (Lens thickening) เพื่อเพิ่มกำลังการหักเหของแสงให้ภาพตกบนจอตาพอดี",
+        "state": false
+    },
+    {
+        "problem": "5. Which anatomical structure is responsible for the 'Physical change: Lens thinning' when viewing a far object, as described in the slide?",
+        "img": "",
+        "choices": "Relaxation of the ciliary muscle///Contraction of the pupillary sphincter///Tension of the suspensory ligaments///Contraction of the radial fibers of the iris///Increased aqueous humor pressure",
+        "answer": "Tension of the suspensory ligaments",
+        "select": "",
+        "explain": "เมื่อมองวัตถุไกล (Far vision) Ciliary muscle จะคลายตัว (Relax) ทำให้ Suspensory ligament ถูกดึงให้ตึง (Tense) แรงดึงนี้จะดึงเลนสใหแบนลง (Lens thinning) เพื่อลดกำลังการหักเหของแสง",
+        "state": false
+    },
+    {
+        "problem": "6. A patient is exposed to a sudden bright light. The resulting miosis is achieved by the parasympathetic system through the contraction of which muscle?",
+        "img": "",
+        "choices": "Ciliary muscle///Superior rectus muscle///Dilator pupillae muscle///Sphincter of the iris///Radial fiber of iris",
+        "answer": "Sphincter of the iris",
+        "select": "",
+        "explain": "Miosis คือการหดตัวของรูมานตาเพื่อลดปริมาณแสงที่เขาสูตา กลไกเกิดจากการหดตัวของกลามเนื้อ Sphincter of the iris (Pupillary constrictor) ซึ่งถูกควบคุมโดยระบบประสาท Parasympathetic fibers จาก Oculomotor nerve (CN III)",
+        "state": false
+    },
+    {
+        "problem": "7. In a dark environment, the sympathetic nervous system initiates mydriasis by causing the contraction of which muscle fibers?",
+        "img": "",
+        "choices": "Ciliary muscle fibers///Pupillary sphincter fibers///Radial fiber of iris contraction///Short ciliary nerves contraction///Superior oblique muscle fibers",
+        "answer": "Radial fiber of iris contraction",
+        "select": "",
+        "explain": "Mydriasis คือการขยายตัวของรูมานตาเพื่อเพิ่มปริมาณแสงที่เขาสูตาในที่มืด กลไกเกิดจากการหดตัวของ Radial fiber of the iris (Pupillary dilator) ซึ่งถูกควบคุมโดยระบบประสาท Sympathetic fibers จาก Superior cervical ganglion",
+        "state": false
+    },
+    {
+        "problem": "8. An older patient complains of difficulty reading small print (presbyopia). The physiological mechanism primarily responsible for this age-related condition is the irreversible change in which parameter?",
+        "img": "",
+        "choices": "Inelasticity of the lens///Contraction of the sphincter of the iris///Relaxation of the suspensory ligament///Damage to the radial fibers of the iris///Atrophy of the ciliary muscle",
+        "answer": "Inelasticity of the lens",
+        "select": "",
+        "explain": "Presbyopia หรือสายตายาวตามอายุ เกิดจากเลนสตาขาดความยืดหยุน (Lens hardening/Inelasticity) ทำใหไมสามารถนูนขึ้นไดเพียงพอในขณะเพงมองใกล (Accommodation) แมวา ciliary muscle จะหดตัวตามปกติก็ตาม",
+        "state": false
+    },
+    {
+        "problem": "9. When a person moves from a bright room to a dark room, the process of 'dark adaptation' begins. The key event in the photoreceptor cells is the increasing synthesis of which light-sensitive pigment?",
+        "img": "",
+        "choices": "Photopsin from 11-cis retinal and opsin///Photopsin from all-trans retinal and opsin///Rhodopsin from 11-cis retinal and scotopsin///Rhodopsin from all-trans retinal and scotopsin///Scotopsin from all-trans retinol and opsin",
+        "answer": "Rhodopsin from 11-cis retinal and scotopsin",
+        "select": "",
+        "explain": "ในภาวะแสงนอย (Night vision) Rod cells จะทำงานและเกิดกระบวนการ Dark adaptation ที่มีการสรางสารสี Rhodopsin ขึ้นใหมโดยการรวมตัวของ Scotopsin (โปรตีน) และ 11-cis retinal",
+        "state": false
+    },
+    {
+        "problem": "10. The highest visual acuity (sharpness of vision) is achieved at the fovea due to which specific characteristic of the neural circuitry in that area?",
+        "img": "",
+        "choices": "High density of Rod cells and absence of blood vessels///Convergence signal from multiple photoreceptors to one ganglion cell///One-to-one connection between photoreceptor, bipolar, and ganglion cells///Inhibition of horizontal cells by the bipolar cells///Exclusive presence of M-cones and L-cones",
+        "answer": "One-to-one connection between photoreceptor, bipolar, and ganglion cells",
+        "select": "",
+        "explain": "Fovea มีความคมชัดของการมองเห็นสูงที่สุดเพราะประกอบด้วย Cone cells เท่านั้น และที่สำคัญคือมีการเชื่อมตอของเซลลประสาทแบบ One-to-one signal (Cone cell → Bipolar cell → Ganglion cell) ทำใหไมมีการรวมสัญญาณ (no convergence) จึงมีความละเอียดสูง",
+        "state": false
+    },
+    {
+        "problem": "11. A patient with severe Vitamin A deficiency is most likely to suffer from 'Night blindness' due to the deficiency of which metabolic intermediate essential for rhodopsin regeneration?",
+        "img": "",
+        "choices": "all-trans retinal///all-trans retinol///Scotopsin///11-cis retinol///11-cis retinal",
+        "answer": "11-cis retinol",
+        "select": "",
+        "explain": "Vitamin A (Retinol) เป็นสารตั้งตนที่สำคัญในการสราง Rhodopsin (สารสีสำหรับการมองเห็นในที่มืด) โดยเฉพาะ 11-cis retinol เป็นสารตัวกลางที่จำเป็นในการสงเคราะห์ 11-cis retinal ซึ่งนำไปรวมกับ Scotopsin เพื่อสราง Rhodopsin ดังนั้นการขาด Vitamin A จะนำไปสูภาวะ Night blindness",
+        "state": false
+    },
+    {
+        "problem": "12. The first synapse in the retina, where the photoreceptor cells transmit the visual signal to the second-order neurons (bipolar and horizontal cells), occurs in which retinal layer?",
+        "img": "",
+        "choices": "Inner plexiform layer///Outer plexiform layer///Inner nuclear layer///Outer nuclear layer///Ganglion cell layer",
+        "answer": "Outer plexiform layer",
+        "select": "",
+        "explain": "จอประสาทตาแบงเป็นชั้นๆ Synapse แรกเกิดขึ้นที่ Outer plexiform layer โดยเป็นการเชื่อมตอระหวาง Photoreceptor layer และ Bipolar cell layer",
+        "state": false
+    },
+    {
+        "problem": "13. A stroke patient presents with loss of half of the visual field on the side opposite to the lesion (contralateral homonymous hemianopsia). The lesion is most likely located in which cortical area supplied by the posterior cerebral artery (PCA)?",
+        "img": "",
+        "choices": "Secondary visual cortex///Lateral geniculate body///Primary visual cortex///Inferior colliculus///Optic radiation (Meyer's loop)",
+        "answer": "Primary visual cortex",
+        "select": "",
+        "explain": "Primary visual cortex (Brodmann area 17) ซึ่งอยูใน Occipital lobe ทำหน้าที่รับภาพจากลานสายตาทั้งหมดของซีกตรงขาม การบาดเจ็บที่บริเวณนี้จะทำใหเกิดภาวะ Contralateral homonymous hemianopsia ส่วน Meyer's loop (Optic radiation) เสีย จะทำใหเสียการมองเห็นแคเสี้ยวเดียว (Quadrantanopia)",
+        "state": false
+    },
+    {
+        "problem": "14. Compression of the optic chiasm, most commonly by a pituitary tumor, is expected to cause which distinct visual field defect?",
+        "img": "",
+        "choices": "Monocular blindness///Right homonymous hemianopsia///Left inferior quadrantanopia///Bitemporal hemianopsia///Binasal hemianopsia",
+        "answer": "Bitemporal hemianopsia",
+        "select": "",
+        "explain": "Optic chiasm เป็นจุดไขว้ของใยประสาทจาก nasal retina (รับภาพจากลานสายตาด้านขาง) การกดทับที่ตำแหน่งนี้จะทำลายใยประสาทที่ไขวกัน ทำใหเกิดการสูญเสียลานสายตาด้านนอกของตาทั้งสองข้าง (Bitemporal hemianopsia)",
+        "state": false
+    },
+    {
+        "problem": "15. A patient with Parkinson's disease shows difficulty in keeping their eyes fixed on a stationary object, experiencing unwanted drifting of the eyes. This indicates bilateral dysfunction in which control mechanism?",
+        "img": "",
+        "choices": "Voluntary fixation mechanism///Vesibulocollic reflex///Optokinetic reflex///Involuntary fixation mechanism///Smooth pursuit movement",
+        "answer": "Involuntary fixation mechanism",
+        "select": "",
+        "explain": "Involuntary fixation mechanism มีหนาที่ในการตรึงสายตา (Hold the eyes on the object) ใหอยูบนวัตถุที่จองมองโดยอัตโนมัติ การทำงานของระบบนี้ตองอาศัย Secondary visual area ใน occipital cortex การทำงานที่ผิดปกติของระบบนี้จะทำให้เกิด Unwanted drifting of the eyes",
+        "state": false
+    },
+    {
+        "problem": "16. Which of the following best describes the function of the Voluntary fixation mechanism in controlling eye movement?",
+        "img": "",
+        "choices": "Keeping the eye focused on a moving object across the visual field///Maintaining eye stability despite head movement (VOR)///Rapidly shifting the eye to a new target (saccade)///Fixing the fovea on a chosen object of interest///Preventing image blurring due to unintended eye drifts",
+        "answer": "Fixing the fovea on a chosen object of interest",
+        "select": "",
+        "explain": "Voluntary fixation mechanism มีหนาที่ในการกำหนดและตรึงสายตาไปยังวัตถุที่เลือกดวยความตั้งใจ (Fix the vision at the object) ซึ่งควบคุมโดย Premotor cortical regions การที่ระบบนี้ทำงานผิดปกติในสองซีกจะทำให้เกิดภาวะ Difficult to unlock",
+        "state": false
+    },
+    {
+        "problem": "17. An infarction in the lateral geniculate body (LGB) of the thalamus in the right hemisphere is most likely to cause which visual deficit?",
+        "img": "",
+        "choices": "Loss of visual detail and color perception in the left visual field///Total blindness in the right eye only///Loss of half of the visual field on the right (right homonymous hemianopsia)///Loss of visual detail and color perception in the right visual field///Tunnel vision with preserved central acuity",
+        "answer": "Loss of visual detail and color perception in the left visual field",
+        "select": "",
+        "explain": "Lateral geniculate body (LGB) ทำหนาที่เป็นสถานีถ่ายทอดของขอมูลทางสายตา (Visual detail Color) กอนจะสงไป Primary visual cortex ขอมูลจากลานสายตาซีกซ้ายจะถูกประมวลผลที่สมองซีกขวา การเสียหายที่ LGB ขวา จึงสงผลกระทบตอการประมวลผลขอมูลสายตาซีกซ้าย",
+        "state": false
+    },
+    {
+        "problem": "18. A driver determines that the upcoming car is still far away because the car's image on the retina is moving slowly in the opposite direction of the driver's head movement. This distance perception relies on which key mechanism?",
+        "img": "",
+        "choices": "Retinal Image Size comparison with known objects///Parallax Low signal from Binocular Vision///Parallax Low signal from Motion Parallax///Binocular disparity of the retinal images///Accommodation depth of field",
+        "answer": "Parallax Low signal from Motion Parallax",
+        "select": "",
+        "explain": "Motion Parallax (Moving Parallax) เป็นหลักการมองเห็นระยะทางแบบตาเดียว (Monocular) โดยใชความเร็วในการเคลื่อนที่ของภาพวัตถุบนจอตาเมื่อศีรษะเคลื่อนที่ วัตถุที่อยู่ไกลจะเคลื่อนที่ชา (Low Parallax) หรือเกือบไมเคลื่อนที่",
+        "state": false
+    },
+    {
+        "problem": "19. The concept of 'Binocular Disparity' allows humans to perceive depth (Stereopsis). Which key physiological event underlies this process?",
+        "img": "",
+        "choices": "Convergence of the eyes causing increased pupillary light reflex///The brain calculates depth based on the small difference between the retinal images of the two eyes///Vertical rotation of the eyes to adjust for visual interference///The difference in illumination between the two retinas///Rapid alternation of the visual input to the thalamus",
+        "answer": "The brain calculates depth based on the small difference between the retinal images of the two eyes",
+        "select": "",
+        "explain": "Binocular Vision (Stereopsis) อาศัยขอมูลภาพที่ตาซ้ายและตาขวาเห็นตางกันเล็กนอย (Binocular disparity) สมองจะใชขอมูลความแตกตางนี้มาคำนวณระยะทางและความลึกของวัตถุ",
+        "state": false
+    },
+    {
+        "problem": "20. Which statement correctly applies the concept of 'Retinal Image Size' in the determination of distance?",
+        "img": "",
+        "choices": "The size of an object is compared to the length of the suspensory ligaments///An object further away forms a larger image on the retina///An object closer to the eye forms a larger image on the retina///The size of the image is inversely proportional to the degree of lens thinning///The retinal image size is directly proportional to visual acuity",
+        "answer": "An object closer to the eye forms a larger image on the retina",
+        "select": "",
+        "explain": "Retinal Image Size เป็นหลักการมองเห็นระยะทางแบบตาเดียว (Monocular) ที่พิจารณาจากขนาดของภาพที่ตกลงบนจอตา วัตถุที่อยู่ใกล (Closer) จะมีภาพที่ใหญ่ (Larger image) บนจอตา เมื่อเทียบกับขนาดปกติที่รูจัก หรือวัตถุอื่นที่อยูไกลออกไป",
+        "state": false
+    }
+
+    ],
+    "Vestibulo-Auditory by AI": [{
+        "problem": "1. A 60-year-old patient presents with sensorineural hearing loss and acute vertigo, but no facial paralysis. The lesion is primarily affecting the nerve fibers within the internal acoustic meatus. Which structure is likely compressed, leading to the auditory symptoms?",
+        "img": "",
+        "choices": "Facial nerve (CN VII) fibers///Cochlear nerve (CN VIII) fibers///Labyrinthine artery (AICA branch)///Vestibular nerve (CN VIII) fibers///Tensor tympani muscle",
+        "answer": "Cochlear nerve (CN VIII) fibers",
+        "select": "",
+        "explain": "อาการหูตึง (Hearing loss) และเวียนศีรษะ (Vertigo) บ่งชี้ถึงความผิดปกติของ Vestibulocochlear nerve (CN VIII) การที่ไม่มีอัมพาตใบหน้า (Facial paralysis) ชี้ว่ารอยโรคยังจำกัดอยู่ที่ Cochlear nerve และ Vestibular nerve ส่วน Cochlear nerve มีหน้าที่หลักในการนำสัญญาณเสียง"
+    },
+    {
+        "problem": "2. A patient with Bell’s palsy is experiencing hyperacusis (annoyingly loud sounds). Which specific muscle and its innervation are primarily responsible for this auditory symptom?",
+        "img": "",
+        "choices": "Tensor tympani muscle, CN V3 branch///Auricular muscles, CN VII temporal branch///Stapedius muscle, CN VII nerve to stapedius///External auditory meatus, CN V3 branch///Malleus muscles, CN V3 branch",
+        "answer": "Stapedius muscle, CN VII nerve to stapedius",
+        "select": "",
+        "explain": "Hyperacusis หรือภาวะเสียงดังกว่าปกติ เกิดจากกล้ามเนื้อ Stapedius อัมพาต กล้ามเนื้อมัดนี้ทำหน้าที่ดึงกระดูก Stapes เพื่อลดการสั่นสะเทือนของเสียงดังและลดความเสียหายของหูชั้นใน ซึ่งกล้ามเนื้อนี้ถูกเลี้ยงโดย Nerve to stapedius ที่เป็นแขนงของ Facial nerve (CN VII)"
+    },
+    {
+        "problem": "3. Which division of the inner ear, contained within the bony labyrinth, is specialized to detect linear acceleration and the static position of the head relative to gravity?",
+        "img": "",
+        "choices": "Utricle and saccule components///Anterior semicircular duct///Scala vestibuli and scala tympani///Posterior semicircular duct///Lateral semicircular duct",
+        "answer": "Utricle and saccule components",
+        "select": "",
+        "explain": "Vestibule ซึ่งเป็นส่วนของ Bony labyrinth ประกอบด้วย Utricle และ Saccule ซึ่งภายในมี Sensory organ ที่เรียกว่า Macula ทำหน้าที่ตรวจจับ Linear acceleration (เช่น การขึ้นลงลิฟต์, ขับรถทางตรง) และ Static equilibrium (ตำแหน่งศีรษะเมื่อเทียบกับแรงโน้มถ่วง)"
+    },
+    {
+        "problem": "4. A diver reports ear pain during descent due to failure in pressure equalization between the middle ear and the nasopharynx. Which anatomical structure is responsible for this function?",
+        "img": "",
+        "choices": "Tympanic membrane///Tympanic plexus (CN IX)///Epitympanic recess///External acoustic meatus///Eustachian tube",
+        "answer": "Eustachian tube",
+        "select": "",
+        "explain": "Eustachian tube หรือ Auditory tube ทำหน้าที่เชื่อมต่อหูชั้นกลาง (Tympanic cavity) กับโพรงหลังจมูก (Nasopharynx) มีบทบาทสำคัญในการปรับความดันอากาศในหูชั้นกลางให้เท่ากับความดันบรรยากาศภายนอก"
+    },
+    {
+        "problem": "5. Which anatomical structure forms the roof (tegmental wall) of the middle ear cavity and separates it from the middle cranial fossa?",
+        "img": "",
+        "choices": "Promontory of the labyrinthine wall///Mastoid antrum wall///Tympanic nerve (CN IX)///Tegmen tympani (temporal bone)///Jugular wall (floor)",
+        "answer": "Tegmen tympani (temporal bone)",
+        "select": "",
+        "explain": "Tegmen tympani คือแผ่นกระดูกบางๆ ที่เป็นส่วนหนึ่งของ Petrous temporal bone ทำหน้าที่เป็นหลังคา (Roof หรือ Tegmental wall) ของ Tympanic cavity และกั้นมันออกจาก Middle cranial fossa ซึ่งมีสมองอยู่"
+    },
+    {
+        "problem": "6. A patient is found to have conductive hearing loss. Which structure in the middle ear is primarily responsible for amplifying sound waves transferred from the tympanic membrane to the oval window?",
+        "img": "",
+        "choices": "Tympanic membrane///Stapedius muscle///Ear ossicles (Malleus, Incus, Stapes)///Eustachian tube opening///Lateral semicircular canal",
+        "answer": "Ear ossicles (Malleus, Incus, Stapes)",
+        "select": "",
+        "explain": "Ear ossicles (กระดูกหูสามชิ้น) ทำหน้าที่เป็นคานงัดเพื่อเพิ่มแรงกดและลดพื้นที่ในการส่งผ่านคลื่นเสียงจากเยื่อแก้วหูที่มีพื้นที่มากไปยัง Oval window ที่มีพื้นที่น้อยกว่า ทำให้เกิดการขยายเสียง (Amplify sound) ซึ่งเป็นหน้าที่หลักของหูชั้นกลางในการนำเสียง"
+    },
+    {
+        "problem": "7. What is the correct sequence of signal transmission from hair cells to the central nervous system in the auditory pathway?",
+        "img": "",
+        "choices": "Cochlear duct → Spiral ganglion → Dorsal cochlear nuc. → MGB///Oval window → Cochlear n. → Inferior colliculus → BA 41///Inner hair cells → Spiral ganglion → Vestibular nuc. → MGB///Outer hair cells → Cochlear n. → Superior olivary nuc. → BA 42///Basilar membrane → Cochlear n. → Trapezoid body → BA 41",
+        "answer": "Cochlear duct → Spiral ganglion → Dorsal cochlear nuc. → MGB",
+        "select": "",
+        "explain": "สัญญาณเสียงถูกรับโดย Inner hair cells ใน Cochlear duct จากนั้นส่งไปยัง Bipolar cells ที่รวมกันเป็น Spiral ganglion (ตัวเซลล์ประสาทรับเสียง) แล้วเข้าสู่ Cochlear nerve ไปยัง Cochlear nuclei (Ventral/Dorsal) ก่อนจะส่งต่อไปยัง Superior olivary nucleus, Inferior colliculus, Medial geniculate body (MGB), และ Primary Auditory Cortex (BA 41, 42)"
+    },
+    {
+        "problem": "8. A lesion in which brainstem nucleus would most specifically impair a patient's ability to localize the source of a sound in space?",
+        "img": "",
+        "choices": "Inferior colliculus///Superior olivary nucleus (SON)///Lateral lemniscus nucleus///Medial geniculate body (MGB)///Dorsal cochlear nucleus",
+        "answer": "Superior olivary nucleus (SON)",
+        "select": "",
+        "explain": "Superior Olivary Nucleus (SON) ใน Pons เป็นจุดแรกใน Auditory pathway ที่ได้รับ Input จากหูทั้งสองข้าง (Bilateral) ทำหน้าที่ประมวลผลความแตกต่างของเวลาและความดังของเสียงที่มาถึงหูแต่ละข้าง ซึ่งมีความสำคัญสูงสุดในการระบุตำแหน่งของแหล่งกำเนิดเสียง (Sound localization)"
+    },
+    {
+        "problem": "9. In the cochlea, which anatomical structure is stiffest and most responsive to high-frequency sound waves?",
+        "img": "",
+        "choices": "Apex of the cochlear duct///Base of the cochlear duct///Helicotrema///Vestibular membrane///Modiolus",
+        "answer": "Base of the cochlear duct",
+        "select": "",
+        "explain": "Basilar membrane ที่บริเวณฐาน (Base) ของ Cochlea มีความแคบและตึงมากที่สุด จึงมีความถี่เรโซแนนซ์สูงและไวต่อเสียงความถี่สูง (High-frequency sound) ส่วนบริเวณยอด (Apex) จะกว้างและยืดหยุ่นกว่า จึงไวต่อเสียงความถี่ต่ำ"
+    },
+    {
+        "problem": "10. Which primary sensory organ is responsible for detecting the rotational movement of the head, such as the initial sensation felt when spinning around?",
+        "img": "",
+        "choices": "Macula sacculi///Crista ampullaris///Macula utriculi///Spiral organ of Corti///Modiolus",
+        "answer": "Crista ampullaris",
+        "select": "",
+        "explain": "Crista ampullaris เป็น Sensory organ ที่อยู่ภายใน Ampulla ของ Semicircular canals ทำหน้าที่ตรวจจับการหมุนของศีรษะ (Angular acceleration) โดยการเคลื่อนที่ของ Endolymph จะไปผลัก Cupula และกระตุ้น Hair cells"
+    },
+    {
+        "problem": "11. A 45-year-old woman is diagnosed with Benign Paroxysmal Positional Vertigo (BPPV). The underlying mechanism involves the abnormal detachment and movement of which cellular structures?",
+        "img": "",
+        "choices": "Stapes ossicle///Cupula of the cristae///Basilar membrane///Otoliths (otoconia) of the maculae///Tectorial membrane",
+        "select": "",
+        "answer": "Otoliths (otoconia) of the maculae",
+        "explain": "BPPV เกิดจากการที่ผลึกแคลเซียมคาร์บอเนตที่เรียกว่า Otoliths (Otoliths/Otoconia) ซึ่งปกติอยู่บน Macula ของ Utricle และ Saccule หลุดออกมาและลอยเข้าไปอยู่ใน Semicircular canals ทำให้เกิดอาการเวียนศีรษะเมื่อมีการเปลี่ยนท่าทาง"
+    },
+    {
+        "problem": "12. A patient presents with gait instability that worsens in the dark. This suggests impaired integration of sensory input crucial for balance. The vestibular system integrates information with which two other systems to maintain body balance?",
+        "img": "",
+        "choices": "Auditory and gustatory systems///Olfactory and visual systems///Proprioceptive and visual systems///Auditory and somatosensory systems///Olfactory and gustatory systems",
+        "answer": "Proprioceptive and visual systems",
+        "select": "",
+        "explain": "การทรงตัว (Balance) ต้องอาศัยการทำงานร่วมกันของ 3 ระบบหลัก คือ 1. Vestibular system 2. Visual system (การมองเห็น) และ 3. Somatosensory system (Proprioception หรือการรับรู้ตำแหน่งของข้อต่อและกล้ามเนื้อ) อาการเซในที่มืดบ่งชี้ถึงความบกพร่องในการทำงานร่วมกันของระบบเหล่านี้"
+    },
+    {
+        "problem": "13. The primary auditory cortex (Brodmann Areas 41 and 42) is anatomically located within which structure of the cerebrum?",
+        "img": "",
+        "choices": "Superior temporal gyrus (Lateral aspect)///Transverse temporal gyrus (Heschl's gyrus)///Inferior colliculus of the midbrain///Inferior temporal gyrus (Lateral aspect)///Medial geniculate body of the thalamus",
+        "answer": "Transverse temporal gyrus (Heschl's gyrus)",
+        "select": "",
+        "explain": "Primary auditory cortex หรือ Brodmann Areas 41 และ 42 ตั้งอยู่ภายในร่องด้านข้างของสมอง (Lateral sulcus หรือ Sylvian fissure) บน Transverse temporal gyrus หรือ Heschl's gyrus ซึ่งเป็นส่วนบนของ Temporal lobe"
+    },
+    {
+        "problem": "14. Which structure, essential for maintaining body posture and exciting ipsilateral extensor muscles, is the target of the Lateral Vestibulospinal Tract (LVST) after receiving input from the vestibular nuclei?",
+        "img": "",
+        "choices": "Deep cerebellar nucleus///Motor cortex (BA 4)///Golgi tendon organs (GTOs)///Ipsilateral alpha motor neurons (spinal cord)///Red nucleus (midbrain)",
+        "answer": "Ipsilateral alpha motor neurons (spinal cord)",
+        "select": "",
+        "explain": "Lateral Vestibulospinal Tract (LVST) มีบทบาทสำคัญในการควบคุมท่าทางและการทรงตัว โดยส่งสัญญาณกระตุ้น (Excitatory) ไปยัง Alpha motor neurons (Lower Motor Neurons) ของกล้ามเนื้อ Extensor (กล้ามเนื้อต้านแรงโน้มถ่วง) ที่ไขสันหลังในด้านเดียวกันกับต้นทาง (Ipsilateral)"
+    },
+    {
+        "problem": "15. A unilateral lesion of the cochlear nerve (CN VIII) proximal to the cochlear nuclei will result in which clinical presentation?",
+        "img": "",
+        "choices": "Bilateral hearing loss///Contralateral hearing loss///Central auditory processing disorder///Ipsilateral (unilateral) conductive hearing loss///Ipsilateral (unilateral) sensorineural hearing loss",
+        "answer": "Ipsilateral (unilateral) sensorineural hearing loss",
+        "select": "",
+        "explain": "เส้นประสาท Cochlear nerve (CN VIII) มีเส้นใยนำสัญญาณเสียงมาจากหูข้างเดียว (Ipsilateral) ก่อนที่จะมีการไขว้ของสัญญาณ (Decussation) ในระดับ Brainstem ดังนั้นรอยโรคที่ Cochlear nerve ข้างเดียวจะทำให้เกิด Sensorineural hearing loss ที่หูข้างนั้นอย่างรุนแรง"
+    },
+    {
+        "problem": "16. In the hair cells of the organ of Corti, which ion influx leads to depolarization and the release of neurotransmitters in response to sound vibration?",
+        "img": "",
+        "choices": "Sodium (Na+) from perilymph///Potassium (K+) from perilymph///Calcium (Ca2+) from endolymph///Potassium (K+) from endolymph///Sodium (Na+) from endolymph",
+        "answer": "Potassium (K+) from endolymph",
+        "select": "",
+        "explain": "Endolymph ใน Cochlear duct มีปริมาณ K+ สูงมาก เมื่อ Hair cells ถูกกระตุ้น Stereocilia จะเบนทำให้ K+ channel เปิดออก K+ จะไหลเข้าสู่เซลล์ เกิดภาวะ Depolarization และกระตุ้นการหลั่งสารสื่อประสาท ซึ่งแตกต่างจากเซลล์ประสาททั่วไปที่มักใช้ Na+ เป็นตัวทำให้เกิด Depolarization"
+    },
+    {
+        "problem": "17. A patient with a head injury and resultant petrous temporal bone fracture develops weakness of the entire face on the ipsilateral side. The fracture most likely involves which structure located near the Facial nerve?",
+        "img": "",
+        "choices": "Mastoid antrum wall///Prominence of lateral semicircular canal///Tegmen tympani (roof)///Jugular wall (floor)///Internal acoustic meatus",
+        "answer": "Internal acoustic meatus",
+        "select": "",
+        "explain": "Internal Acoustic Meatus (IAM) เป็นช่องแคบๆ ที่เป็นทางผ่านของ Facial nerve (CN VII) และ Vestibulocochlear nerve (CN VIII) ก่อนที่ CN VII จะเข้าสู่ Facial canal การบาดเจ็บของกระดูกบริเวณนี้จะทำให้เกิดการบวมและกดทับเส้นประสาท CN VII ได้ง่าย ส่งผลให้เกิดอัมพาตของกล้ามเนื้อใบหน้าซีกเดียวกัน"
+    },
+    {
+        "problem": "18. Which auditory structure is responsible for the final interpretation and conscious understanding of the meaning of a sound, rather than just its location or frequency?",
+        "img": "",
+        "choices": "Primary auditory cortex (BA 41, 42)///Inferior colliculus///Auditory association area (BA 22)///Superior olivary nucleus (SON)///Medial geniculate body (MGB)",
+        "answer": "Auditory association area (BA 22)",
+        "select": "",
+        "explain": "Primary auditory cortex (BA 41, 42) รับรู้และวิเคราะห์ลักษณะทางกายภาพของเสียง (ความถี่ ความดัง) ส่วน Auditory association area (BA 22 หรือ Wernicke's area) จะทำหน้าที่ประมวลผลข้อมูลเสียงเหล่านั้นให้เป็นความหมาย (Interpret meaning of sound) และความเข้าใจภาษา"
+    },
+    {
+        "problem": "19. The Medial Vestibulospinal Tract (MVST) is an important descending pathway for coordinating eye and head movements. It primarily influences motor neurons that control which muscle groups?",
+        "img": "",
+        "choices": "Extensor muscles (axial)///Flexor muscles (distal limb)///Bilateral head and neck muscles///Ipsilateral extensor muscles (limb)///Contralateral flexor muscles (limb)",
+        "answer": "Bilateral head and neck muscles",
+        "select": "",
+        "explain": "Medial Vestibulospinal Tract (MVST) เป็น Vestibulospinal tract ที่มีบทบาทในการควบคุมท่าทางศีรษะและคอให้สัมพันธ์กับการเคลื่อนไหวของดวงตา (Vestibulo-ocular reflex) โดยส่งสัญญาณไปยัง Lower Motor Neurons ที่ควบคุมกล้ามเนื้อคอและศีรษะทั้งสองข้าง (Bilateral Head and Neck muscles)"
+    },
+    {
+        "problem": "20. Which structure is the neural site of the primary sensory neurons for hearing, collecting signals from the inner hair cells?",
+        "img": "",
+        "choices": "Dorsal cochlear nucleus///Modiolus (Cochlear n.)///Superior olivary nucleus///Spiral ganglion (in modiolus)///Organ of Corti",
+        "answer": "Spiral ganglion (in modiolus)",
+        "select": "",
+        "explain": "Spiral ganglion คือกลุ่มของ Cell body ของ Bipolar neuron ที่เป็น Primary sensory neuron สำหรับการได้ยิน Cell body เหล่านี้ตั้งอยู่ใน Modiolus (แกนกลางของ Cochlea) และส่ง Axon ออกไปเป็น Cochlear nerve (CN VIII)"
+    },
+    {
+        "problem": "21. During a rapid turn of the head to the right, which of the following best describes the eye movement caused by the Vestibulo-ocular reflex (VOR)?",
+        "img": "",
+        "choices": "Right eye moves left (adduct), left eye moves right (abduct)///Both eyes move to the right (direction of turn)///Right eye moves right (abduct), left eye moves left (adduct)///Both eyes move to the left (opposite to turn)///Both eyes remain stationary due to VOR",
+        "answer": "Both eyes move to the left (opposite to turn)",
+        "select": "",
+        "explain": "Vestibulo-ocular reflex (VOR) ทำงานโดยทำให้ดวงตาเคลื่อนที่ในทิศทางตรงกันข้ามกับการหมุนของศีรษะ (Conjugate eye movement opposite to head movement) เพื่อช่วยให้ภาพคงที่บนจอประสาทตา ดังนั้นเมื่อศีรษะหมุนไปทางขวา ดวงตาทั้งสองข้างจะกรอกตาไปทางซ้าย"
+    },
+    {
+        "problem": "22. In the vestibular system, which structure is primarily responsible for the sensation of horizontal (side-to-side) linear movement?",
+        "img": "",
+        "choices": "Macula sacculi///Crista ampullaris (horizontal)///Macula utriculi///Scala tympani///Cochlear duct",
+        "answer": "Macula utriculi",
+        "select": "",
+        "explain": "Macula utriculi มีลักษณะการเรียงตัวของ Hair cells และ Otolithic membrane ที่เหมาะกับการตรวจจับ Linear acceleration ในแนวนอน (Horizontal plane) เช่น การขับรถ การเดิน"
+    },
+    {
+        "problem": "23. Which brain structure is the major output pathway from the auditory system to the cerebrum, relaying signals to the primary auditory cortex?",
+        "img": "",
+        "choices": "Inferior colliculus///Superior colliculus///Medial geniculate body (MGB)///Lateral geniculate body (LGB)///Superior olivary nucleus",
+        "answer": "Medial geniculate body (MGB)",
+        "select": "",
+        "explain": "Medial Geniculate Body (MGB) เป็นนิวเคลียสของ Thalamus ที่ทำหน้าที่เป็นสถานีถ่ายทอดสัญญาณการได้ยินหลัก (Major relay center) โดยรับ Input จาก Inferior colliculus และส่ง Output ไปยัง Primary Auditory Cortex (BA 41, 42)"
+    },
+    {
+        "problem": "24. The bony labyrinth contains Perilymph, a fluid with an ionic composition similar to Cerebrospinal Fluid (CSF). Which fluid, contained within the membrane labyrinth, has an unusually high concentration of Potassium (K+)?",
+        "img": "",
+        "choices": "Perilymph in scala vestibuli///Cerebrospinal Fluid (CSF)///Perilymph in scala tympani///Intracellular fluid in hair cells///Endolymph",
+        "answer": "Endolymph",
+        "select": "",
+        "explain": "Endolymph เป็นของเหลวที่อยู่ภายใน Membranous labyrinth (Cochlear duct, Saccule, Utricle, Semicircular ducts) มีความเข้มข้นของ Potassium (K+) สูงมาก และมี Sodium (Na+) ต่ำ ซึ่งจำเป็นต่อการสร้าง Depolarization ใน Hair cells"
+    },
+    {
+        "problem": "25. The Facial nerve (CN VII) exits the cranium at which anatomical landmark?",
+        "img": "",
+        "choices": "Jugular foramen///Foramen ovale///Foramen rotundum///Internal acoustic meatus///Stylomastoid foramen",
+        "answer": "Stylomastoid foramen",
+        "select": "",
+        "explain": "Facial nerve (CN VII) วิ่งเข้า Internal acoustic meatus แล้วเข้าสู่ Facial canal ก่อนจะออกจากกะโหลกศีรษะไปเลี้ยงกล้ามเนื้อใบหน้าผ่านช่อง Stylomastoid foramen"
+    },
+    {
+        "problem": "26. A cerebellar lesion causes a persistent inability to maintain balance, even when stationary (static equilibrium). The lesion is most likely affecting which deep cerebellar nucleus which connects directly with the vestibular system?",
+        "img": "",
+        "choices": "Fastigial nucleus///Dentate nucleus///Emboliform nucleus///Inferior olivary nucleus///Red nucleus",
+        "answer": "Fastigial nucleus",
+        "select": "",
+        "explain": "Flocculonodular lobe (Vestibulocerebellum) ซึ่งควบคุมการทรงตัวของลำตัวและศีรษะ จะส่ง Output ไปยับยั้ง (Inhibit) Fastigial nucleus และ Vestibular nuclei โดย Fastigial nucleus เป็น Deep nucleus ที่มีความเชื่อมโยงกับระบบ Vestibular มากที่สุดในกลุ่ม Deep cerebellar nuclei"
+    },
+    {
+        "problem": "27. Which nerve branches from CN IX (Glossopharyngeal nerve) to form the tympanic plexus, responsible for general sensory innervation of the middle ear cavity lining?",
+        "img": "",
+        "choices": "Lesser petrosal nerve///Greater petrosal nerve///Nerve to stapedius///Tympanic nerve (of Jacobson)///Chorda tympani nerve",
+        "answer": "Tympanic nerve (of Jacobson)",
+        "select": "",
+        "explain": "Tympanic nerve (หรือ Jacobson's nerve) เป็นแขนงของ Glossopharyngeal nerve (CN IX) ที่เข้ามาในหูชั้นกลางเพื่อสร้าง Tympanic plexus ซึ่งให้ Sensory innervation แก่ Tympanic cavity และเป็นทางผ่านของ Preganglionic parasympathetic fibers ไปยัง Lesser petrosal nerve"
+    },
+    {
+        "problem": "28. A stroke affecting the Medial Longitudinal Fasciculus (MLF) on the left side (Left Internuclear Ophthalmoplegia) would result in which deficit when the patient attempts to look to the right?",
+        "img": "",
+        "choices": "Left eye fails to abduct (moves out)///Right eye fails to adduct (moves in)///Left eye fails to adduct (moves in)///Right eye fails to abduct (moves out)///Bilateral eye movements are normal",
+        "answer": "Left eye fails to adduct (moves in)",
+        "select": "",
+        "explain": "MLF ทำหน้าที่เชื่อม Abducens nucleus (CN VI) ข้างหนึ่งกับ Oculomotor nucleus (CN III) อีกข้างหนึ่ง เมื่อเกิดรอยโรคที่ Left MLF สัญญาณจาก CN VI nucleus ด้านขวา (เวลาจะมองขวา) จะไม่สามารถไปกระตุ้น Left CN III nucleus ได้ ทำให้ Left Medial Rectus muscle อัมพาต ส่งผลให้ตาซ้ายไม่สามารถกรอกเข้าในได้"
+    },
+    {
+        "problem": "29. The main motor function of the Tensor tympani muscle is to tense the tympanic membrane. Which cranial nerve provides motor innervation to this specific muscle?",
+        "img": "",
+        "choices": "Facial nerve (CN VII) via stapedius branch///Trigeminal nerve (CN V3) via mandibular branch///Glossopharyngeal nerve (CN IX) via tympanic branch///Vagus nerve (CN X) via pharyngeal branch///Trigeminal nerve (CN V1) via ophthalmic branch",
+        "answer": "Trigeminal nerve (CN V3) via mandibular branch",
+        "select": "",
+        "explain": "กล้ามเนื้อ Tensor tympani ทำหน้าที่ดึง Malleus และทำให้เยื่อแก้วหูตึง ซึ่งเป็นส่วนหนึ่งของการตอบสนองต่อเสียงดัง กล้ามเนื้อมัดนี้ถูกเลี้ยงโดย Trigeminal nerve (CN V) แขนง Mandibular division (V3) ผ่านแขนงที่แยกออกมาใน Infratemporal fossa"
+    },
+    {
+        "problem": "30. The Medial Geniculate Body (MGB) is the thalamic relay center for auditory information. Where does the MGB primarily project to (Output)?",
+        "img": "",
+        "choices": "Inferior colliculus///Superior colliculus///Auditory association area (BA 22)///Primary auditory cortex (BA 41, 42)///Superior olivary nucleus",
+        "answer": "Primary auditory cortex (BA 41, 42)",
+        "select": "",
+        "explain": "Medial Geniculate Body (MGB) เป็นศูนย์รวมและคัดกรองสัญญาณเสียงที่มาจาก Brainstem (Inferior colliculus) และส่งสัญญาณต่อออกไปยัง Primary auditory cortex (BA 41, 42) ที่ Transverse temporal gyrus"
+    },
+    {
+        "problem": "31. A stroke in the lateral medulla oblongata (Wallenberg syndrome) can affect the Vestibular Nuclei. Which vestibular structure is most likely to cause vertigo and nystagmus in this syndrome?",
+        "img": "",
+        "choices": "Superior vestibular nucleus///Inferior vestibular nucleus///Medial vestibular nucleus///Lateral vestibular nucleus///Macula sacculi",
+        "answer": "Inferior vestibular nucleus",
+        "select": "",
+        "explain": "Lateral Medullary Syndrome (Wallenberg syndrome) เกิดจากการขาดเลือดของ PICA (Posterior Inferior Cerebellar Artery) ซึ่งเลี้ยงบริเวณด้านข้างของ Medulla oblongata บริเวณนี้เป็นที่ตั้งของ Vestibular nuclei โดยเฉพาะ Inferior vestibular nucleus การเสียหายของนิวเคลียสนี้ทำให้เกิดอาการเวียนศีรษะรุนแรงและ Nystagmus"
+    },
+    {
+        "problem": "32. A unilateral lesion of the auditory pathway at the Superior Olivary Nucleus (SON) would typically result in what degree of hearing deficit?",
+        "img": "",
+        "choices": "Profound ipsilateral deafness///Mild contralateral deafness///Severe ipsilateral deafness///Difficulty with sound localization///Profound bilateral deafness",
+        "answer": "Difficulty with sound localization",
+        "select": "",
+        "explain": "สัญญาณเสียงได้เริ่มไขว้ฝั่งไปแล้วตั้งแต่ Cochlear nuclei ไปยัง Superior Olivary Nucleus (SON) ดังนั้นรอยโรคที่สูงกว่า Cochlear nuclei จะไม่ทำให้หูหนวกอย่างสิ้นเชิง (Profoud deafness) แต่อาจทำให้การวิเคราะห์เสียงซับซ้อน เช่น การระบุตำแหน่งของแหล่งกำเนิดเสียง (Sound localization) ซึ่งเป็นหน้าที่หลักของ SON บกพร่องไป"
+    },
+    {
+        "problem": "33. Which nerve carries the parasympathetic preganglionic fibers that synapse in the otic ganglion and subsequently control the parotid gland secretion?",
+        "img": "",
+        "choices": "Trigeminal nerve (CN V3)///Facial nerve (CN VII)///Vagus nerve (CN X)///Glossopharyngeal nerve (CN IX)///Lesser petrosal nerve",
+        "answer": "Glossopharyngeal nerve (CN IX)",
+        "select": "",
+        "explain": "Preganglionic parasympathetic fibers สำหรับ Parotid gland มาจาก Inferior Salivatory Nucleus (ใน Medulla) และเดินทางมากับ Glossopharyngeal nerve (CN IX) ก่อนจะแยกเป็น Tympanic nerve และ Lesser petrosal nerve ไป Synapse ที่ Otic ganglion"
+    },
+    {
+        "problem": "34. The Vestibulocerebellum, which includes the Flocculonodular lobe, is primarily concerned with maintaining equilibrium and receiving direct input from which source?",
+        "img": "",
+        "choices": "Red nucleus///Inferior olivary nucleus///Vestibular nuclei///Motor cortex (BA 4)///Deep cerebellar nuclei",
+        "answer": "Vestibular nuclei",
+        "select": "",
+        "explain": "Flocculonodular lobe (Vestibulocerebellum) เป็นส่วนของ Cerebellum ที่ใหม่ที่สุด ทำหน้าที่ควบคุมการทรงตัวและการเคลื่อนไหวของตา โดยได้รับ Input หลักจาก Vestibular nuclei ใน Brainstem"
+    },
+    {
+        "problem": "35. Unilateral damage to the cochlear nuclei in the brainstem would likely result in which pattern of hearing loss?",
+        "img": "",
+        "choices": "No significant hearing loss due to bilateral projections///Contralateral high-frequency hearing loss///Ipsilateral total sensorineural deafness///Bilateral high-frequency hearing loss///Bilateral total sensorineural deafness",
+        "answer": "Ipsilateral total sensorineural deafness",
+        "select": "",
+        "explain": "Cochlear nuclei เป็นจุดแรกใน Brainstem ที่รับสัญญาณจาก Cochlear nerve (CN VIII) และเป็นสัญญาณที่มาจากหูข้างเดียวเท่านั้น (Ipsilateral) ก่อนที่จะเริ่มมีการส่งสัญญาณข้ามฝั่ง ดังนั้นรอยโรคที่ Cochlear nuclei ข้างเดียวจะทำให้เกิดหูหนวกข้างเดียว"
+    },
+    {
+        "problem": "36. Which anatomical location is the sole source of the climbing fibers, the powerful excitatory input to the cerebellar cortex?",
+        "img": "",
+        "choices": "Pontine nuclei///Inferior olivary nucleus (Medulla)///Reticular formation (Pons)///Vestibular nuclei (Medulla)///Spinal cord (Clarke's nucleus)",
+        "answer": "Inferior olivary nucleus (Medulla)",
+        "select": "",
+        "explain": "Climbing fibers ซึ่งเป็นใยประสาทชนิดกระตุ้นที่สำคัญของ Cerebellum มีต้นกำเนิดทั้งหมดมาจาก Inferior Olivary Nucleus (ION) ใน Medulla oblongata โดยเดินทางผ่าน Olivocerebellar tract ไปยัง Purkinje cells"
+    },
+    {
+        "problem": "37. The membrane labyrinth is suspended within the bony labyrinth by fluid. Which structure of the membrane labyrinth separates the scala vestibuli from the cochlear duct (scala media)?",
+        "img": "",
+        "choices": "Basilar membrane///Tectorial membrane///Organ of Corti///Vestibular membrane (Reissner's)///Tympanic membrane",
+        "answer": "Vestibular membrane (Reissner's)",
+        "select": "",
+        "explain": "Vestibular membrane (หรือ Reissner's membrane) เป็นเยื่อบางๆ ที่กั้นระหว่าง Scala vestibuli (บรรจุ Perilymph) กับ Cochlear duct (Scala media, บรรจุ Endolymph)"
+    },
+    {
+        "problem": "38. Which type of sensory receptors in the somatosensory system is most analogous in function to the hair cells in the maculae, both responding to sustained linear forces (static equilibrium)?",
+        "img": "",
+        "choices": "Pacinian corpuscles (rapidly adapting)///Hair follicles (rapidly adapting)///Meissner corpuscles (rapidly adapting)///Ruffini endings (slowly adapting)///A-delta nerve fibers",
+        "answer": "Ruffini endings (slowly adapting)",
+        "select": "",
+        "explain": "Hair cells ใน Macula ตอบสนองต่อแรงโน้มถ่วง (Gravity) และตำแหน่งศีรษะอย่างต่อเนื่อง (Static equilibrium) ซึ่งเป็นการตอบสนองแบบ Slowly adapting Receptor ใน Somatosensory system ที่มีลักษณะการตอบสนองแบบ Slowly adapting และไวต่อแรงกดที่ต่อเนื่องคือ Ruffini endings"
+    },
+    {
+        "problem": "39. A lateral medullary syndrome lesion resulting in ipsilateral cerebellar signs is caused by damage to which afferent/efferent pathway connecting the cerebellum to the brainstem?",
+        "img": "",
+        "choices": "Superior cerebellar peduncle///Medial longitudinal fasciculus (MLF)///Middle cerebellar peduncle///Inferior cerebellar peduncle///Lateral vestibulospinal tract (LVST)",
+        "answer": "Inferior cerebellar peduncle",
+        "select": "",
+        "explain": "Lateral Medullary Syndrome (Wallenberg syndrome) เกิดจากการอุดตันของ PICA ซึ่งเลี้ยงบริเวณ Lateral medulla Inferior Cerebellar Peduncle เป็นโครงสร้างที่ผ่านบริเวณนี้และนำเข้า/ออกเส้นทางประสาทไปยัง Cerebellum การเสียหายของมันจึงทำให้เกิดอาการ Cerebellar signs ในด้านเดียวกัน"
+    },
+    {
+        "problem": "40. Which structure forms the lateral wall of the middle ear cavity, which is primarily a membranous wall?",
+        "img": "",
+        "choices": "Tympanic nerve (CN IX)///Tegmen tympani (roof)///Mastoid antrum wall (posterior)///Tympanic membrane (membranous)///Carotid wall (anterior)",
+        "answer": "Tympanic membrane (membranous)",
+        "select": "",
+        "explain": "ผนังด้านข้าง (Lateral wall) ของ Tympanic cavity (หูชั้นกลาง) ประกอบด้วยเยื่อแก้วหู (Tympanic membrane) เป็นส่วนใหญ่ ซึ่งมีลักษณะเป็นแผ่นเยื่อ (Membranous wall) และเป็นขอบเขตระหว่าง External ear และ Middle ear"
+    },
+    {
+        "problem": "1. A sound wave causes hair cell stereocilia to bend towards the kinocilium. This mechanical action immediately causes which ion channel movement leading to signal transmission?",
+        "img": "",
+        "choices": "Closed voltage-gated Ca2+ channels///Open K+ Channels///Closed K+ Channels///Open Na+ Channels///Open voltage-gated Cl- channels",
+        "answer": "Open K+ Channels",
+        "select": "",
+        "explain": "การที่ stereocilia เบนเข้าหา kinocilium จะทำให้เกิดการเปิดช่องโปแทสเซียม (K+ Channels) ที่ยอดของ stereocilia อย่างรวดเร็ว ทำให้ K+ จาก endolymph ซึ่งมีปริมาณสูงไหลเข้าสู่เซลล์ เกิดภาวะ Depolarization ซึ่งเป็นขั้นตอนแรกของการส่งสัญญาณเสียง",
+        "state": false
+    },
+    {
+        "problem": "2. When a hair cell in the Organ of Corti hyperpolarizes, the stereocilia motion relative to the kinocilium would most directly result in a reduction of which cellular event?",
+        "img": "",
+        "choices": "Increased K+ influx into the hair cell///Depolarization of the hair cell membrane///Opening of voltage-gated Ca2+ channels///Increased synthesis of cGMP///Release of excitatory neurotransmitter (Glutamate)",
+        "answer": "Release of excitatory neurotransmitter (Glutamate)",
+        "select": "",
+        "explain": "การ Hyperpolarization เกิดจากการที่ stereocilia เบนออกจาก kinocilium ทำให้ K+ channel ปิด ส่งผลให้ voltage-gated Ca2+ channel ปิดตามไปด้วย การลดลงของ Ca2+ influx จะทำให้การหลั่งสารสื่อประสาทชนิดกระตุ้น (Glutamate) ลดลง ซึ่งเป็นการยับยั้งการส่งสัญญาณประสาท",
+        "state": false
+    },
+    {
+        "problem": "3. Which part of the cochlea is the first segment of the basilar membrane that is maximally displaced and begins the excitation cascade for a sound of 15,000 Hz?",
+        "img": "",
+        "choices": "The apex of the cochlea near the helicotrema///The base of the cochlea near the oval window///The middle turn near the round window///The vestibular membrane near the saccule///The tectorial membrane near the inner hair cells",
+        "answer": "The base of the cochlea near the oval window",
+        "select": "",
+        "explain": "การรับรู้ความถี่เสียงมีการจัดเรียงแบบ tonotopy โดยเสียงความถี่สูง (15,000 Hz) จะกระตุ้นบริเวณ Basilar membrane ที่มีความแข็งและแคบกว่า ซึ่งอยู่ใกล้ฐานของ Cochlea (base of the cochlea) ส่วนเสียงความถี่ต่ำจะกระตุ้นบริเวณยอด (apex)",
+        "state": false
+    },
+    {
+        "problem": "4. A patient is exposed to a loud, damaging noise that triggers the acoustic reflex. Which protecting structure contracts to pull the tympanic membrane inward to resist the force?",
+        "img": "",
+        "choices": "Tendon of stapedius muscle///Tendon of malleus muscle///Tensor tympani muscle///External ear pinna muscle///Incus tensor muscle",
+        "answer": "Tensor tympani muscle",
+        "select": "",
+        "explain": "Attenuation reflex หรือ Tympanic reflex เป็นกลไกป้องกันหูชั้นในจากเสียงดัง กล้ามเนื้อที่ทำหน้าที่ดึงเยื่อแก้วหูให้ตึงและเข้าด้านใน (Inward) เพื่อลดการสั่นสะเทือนคือ Tensor tympani m. ส่วน Stapedius m. จะดึงกระดูก Stapes ออกนอก (Outward)",
+        "state": false
+    },
+    {
+        "problem": "5. A three-year-old child with a common cold develops otitis media with effusion (fluid accumulation in the middle ear). This pathology is most directly caused by inflammation and subsequent blockage of which anatomical structure?",
+        "img": "",
+        "choices": "Endolymphatic sac and duct///Internal acoustic meatus///Semicircular canal///External auditory canal///Auditory (Eustachian) tube",
+        "answer": "Auditory (Eustachian) tube",
+        "select": "",
+        "explain": "Eustachian tube มีหน้าที่ปรับความดันในหูชั้นกลางและระบายของเหลว เมื่อมีการติดเชื้อหวัดทำให้ท่อนี้บวมและอุดตัน การดูดซึมอากาศในหูชั้นกลางจะทำให้เกิดสุญญากาศและของเหลวคั่งค้าง ซึ่งนำไปสู่ Otitis media with effusion",
+        "state": false
+    },
+    {
+        "problem": "6. In a patient diagnosed with Otosclerosis, which evaluation result from the Rinne test would be expected in the affected ear?",
+        "img": "",
+        "choices": "Air Conduction (AC) is louder than Bone Conduction (BC)///Bone Conduction (BC) is louder than Air Conduction (AC)///AC and BC are equally decreased///AC and BC are equally increased///No sound is perceived at all",
+        "answer": "Bone Conduction (BC) is louder than Air Conduction (AC)",
+        "select": "",
+        "explain": "Otosclerosis เป็นสาเหตุหนึ่งของ Conductive Hearing Loss (CHL) ซึ่งเกิดจากกระดูกหูยึดติดกัน ทำให้การนำเสียงผ่านทางอากาศ (AC) ถูกขัดขวาง การนำเสียงผ่านทางกระดูก (BC) จึงดังกว่า ผลการตรวจ Rinne test จึงเป็น Negative หรือ BC > AC",
+        "state": false
+    },
+    {
+        "problem": "7. A 70-year-old patient who exhibits an overall decrease in hearing acuity but still hears high-pitch sounds and has a positive Rinne test (AC > BC) would most likely be diagnosed with which condition?",
+        "img": "",
+        "choices": "Otosclerosis (calcification of ossicles)///Ménière disease (excess endolymph)///Tinnitus (abnormal depolarization)///Presbycusis (senile deafness)///Cerumen impaction (wax blockage)",
+        "answer": "Presbycusis (senile deafness)",
+        "select": "",
+        "explain": "Presbycusis เป็นสาเหตุที่พบบ่อยที่สุดของ Sensorineural Hearing Loss (SNHL) ในผู้สูงอายุ มีลักษณะคือการสูญเสียการได้ยินโดยรวมเนื่องจาก Hair cells เสื่อมสภาพ แต่ยังคงมีผล Rinne test เป็น Positive (AC > BC) ซึ่งเป็นลักษณะของ SNHL",
+        "state": false
+    },
+    {
+        "problem": "8. Which of the following is the characteristic finding of sound perception when a hearing-impaired patient undergoes a Weber test and the sound is lateralized to the unaffected (normal) ear?",
+        "img": "",
+        "choices": "Conductive Hearing Loss (CHL) in the normal ear///Sensorineural Hearing Loss (SNHL) in the opposite ear///Mixed Hearing Loss (MHL) in both ears///Conductive Hearing Loss (CHL) in the affected ear///Sensorineural Hearing Loss (SNHL) in the same ear",
+        "answer": "Sensorineural Hearing Loss (SNHL) in the opposite ear",
+        "select": "",
+        "explain": "ใน Weber test หากเสียงดังกว่าในหูข้างที่ดี (unaffected ear) แสดงว่าผู้ป่วยมี Sensorineural Hearing Loss (SNHL) ที่หูข้างตรงข้าม เนื่องจากหูเสียไม่สามารถรับเสียงได้ ทำให้เสียงถูกรับรู้จากหูข้างที่ดีอย่างเดียว",
+        "state": false
+    },
+    {
+        "problem": "9. Which inner ear organ is primarily responsible for detecting vertical linear acceleration, such as riding in an elevator?",
+        "img": "",
+        "choices": "Utricle (Horizontal linear movement)///Semicircular canals (Angular movement)///Cochlea (Sound frequency)///Crista ampullaris (Angular movement)///Saccule (Vertical linear movement)",
+        "answer": "Saccule (Vertical linear movement)",
+        "select": "",
+        "explain": "Utricle และ Saccule ใช้ตรวจจับ Linear acceleration Saccule ตรวจจับการเคลื่อนที่เชิงเส้นในแนวตั้ง (Vertical linear movement) ส่วน Utricle ตรวจจับการเคลื่อนที่เชิงเส้นในแนวนอน (Horizontal linear movement)",
+        "state": false
+    },
+    {
+        "problem": "10. A dancer performing a spin around a vertical axis would primarily excite the hair cells within which semicircular canal?",
+        "img": "",
+        "choices": "Posterior semicircular canal///Inferior semicircular canal///Superior semicircular canal///Horizontal (Lateral) semicircular canal///Utricle",
+        "answer": "Horizontal (Lateral) semicircular canal",
+        "select": "",
+        "explain": "การหมุนตัวในแนวตั้ง (spin around a vertical axis) หรือการส่ายศีรษะ (shaking 'no') เป็นการเคลื่อนที่เชิงมุมในแนวระนาบ (Horizontal plane) ซึ่งจะไปกระตุ้น Horizontal (Lateral) semicircular canal",
+        "state": false
+    },
+    {
+        "problem": "11. Which specific movement of the head is primarily sensed by the Superior semicircular canal?",
+        "img": "",
+        "choices": "Yaw (shaking 'no' movement)///Roll (ear to shoulder tilt)///Lateral linear acceleration///Vertical linear acceleration///Pitch (YES movement)",
+        "answer": "Pitch (YES movement)",
+        "select": "",
+        "explain": "การพยักหน้า (Nodding 'yes' movement) เป็นการเคลื่อนที่เชิงมุมในระนาบ Pitch ซึ่งจะไปกระตุ้น Superior (Anterior) semicircular canal ส่วน Horizontal canal กระตุ้นการส่ายหน้า และ Posterior canal กระตุ้นการเอียงศีรษะ",
+        "state": false
+    },
+    {
+        "problem": "12. During the Vestibulo-Ocular Reflex (VOR), a right head turn causes the endolymph to flow in the opposite direction. This mechanically results in the excitation (depolarization) of the hair cells in which ear?",
+        "img": "",
+        "choices": "Right ear only (ipsilateral)///Left ear only (contralateral)///Both ears simultaneously///Neither ear is excited///Only the semicircular canals are excited",
+        "answer": "Left ear only (contralateral)",
+        "select": "",
+        "explain": "เมื่อศีรษะหมุนไปทางขวา (Right head turn) endolymph ใน semicircular canal จะไหลในทิศทางตรงกันข้าม (ไปทางซ้าย) การไหลนี้จะกระตุ้นให้ Cupula และ hair cells ในหูซ้าย (Left ear) เกิด Depolarization (Excitation) ส่วนหูขวาจะเกิด Hyperpolarization (Inhibition)",
+        "state": false
+    },
+    {
+        "problem": "13. Which pathway, comprised of interneurons, directly conveys vestibular information from the vestibular nuclei to the Oculomotor (CN III) and Abducens (CN VI) nuclei to coordinate eye movements during the VOR?",
+        "img": "",
+        "choices": "Inferior Cerebellar Peduncle (ICP)///Superior Cerebellar Peduncle (SCP)///Medial Longitudinal Fasciculus (MLF)///Lateral Vestibulospinal Tract///Medial Vestibulospinal Tract",
+        "answer": "Medial Longitudinal Fasciculus (MLF)",
+        "select": "",
+        "explain": "Medial Longitudinal Fasciculus (MLF) เป็นใยประสาทที่เชื่อมต่อ Vestibular nuclei กับ Oculomotor nuclei (CN III), Trochlear nuclei (CN IV), และ Abducens nuclei (CN VI) เพื่อทำหน้าที่หลักในการควบคุมการเคลื่อนไหวของดวงตาให้สัมพันธ์กับการเคลื่อนไหวของศีรษะ (VOR)",
+        "state": false
+    },
+    {
+        "problem": "14. A physician performs a Caloric test using warm water irrigation in the patient's right ear. What is the predicted direction of the slow phase component of the induced nystagmus (VOR)?",
+        "img": "",
+        "choices": "To the right (same ear)///To the left (opposite ear)///Downwards (towards the floor)///Upwards (towards the ceiling)///Backwards (towards the occiput)",
+        "answer": "To the left (opposite ear)",
+        "select": "",
+        "explain": "การหยอดน้ำอุ่น (Warm water) ในหูขวาจะกระตุ้น (Excitation) หูข้างขวา ทำให้สมองตีความว่าศีรษะกำลังหมุนไปทางขวา ตามกลไกของ VOR ดวงตาจะกลอกไปทางซ้าย (Slow phase to the opposite ear) เพื่อชดเชยการหมุนปลอมๆ (Warm - Nystagmus to Same, Slow phase to Opposite)",
+        "state": false
+    },
+    {
+        "problem": "15. A patient presents with Tinnitus. The underlying cause is best described as an abnormal electrical event in the cochlea characterized by which mechanism?",
+        "img": "",
+        "choices": "Complete cessation of hair cell depolarization///Abnormal hair cell depolarization that fails to reach the threshold///Excessive neurotransmitter (Glutamate) release///Hyperpolarization of the cochlear nerve///Loss of all inhibitory feedback to the cochlear nucleus",
+        "answer": "Abnormal hair cell depolarization that fails to reach the threshold",
+        "select": "",
+        "explain": "Tinnitus คืออาการได้ยินเสียงในหูโดยไม่มีสิ่งกระตุ้นภายนอก เชื่อว่าเกิดจากการทำงานที่ผิดปกติของ Hair cells หรือ Cochlear nerve โดยมีการกระตุ้น (Depolarization) ที่ผิดปกติเกิดขึ้น แต่มีขนาดไม่แรงพอที่จะกระตุ้นให้เกิด Action potential ส่งไปถึงสมอง (EPSP not reach to threshold) หรือเกิดการทำงานที่ผิดปกติใน Central auditory pathway",
+        "state": false
+    },
+    {
+        "problem": "16. When performing a hearing test, which unit is used to measure the amplitude and quantify the loudness of sound?",
+        "img": "",
+        "choices": "Hertz (Hz)///Kelvin (K)///Decibel (dB)///Candela (Cd)///Radian (rad)",
+        "answer": "Decibel (dB)",
+        "select": "",
+        "explain": "Loudness ของเสียงสัมพันธ์กับ Amplitude ซึ่งมีหน่วยวัดคือ Decibel (dB) ส่วน Pitch สัมพันธ์กับ Frequency ซึ่งมีหน่วยวัดคือ Hertz (Hz)",
+        "state": false
+    },
+    {
+        "problem": "17. Which of the following is an expected complication if the Eustachian tube is chronically blocked, leading to a vacuum effect in the middle ear chamber?",
+        "img": "",
+        "choices": "Increase in external pressure against the tympanic membrane///Decrease in oxygen level in the middle ear///Increase in sound conduction efficiency///Decrease in inner ear bulging///Excessive positive pressure in the middle ear",
+        "answer": "Decrease in oxygen level in the middle ear",
+        "select": "",
+        "explain": "เมื่อ Eustachian tube ถูกอุดตัน อากาศในหูชั้นกลางจะถูกดูดซึมโดยเนื้อเยื่ออย่างต่อเนื่อง (metabolism) ทำให้เกิดสุญญากาศ (vacuum effect) และเนื่องจากไม่มีการเติมอากาศผ่านท่อ จึงทำให้ระดับออกซิเจนในหูชั้นกลางลดลง (Decrease in O2 since metabolism)",
+        "state": false
+    },
+    {
+        "problem": "18. In a patient with acoustic neuroma (Vestibular Schwannoma), the tumor compressing the nerve sheath would result in the impairment of which two related functions carried by CN VIII?",
+        "img": "",
+        "choices": "Taste and salivation///Touch and pain on the face///Hearing and equilibrium///Speech and swallowing///Vision and pupillary light reflex",
+        "answer": "Hearing and equilibrium",
+        "select": "",
+        "explain": "Acoustic neuroma เป็นเนื้องอกที่ปลอกประสาทของ Vestibulocochlear nerve (CN VIII) ซึ่งประกอบด้วยใยประสาท 2 ส่วนคือ Cochlear (การได้ยิน) และ Vestibular (การทรงตัวและสมดุล) ดังนั้นการกดทับจะทำให้การทำงานของทั้งการได้ยิน (Hearing) และการทรงตัว (Equilibrium) บกพร่องไป",
+        "state": false
+    },
+    {
+        "problem": "19. What is the mechanism of action of the Stapedius muscle during the Attenuation reflex?",
+        "img": "",
+        "choices": "Pulls the malleus inward, increasing tympanic membrane tension///Pulls the stapes inward, increasing oval window pressure///Pulls the stapes outward, reducing sound force transmission///Relaxes the malleus, allowing greater tympanic membrane movement///Contracts the tensor tympani, increasing sound conduction",
+        "answer": "Pulls the stapes outward, reducing sound force transmission",
+        "select": "",
+        "explain": "Stapedius muscle ทำงานโดยการดึงกระดูก Stapes ให้เอนออกไปด้านนอก (Outward) ซึ่งจะลดแรงสั่นสะเทือนที่ส่งผ่าน Stapes ไปยัง Oval window และ Cochlea จึงช่วยป้องกันหูชั้นในจากเสียงดัง",
+        "state": false
+    },
+    {
+        "problem": "20. A patient who experiences hearing loss due to prolonged use of ototoxic antibiotics (aminoglycosides) would typically show which finding in a standard Rinne test?",
+        "img": "",
+        "choices": "Bone Conduction (BC) is louder than Air Conduction (AC)///Air Conduction (AC) is louder than Bone Conduction (BC)///Both AC and BC are equally louder than a normal ear///Only the Stapes is affected but not the Malleus///BC is absent entirely",
+        "answer": "Air Conduction (AC) is louder than Bone Conduction (BC)",
+        "select": "",
+        "explain": "Aminoglycosides เป็นสาเหตุของ Sensorineural Hearing Loss (SNHL) โดยการทำลาย Hair cells ใน Cochlea SNHL มีลักษณะเป็น Positive Rinne test คือ AC > BC แต่การได้ยินจะลดลงทั้งคู่เมื่อเทียบกับเกณฑ์มาตรฐาน (Typical Hearing Threshold) แต่ยังคงเป็น AC > BC",
+        "state": false
+    }],
+    "Higher Brain by AI": [
+        {
+            "problem": "1. A student is actively trying to solve a complex physiology problem. Which EEG wave is predominantly observed over the frontal region?",
+            "img": "",
+            "choices": "Alpha wave///Theta wave///Delta wave///Beta wave///Gamma wave",
+            "answer": "Beta wave",
+            "select": "",
+            "explain": "คลื่นเบต้าเป็นคลื่นไฟฟ้าสมองที่มีความถี่สูง (มากกว่า 12 เฮิรตซ์) และแอมพลิจูดต่ำ ซึ่งเป็นลักษณะของภาวะสมองตื่นตัว มีสมาธิ หรือกำลังประมวลผลความคิดที่ซับซ้อน มักเด่นชัดบริเวณสมองส่วนหน้า",
+            "state": false
+        },
+        {
+            "problem": "2. During which phase of sleep does the greatest amplitude (20-200 µV) and lowest frequency (1-3 Hz) EEG wave pattern primarily occur, serving a restorative function?",
+            "img": "",
+            "choices": "NREM Stage 1 sleep///NREM Stage 2 sleep///NREM Deepest sleep (N4)///REM sleep///Awake, eyes closed",
+            "answer": "NREM Deepest sleep (N4)",
+            "select": "",
+            "explain": "คลื่นเดลต้าเป็นคลื่นที่มีแอมพลิจูดสูงที่สุดและมีความถี่ต่ำที่สุด พบได้ในระยะหลับลึก (NREM N3/N4) ซึ่งเป็นช่วงที่มีบทบาทสำคัญในการฟื้นฟูร่างกาย (restorative effect) และหลั่ง Growth Hormone",
+            "state": false
+        },
+        {
+            "problem": "3. A patient is unresponsive and can only be briefly aroused by vigorous and repeated physical stimulation. This level of consciousness is defined as:",
+            "img": "",
+            "choices": "Coma///Drowsy///Lethargy///Alert///Stupor",
+            "answer": "Stupor",
+            "select": "",
+            "explain": "ภาวะสตูปอร์คือระดับความรู้สึกตัวที่ผู้ป่วยไม่ตอบสนองต่อการเรียก แต่ยังสามารถถูกปลุกให้ตื่นได้ในระยะเวลาสั้นๆ ด้วยการกระตุ้นที่รุนแรงและซ้ำๆ เช่น การกระตุ้นความเจ็บปวด",
+            "state": false
+        },
+        {
+            "problem": "4. Which EEG pattern correlates with the highest synchronization and burst firing activity of thalamocortical cells?",
+            "img": "",
+            "choices": "Beta wave in attention state///Alpha wave during meditation///Delta wave in deep sleep///Theta wave in light sleep///Gamma wave in binding state",
+            "answer": "Delta wave in deep sleep",
+            "select": "",
+            "explain": "การซิงโครไนซ์ของคลื่นไฟฟ้าสมองที่ระดับสูงที่สุดเกิดจากการยิงสัญญาณประสาทแบบเป็นชุด (burst firing) ของเซลล์ประสาทในวงจร Thalamocortical ซึ่งเกิดขึ้นในระหว่างการหลับลึก (Deep sleep) โดยมีคลื่นเดลต้าเป็นลักษณะเด่น",
+            "state": false
+        },
+        {
+            "problem": "5. An EEG showing focal delta waves that are predominant bilaterally in the temporal lobes is highly suggestive of pathology in which structure?",
+            "img": "",
+            "choices": "Cerebellar hemorrhage///Diffuse cortical atrophy///Brainstem vascular lesion///Structural lesion in the temporal lobes///Intact thalamocortical loop",
+            "answer": "Structural lesion in the temporal lobes",
+            "select": "",
+            "explain": "การตรวจพบคลื่นเดลต้าแบบเฉพาะที่ (Focal delta wave) บ่งชี้ถึงพยาธิสภาพของโครงสร้างสมองในบริเวณนั้นๆ การพบคลื่นเดลต้าเด่นที่สมองกลีบขมับทั้งสองข้าง (bilateral temporal lobes predominant) เป็นลักษณะทางพยาธิวิทยาที่มักพบในภาวะสมองอักเสบจากไวรัส (เช่น Herpes Simplex Encephalitis) หรือเนื้องอกในสมองบริเวณดังกล่าว",
+            "state": false
+        },
+        {
+            "problem": "6. The largest normal event in NREM sleep, characterized by a sudden high-amplitude wave, functions primarily to reduce the brain's response to external stimuli. This marker is known as the:",
+            "img": "",
+            "choices": "Sleep spindle///Theta wave///Delta wave///Sawtooth wave///K-complex",
+            "answer": "K-complex",
+            "select": "",
+            "explain": "K-complex เป็นคลื่นขนาดใหญ่ที่มีแอมพลิจูดสูง พบได้ในระยะหลับตื้น NREM Stage 2 ซึ่งมีบทบาทสำคัญในการระงับการตื่นตัว (arousal suppression) และการกรองสัญญาณรบกวนจากภายนอก (sensory gating) เพื่อช่วยให้การนอนหลับดำเนินต่อไปได้",
+            "state": false
+        },
+        {
+            "problem": "7. A patient experiences vivid, complex dreaming with complete muscle atonia (paralysis). Which sleep stage is the patient most likely in?",
+            "img": "",
+            "choices": "NREM Stage 1///NREM Stage 2///NREM Stage 3/4///REM sleep///General anesthesia",
+            "answer": "REM sleep",
+            "select": "",
+            "explain": "REM sleep เป็นช่วงที่มีความฝันที่ชัดเจนที่สุด และมีภาวะกล้ามเนื้ออ่อนแรงทั่วร่างกาย (sleep paralysis หรือ atonia) ซึ่งควบคุมโดย REM-ON cells ใน Pons เพื่อป้องกันไม่ให้ผู้ฝันขยับร่างกายตามความฝัน",
+            "state": false
+        },
+        {
+            "problem": "8. Which sleep stage is critical for the secretion of growth hormone and is typically reduced markedly in the elderly population?",
+            "img": "",
+            "choices": "NREM Stage 1 sleep///NREM Stage 2 sleep///NREM Stage 3 (Deep sleep)///REM sleep///Awake stage",
+            "answer": "NREM Stage 3 (Deep sleep)",
+            "select": "",
+            "explain": "การหลับลึก (NREM Stage 3/4) เป็นช่วงที่มีการหลั่ง Growth Hormone มากที่สุด และมีความสำคัญต่อการฟื้นฟูร่างกายอย่างลึกซึ้ง ซึ่งเป็นช่วงที่ลดลงอย่างมากเมื่ออายุมากขึ้น ทำให้ผู้สูงอายุมี Deep sleep น้อยลงมาก",
+            "state": false
+        },
+        {
+            "problem": "9. A patient with Narcolepsy is at risk of suddenly losing muscle tone and collapsing while awake, often triggered by strong emotion. This clinical phenomenon is primarily caused by a pathology affecting the neurotransmitter that promotes awakening. Which neurotransmitter is implicated?",
+            "img": "",
+            "choices": "Dopamine///Serotonin///Melatonin///Orexin (Hypocretin)///GABA",
+            "answer": "Orexin (Hypocretin)",
+            "select": "",
+            "explain": "โรค Narcolepsy ซึ่งมีอาการสำคัญคืออาการง่วงนอนกลางวันอย่างรุนแรงและภาวะกล้ามเนื้ออ่อนแรงเฉียบพลัน (Cataplexy) มีสาเหตุหลักมาจากการสูญเสียเซลล์ประสาทที่สร้าง Orexin (Hypocretin) ใน Hypothalamus ซึ่งเป็นสารสื่อประสาทสำคัญในการควบคุมความตื่นตัว",
+            "state": false
+        },
+        {
+            "problem": "10. In the NREM to REM sleep transition pathway, which neurotransmitter is released by the REM-ON cells (PPT/LDT/SLD) to disinhibit the thalamocortical pathway and initiate REM sleep features like rapid eye movements?",
+            "img": "",
+            "choices": "Norepinephrine (NE)///Serotonin (5-HT)///Acetylcholine (ACh)///Dopamine (DA)///Histamine",
+            "answer": "Acetylcholine (ACh)",
+            "select": "",
+            "explain": "REM sleep ถูกกระตุ้นโดยกลุ่มเซลล์ประสาทที่สร้าง Acetylcholine (ACh) ซึ่งอยู่ใน Pons และ Mesencephalon (เรียกว่า REM-ON cells เช่น PPT, LDT) ACh ที่หลั่งออกมาจะกระตุ้น Thalamocortical pathway และทำให้เกิดลักษณะของ REM sleep เช่น คลื่นไฟฟ้าสมองที่ Desynchronization และการกลอกตาไปมาอย่างรวดเร็ว",
+            "state": false
+        },
+        {
+            "problem": "11. The primary biological clock (circadian pacemaker) that synchronizes the sleep-wake cycle with external light cues is located in which hypothalamic nucleus?",
+            "img": "",
+            "choices": "Lateral Hypothalamic Area (LHA)///Ventrolateral Preoptic Nucleus (VLPO)///Suprachiasmatic Nucleus (SCN)///Mamillary Body///Anterior Nucleus",
+            "answer": "Suprachiasmatic Nucleus (SCN)",
+            "select": "",
+            "explain": "Suprachiasmatic Nucleus (SCN) เป็นนิวเคลียสใน Hypothalamus ที่ทำหน้าที่เป็นนาฬิกาชีวภาพหลักของร่างกาย (Master Clock) โดยรับข้อมูลแสงสว่างจากจอประสาทตา (retinohypothalamic tract) เพื่อปรับวงจรการหลับ-ตื่นให้เข้ากับสภาพแวดล้อม",
+            "state": false
+        },
+        {
+            "problem": "12. In the sleep pathway, which inhibitory neurotransmitter is released by the VLPO to promote the onset of NREM sleep by suppressing the Arousal System (RAS)?",
+            "img": "",
+            "choices": "Orexin///Histamine///GABA///Norepinephrine///Acetylcholine",
+            "answer": "GABA",
+            "select": "",
+            "explain": "Ventrolateral Preoptic Nucleus (VLPO) เป็นศูนย์กลางการนอนหลับหลักใน Hypothalamus โดยจะหลั่งสารสื่อประสาทชนิดยับยั้ง (Inhibitory neurotransmitters) ได้แก่ GABA และ Galanin ออกมายับยั้งระบบตื่นตัว (RAS) เช่น TMN (Histaminergic), LC (Noradrenergic) เพื่อส่งเสริมการเข้าสู่ NREM sleep",
+            "state": false
+        },
+        {
+            "problem": "13. A young woman presents with difficulty falling asleep. Her doctor suggests reducing activities that stimulate the release of Orexin/Histamine and enhance the activity of which hypothalamic nucleus?",
+            "img": "",
+            "choices": "Suprachiasmatic nucleus (SCN)///Lateral Hypothalamic Area (LHA)///Ventrolateral Preoptic Nucleus (VLPO)///Paraventricular nucleus///Arcuate nucleus",
+            "answer": "Ventrolateral Preoptic Nucleus (VLPO)",
+            "select": "",
+            "explain": "Orexin และ Histamine เป็นสารสื่อประสาทที่ส่งเสริมความตื่นตัว (Awake) การกระตุ้น VLPO ซึ่งเป็นศูนย์ควบคุมการนอนหลับโดยการยับยั้งระบบตื่นตัวจะช่วยส่งเสริมให้หลับได้ง่ายขึ้น ดังนั้นกิจกรรมที่ลด Orexin/Histamine จะช่วยเพิ่มการทำงานของ VLPO",
+            "state": false
+        },
+        {
+            "problem": "14. According to the Schachter-Singer theory, which component of emotion immediately precedes the urge to take action?",
+            "img": "",
+            "choices": "Action///Feeling (Subjective experience)///Physical change (Physiology)///Aweraness (Perception)///Processing (Cognition)",
+            "answer": "Feeling (Subjective experience)",
+            "select": "",
+            "explain": "ทฤษฎี Schachter-Singer เสนอลำดับขององค์ประกอบทางอารมณ์คือ: Aweraness (รับรู้สิ่งเร้า) → Feeling (ประสบการณ์ส่วนตัวของอารมณ์) → Urge to take action (แรงผลักดันที่จะตอบสนอง) → Physical change (การตอบสนองทางสรีรวิทยา) → Processing (การประมวลผลทางปัญญา)",
+            "state": false
+        },
+        {
+            "problem": "15. Which part of the cerebral hemisphere is primarily responsible for processing the *valence* of emotion (i.e., whether the emotion is pleasant or unpleasant)?",
+            "img": "",
+            "choices": "Posterior part of both hemispheres///Entire frontal lobe///Right anterior part of the hemisphere///Anterior part of both hemispheres///Left posterior part of the hemisphere",
+            "answer": "Anterior part of both hemispheres",
+            "select": "",
+            "explain": "สมองส่วนหน้า (Anterior part of both hemisphere) โดยเฉพาะ Prefrontal cortex มีบทบาทในการประมวลผล 'Valence' หรือลักษณะเชิงบวก/ลบของอารมณ์ ในขณะที่สมองซีกขวาจะเด่นในการประมวลผลอารมณ์เชิงลบโดยรวม (Negative affect) และสมองซีกซ้ายจะเด่นในการประมวลผลอารมณ์เชิงบวก (Positive affect)",
+            "state": false
+        },
+        {
+            "problem": "16. Which specific brain structure is centrally involved in learning and memory circuits and has efferent fibers traveling primarily through the fornix?",
+            "img": "",
+            "choices": "Amygdala///Hypothalamus///Thalamus///Hippocampus///Basal Ganglia",
+            "answer": "Hippocampus",
+            "select": "",
+            "explain": "Hippocampus เป็นโครงสร้างสำคัญในระบบลิมบิกที่เกี่ยวข้องกับการสร้างความจำใหม่ (memory consolidation) และมีทางออก (efferent pathway) หลักคือ Fornix ซึ่งจะนำสัญญาณไปยัง Mamillary bodies ของ Hypothalamus",
+            "state": false
+        },
+        {
+            "problem": "17. Neurotransmitter imbalance in which pathway is most directly linked to the pathology of addiction, particularly due to its role in the rewarding system of the brain?",
+            "img": "",
+            "choices": "Nigrostriatal dopaminergic pathway///Mesolimbic dopaminergic pathway///Tuberoinfundibular dopaminergic pathway///Serotonergic pathway from raphe nuclei///Noradrenergic pathway from locus coeruleus",
+            "answer": "Mesolimbic dopaminergic pathway",
+            "select": "",
+            "explain": "การเสพติดเกิดจากการกระตุ้น Mesolimbic pathway หรือ Reward circuit อย่างรุนแรง ซึ่งเป็นวงจรที่ใช้ Dopamine เป็นสารสื่อประสาทหลัก โดยเริ่มต้นจาก Ventral Tegmental Area (VTA) และหลั่ง Dopamine ไปยัง Nucleus Accumbens (ส่วนหนึ่งของ Mesolimbic pathway) ทำให้เกิดความรู้สึกพึงพอใจและต้องการยาซ้ำ",
+            "state": false
+        },
+        {
+            "problem": "18. A patient presents with signs of Klüver-Bucy Syndrome, including hyperorality, hypersexuality, and placidity (loss of fear). Which structure is most likely affected bilaterally?",
+            "img": "",
+            "choices": "Cingulate gyrus///Mamillary bodies///Hippocampus///Amygdala///Basal forebrain",
+            "answer": "Amygdala",
+            "select": "",
+            "explain": "Klüver-Bucy Syndrome เกิดจากรอยโรคที่ทำลาย Medial temporal lobes ทั้งสองข้าง ซึ่งส่วนสำคัญที่ทำให้เกิดอาการสูญเสียความกลัว ความก้าวร้าว และเกิดพฤติกรรมแปลกๆ คือ Amygdala",
+            "state": false
+        },
+        {
+            "problem": "19. Which neurotransmitter, associated with the Trophatrophic system and Raphe nuclei, plays a role in mood, sleep, and impulse control?",
+            "img": "",
+            "choices": "Norepinephrine (NE)///Dopamine (DA)///Serotonin (5-HT)///Acetylcholine (ACh)///GABA",
+            "answer": "Serotonin (5-HT)",
+            "select": "",
+            "explain": "Serotonin เป็นสารสื่อประสาทหลักที่ผลิตจาก Raphe nuclei และเกี่ยวข้องกับระบบ Trophatrophic (Rest, Vegetative function) โดยมีบทบาทสำคัญในการควบคุมอารมณ์ (mood), การนอนหลับ และการยับยั้งพฤติกรรมที่ไม่เหมาะสม (impulse control) ความผิดปกติของระบบนี้เกี่ยวข้องกับภาวะซึมเศร้า",
+            "state": false
+        },
+        {
+            "problem": "20. The ability to plan and organize complex behaviors and formulate appropriate responses to stimuli is primarily associated with the function of the:",
+            "img": "",
+            "choices": "Parietal lobe association area///Primary motor cortex///Temporal lobe association area///Prefrontal cortex///Primary somatosensory cortex",
+            "answer": "Prefrontal cortex",
+            "select": "",
+            "explain": "Prefrontal cortex (PFC) เป็นส่วนที่อยู่หน้าสุดของสมองกลีบหน้า ทำหน้าที่เกี่ยวกับ Executive functions เช่น การวางแผน การตัดสินใจ การควบคุมแรงกระตุ้น การแก้ปัญหา และการกำหนดพฤติกรรมทางสังคมที่ซับซ้อน",
+            "state": false
+        },
+        {
+            "problem": "21. A patient with stroke can still drive his car and play the piano, but cannot recall the events of his high school graduation. This suggests a functional sparing of which form of long-term memory?",
+            "img": "",
+            "choices": "Semantic memory///Episodic memory///Working memory///Explicit (Declarative) memory///Implicit (Nondeclarative) memory",
+            "answer": "Implicit (Nondeclarative) memory",
+            "select": "",
+            "explain": "การขับรถและการเล่นเปียโนเป็นทักษะ (Procedural memory) ซึ่งเป็นรูปแบบหนึ่งของ Implicit (Nondeclarative) memory ที่ไม่ต้องอาศัยการนึกถึงเหตุการณ์ ส่วนความทรงจำเกี่ยวกับการสำเร็จการศึกษาเป็น Episodic memory ซึ่งเป็น Explicit memory การที่ทักษะยังคงอยู่แสดงว่า Implicit memory pathway ยังทำงานได้ปกติ",
+            "state": false
+        },
+        {
+            "problem": "22. Which process involves the formation of new synapses and the increase of synaptic proteins to store long-term memories?",
+            "img": "",
+            "choices": "Long-Term Depression (LTD)///Short-Term Memory (STM) formation///Synaptic Pruning///Long-Term Potentiation (LTP)///Retrieval Failure",
+            "answer": "Long-Term Potentiation (LTP)",
+            "select": "",
+            "explain": "Long-Term Potentiation (LTP) เป็นกลไกสำคัญในระดับเซลล์ที่ทำให้เกิดการเรียนรู้และความจำ โดยเป็นการเพิ่มความแข็งแรงของ Synapse ในระยะยาว ผ่านกระบวนการต่างๆ เช่น การสร้าง Synapse ใหม่ (new synaptic formation) และการเพิ่มโปรตีนที่ Synapse (synaptic proteins)",
+            "state": false
+        },
+        {
+            "problem": "23. A 70-year-old patient with Alzheimer's disease often asks the same questions repeatedly and cannot form new memories of daily events. Which memory process is primarily impaired?",
+            "img": "",
+            "choices": "Retrieval of remote memory///Encoding of sensory memory///Decay of short-term memory///Consolidation of long-term memory///Interference with implicit memory",
+            "answer": "Consolidation of long-term memory",
+            "select": "",
+            "explain": "อาการไม่สามารถสร้างความจำใหม่ได้ (Anterograde amnesia) เป็นอาการหลักของภาวะความจำเสื่อมที่เกิดจากการทำลาย Hippocampus ซึ่งเป็นโครงสร้างหลักที่รับผิดชอบในการรวบรวมความจำ (Consolidation) หรือการเปลี่ยนความจำระยะสั้นให้เป็นความจำระยะยาว",
+            "state": false
+        },
+        {
+            "problem": "24. A student studies for an anatomy exam (A) and then studies for a pharmacology exam (B). During exam A, he can only recall information from exam B. This cause of forgetting is best described as:",
+            "img": "",
+            "choices": "Retrieval failure///Ineffective encoding///Decay of memories///Proactive interference///Retroactive interference",
+            "answer": "Retroactive interference",
+            "select": "",
+            "explain": "Retroactive interference คือภาวะที่การเรียนรู้ข้อมูลใหม่ (Pharmacology exam B) ไปรบกวนหรือขัดขวางการดึงข้อมูลเก่า (Anatomy exam A) ออกมาใช้ (Interference of new memory on old memory)",
+            "state": false
+        },
+        {
+            "problem": "25. Which intracellular event in the postsynaptic neuron is essential for triggering the cascade leading to LTP and the insertion of more AMPA receptors?",
+            "img": "",
+            "choices": "Hyperpolarization of the cell membrane///Efflux of K+ through voltage-gated channels///Influx of Ca2+ through NMDA receptors///Activation of protein phosphatase (PP1)///Release of Nitric Oxide (NO) into the synaptic cleft",
+            "answer": "Influx of Ca2+ through NMDA receptors",
+            "select": "",
+            "explain": "ในการเกิด LTP นั้น จำเป็นต้องมีการกระตุ้น NMDA receptor อย่างแรง ซึ่งจะทำให้ช่องเปิดออก และแคลเซียมไอออน (Ca2+) จะไหลเข้าสู่เซลล์ประสาท ซึ่งแคลเซียมที่เพิ่มขึ้นนี้จะเป็น Second messenger สำคัญในการกระตุ้นเอนไซม์ CaMKII และเริ่มต้นกระบวนการ LTP",
+            "state": false
+        },
+        {
+            "problem": "26. During Long-Term Depression (LTD), the small and slow influx of Ca2+ primarily activates which enzyme, leading to the removal of AMPA receptors from the synapse?",
+            "img": "",
+            "choices": "Protein Kinase C (PKC)///Calmodulin-dependent protein kinase II (CaMKII)///Adenylate cyclase///Calcineurin (Protein Phosphatase 1)///Phosphodiesterase",
+            "answer": "Calcineurin (Protein Phosphatase 1)",
+            "select": "",
+            "explain": "Long-Term Depression (LTD) เป็นกลไกที่ทำให้ Synapse อ่อนแอลง ซึ่งเกิดจากการเพิ่มขึ้นของ Ca2+ ในระดับต่ำและช้า ซึ่งจะไปกระตุ้น Protein phosphatase (Calcineurin/PP1) ให้ทำงาน ซึ่งจะไปลดจำนวน AMPA receptor ที่ผิวเซลล์ (Internalization) ทำให้ Synapse ตอบสนองต่อ Glutamate ได้น้อยลง",
+            "state": false
+        },
+        {
+            "problem": "27. In the context of the neuroscience of intelligence, which brain feature has been shown to have the strongest correlation with neural processing speed and intelligence levels?",
+            "img": "",
+            "choices": "Absolute brain volume///Total grey matter volume///Quality of white matter tracts (Axonal integrity)///Cortical thickness in the frontal lobe///Size of individual pyramidal neurons",
+            "answer": "Quality of white matter tracts (Axonal integrity)",
+            "select": "",
+            "explain": "งานวิจัยแสดงให้เห็นว่าคุณภาพของ White matter tracts ซึ่งรวมถึงความสมบูรณ์ของ Axon และ Myelin sheath เป็นปัจจัยที่สัมพันธ์กับความเร็วและความสามารถในการประมวลผลของสมอง (Neural efficiency) และระดับสติปัญญา (Intelligence) มากกว่าขนาดสมองโดยรวม",
+            "state": false
+        },
+        {
+            "problem": "28. A patient is unable to identify a common object (e.g., a key) placed in their left hand while their eyes are closed. This condition, Astereognosis, results from a lesion in the right:",
+            "img": "",
+            "choices": "Primary somatosensory cortex///Temporal lobe association area///Frontal lobe association area///Parietal lobe association area///Lateral geniculate body",
+            "answer": "Parietal lobe association area",
+            "select": "",
+            "explain": "Astereognosis เป็นภาวะที่ไม่สามารถรับรู้รูปทรงของวัตถุได้ด้วยการคลำ ทั้งที่ยังรับความรู้สึกสัมผัสได้ปกติ ซึ่งเป็นความผิดปกติของการรวบรวมและตีความข้อมูลทางประสาทสัมผัสในระดับสูง (Somatosensory association) ซึ่งเป็นหน้าที่ของ Parietal lobe association area เนื่องจากข้อมูลจากมือซ้ายจะถูกส่งข้ามไปประมวลผลที่สมองซีกขวา",
+            "state": false
+        },
+        {
+            "problem": "29. Which component of long-term memory is often preserved in patients with amnesia, allowing them to learn new motor skills and habits through repeated practice?",
+            "img": "",
+            "choices": "Semantic memory (Facts)///Episodic memory (Events)///Explicit memory///Declarative memory///Procedural memory (Implicit memory)",
+            "answer": "Procedural memory (Implicit memory)",
+            "select": "",
+            "explain": "ความจำเกี่ยวกับทักษะและขั้นตอน (Procedural memory) เป็นรูปแบบหนึ่งของ Implicit (Nondeclarative) memory ซึ่งถูกเก็บไว้ใน Basal ganglia และ Cerebellum ซึ่งมักไม่ได้รับผลกระทบจากความเสียหายที่ Hippocampus จึงมักจะยังคงอยู่แม้ในผู้ป่วยที่มีภาวะความจำเสื่อม",
+            "state": false
+        },
+        {
+            "problem": "30. The feeling of extreme sadness, decreased pleasure (anhedonia), and difficulty in concentration are symptoms most strongly linked to the hypofunction of which pair of neurotransmitter systems?",
+            "img": "",
+            "choices": "DA and GABA///NE and Ach///5-HT and NE///5-HT and Histamine///DA and Orexin",
+            "answer": "5-HT and NE",
+            "select": "",
+            "explain": "อาการของภาวะซึมเศร้า (Depression) มีความสัมพันธ์อย่างยิ่งกับการทำงานที่ลดลงของสารสื่อประสาทชนิด Monoamines โดยเฉพาะ Serotonin (5-HT) ซึ่งมีบทบาทต่ออารมณ์และ Norepinephrine (NE) ซึ่งเกี่ยวข้องกับสมาธิ ความตื่นตัว และพลังงาน",
+            "state": false
+        },
+        {
+            "problem": "31. A middle-aged man is diagnosed with Alzheimer's disease. Based on pathological findings, which part of his memory is affected by neurofibrillary tangles composed of hyperphosphorylated tau protein?",
+            "img": "",
+            "choices": "Short-term memory acquisition///Long-term memory retrieval///Sensory memory retention///Consolidation of long-term memories///Procedural memory encoding",
+            "answer": "Consolidation of long-term memories",
+            "select": "",
+            "explain": "Neurofibrillary tangles และ Amyloid plaques เป็นพยาธิสภาพของโรคอัลไซเมอร์ โดยมักเกิดใน Hippocampus และ Entorhinal cortex ซึ่งเป็นโครงสร้างสำคัญที่ทำหน้าที่ในการรวบรวมความจำ (Consolidation) หรือการเปลี่ยนความจำระยะสั้นให้เป็นความจำระยะยาว",
+            "state": false
+        },
+        {
+            "problem": "32. A child experiences a sudden brief loss of responsiveness where they stare blankly for a few seconds. This type of seizure is associated with high-frequency, low-amplitude firing in the thalamocortical loop, a characteristic of:",
+            "img": "",
+            "choices": "Desynchronization and tonic firing///Desynchronization and burst firing///Synchronization and tonic firing///Synchronization and burst firing///Tonic-clonic movements",
+            "answer": "Synchronization and burst firing",
+            "select": "",
+            "explain": "Absence seizure หรือลมชักเหม่อ เป็นชนิดหนึ่งของการชักที่เกิดจากความผิดปกติในวงจร Thalamocortical loop โดยมีการยิงสัญญาณของเซลล์ประสาทแบบเป็นชุด (Burst firing) ที่มีการซิงโครไนซ์สูงมาก ทำให้เกิดรูปแบบคลื่น Spike and wave ที่มีความถี่ 3 Hz ซึ่งเป็นลักษณะที่ผิดปกติ",
+            "state": false
+        },
+        {
+            "problem": "33. Which of the following is an example of an implicit (nondeclarative) memory?",
+            "img": "",
+            "choices": "Recalling your last birthday party///Remembering the capital of France///Knowing how to tie a shoe lace///Describing the symptoms of meningitis///Identifying a famous actor",
+            "answer": "Knowing how to tie a shoe lace",
+            "select": "",
+            "explain": "การผูกเชือกรองเท้าเป็นทักษะ (skill) ซึ่งจัดอยู่ในกลุ่ม Procedural memory ซึ่งเป็นรูปแบบหนึ่งของ Implicit (Nondeclarative) memory เป็นความจำที่ไม่ต้องอาศัยความพยายามในการนึกถึง (unconscious recall) ส่วนตัวเลือกอื่นๆ เป็นความจำเกี่ยวกับเหตุการณ์หรือข้อเท็จจริง ซึ่งเป็น Explicit memory",
+            "state": false
+        },
+        {
+            "problem": "34. The primary output pathway for signal transmission from the Hippocampus proper is via the:",
+            "img": "",
+            "choices": "Perforant pathway///Mossy fibers///Subiculum///Entorhinal cortex///Dentate gyrus",
+            "answer": "Subiculum",
+            "select": "",
+            "explain": "Subiculum เป็นส่วนที่อยู่ปลายสุดของ Hippocampal formation ซึ่งเป็นโครงสร้างที่รับสัญญาณ Output หลักจาก Cornu Ammonis 1 (CA1) แล้วส่งออกไปยังส่วนอื่นๆ ของสมอง เช่น Mamillary bodies ผ่านทาง Fornix",
+            "state": false
+        },
+        {
+            "problem": "35. A man wakes up during the night and finds himself eating in the kitchen without recalling it later. This behavior most likely occurs during which sleep stage?",
+            "img": "",
+            "choices": "NREM Stage 1 (Drowsy)///NREM Deep sleep (N3/N4)///REM sleep with sleep paralysis///Awake with open eyes///NREM Stage 2",
+            "answer": "NREM Deep sleep (N3/N4)",
+            "select": "",
+            "explain": "พฤติกรรมการเดินละเมอหรือทำกิจกรรมขณะหลับ (Parasomnia) เช่น Sleepwalking หรือ Sleep-related eating disorder มักเกิดขึ้นในช่วง Non-REM deep sleep (N3/N4) ซึ่งเป็นช่วงที่ร่างกายมีการตื่นตัวที่ต่ำ (Low level of arousal) และการทำงานของสมองส่วนที่ควบคุมพฤติกรรมยังคงทำงานในขณะที่ส่วนที่ควบคุมความจำและการรับรู้ถูกยับยั้ง ทำให้จำเหตุการณ์ที่เกิดขึ้นไม่ได้",
+            "state": false
+        },
+        {
+            "problem": "36. The major input to the Hippocampal Formation (Entorhinal Cortex) primarily originates from which structure, allowing it to begin the memory processing circuit?",
+            "img": "",
+            "choices": "Mamillary bodies///Fornix///Neocortex (through parahippocampal gyrus)///Septal nuclei///Amygdala",
+            "answer": "Neocortex (through parahippocampal gyrus)",
+            "select": "",
+            "explain": "ข้อมูลจากสมองส่วน Neocortex (ซึ่งประมวลผลข้อมูลประสาทสัมผัสและการรับรู้) จะถูกส่งเข้าสู่ Hippocampal formation ผ่านทาง Parahippocampal gyrus และ Entorhinal cortex ซึ่งทำหน้าที่เป็น 'ประตู' รับสัญญาณเข้าสู่ระบบ Hippocampus เพื่อเริ่มต้นกระบวนการสร้างความจำ",
+            "state": false
+        },
+        {
+            "problem": "37. Which of the following is the mechanism by which Benzodiazepines (BZD) exert their sedative and hypnotic effects?",
+            "img": "",
+            "choices": "Directly activating GABA-A receptors and opening the Cl- channel///Increasing the frequency of Cl- channel opening via GABA-A receptor///Antagonizing GABA-B receptors to reduce neuron excitability///Inhibiting the reuptake of Norepinephrine and Serotonin///Blocking voltage-gated Na+ channels in the RAS",
+            "answer": "Increasing the frequency of Cl- channel opening via GABA-A receptor",
+            "select": "",
+            "explain": "Benzodiazepines เป็น Positive Allosteric Modulator ของ GABA-A receptor โดยจะจับกับ Receptor ที่ตำแหน่งอื่นที่ไม่ใช่ที่ GABA จับ การจับนี้จะช่วยเพิ่มประสิทธิภาพของ GABA ทำให้ GABA สามารถเปิดช่องคลอไรด์ (Cl- channel) ได้บ่อยขึ้น (increase frequency) ส่งผลให้เกิด Hyperpolarization และยับยั้งการทำงานของเซลล์ประสาท",
+            "state": false
+        },
+        {
+            "problem": "38. The primary function of the Temporal Lobe Association Area is in the high-level cognitive process of:",
+            "img": "",
+            "choices": "Planning and executing complex motor sequences///Receiving and localizing somatosensory input///Identifying and recognizing complex stimuli (e.g., faces, sounds)///Processing the emotional valence of a stimulus///Maintaining attention and working memory",
+            "answer": "Identifying and recognizing complex stimuli (e.g., faces, sounds)",
+            "select": "",
+            "explain": "Temporal Lobe Association Area (ส่วนล่าง) มีบทบาทสำคัญในการรับรู้และจดจำวัตถุ (Object recognition) โดยเฉพาะอย่างยิ่งใบหน้า (Prosopagnosia) และเสียงพูด (Wernicke's Area) ซึ่งเป็นส่วนหนึ่งของการระบุและตีความสิ่งเร้าที่ซับซ้อน",
+            "state": false
+        },
+        {
+            "problem": "39. The reduction in the intensity of a startle response after repeated, harmless exposure to a loud, non-threatening noise is an example of which type of non-associative learning?",
+            "img": "",
+            "choices": "Sensitization///Classical conditioning///Habituation///Procedural memory acquisition///Priming",
+            "answer": "Habituation",
+            "select": "",
+            "explain": "Habituation คือการลดลงของปฏิกิริยาตอบสนองเมื่อมีการกระตุ้นซ้ำๆ ด้วยสิ่งเร้าที่ไม่เป็นอันตราย ซึ่งเป็นรูปแบบหนึ่งของการเรียนรู้ที่ไม่ต้องอาศัยการเชื่อมโยง (Non-associative learning) เพื่อให้ร่างกายสามารถละเลยสิ่งเร้าที่ไม่สำคัญได้",
+            "state": false
+        },
+        {
+            "problem": "40. Which factor is believed to significantly contribute to the restorative effect of NREM sleep by increasing metabolic energy stores in the brain?",
+            "img": "",
+            "choices": "Decreased REM sleep paralysis///Increased serotonin release///Increased Neural glycogen metabolism///Increased cerebral cortex activity///Decreased pineal melatonin secretion",
+            "answer": "Increased Neural glycogen metabolism",
+            "select": "",
+            "explain": "NREM sleep โดยเฉพาะ Deep sleep มีความสำคัญต่อการฟื้นฟูพลังงานในสมอง (Restorative effect) โดยมีการเพิ่มการสังเคราะห์ไกลโคเจนในเซลล์ Glial (Neural glycogen metabolism) และ ATP ซึ่งเชื่อว่าเป็นกลไกในการเติมพลังงานให้กับเซลล์ประสาท",
+            "state": false
+        },
+        {
+            "problem": "41. Which of the following is a primary finding in a patient with a pathological process in the cerebellum that causes problems with motor learning, fine-tuning, and unlearning motor programs?",
+            "img": "",
+            "choices": "Long-Term Potentiation (LTP) at parallel fiber-Purkinje cell synapses///Insertion of AMPA receptors into Purkinje cell membrane///Activation of CaMKII in Purkinje cells///Long-Term Depression (LTD) at parallel fiber-Purkinje cell synapses///Increased synaptic strength in the deep cerebellar nuclei",
+            "answer": "Long-Term Depression (LTD) at parallel fiber-Purkinje cell synapses",
+            "select": "",
+            "explain": "การเรียนรู้ทักษะการเคลื่อนไหว (Motor learning) และการปรับแก้ความแม่นยำของคำสั่งการเคลื่อนไหวใน Cerebellum นั้นอาศัย Long-Term Depression (LTD) เป็นกลไกหลัก โดย LTD จะทำให้อิทธิพลของ Parallel fiber ต่อ Purkinje cell ลดลง ซึ่งเป็นการปรับแก้ที่สำคัญในการทำ Motor learning",
+            "state": false
+        },
+        {
+            "problem": "42. A sudden onset of a Beta-wave pattern replacing the Alpha wave when a patient opens their eyes after being relaxed is known as:",
+            "img": "",
+            "choices": "REM-off phenomenon///Gating of sensation///Alpha block///Conscious wave activation///Theta-wave suppression",
+            "answer": "Alpha block",
+            "select": "",
+            "explain": "Alpha block คือปรากฏการณ์ที่คลื่น Alpha (ที่พบเมื่อตื่นและหลับตา) ถูกยับยั้งและแทนที่ด้วยคลื่น Beta (ที่มีความถี่สูงกว่า) เมื่อมีการเปิดตา หรือมีการกระตุ้นทางประสาทสัมผัส หรือเริ่มใช้ความคิด",
+            "state": false
+        },
+        {
+            "problem": "43. Which of the following is a result of LHA (Lateral Hypothalamic Area) activation during the awake state?",
+            "img": "",
+            "choices": "Decreased SCN firing///Increased Melatonin release///VLPO activation///Increased Orexin and Histamine release///Inhibition of the Reticular Activating System (RAS)",
+            "answer": "Increased Orexin and Histamine release",
+            "select": "",
+            "explain": "LHA เป็นส่วนหนึ่งของระบบตื่นตัว (Awake system) ใน Hypothalamus โดยเซลล์ประสาทในบริเวณนี้จะหลั่งสาร Orexin (Hypocretin) และ Histamine ซึ่งมีบทบาทสำคัญในการส่งเสริมความตื่นตัวและยับยั้ง VLPO เพื่อป้องกันการเข้าสู่การนอนหลับ",
+            "state": false
+        },
+        {
+            "problem": "44. A patient with long-term severe depression is at an increased risk of developing substance dependence, partly due to the impaired function of which part of the central reward system?",
+            "img": "",
+            "choices": "Cerebellum and spinal cord///Thalamus and somatosensory cortex///Hippocampus and entorhinal cortex///Ventral tegmental area (VTA) and Nucleus Accumbens (NAc)///Hypothalamus and pineal gland",
+            "answer": "Ventral tegmental area (VTA) and Nucleus Accumbens (NAc)",
+            "select": "",
+            "explain": "ผู้ป่วยที่มีภาวะซึมเศร้ามีการทำงานของระบบรางวัล (Reward system) ที่ผิดปกติ ซึ่งวงจรนี้ประกอบด้วย VTA และ NAc (ส่วนหนึ่งของ Mesolimbic dopaminergic pathway) ยาเสพติดจะกระตุ้นวงจรนี้อย่างรุนแรง ทำให้เกิดความรู้สึกดีชั่วคราวซึ่งผู้ป่วยซึมเศร้าอาจใช้เพื่อ 'รักษาตนเอง' (self-medicate) จากภาวะอารมณ์ซึมเศร้า จึงนำไปสู่การเสพติดได้ง่าย",
+            "state": false
+        },
+        {
+            "problem": "45. The conversion of a short-term memory (STM) into a long-term memory (LTM) is most strongly dependent on adequate levels of:",
+            "img": "",
+            "choices": "Muscle tone and motor control///Arousal and attention///Sleep paralysis and vivid dreaming///Autonomic activity and temperature regulation///CSF production and absorption",
+            "answer": "Arousal and attention",
+            "select": "",
+            "explain": "กระบวนการรวบรวมความจำ (Consolidation) หรือการเปลี่ยน STM ไปเป็น LTM นั้น อาศัยการทำงานที่ซับซ้อนของ Hippocampus และส่วนอื่นๆ ของระบบ Limbic แต่ปัจจัยพื้นฐานที่สุดที่กำหนดประสิทธิภาพของกระบวนการนี้คือระดับความตื่นตัว (Arousal) และความใส่ใจ (Attention) ในขณะที่รับข้อมูล",
+            "state": false
+        }
     ]
 };
