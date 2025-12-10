@@ -4214,10 +4214,10 @@ var quizdata = {
         {
             "problem": "34. A 35-year-old man came to the hospital unconsciously from motorcycle accident. Doctor flash light into patient's right eye and the right pupil constrict. However, the left pupil still dilate. Where is the lesion?",
             "img": "",
-            "choices": "Left pretectal nucleus///Right pretectal nucleus///Right oculomotor nerve///Right optic nerve///Left optic nerve",
-            "answer": "Right oculomotor nerve",
+            "choices": "Left pretectal nucleus///Right pretectal nucleus///Right oculomotor nerve///Right optic nerve///Left optic nerve///Left Oculomotor nerve",
+            "answer": "Left Oculomotor nerve",
             "select": "",
-            "explain": "คำถามนี้น่าจะมีข้อผิดพลาดในตัวเลือกหรือคำอธิบายอาการ จากอาการที่ว่า 'ส่องไฟตาขวา ตาขวาหด แต่ตาซ้ายยังคงขยาย' (direct reflex อยู่ แต่ consensual reflex หายไป) พยาธิสภาพควรจะอยู่ที่ทางนำคำสั่งออกไปยังตาซ้าย (Left efferent pathway) ซึ่งก็คือ Left oculomotor nerve (CN III) แต่ในตัวเลือกไม่มี อย่างไรก็ตามหากโจทย์ตั้งใจจะทดสอบภาวะที่รูม่านตาข้างหนึ่งขยายและไม่ตอบสนองต่อแสง ซึ่งพบบ่อยในผู้ป่วยอุบัติเหตุที่ศีรษะจากการกดทับของเส้นประสาท CN III (Uncal herniation) รอยโรคจะอยู่ที่เส้นประสาท Oculomotor nerve ข้างเดียวกับรูม่านตาที่ขยาย ดังนั้นหากจะเลือกคำตอบที่ใกล้เคียงที่สุดโดยสมมติว่าโจทย์อาจจะพิมพ์สลับข้าง คำตอบที่อธิบายรูม่านตาข้างหนึ่งขยายค้างคือรอยโรคที่ Oculomotor nerve ข้างนั้นๆ",
+            "explain": "เมื่อส่องไฟเข้าตาขวา (Right eye) พบว่า Pupillary light reflex ด้านขวาทำงานปกติ (รูม่านตาหดตัว) แต่ด้านซ้ายไม่ตอบสนอง (รูม่านตาขยาย) แสดงว่าปัญหาอยู่ที่ Efferent limb ของ Pupillary light reflex ด้านซ้าย ซึ่งคือ Left oculomotor nerve (CN III) ที่ควบคุมการหดตัวของรูม่านตาซ้าย",
             "state": false
         },
         {
@@ -6908,7 +6908,7 @@ var quizdata = {
         },
         {
             "problem": "9. A 43 year-old woman presents with fever, lethargy, poor appetite. What is possible parasitic infection ?",
-            "img": "https://drive.google.com/open?id=1C6b2TzX9XNlkfAzJfmSnvMFp1aUROS9x&usp=drive_copy",
+            "img": "https://drive.google.com/open?id=1KIHz9LVlcQzF8dPd0WRzxxYfFmkMT-eb&usp=drive_copy",
             "choices": "Taenia solium///Naegleria fowleri///Spirometra mansoni///Gnathostoma spinigerum///Angiostrongylus cantonensis",
             "answer": "Taenia solium",
             "select": "",
@@ -14946,6 +14946,1808 @@ var quizdata = {
             "select": "",
             "explain": "กระบวนการรวบรวมความจำ (Consolidation) หรือการเปลี่ยน STM ไปเป็น LTM นั้น อาศัยการทำงานที่ซับซ้อนของ Hippocampus และส่วนอื่นๆ ของระบบ Limbic แต่ปัจจัยพื้นฐานที่สุดที่กำหนดประสิทธิภาพของกระบวนการนี้คือระดับความตื่นตัว (Arousal) และความใส่ใจ (Attention) ในขณะที่รับข้อมูล",
             "state": false
+        },
+        {
+            "problem": "1. A student is focusing intensely on an anatomy lecture, actively taking notes and trying to interpret complex concepts. Which EEG wave is predominantly observed over the frontal region?",
+            "img": "",
+            "choices": "Alpha wave (8-12 Hz)///Theta wave (4-7 Hz)///Delta wave (1-3 Hz)///Beta wave (>12 Hz)///Gamma wave (>30 Hz)",
+            "answer": "Beta wave (>12 Hz)",
+            "select": "",
+            "explain": "คลื่นเบต้าเป็นคลื่นไฟฟ้าสมองที่มีความถี่สูง (มากกว่า 12 เฮิรตซ์) และแอมพลิจูดต่ำ ซึ่งเป็นลักษณะของภาวะสมองตื่นตัว มีสมาธิ หรือกำลังประมวลผลความคิดที่ซับซ้อน มักเด่นชัดบริเวณสมองส่วนหน้า (Frontal region predominant)",
+            "state": false
+        },
+        {
+            "problem": "2. An EEG shows sudden desynchronization (Alpha block) of the Alpha wave pattern (8-12 Hz) while a patient is awake with eyes closed. This shift is primarily due to the activation of the brain in response to:",
+            "img": "",
+            "choices": "A reduction in cerebral blood flow///An increase in GABAergic inhibition///Sensory stimulation or attention///The onset of light sleep (N1)///Burst firing of thalamocortical cells",
+            "answer": "Sensory stimulation or attention",
+            "select": "",
+            "explain": "Alpha block คือการที่คลื่น Alpha ถูกยับยั้งและแทนที่ด้วยคลื่น Beta เมื่อมีการเปิดตา หรือมีการกระตุ้นทางประสาทสัมผัส หรือเริ่มใช้ความคิด ซึ่งแสดงถึงการเปลี่ยนจากภาวะตื่นแต่ผ่อนคลายไปสู่ภาวะตื่นตัวและมีสมาธิ",
+            "state": false
+        },
+        {
+            "problem": "3. Which EEG feature is characterized by the highest amplitude (20-200 µV) and lowest frequency (1-3 Hz), occurring predominantly during deep restorative sleep (N3/N4)?",
+            "img": "",
+            "choices": "Theta wave///Sleep spindle///Delta wave///K-complex///Beta wave",
+            "answer": "Delta wave",
+            "select": "",
+            "explain": "คลื่นเดลต้าเป็นคลื่นที่มีแอมพลิจูดสูงที่สุดและมีความถี่ต่ำที่สุด พบได้ในระยะหลับลึก (NREM N3/N4) ซึ่งเป็นช่วงที่ร่างกายทำการฟื้นฟู และมีการหลั่ง Growth Hormone",
+            "state": false
+        },
+        {
+            "problem": "4. The concept of synchronized EEG, characterized by A↑, f↓ and burst firing of thalamocortical cells, is associated with which primary behavioral state?",
+            "img": "",
+            "choices": "Conscious wakefulness///Light/Deep sleep (Theta-wave, Delta-wave)///Vivid dreaming (REM sleep)///Normal awake, active thinking///Mild drowsiness (Theta-wave)",
+            "answer": "Light/Deep sleep (Theta-wave, Delta-wave)",
+            "select": "",
+            "explain": "การซิงโครไนซ์ของคลื่นไฟฟ้าสมองสัมพันธ์กับการยิงสัญญาณประสาทแบบเป็นชุด (Burst firing) ของเซลล์ประสาทในวงจร Thalamocortical ซึ่งเกิดขึ้นในระหว่างการนอนหลับ (Light/Deep sleep) โดยมีคลื่น Theta และ Delta เป็นลักษณะเด่น",
+            "state": false
+        },
+        {
+            "problem": "5. A localized pathological process, such as a hematoma or infarct, in the cerebral cortex is typically diagnosed on EEG by the presence of:",
+            "img": "",
+            "choices": "Increased Beta-wave desynchronization///Persistent Alpha-wave blocks///Pathologic focal delta activity///Excessive sleep spindles///High-amplitude K-complexes",
+            "answer": "Pathologic focal delta activity",
+            "select": "",
+            "explain": "คลื่นเดลต้าแบบเฉพาะที่ (Pathologic focal delta) บ่งชี้ถึงพยาธิสภาพของโครงสร้างสมอง (Structural lesion) ในบริเวณนั้นๆ เช่น เลือดออกในสมอง (hematoma) หรือสมองขาดเลือด (infarct) ซึ่งทำลายการทำงานปกติของเซลล์ประสาท",
+            "state": false
+        },
+        {
+            "problem": "6. A patient is unresponsive but can be briefly aroused by vigorous and repeated physical stimuli. This reduced level of consciousness is clinically described as:",
+            "img": "",
+            "choices": "Coma (GCS 3-8 Severe)///Alert (GCS 13-15 Mild)///Drowsy (Arousable by moderate stimuli)///Persistent vegetative state (PVS)///Stupor (Arousable by vigorous stimuli)",
+            "answer": "Stupor (Arousable by vigorous stimuli)",
+            "select": "",
+            "explain": "ภาวะสตูปอร์คือระดับความรู้สึกตัวที่ผู้ป่วยไม่รู้สึกตัว (unresponsive) แต่ยังสามารถถูกปลุกให้ตื่นได้ในระยะเวลาสั้นๆ ด้วยการกระตุ้นที่รุนแรงและซ้ำๆ (vigorous and repeated physical stimuli)",
+            "state": false
+        },
+        {
+            "problem": "7. The primary output of the Suprachiasmatic Nucleus (SCN) that regulates the sleep-wake cycle under dark conditions is the direct inhibition of the:",
+            "img": "",
+            "choices": "Pineal gland (Melatonin release)///Ventrolateral Preoptic Nucleus (VLPO)///Reticular Activating System (RAS) via Orexin/Histamine///Superior cervical ganglion (SCG)///Dorsal raphe nucleus (5-HT)",
+            "answer": "Superior cervical ganglion (SCG)",
+            "select": "",
+            "explain": "SCN ควบคุมการหลั่ง Melatonin โดยในที่มืด SCN จะส่งสัญญาณไปยับยั้ง Superior Cervical Ganglion (SCG) น้อยลง ซึ่งจะทำให้ SCG กระตุ้น Pineal Gland ให้หลั่ง Melatonin เพิ่มขึ้น ส่วน Melatonin จะไปกระตุ้น VLPO ซึ่งเป็นศูนย์กลางการนอนหลับ",
+            "state": false
+        },
+        {
+            "problem": "8. Which nucleus in the hypothalamus releases the wake-promoting neurotransmitters Orexin and Histamine to directly stimulate the Reticular Activating System (RAS)?",
+            "img": "",
+            "choices": "Suprachiasmatic Nucleus (SCN)///Ventrolateral Preoptic Nucleus (VLPO)///Lateral Hypothalamic Area (LHA)///Mamillary Body///Anterior Nucleus",
+            "answer": "Lateral Hypothalamic Area (LHA)",
+            "select": "",
+            "explain": "Lateral Hypothalamic Area (LHA) เป็นส่วนหนึ่งของระบบตื่นตัว (Awake system) ที่จะหลั่งสาร Orexin (Hypocretin) และ Histamine เพื่อส่งเสริมความตื่นตัว (Awake) และกระตุ้น RAS",
+            "state": false
+        },
+        {
+            "problem": "9. The transition from NREM sleep to REM sleep is characterized by a decrease in which two neurotransmitters that normally inhibit the REM-ON cells in the Pons?",
+            "img": "",
+            "choices": "Orexin and Histamine///Serotonin (5-HT) and Acetylcholine (ACh)///Acetylcholine (ACh) and Norepinephrine (NE)///Norepinephrine (NE) and Serotonin (5-HT)///GABA and Glycine",
+            "answer": "Norepinephrine (NE) and Serotonin (5-HT)",
+            "select": "",
+            "explain": "REM sleep ถูกกระตุ้นเมื่อเซลล์ประสาท REM-OFF (ซึ่งสร้าง NE และ 5-HT) ที่ปกติจะยับยั้ง REM-ON cells ทำงานลดลง (↓NE, ↓5-HT) ทำให้ REM-ON cells (ซึ่งสร้าง ACh) ทำงานได้เต็มที่และเริ่มต้น REM sleep",
+            "state": false
+        },
+        {
+            "problem": "10. In NREM sleep, the largest normal event on the EEG (K-complex) and Sleep Spindles serve which primary function?",
+            "img": "",
+            "choices": "To stimulate the secretion of Growth Hormone (GH)///To generate rapid eye movements and muscle atonia///To promote neuronal burst firing and desynchronization///Sensory gating and arousal suppression///To transfer short-term memories to long-term storage",
+            "answer": "Sensory gating and arousal suppression",
+            "select": "",
+            "explain": "K-complex เป็นเครื่องหมายสำคัญของ NREM Stage 2 ซึ่งมีบทบาทหลักในการกรองสัญญาณรบกวนจากภายนอก (Sensory gating) และระงับการตื่นตัว (Arousal suppression) เพื่อรักษาสภาวะการนอนหลับ",
+            "state": false
+        },
+        {
+            "problem": "11. The feeling of extreme tiredness or 'sleep need' is theorized to be caused by the accumulation of which metabolic byproducts in the blood and brain during wakefulness?",
+            "img": "",
+            "choices": "Neural glycogen and ATP///Acetylcholine and Serotonin///Waste accumulation in blood and low glycogen///Orexin and Histamine///Melatonin and GABA",
+            "answer": "Waste accumulation in blood and low glycogen",
+            "select": "",
+            "explain": "ความต้องการการนอนหลับ (Sleep Need) สะสมขึ้นระหว่างวันจากสาเหตุภายใน เช่น การสะสมของของเสียในเลือด และการลดลงของไกลโคเจนในเซลล์ประสาท ซึ่งการนอนหลับจะช่วยฟื้นฟูไกลโคเจนและ ATP กลับมา",
+            "state": false
+        },
+        {
+            "problem": "12. In the sleep-wake cycle, parasympathetic activity (Sleep Urge) typically has two peaks. When do these peaks predominantly occur?",
+            "img": "",
+            "choices": "During light sleep and deep sleep///After meal and night time///Upon awakening and during REM sleep///Before midnight and after 6 AM///During the REM and NREM cycles",
+            "answer": "After meal and night time",
+            "select": "",
+            "explain": "ความต้องการการนอนหลับ (Sleep Urge) สัมพันธ์กับการทำงานของระบบประสาท Parasympathetic ซึ่งโดยทั่วไปจะมี 2 ช่วงสูงสุด คือช่วงหลังรับประทานอาหาร (Post-meal) และช่วงเวลากลางคืน (Night time) ซึ่งเป็นช่วงที่ร่างกายเข้าสู่สภาวะพักผ่อน",
+            "state": false
+        },
+        {
+            "problem": "13. The severity of a brain injury, determined by the Glasgow Coma Score (GCS) range of 3-8, is clinically classified as:",
+            "img": "",
+            "choices": "Mild impairment (GCS 13-15)///Moderate impairment (GCS 9-12)///Severe impairment (GCS 3-8)///Minimally conscious state (MCS)///Persistent vegetative state (PVS)",
+            "answer": "Severe impairment (GCS 3-8)",
+            "select": "",
+            "explain": "Glasgow Coma Score (GCS) เป็นเครื่องมือวัดระดับความรู้สึกตัวที่ใช้กันอย่างแพร่หลาย คะแนน 3-8 จัดเป็นการบาดเจ็บที่รุนแรง (Severe impairment) และบ่งชี้ถึงภาวะโคม่า",
+            "state": false
+        },
+        {
+            "problem": "14. Remembering the name of the largest cranial nerve and its functions is an example of which type of long-term memory?",
+            "img": "",
+            "choices": "Procedural memory///Episodic memory///Working memory///Semantic memory///Sensory memory",
+            "answer": "Semantic memory",
+            "select": "",
+            "explain": "ความจำเชิงความหมาย (Semantic memory) เป็นส่วนหนึ่งของความจำแบบ Explicit (Declarative) ซึ่งเกี่ยวข้องกับข้อเท็จจริง ความรู้ และแนวคิดทั่วไปที่ไม่ขึ้นอยู่กับบริบทของเวลาและสถานที่",
+            "state": false
+        },
+        {
+            "problem": "15. The memory that allows a retired surgeon to still successfully perform a complex surgical knot tie demonstrates which form of implicit memory?",
+            "img": "",
+            "choices": "Priming memory///Associative memory///Episodic memory///Procedural memory///Sensory memory",
+            "answer": "Procedural memory",
+            "select": "",
+            "explain": "ความจำเชิงขั้นตอน (Procedural memory) เป็นรูปแบบของความจำแบบ Implicit (Nondeclarative) ที่เกี่ยวข้องกับการเรียนรู้ทักษะ กลไก และนิสัยต่างๆ ซึ่งจะถูกเก็บไว้ใน Basal ganglia และ Cerebellum",
+            "state": false
+        },
+        {
+            "problem": "16. Which nucleus is considered a component of the Content of Consciousness, primarily using Serotonin, Noradrenaline, and Acetylcholine to modulate cerebral cortex activity?",
+            "img": "",
+            "choices": "Suprachiasmatic nucleus (SCN)///Ventrolateral preoptic nucleus (VLPO)///Mamillary Body (MB)///Reticular Activating System (RAS)///Lateral Hypothalamic Area (LHA)",
+            "answer": "Reticular Activating System (RAS)",
+            "select": "",
+            "explain": "Retiular Activating System (RAS) เป็นเครือข่ายของนิวเคลียสในก้านสมองและทาลามัส ซึ่งเป็นองค์ประกอบหลักของ Level of Consciousness โดยใช้สารสื่อประสาทหลายชนิด (Serotonin, Noradrenaline, Acetylcholine) เพื่อรักษาสภาวะความตื่นตัวของสมอง",
+            "state": false
+        },
+        {
+            "problem": "17. A patient with Klüver-Bucy Syndrome exhibits hypersexuality and loss of fear (placidity). This is caused by a bilateral lesion in which key limbic structure?",
+            "img": "",
+            "choices": "Cingulate gyrus///Mamillary bodies///Hippocampus///Amygdala///Basal forebrain",
+            "answer": "Amygdala",
+            "select": "",
+            "explain": "Klüver-Bucy Syndrome เกิดจากรอยโรคที่ทำลาย Medial temporal lobes ทั้งสองข้าง ซึ่งส่วนสำคัญที่ทำให้เกิดอาการสูญเสียความกลัว (Placidity) และความต้องการทางเพศสูงผิดปกติ (Hypersexuality) คือ Amygdala",
+            "state": false
+        },
+        {
+            "problem": "18. Which dopaminergic pathway is most directly linked to the pathology of addiction due to its central role in the reward circuit (Pleasure/Motivation)?",
+            "img": "",
+            "choices": "Nigrostriatal dopaminergic pathway///Mesolimbic dopaminergic pathway///Tuberoinfundibular dopaminergic pathway///Mesocortical dopaminergic pathway///Ventral tegmental area (VTA)",
+            "answer": "Mesolimbic dopaminergic pathway",
+            "select": "",
+            "explain": "Mesolimbic pathway หรือ Reward circuit (VTA → Nucleus Accumbens) เป็นวงจรที่ใช้ Dopamine เป็นสารสื่อประสาทหลัก และเป็นเส้นทางสำคัญที่ถูกกระตุ้นโดยสารเสพติดและพฤติกรรมที่ก่อให้เกิดความพึงพอใจ ซึ่งเป็นสาเหตุของการเสพติด",
+            "state": false
+        },
+        {
+            "problem": "19. The biological basis of emotion's intensity (Pleasantness/Unpleasantness) is primarily processed in which part of the cerebral hemispheres?",
+            "img": "",
+            "choices": "Anterior part of both hemispheres///Posterior part of both hemispheres///Right posterior part of the hemisphere///Left posterior part of the hemisphere///Entire limbic system",
+            "answer": "Posterior part of both hemispheres",
+            "select": "",
+            "explain": "สมองส่วนหลัง (Posterior part of both hemispheres) มีบทบาทในการประมวลผล 'Intensity' หรือความรุนแรงของอารมณ์ ซึ่งเป็นส่วนที่รับสัญญาณจากอวัยวะภายในและภายนอกก่อนที่จะถูกส่งไปประมวลผลเป็น Valence ที่สมองส่วนหน้า",
+            "state": false
+        },
+        {
+            "problem": "20. The memory involved in consciously remembering a single event or episode from your life, such as your high school graduation, is classified as:",
+            "img": "",
+            "choices": "Procedural memory///Nondeclarative memory///Semantic memory///Episodic memory///Working memory",
+            "answer": "Episodic memory",
+            "select": "",
+            "explain": "ความจำเกี่ยวกับเหตุการณ์ (Episodic memory) เป็นส่วนหนึ่งของความจำแบบ Explicit (Declarative) ซึ่งเกี่ยวข้องกับการจดจำเหตุการณ์หรือประสบการณ์เฉพาะเจาะจงในชีวิต ที่มีบริบทของเวลาและสถานที่",
+            "state": false
+        },
+        {
+            "problem": "21. A phenomenon where exposure to a stimulus (e.g., the word 'Nurse') influences a subsequent response (e.g., completing the word 'NU_ _E') without conscious awareness is known as:",
+            "img": "",
+            "choices": "Habituation///Sensitization///Classical conditioning///Priming///Episodic memory",
+            "answer": "Priming",
+            "select": "",
+            "explain": "Priming เป็นรูปแบบหนึ่งของ Implicit (Nondeclarative) memory ที่การสัมผัสสิ่งเร้าหนึ่งมาก่อนมีผลต่อการตอบสนองต่อสิ่งเร้าที่เกี่ยวข้องในภายหลัง โดยที่ผู้ตอบสนองไม่จำเป็นต้องรับรู้ถึงความเชื่อมโยง",
+            "state": false
+        },
+        {
+            "problem": "22. The formation of new synapses, spine enlargement, and increase in synaptic proteins are structural changes associated with which cellular mechanism of long-term memory formation?",
+            "img": "",
+            "choices": "Decay of memory trace///Synaptic elimination///Long-Term Depression (LTD)///Inhibition of CaMKII///Long-Term Potentiation (LTP)",
+            "answer": "Long-Term Potentiation (LTP)",
+            "select": "",
+            "explain": "Long-Term Potentiation (LTP) เป็นการเพิ่มความแข็งแรงของ Synapse ในระยะยาว ซึ่งเกี่ยวข้องกับการเปลี่ยนแปลงโครงสร้างของ Synapse เช่น Dendritic spine enlargement และการสร้าง Synapse ใหม่",
+            "state": false
+        },
+        {
+            "problem": "23. Which brain region is the primary location for Long-Term Depression (LTD), a mechanism essential for motor learning, forgetting, and synaptic pruning?",
+            "img": "",
+            "choices": "Primary visual cortex///Amygdala///Caudate nucleus///Basal forebrain///Cerebellum",
+            "answer": "Cerebellum",
+            "select": "",
+            "explain": "Long-Term Depression (LTD) เป็นกลไกที่ทำให้ Synapse อ่อนแอลง ซึ่งมีความสำคัญอย่างยิ่งต่อ Cerebellum ในการเรียนรู้ทักษะการเคลื่อนไหว (Motor learning) และการปรับแก้ความแม่นยำของคำสั่งการเคลื่อนไหว",
+            "state": false
+        },
+        {
+            "problem": "24. A dog learns to associate the sound of a bell (conditioned stimulus) with the presentation of food (unconditioned stimulus), leading to salivation. This is an example of:",
+            "img": "",
+            "choices": "Habituation///Sensitization///Classical conditioning///Priming///Operant conditioning",
+            "answer": "Classical conditioning",
+            "select": "",
+            "explain": "Classical conditioning คือการเรียนรู้แบบวางเงื่อนไข โดยสิ่งเร้าที่เป็นกลาง (Neutral stimulus) ถูกจับคู่กับสิ่งเร้าที่ไม่ต้องวางเงื่อนไข (Unconditioned stimulus) จนทำให้สิ่งเร้าที่เป็นกลางสามารถกระตุ้นการตอบสนองได้ด้วยตัวเอง",
+            "state": false
+        },
+        {
+            "problem": "25. Which intracellular event in the postsynaptic neuron triggers the cascade leading to LTP by activating CaMKII and the insertion of AMPA receptors?",
+            "img": "",
+            "choices": "Efflux of K+ ions///Hyperpolarization of the cell membrane///Release of Nitric Oxide (NO)///Slow and sustained influx of Ca2+///Large and rapid influx of Ca2+",
+            "answer": "Large and rapid influx of Ca2+",
+            "select": "",
+            "explain": "การเกิด LTP ต้องอาศัยการไหลเข้าของแคลเซียมไอออน (Ca2+ influx) ในปริมาณมากและรวดเร็วผ่าน NMDA receptor ซึ่งแคลเซียมจะไปกระตุ้นเอนไซม์ CaMKII และเริ่มต้นกระบวนการเพิ่มความแข็งแรงของ Synapse",
+            "state": false
+        },
+        {
+            "problem": "26. Which of the following forgetting processes occurs when memory retrieval is difficult because newly learned information disrupts the recall of old information?",
+            "img": "",
+            "choices": "Retrieval failure///Motivated forgetting///Ineffective encoding///Proactive interference///Retroactive interference",
+            "answer": "Retroactive interference",
+            "select": "",
+            "explain": "Retroactive interference คือภาวะที่ข้อมูลใหม่ (Retroactive) ไปรบกวนการดึงข้อมูลเก่า (Interference) ทำให้ไม่สามารถเรียกคืนความจำเก่าได้",
+            "state": false
+        },
+        {
+            "problem": "27. In the context of the neuroscience of intelligence, the primary factor correlating with neural efficiency and speed of information processing is the:",
+            "img": "",
+            "choices": "Total number of synapses in the cerebral cortex///Volume of grey matter in the parietal lobe///Integrity and quality of white matter tracts///Synaptic density in the hippocampus///Size of the corpus callosum",
+            "answer": "Integrity and quality of white matter tracts",
+            "select": "",
+            "explain": "ประสิทธิภาพในการสื่อสารระหว่างสมองส่วนต่างๆ ซึ่งเป็นตัวกำหนดความเร็วในการประมวลผลข้อมูล (neural efficiency) สัมพันธ์อย่างยิ่งกับความสมบูรณ์และคุณภาพของ White matter tracts (Axonal integrity)",
+            "state": false
+        },
+        {
+            "problem": "28. Which of the following correctly describes the difference in capacity between short-term memory (STM) and long-term memory (LTM)?",
+            "img": "",
+            "choices": "STM has unlimited capacity, LTM has limited capacity///STM has limited capacity, LTM has limited capacity///STM has limited capacity, LTM has unlimited capacity///Both STM and LTM have unlimited capacity///LTM has a brief storage time, STM has permanent storage",
+            "answer": "STM has limited capacity, LTM has unlimited capacity",
+            "select": "",
+            "explain": "ความจำระยะสั้น (STM) มีความจุจำกัด (Limited capacity) และมีเวลาเก็บสั้น (Brief storage) ในขณะที่ความจำระยะยาว (LTM) มีความจุไม่จำกัด (Unlimited capacity) และเก็บได้ถาวร",
+            "state": false
+        },
+        {
+            "problem": "29. The phase of NREM sleep that is characterized by Sleep Spindles and K-complexes, and accounts for the largest proportion of total sleep time, is:",
+            "img": "",
+            "choices": "NREM Stage 1 (Drowsy)///NREM Stage 2 (Light sleep)///NREM Deep sleep (N3/N4)///REM sleep///Awake but resting",
+            "answer": "NREM Stage 2 (Light sleep)",
+            "select": "",
+            "explain": "NREM Stage 2 เป็นระยะหลับตื้นที่กินเวลามากที่สุดในการนอนหลับปกติ โดยมีเครื่องหมายสำคัญบน EEG คือ Sleep Spindles และ K-complexes ซึ่งมีบทบาทในการรักษาการนอนหลับและกรองสัญญาณรบกวน",
+            "state": false
+        },
+        {
+            "problem": "30. A decrease in the duration of NREM Stage 3/4 sleep and an increase in awakenings are the most significant changes in the sleep pattern of which age group?",
+            "img": "",
+            "choices": "Infants (0-1 year)///Children (1-10 years)///Young Adults (18-30 years)///Middle-aged Adults (40-60 years)///Elderly (Over 65 years)",
+            "answer": "Elderly (Over 65 years)",
+            "select": "",
+            "explain": "ผู้สูงอายุ (Elderly) มีการนอนหลับที่เปลี่ยนแปลงไปอย่างมาก โดยมีการนอนหลับรวมลดลง การตื่นระหว่างคืนบ่อยขึ้น และที่สำคัญคือช่วงการหลับลึก (NREM 3/4) ลดลงอย่างมาก (Markedly decreased)",
+            "state": false
+        },
+        {
+            "problem": "31. The memory mechanism known as Long-Term Potentiation (LTP) is most prominent in the CA1 pyramidal cells and dentate gyrus of which key brain structure?",
+            "img": "",
+            "choices": "Cerebellum///Basal ganglia///Amygdala///Hippocampus///Thalamus",
+            "answer": "Hippocampus",
+            "select": "",
+            "explain": "LTP เป็นกลไกสำคัญในการสร้างความจำระยะยาว พบได้โดดเด่นที่สุดใน Hippocampal formation โดยเฉพาะในบริเวณ Dentate gyrus และ CA1 pyramidal cells",
+            "state": false
+        },
+        {
+            "problem": "32. The process of memory consolidation, which stabilizes a new memory trace, is strongly dependent on the integrity of which structure and the quality of which sleep phase?",
+            "img": "",
+            "choices": "Cerebellum, REM sleep///Amygdala, NREM Stage 1///Hippocampus, Deep sleep (N3/N4)///Pons, REM sleep///Thalamus, Theta wave",
+            "answer": "Hippocampus, Deep sleep (N3/N4)",
+            "select": "",
+            "explain": "การรวบรวมความจำ (Consolidation) เป็นกระบวนการที่อาศัย Hippocampus เป็นหลัก และพบว่ามีประสิทธิภาพสูงสุดในช่วงการหลับลึก (Deep sleep, N3/N4) ซึ่งช่วยในการย้ายความจำจาก Hippocampus ไปเก็บใน Neocortex",
+            "state": false
+        },
+        {
+            "problem": "33. Which of the following correctly describes the main function of the Lateral Hypothalamic Area (LHA) in the sleep-wake cycle?",
+            "img": "",
+            "choices": "Releasing GABA to promote sleep///Serving as the main biological clock///Releasing Melatonin to suppress the RAS///Releasing Orexin/Histamine to promote wakefulness///Suppressing the Superior Cervical Ganglion",
+            "answer": "Releasing Orexin/Histamine to promote wakefulness",
+            "select": "",
+            "explain": "Lateral Hypothalamic Area (LHA) เป็นส่วนหนึ่งของระบบตื่นตัว (Awake system) ที่จะหลั่งสาร Orexin (Hypocretin) และ Histamine เพื่อกระตุ้นระบบตื่นตัว (RAS) และส่งเสริมความตื่นตัว",
+            "state": false
+        },
+        {
+            "problem": "34. The feeling of extreme energy, vigilance, and focus (Ergotrophic action) is biologically associated with the increased activity of which neurotransmitter system originating from the Locus Coeruleus (LC)?",
+            "img": "",
+            "choices": "Dopamine (DA)///Serotonin (5-HT)///Norepinephrine (NE)///Acetylcholine (ACh)///Histamine",
+            "answer": "Norepinephrine (NE)",
+            "select": "",
+            "explain": "Norepinephrine (NE) ผลิตจาก Locus Coeruleus (LC) และเป็นสารสื่อประสาทสำคัญในระบบ Ergotrophic (Fight/Flight/Action) ซึ่งเกี่ยวข้องกับความตื่นตัวระดับสูง (Alertness), สมาธิ (Concentration) และพลังงาน (Energy)",
+            "state": false
+        },
+        {
+            "problem": "35. A severe headache patient has an EEG showing desynchronization (A↓, f↑) over the left parietal lobe with tonic firing of the pyramidal cells. This wave pattern is characteristic of:",
+            "img": "",
+            "choices": "Deep sleep (Delta wave)///Light sleep (Theta wave)///Awake (Beta wave)///REM sleep (Sawtooth wave)///Generalized cerebral dysfunction",
+            "answer": "Awake (Beta wave)",
+            "select": "",
+            "explain": "คลื่นแบบ Desynchronization ที่มีแอมพลิจูดต่ำ ความถี่สูง และมีการยิงสัญญาณแบบโทนิก (Tonic firing) ของเซลล์ประสาท เป็นลักษณะของสภาวะตื่นตัว (Awake) ซึ่งเป็นสภาวะที่สมองกำลังทำงานอยู่",
+            "state": false
+        },
+        {
+            "problem": "36. The memory process that is impaired when a person, who studied diligently, cannot answer a question on the test because they used ineffective study techniques is primarily known as:",
+            "img": "",
+            "choices": "Consolidation failure (LTP)///Retrieval failure (Tip-of-the-tongue)///Motivated forgetting (Repression)///Decay of memories (LTD)///Ineffective encoding (Poor acquisition)",
+            "answer": "Ineffective encoding (Poor acquisition)",
+            "select": "",
+            "explain": "การเข้ารหัสที่ไม่ดีพอ (Ineffective encoding) คือการที่ข้อมูลถูกรับเข้าสู่ความจำระยะยาวด้วยวิธีการที่ไม่เหมาะสมหรือไม่ได้มีการจัดระเบียบที่ดี ทำให้ไม่สามารถดึงข้อมูลออกมาใช้ได้อย่างมีประสิทธิภาพในภายหลัง",
+            "state": false
+        },
+        {
+            "problem": "37. Which of the following is the mechanism by which Orexin (Hypocretin) released from the LHA promotes wakefulness?",
+            "img": "",
+            "choices": "Directly activating the VLPO to release GABA///Inhibiting the release of Histamine from the TMN///Stimulating the RAS and suppressing sleep-promoting nuclei///Enhancing the activity of the Pineal gland///Increasing the cerebral cortex's use of Adenosine",
+            "answer": "Stimulating the RAS and suppressing sleep-promoting nuclei",
+            "select": "",
+            "explain": "Orexin เป็นสารสื่อประสาทที่ส่งเสริมความตื่นตัว โดยจะกระตุ้น Reticular Activating System (RAS) และยับยั้งศูนย์ควบคุมการนอนหลับ (VLPO) เพื่อรักษาสภาวะตื่นตัวและควบคุมความหิว",
+            "state": false
+        },
+        {
+            "problem": "38. The \"tip-of-the-tongue\" phenomenon, where an individual knows the answer but cannot momentarily articulate it, is an example of which forgetting process?",
+            "img": "",
+            "choices": "Consolidation failure///Motivated forgetting///Ineffective encoding///Decay of memories///Retrieval failure",
+            "answer": "Retrieval failure",
+            "select": "",
+            "explain": "ภาวะล้มเหลวในการดึงความจำ (Retrieval failure) เป็นกระบวนการลืมที่ความจำยังคงถูกเก็บไว้ในคลังความจำระยะยาว แต่ไม่สามารถดึงออกมาใช้ได้ในขณะนั้น",
+            "state": false
+        },
+        {
+            "problem": "39. The most significant function of the Ventrolateral Preoptic Nucleus (VLPO) in the sleep-wake cycle is to:",
+            "img": "",
+            "choices": "Produce Orexin to keep the person awake///Inhibit the pineal gland to reduce melatonin///Suppress the Reticular Activating System (RAS) to induce sleep///Serve as the primary clock for circadian rhythm///Process visual information to modulate REM sleep",
+            "answer": "Suppress the Reticular Activating System (RAS) to induce sleep",
+            "select": "",
+            "explain": "VLPO เป็นศูนย์ควบคุมการนอนหลับหลัก (Sleep-promoting center) โดยจะหลั่งสารยับยั้ง (GABA, Galanin) ออกมายับยั้งระบบตื่นตัว (RAS) และนิวเคลียสอื่นๆ (Histamine, Orexin) เพื่อเหนี่ยวนำให้เกิดการนอนหลับ",
+            "state": false
+        },
+        {
+            "problem": "40. Which emotional component, defined by 'Processing', represents the cognitive interpretation and labeling of a physical change and a feeling?",
+            "img": "",
+            "choices": "Aweraness (Perception)///Feeling (Subjective experience)///Urge to take action///Physical chage (Physiology)///Action (Behavioral response)",
+            "answer": "Processing (Cognition)",
+            "select": "",
+            "explain": "ตามทฤษฎีอารมณ์ ขั้นตอน 'Processing' คือการตีความและระบุชื่อให้กับอารมณ์ที่รู้สึกและร่างกายตอบสนองออกมา ซึ่งเป็นกระบวนการทางปัญญา (Cognitive interpretation)",
+            "state": false
+        },
+        {
+            "problem": "41. The largest normal event (K-complex) in NREM sleep, characterized by a sudden high-amplitude wave, is believed to function primarily for:",
+            "img": "",
+            "choices": "Sensory gating and arousal suppression///Memory consolidation (Sleep Spindles)///Growth hormone secretion (Delta wave)///Generating muscle paralysis (REM)///Releasing Acetylcholine (ACh)",
+            "answer": "Sensory gating and arousal suppression",
+            "select": "",
+            "explain": "K-complex เป็นเครื่องหมายสำคัญของ NREM Stage 2 ซึ่งมีบทบาทหลักในการกรองสัญญาณรบกวนจากภายนอก (Sensory gating) และระงับการตื่นตัว (Arousal suppression) เพื่อช่วยให้การนอนหลับดำเนินต่อไปได้",
+            "state": false
+        },
+        {
+            "problem": "42. The reduction of NREM Stage 3/4 sleep in the elderly makes them particularly vulnerable to a deficiency in which essential bodily process?",
+            "img": "",
+            "choices": "REM-related dreaming and memory consolidation///Restorative effect and growth hormone secretion///Parasympathetic control of digestion///Sympathetic control of blood pressure///Procedural memory acquisition",
+            "answer": "Restorative effect and growth hormone secretion",
+            "select": "",
+            "explain": "NREM Stage 3/4 (Deep sleep) มีความสำคัญอย่างยิ่งต่อการฟื้นฟูร่างกาย (Restorative effect) และการหลั่ง Growth Hormone การลดลงอย่างมากของระยะนี้ในผู้สูงอายุจึงส่งผลให้กระบวนการเหล่านี้บกพร่องไป",
+            "state": false
+        },
+        {
+            "problem": "43. Which cellular process of forgetting in the hippocampus involves the activation of protein phosphatase (Calcineurin/PP1) and the internalization of AMPA receptors?",
+            "img": "",
+            "choices": "Long-Term Potentiation (LTP)///Synaptic strengthening///New synapse formation///Long-Term Depression (LTD)///Phosphorylation of Tau protein",
+            "answer": "Long-Term Depression (LTD)",
+            "select": "",
+            "explain": "Long-Term Depression (LTD) เป็นกลไกที่ทำให้ Synapse อ่อนแอลง ซึ่งเกี่ยวข้องกับการกระตุ้น Calcineurin/PP1 และนำไปสู่การลดจำนวน AMPA receptor ที่ผิวเซลล์ (Internalization) LTD มีบทบาทสำคัญในการลืม (Forgetting) และการปรับแก้ความแม่นยำ (Fine-tuning)",
+            "state": false
+        },
+        {
+            "problem": "44. The visual pathway that regulates the circadian rhythm by sending light information from the retina directly to the SCN is known as the:",
+            "img": "",
+            "choices": "Optic chiasm tract///Lateral geniculate tract///Retinohypothalamic tract///Optic radiation pathway///Inferior colliculus pathway",
+            "answer": "Retinohypothalamic tract",
+            "select": "",
+            "explain": "Retinohypothalamic tract เป็นทางเดินประสาทที่นำข้อมูลเกี่ยวกับความสว่างจากเซลล์รับแสงชนิดพิเศษในจอประสาทตา (Intrinsically photosensitive Retinal Ganglion Cells) ไปยัง Suprachiasmatic Nucleus (SCN) เพื่อควบคุมนาฬิกาชีวภาพและวงจรการหลับ-ตื่น",
+            "state": false
+        },
+        {
+            "problem": "45. A patient with Alzheimer's disease presents with severe anterograde amnesia. This clinical finding is most directly due to damage affecting which specific memory process?",
+            "img": "",
+            "choices": "Retrieval of remote procedural memory///Encoding of sensory memory (Iconic/Echoic)///Consolidation of new long-term memories///Sensitization to harmless stimuli///Retention of short-term memory (STM)",
+            "answer": "Consolidation of new long-term memories",
+            "select": "",
+            "explain": "Anterograde amnesia คือภาวะที่ไม่สามารถสร้างความจำใหม่ได้หลังเกิดความเสียหาย ซึ่งเกิดจากความล้มเหลวของกระบวนการรวบรวมความจำ (Consolidation) ซึ่งอาศัย Hippocampus เป็นโครงสร้างหลัก",
+            "state": false
         }
-    ]
+    ],
+    "Patho NS by AI": [
+        {
+            "problem": "1. A 25-year-old male suffered severe blunt trauma to the head. Physical examination reveals bilateral periorbital ecchymosis and clear fluid leakage from the nose (rhinorrhea). Which type of injury is most likely to be present?",
+            "img": "",
+            "choices": "Diffuse Axonal Injury (DAI)///Epidural Hematoma (EDH)///Brain Contusion and Laceration///Basilar Skull Fracture (BSF)///Acute Subdural Hematoma (SDH)",
+            "answer": "Basilar Skull Fracture (BSF)",
+            "select": "",
+            "explain": "อาการ Raccoon eyes หรือรอยช้ำรอบดวงตาทั้งสองข้าง และ Rhinorrhea (น้ำไขสันหลังรั่วออกทางจมูก) เป็นอาการแสดงที่จำเพาะของกระดูกฐานกะโหลกศีรษะแตก (Basilar Skull Fracture) โดยเฉพาะที่ Anterior cranial fossa",
+            "state": false
+        },
+        {
+            "problem": "2. An elderly patient with a history of minor head trauma presents with a gradual decline in consciousness and neurological deficit several weeks later. Imaging would most likely show a crescent-shaped lesion indicative of a:",
+            "img": "",
+            "choices": "Acute Subdural Hematoma (SDH)///Subarachnoid Hemorrhage (SAH)///Chronic Subdural Hematoma (SDH)///Epidural Hematoma (EPH)///Intraparenchymal Hemorrhage (IPH)",
+            "answer": "Chronic Subdural Hematoma (SDH)",
+            "select": "",
+            "explain": "Subdural Hematoma (SDH) เกิดจากการฉีกขาดของ Bridging veins ซึ่งเป็นเส้นเลือดดำที่เปราะบาง โดยมักพบในผู้สูงอายุที่มีสมองฝ่อตามหลังอุบัติเหตุเล็กน้อย อาการทางระบบประสาทมักจะค่อยๆ เกิดขึ้นภายหลัง (later onset) ซึ่งเรียกว่า Chronic SDH และมีลักษณะเป็นรูปพระจันทร์เสี้ยว (crescent-shaped) บนภาพถ่ายรังสี",
+            "state": false
+        },
+        {
+            "problem": "3. Which of the following is the hallmark histopathological finding in a patient who remains in a deep coma within one hour following severe head acceleration-deceleration injury?",
+            "img": "",
+            "choices": "Red neuron at the cerebral cortex layer five///Whorls of cells with psammoma bodies///Axonal swelling at deep white matter region///Granulomas with central caseous necrosis///Perivascular lymphocytic cuffing in the brainstem",
+            "answer": "Axonal swelling at deep white matter region",
+            "select": "",
+            "explain": "อาการโคม่าภายในหนึ่งชั่วโมงหลังบาดเจ็บที่ศีรษะอย่างรุนแรงเป็นลักษณะของ Diffuse Axonal Injury (DAI) ซึ่งเป็นภาวะที่มีการฉีกขาดของ Axon เป็นบริเวณกว้าง โดยเฉพาะในส่วน White matter ที่ลึก เช่น Corpus callosum และ Brainstem ลักษณะทางพยาธิวิทยาคือการบวมของ Axon (Axonal swelling) ที่ปลายประสาท",
+            "state": false
+        },
+        {
+            "problem": "4. A teenager presents to the emergency room following a temporal bone fracture due to a fall. The most likely cause of a rapidly expanding hematoma immediately following this injury is damage to the:",
+            "img": "",
+            "choices": "Superior sagittal sinus vein///Middle meningeal artery (meningeal aa.)///Deep cerebral vein (bridging vv.)///Anterior cerebral artery (ACA)///Posterior communicating artery (PCom)",
+            "answer": "Middle meningeal artery (meningeal aa.)",
+            "select": "",
+            "explain": "Epidural Hematoma (EPH) เกิดจากการมีเลือดออกในช่องว่างระหว่างกะโหลกศีรษะและเยื่อหุ้มสมองชั้น Dura mater สาเหตุที่พบบ่อยที่สุดคือการบาดเจ็บที่กระดูก Temporal bone ทำให้หลอดเลือด Middle meningeal artery ฉีกขาด ซึ่งเป็นการเลือดออกของหลอดเลือดแดง (arterial blood) จึงทำให้ก้อนเลือดโตเร็ว",
+            "state": false
+        },
+        {
+            "problem": "5. A patient with a massive intracranial hemorrhage develops systemic hypertension, bradycardia, and bradypnea. This clinical triad is known as:",
+            "img": "",
+            "choices": "Horner's syndrome///Transtentorial triad///Monro-Kellie doctrine///Cushing's Triad///Parkinsonism triad",
+            "answer": "Cushing's Triad",
+            "select": "",
+            "explain": "Cushing's Triad เป็นกลุ่มอาการที่บ่งบอกถึงภาวะความดันในกะโหลกศีรษะสูงมาก (Severe increased ICP) ประกอบด้วย 1. ความดันโลหิตสูง (Hypertension) ร่วมกับ Pulse pressure กว้าง 2. อัตราการเต้นของหัวใจช้า (Bradycardia) 3. อัตราการหายใจช้าลงและผิดปกติ (Bradypnea) ซึ่งเป็นผลจากการกด Brainstem",
+            "state": false
+        },
+        {
+            "problem": "6. A brain tumor causes the cingulate gyrus to be pushed under the falx cerebri. This type of herniation is called Subfalcine Herniation. Which vascular structure is at risk of compression and subsequent ischemic stroke?",
+            "img": "",
+            "choices": "Posterior Cerebral Artery (PCA)///Anterior Cerebral Artery (ACA)///Middle Cerebral Artery (MCA)///Posterior Inferior Cerebellar Artery (PICA)///Anterior Communicating Artery (ACom)",
+            "answer": "Anterior Cerebral Artery (ACA)",
+            "select": "",
+            "explain": "Subfalcine herniation คือการที่ Cingulate gyrus เคลื่อนลอดใต้ Falx cerebri ซึ่งจะไปกดเบียดหลอดเลือด Anterior Cerebral Artery (ACA) ที่ทอดตัวอยู่ใกล้เคียง ทำให้เกิดภาวะสมองขาดเลือด (ischemic stroke) ในบริเวณที่ ACA เลี้ยง",
+            "state": false
+        },
+        {
+            "problem": "7. A supratentorial mass lesion causes the uncus of the temporal lobe to be forced through the tentorial notch. This Transtentorial Herniation is most likely to compress which cranial nerve first, leading to pupillary dilation and ptosis?",
+            "img": "",
+            "choices": "Oculomotor nerve (CN III)///Trochlear nerve (CN IV)///Trigeminal nerve (CN V)///Abducens nerve (CN VI)///Facial nerve (CN VII)",
+            "answer": "Oculomotor nerve (CN III)",
+            "select": "",
+            "explain": "Transtentorial herniation หรือ Uncal herniation เกิดจากการที่ Uncus ของ Temporal lobe เคลื่อนตัวลงมา สิ่งที่ถูกกดเบียดเป็นอันดับแรกคือ Oculomotor nerve (CN III) ซึ่งวิ่งอยู่บริเวณนั้น ทำให้เกิด CN III palsy (อาการหนังตาตก รูม่านตาขยาย ตาเหล่ลงและออกนอก)",
+            "state": false
+        },
+        {
+            "problem": "8. Compression of the respiratory and cardiac centers is a lethal complication of which type of brain herniation?",
+            "img": "",
+            "choices": "Transtentorial herniation (Uncal)///Subfalcine herniation (Cingulate)///Central herniation (Transtentorial)///Tonsillar herniation (Cerebellar)///Hydrocephalus ex vacuo",
+            "answer": "Tonsillar herniation (Cerebellar)",
+            "select": "",
+            "explain": "Tonsillar herniation คือการที่ Cerebellar tonsils ถูกดันเลื่อนลงไปใน Foramen magnum ซึ่งจะไปกดเบียด Medulla oblongata ซึ่งเป็นที่ตั้งของศูนย์ควบคุมการหายใจและหัวใจ (Respiratory and Cardiac center) ทำให้เกิดภาวะหัวใจหยุดเต้นหรือการหายใจล้มเหลวอย่างเฉียบพลัน",
+            "state": false
+        },
+        {
+            "problem": "9. A newborn presents with increasing head circumference and enlarged lateral and third ventricles. The most common cause of this Obstructive Hydrocephalus in neonates is:",
+            "img": "",
+            "choices": "Choroid plexus papilloma///Impaired CSF absorption at arachnoid villi///Congenital narrowing of the cerebral aqueduct///Brain parenchyma loss (ex vacuo)///Meningitis with basal cistern exudate",
+            "answer": "Congenital narrowing of the cerebral aqueduct",
+            "select": "",
+            "explain": "Obstructive (Non-communicating) hydrocephalus คือภาวะโพรงสมองคั่งน้ำจากการอุดตันของทางเดินน้ำไขสันหลัง สาเหตุแต่กำเนิดที่พบบ่อยที่สุดคือ Aqueductal Stenosis หรือการตีบแคบของ Cerebral aqueduct",
+            "state": false
+        },
+        {
+            "problem": "10. Which imaging finding is characteristic of Cerebral Edema caused by a mass lesion, indicating increased intracranial pressure (ICP)?",
+            "img": "",
+            "choices": "Enlargement of the entire ventricular system///Widening of the cerebral sulci and fissures///Flat cerebral gyri and compressed ventricles///Multiple wedge-shaped infarcts at the arterial borders///Hyperdensity along the tentorium and falx",
+            "answer": "Flat cerebral gyri and compressed ventricles",
+            "select": "",
+            "explain": "Cerebral edema หรือภาวะสมองบวม ทำให้ปริมาตรของสมองเพิ่มขึ้น เมื่อความดันในกะโหลกศีรษะสูงขึ้นจะทำให้ลักษณะทางรังสีวิทยาปรากฏคือ ร่องสมอง (Sulci) จะตื้นหรือเรียบ (Flat gyri) และโพรงสมอง (Ventricles) จะถูกกดจนแคบลง (Compressed ventricles)",
+            "state": false
+        },
+        {
+            "problem": "11. Global cerebral ischemia is caused by a generalized reduction of cerebral perfusion. What is the earliest classic histopathology finding observed in neurons of the affected areas?",
+            "img": "",
+            "choices": "Liquefactive necrosis (after 2 weeks)///Macrophage infiltration (after 3 days)///Reactive gliosis (after 2 weeks)///Red neuron (12-24 hr. after ischemia)///Fibrinoid necrosis (immediately)",
+            "answer": "Red neuron (12-24 hr. after ischemia)",
+            "select": "",
+            "explain": "Red neuron (Eosinophilic neuronal necrosis) เป็นการเปลี่ยนแปลงทางจุลพยาธิวิทยาที่เร็วที่สุดของเซลล์ประสาทที่ตายจากการขาดเลือด โดยสามารถพบได้ภายใน 12 ถึง 24 ชั่วโมงหลังเกิดภาวะขาดเลือด",
+            "state": false
+        },
+        {
+            "problem": "12. A 55-year-old female experiences bilateral numbness and weakness of the legs following a period of prolonged systemic hypotension. The MRI shows wedge-shaped infarcts located at the junctions between major arterial territories. This phenomenon is known as:",
+            "img": "",
+            "choices": "Focal Cerebral Ischemia///Lacunar Infarct///Global Cerebral Ischemia///Watershed/Border Zone Infarct///Cerebral Amyloid Angiopathy",
+            "answer": "Watershed/Border Zone Infarct",
+            "select": "",
+            "explain": "Watershed Infarct หรือ Border Zone Infarct เกิดขึ้นในบริเวณที่เป็นรอยต่อของเขตที่หลอดเลือดแดงใหญ่เลี้ยง (distal to aa. irrigation) ซึ่งเป็นพื้นที่ที่อ่อนแอที่สุดต่อภาวะความดันโลหิตต่ำ (Hypotensive episode) หรือภาวะเลือดไปเลี้ยงสมองไม่เพียงพอทั่วร่างกาย",
+            "state": false
+        },
+        {
+            "problem": "13. A 70-year-old patient with chronic hypertension and poorly controlled diabetes develops a small, non-cortical infarct in the basal ganglia. This is most commonly caused by which underlying microvascular pathology?",
+            "img": "",
+            "choices": "A $\beta$-peptide accumulation in arterioles///Vasculitis of the small arteries///Rupture of a saccular aneurysm///Hyaline Arteriolosclerosis///Arteriovenous malformation",
+            "answer": "Hyaline Arteriolosclerosis",
+            "select": "",
+            "explain": "Lacunar infarcts (สมองขาดเลือดขนาดเล็ก) มักเกิดในโครงสร้างส่วนลึกของสมอง เช่น Basal ganglia และ Thalamus สาเหตุที่พบบ่อยที่สุดคือ Hyaline Arteriolosclerosis ซึ่งเป็นการเสื่อมของผนังหลอดเลือดแดงเล็กๆ (lenticulostriate artery) จากภาวะความดันโลหิตสูงเรื้อรัง (Chronic Hypertension) และเบาหวาน",
+            "state": false
+        },
+        {
+            "problem": "14. Spontaneous Intraparenchymal Hemorrhage (SIH) in the basal ganglia of a middle-aged adult is most commonly caused by chronic damage to small blood vessels due to which risk factor?",
+            "img": "",
+            "choices": "Cerebral Amyloid Angiopathy (CAA)///Ruptured Saccular Aneurysm///Chronic Hypertension///Arteriovenous Malformation (AVM)///Infective Endocarditis",
+            "answer": "Chronic Hypertension",
+            "select": "",
+            "explain": "Spontaneous Intraparenchymal Hemorrhage (SIH) หรือเลือดออกในเนื้อสมองที่ไม่ได้เกิดจากอุบัติเหตุ สาเหตุที่พบบ่อยที่สุดในผู้ใหญ่คือภาวะความดันโลหิตสูงเรื้อรัง ซึ่งทำให้เกิดความเสียหายต่อหลอดเลือด Charcot-Bouchard microaneurysm ใน Basal ganglia และ Thalamus",
+            "state": false
+        },
+        {
+            "problem": "15. Ruptured Saccular (Berry) Aneurysm is the most common cause of which specific type of hemorrhagic stroke?",
+            "img": "",
+            "choices": "Spontaneous Intraparenchymal Hemorrhage (SIH)///Epidural Hematoma (EPH)///Subdural Hematoma (SDH)///Subarachnoid Hemorrhage (SAH)///Charcot-Bouchard Hemorrhage",
+            "answer": "Subarachnoid Hemorrhage (SAH)",
+            "select": "",
+            "explain": "Saccular หรือ Berry Aneurysm ที่แตกออกเป็นสาเหตุที่พบบ่อยที่สุดของ Non-traumatic Subarachnoid Hemorrhage (SAH) โดยเลือดจะกระจายไปในช่องว่าง Subarachnoid space บริเวณ Basal cisterns",
+            "state": false
+        },
+        {
+            "problem": "16. Cerebral Amyloid Angiopathy (CAA), a risk factor for hemorrhagic stroke in the elderly, is characterized by the accumulation of which peptide in the walls of cerebral cortical and leptomeningeal arterioles?",
+            "img": "",
+            "choices": "Tau protein///Huntingtin protein///$\alpha$-synuclein (Alpha-synuclein)///A $\beta$-peptide (Amyloid-beta)///ApoE4 lipoprotein",
+            "answer": "A $\beta$-peptide (Amyloid-beta)",
+            "select": "",
+            "explain": "Cerebral Amyloid Angiopathy (CAA) เป็นโรคที่ Amyloid-beta (A $\beta$-peptide) ไปสะสมที่ผนังหลอดเลือดแดงขนาดเล็กใน Cerebral cortex ทำให้หลอดเลือดเปราะและแตกง่ายขึ้น ซึ่งเป็นสาเหตุสำคัญของการเกิดเลือดออกในสมองโดยเฉพาะบริเวณสมองส่วน Cortex ในผู้สูงอายุ",
+            "state": false
+        },
+        {
+            "problem": "17. A 35-year-old male is diagnosed with an Arteriovenous Malformation (AVM). Which of the following statements best describes an AVM?",
+            "img": "",
+            "choices": "It is a microaneurysm caused by chronic hypertension///It is a congenital aneurysm of the Circle of Willis///It is a focal small vessel vasculitis///It is the most common cerebral vascular malformation///It is hemorrhage following a skull fracture",
+            "answer": "It is the most common cerebral vascular malformation",
+            "select": "",
+            "explain": "Arteriovenous Malformation (AVM) เป็นความผิดปกติของหลอดเลือดที่เชื่อมต่อกันโดยตรงระหว่างหลอดเลือดแดงและหลอดเลือดดำโดยไม่มี capillary bed มาคั่น ถือเป็น Vascular malformation ที่พบบ่อยที่สุดและเป็นสาเหตุสำคัญของเลือดออกในสมองในผู้ใหญ่วัยหนุ่มสาว",
+            "state": false
+        },
+        {
+            "problem": "18. Which Demyelinating Disease is clinically characterized by a history of multiple episodes of neurological deficit (relapsing and remitting course) with lesions appearing as multiple, well-circumscribed brownish plaques on gross examination?",
+            "img": "",
+            "choices": "Acute Necrotizing Hemorrhagic Encephalomyelitis (ANHE)///Acute Disseminated Encephalomyelitis (ADEM)///Guillain-Barre Syndrome (GBS)///Multiple Sclerosis (MS)///Neuromyelitis Optica (NMO)",
+            "answer": "Multiple Sclerosis (MS)",
+            "select": "",
+            "explain": "Multiple Sclerosis (MS) เป็นโรค Demyelinating ที่พบบ่อยที่สุด มีลักษณะทางคลินิกคืออาการทางระบบประสาทเป็นๆ หายๆ (relapsing and remitting) และมีพยาธิสภาพเป็นแผ่น Demyelination (plaque) หลายตำแหน่งในระบบประสาทส่วนกลาง",
+            "state": false
+        },
+        {
+            "problem": "19. A 28-year-old female presents with acute, severe bilateral blindness. Cerebrospinal fluid (CSF) analysis shows PMN and eosinophils are present. The most specific lab finding to confirm the diagnosis of Neuromyelitis Optica (NMO) is:",
+            "img": "",
+            "choices": "Elevated IL-17 cytokine level///Reduced CSF IgG index///Aquaporin-4 IgG (AQP4-IgG)///Increased level of $\alpha$-synuclein///Presence of oligoclonal bands (OCBs)",
+            "answer": "Aquaporin-4 IgG (AQP4-IgG)",
+            "select": "",
+            "explain": "Neuromyelitis Optica (NMO) หรือ Devic disease แตกต่างจาก MS โดยมีอาการเด่นคือ Bilateral Optic neuritis (ตาบอดสองข้าง) และ Spinal cord involvement ที่รุนแรงกว่า การวินิจฉัยยืนยันทำได้โดยการตรวจพบแอนติบอดีต่อโปรตีน Aquaporin-4 (AQP4-IgG) ในเลือด",
+            "state": false
+        },
+        {
+            "problem": "20. A patient developed rapidly evolving quadriplegia (paralysis of all four limbs) following overly aggressive correction of chronic hyponatremia. This pathology is known as:",
+            "img": "",
+            "choices": "Acute Disseminated Encephalomyelitis (ADEM)///Tumefactive Demyelination///Central Pontine Myelinolysis (CPM)///Guillain-Barre Syndrome (GBS)///Multiple Sclerosis (MS)",
+            "answer": "Central Pontine Myelinolysis (CPM)",
+            "select": "",
+            "explain": "Central Pontine Myelinolysis (CPM) เกิดจากการแก้ไขภาวะโซเดียมในเลือดต่ำเรื้อรัง (Chronic hyponatremia) ที่เร็วเกินไป ทำให้เกิดการทำลายปลอก Myelin (Demyelination) อย่างเฉียบพลันบริเวณ Pons ส่งผลให้ผู้ป่วยมีอาการอ่อนแรงทั้งสี่ส่วน (Quadriplegia) ได้อย่างรวดเร็ว",
+            "state": false
+        },
+        {
+            "problem": "21. A 3-year-old child develops acute encephalopathy (headache, confusion) following a viral infection. Histopathology shows myelin loss with relative preservation of axons. What is the most likely diagnosis?",
+            "img": "",
+            "choices": "Acute Necrotizing Hemorrhagic Encephalomyelitis (ANHE)///Acute Disseminated Encephalomyelitis (ADEM)///Central Pontine Myelinolysis (CPM)///Guillain-Barre Syndrome (GBS)///Multiple Sclerosis (MS)",
+            "answer": "Acute Disseminated Encephalomyelitis (ADEM)",
+            "select": "",
+            "explain": "Acute Disseminated Encephalomyelitis (ADEM) เป็นโรค Demyelinating ที่เกิดขึ้นเฉียบพลันและเป็นครั้งเดียว (monophasic) ตามหลังการติดเชื้อไวรัสหรือการฉีดวัคซีน ลักษณะทางพยาธิวิทยาคือการทำลาย Myelin (myelin loss) โดยที่ Axon ยังคงอยู่ (relative preservation of axon)",
+            "state": false
+        },
+        {
+            "problem": "22. A patient presents with ascending paralysis (weakness starting in the feet and moving up). The most common prior infection associated with this Acute Inflammatory Demyelinating Polyradiculoneuropathy (GBS) is:",
+            "img": "",
+            "choices": "Herpes Simplex Virus (HSV)///Mycobacterium tuberculosis///Campylobacter jejuni (C. jejuni)///Plasmodium falciparum///Neisseria meningitidis",
+            "answer": "Campylobacter jejuni (C. jejuni)",
+            "select": "",
+            "explain": "Guillain-Barre Syndrome (GBS) หรือ Acute Inflammatory Demyelinating Polyradiculoneuropathy เป็นโรคที่ระบบภูมิคุ้มกันทำลายเส้นประสาทส่วนปลาย ทำให้เกิดอาการอ่อนแรงแบบ Ascending paralysis (จากล่างขึ้นบน) การติดเชื้อที่พบบ่อยที่สุดที่นำมาก่อนคือ Campylobacter jejuni",
+            "state": false
+        },
+        {
+            "problem": "23. Which of the following is considered the most common potentially reversible cause of Dementia in the elderly?",
+            "img": "",
+            "choices": "Alzheimer's Disease (AD)///Parkinson's Disease (PD)///Vascular Dementia (VD)///Major Depression (Pseudodementia)///Huntington's Disease (HD)",
+            "answer": "Major Depression (Pseudodementia)",
+            "select": "",
+            "explain": "ภาวะซึมเศร้าอย่างรุนแรง (Major Depression) สามารถแสดงออกด้วยอาการบกพร่องทางสติปัญญาคล้ายสมองเสื่อม (Dementia) เรียกว่า Pseudodementia ซึ่งอาการจะดีขึ้นได้เมื่อรักษาภาวะซึมเศร้า ดังนั้นจึงถือเป็นสาเหตุของ Dementia ที่สามารถรักษาให้หายได้ (Potentially reversible) ที่พบบ่อยที่สุด",
+            "state": false
+        },
+        {
+            "problem": "24. The primary histopathological hallmark of Alzheimer's Disease (AD) is the accumulation of central amyloid cores and neurofibrillary tangles. The neurofibrillary tangle is primarily composed of:",
+            "img": "",
+            "choices": "Hyperphosphorylated Tau protein (Tau protein)///Alpha-synuclein protein ($\alpha$-synuclein)///Trinucleotide repeat (Huntingtin)///$\alpha$-peptide (Amyloid-beta)///Lewy bodies",
+            "answer": "Hyperphosphorylated Tau protein (Tau protein)",
+            "select": "",
+            "explain": "Neurofibrillary Tangle (NFT) เป็นพยาธิสภาพในเซลล์ประสาท (intracellular) ที่มีลักษณะคล้ายเปลวไฟ (flame-shaped) ประกอบด้วยการสะสมของ Hyperphosphorylated Tau protein ส่วน Amyloid-beta (A $\beta$-peptide) เป็นส่วนประกอบหลักของ Neuritic plaque ที่อยู่ภายนอกเซลล์",
+            "state": false
+        },
+        {
+            "problem": "25. A 60-year-old male presents with resting tremor, cogwheel rigidity, bradykinesia, and a mask-like facial expression. The underlying pathogenesis involves the loss of dopaminergic neurons in which brain region?",
+            "img": "",
+            "choices": "Striatum (Caudate and Putamen)///Entorhinal cortex///Cerebral Cortex (Frontal Lobe)///Hippocampal formation///Substantia nigra (Nigrostriatal pathway)",
+            "answer": "Substantia nigra (Nigrostriatal pathway)",
+            "select": "",
+            "explain": "อาการเหล่านี้เป็นลักษณะของโรค Parkinson's Disease (PD) ซึ่งเกิดจากการตายของเซลล์ประสาทที่สร้าง Dopamine (Dopaminergic neuron) ใน Substantia nigra pars compacta ส่งผลให้ Dopamine ที่ส่งไปยัง Striatum ลดลง (loss of nigrostriatal pathway)",
+            "state": false
+        },
+        {
+            "problem": "26. The key histopathological inclusion body found in the affected neurons of Parkinson's Disease is known as the Lewy body, which is primarily composed of which misfolded protein?",
+            "img": "",
+            "choices": "Tau protein///Huntingtin protein///Alpha-synuclein ($\alpha$-synuclein)///A $\beta$-peptide (Amyloid-beta)///Prion protein",
+            "answer": "Alpha-synuclein ($\alpha$-synuclein)",
+            "select": "",
+            "explain": "Lewy body เป็นก้อนโปรตีนที่อยู่ภายในเซลล์ประสาท (intracellular inclusion) ซึ่งเป็นพยาธิสภาพจำเพาะของโรค Parkinson's Disease และประกอบด้วยโปรตีนที่ม้วนพับผิดรูป (misfolded protein) ที่ชื่อว่า Alpha-synuclein ($\alpha$-synuclein)",
+            "state": false
+        },
+        {
+            "problem": "27. In Huntington's Disease, the progressive chorea is pathologically linked to the selective loss of which type of neuron in the striatum?",
+            "img": "",
+            "choices": "Dopaminergic neurons///Cholinergic interneurons///Medium spiny neurons///Pyramidal neurons///Glutamatergic projection neurons",
+            "answer": "Medium spiny neurons",
+            "select": "",
+            "explain": "โรค Huntington's Disease เกิดจากการตายของ Medium spiny neurons ใน Striatum (Caudate และ Putamen) อย่างรุนแรง ซึ่งเป็นเซลล์ที่ทำหน้าที่ยับยั้งใน Indirect pathway ของ Basal ganglia การสูญเสียเซลล์เหล่านี้ทำให้ Basal ganglia ทำงานผิดปกติและเกิดอาการ Chorea (hyperkinetic movement) ตามมา",
+            "state": false
+        },
+        {
+            "problem": "28. Gross examination of the brain of a patient with advanced Huntington's Disease would typically reveal atrophy of the striatum and compensatory enlargement of which ventricular structure?",
+            "img": "",
+            "choices": "Third ventricle///Fourth ventricle///Central canal///Lateral ventricle (ventricular dilation)///Cerebral aqueduct",
+            "answer": "Lateral ventricle (ventricular dilation)",
+            "select": "",
+            "explain": "การฝ่อ (Atrophy) ของ Caudate nucleus และ Putamen ในโรค Huntington's Disease ทำให้ช่องว่างที่อยู่ติดกันคือ Lateral ventricle (โดยเฉพาะส่วน Anterior horn) ขยายขนาดใหญ่ขึ้นเพื่อชดเชยปริมาตรเนื้อสมองที่หายไป (Hydrocephalus ex vacuo)",
+            "state": false
+        },
+        {
+            "problem": "29. A patient is observed to have cortical atrophy of the frontal and temporal lobes with compensatory ventricular enlargement on MRI. This phenomenon is termed:",
+            "img": "",
+            "choices": "Obstructive hydrocephalus///Communicating hydrocephalus///Aqueductal stenosis (AS)///Hydrocephalus ex vacuo///Basal cistern effacement",
+            "answer": "Hydrocephalus ex vacuo",
+            "select": "",
+            "explain": "Hydrocephalus ex vacuo เป็นภาวะที่โพรงสมองขยายตัวเพื่อชดเชยการสูญเสียเนื้อสมอง (loss of brain parenchyma) โดยที่ความดันน้ำไขสันหลังไม่ได้สูงขึ้น พบได้ในภาวะสมองฝ่อ เช่น โรค Alzheimer's Disease",
+            "state": false
+        },
+        {
+            "problem": "30. A 60-year-old woman develops acute right-sided hemiparesis and global aphasia. The most likely occluded artery is a large branch supplying the dominant hemisphere, specifically the:",
+            "img": "",
+            "choices": "Left Anterior Cerebral Artery (ACA)///Right Posterior Cerebral Artery (PCA)///Left Middle Cerebral Artery (MCA)///Right Internal Carotid Artery (ICA)///Left Anterior Communicating Artery (ACom)",
+            "answer": "Left Middle Cerebral Artery (MCA)",
+            "select": "",
+            "explain": "อาการอ่อนแรงครึ่งซีกขวา (Right hemiparesis) และภาวะเสียการสื่อความทั่วโลก (Global aphasia) บ่งชี้ถึงรอยโรคที่ Left Hemisphere (Dominant) ที่ครอบคลุมทั้ง Broca's area (Motor speech) และ Wernicke's area (Language comprehension) ซึ่งเป็นบริเวณที่เลี้ยงโดย Left Middle Cerebral Artery (MCA) ทั้งหมด",
+            "state": false
+        },
+        {
+            "problem": "31. Which of the following is a classical sign of Basilar Skull Fracture located at the middle cranial fossa?",
+            "img": "",
+            "choices": "Raccoon eyes///Rhinorrhea (CSF leakage)///Hemotympanum (Blood behind the eardrum)///Bilateral periorbital ecchymosis///Anosmia (loss of smell)",
+            "answer": "Hemotympanum (Blood behind the eardrum)",
+            "select": "",
+            "explain": "Basilar Skull Fracture ที่ Middle cranial fossa มักจะทำให้เกิด Battle's sign (รอยช้ำหลังใบหู) Otorrhea (น้ำไขสันหลังรั่วทางหู) และ Hemotympanum (เลือดคั่งในหูชั้นกลาง)",
+            "state": false
+        },
+        {
+            "problem": "32. A patient with a head injury who briefly loses consciousness, recovers fully (lucid interval), and then rapidly declines, is highly indicative of an Epidural Hematoma caused by damage to the:",
+            "img": "",
+            "choices": "Bridging veins of the sagittal sinus///Basilar artery///Middle meningeal artery///Lenticulostriate artery///Arteriovenous malformation",
+            "answer": "Middle meningeal artery",
+            "select": "",
+            "explain": "Epidural Hematoma มักมีประวัติ Lucid interval (ตื่นตัวช่วงสั้น) ตามด้วยอาการทรุดลงอย่างรวดเร็ว เนื่องจากเป็นการฉีกขาดของ Middle meningeal artery (หลอดเลือดแดง) ทำให้เลือดออกอย่างรวดเร็ว",
+            "state": false
+        },
+        {
+            "problem": "33. Which pathological finding in the central nervous system would be characterized by 'graytan, irregular shaped MS plaque' and Aquaporin-4 IgG (AQP4-IgG) positivity?",
+            "img": "",
+            "choices": "Tumefactive Demyelination///Acute Disseminated Encephalomyelitis (ADEM)///Guillain-Barre Syndrome (GBS)///Multiple Sclerosis (MS)///Neuromyelitis Optica (NMO)",
+            "answer": "Neuromyelitis Optica (NMO)",
+            "select": "",
+            "explain": "Neuromyelitis Optica (NMO) แตกต่างจาก MS ตรงที่มักพบการทำลาย White matter อย่างรุนแรงจนเกิด Necrosis และมีการอักเสบที่เด่นด้วย PMN และ Eosinophil และมี Aquaporin-4 IgG เป็นเครื่องหมายทางภูมิคุ้มกันวิทยาที่จำเพาะ",
+            "state": false
+        },
+        {
+            "problem": "34. Pathological hemorrhage that occurs in the pontomesencephalic junction (brainstem) as a complication of Transtentorial herniation is known as:",
+            "img": "",
+            "choices": "Charcot-Bouchard Aneurysm///Duret hemorrhage///Intraparenchymal Hemorrhage (IPH)///Subarachnoid Hemorrhage (SAH)///Epidural Hemorrhage",
+            "answer": "Duret hemorrhage",
+            "select": "",
+            "explain": "Duret hemorrhage คือภาวะเลือดออกในก้านสมอง (Brainstem hemorrhage) ที่เกิดขึ้นเนื่องจากแรงกดและแรงดึงที่เกิดจาก Transtentorial herniation ไปทำลายหลอดเลือดเล็กๆ ที่มาเลี้ยงก้านสมอง",
+            "state": false
+        },
+        {
+            "problem": "35. A 55-year-old male presents with isolated paralysis of the left Lateral Rectus muscle. The lesion is in the pons, and imaging suggests a Lacunar Infarct. Which descending motor tract is likely to be affected if the lesion extends ventrally?",
+            "img": "",
+            "choices": "Medial Longitudinal Fasciculus (MLF)///Corticospinal tract///Spinal Trigeminal Tract///Rubrospinal Tract///Lateral Vestibulospinal Tract",
+            "answer": "Corticospinal tract",
+            "select": "",
+            "explain": "Corticospinal tract ซึ่งเป็น Motor pathway หลัก วิ่งผ่าน Brainstem ทางด้านหน้า (Ventrally) หากรอยโรคใน Pons ที่ทำให้ CN VI nucleus เสียหาย (Left Lateral Rectus Paralysis) ลุกลามไปด้านหน้า ก็จะส่งผลกระทบต่อ Corticospinal tract ทำให้เกิดอาการอ่อนแรงของร่างกายซีกตรงข้าม (Alternating Hemiplegia)",
+            "state": false
+        },
+        {
+            "problem": "36. The major source of Cerebrospinal Fluid (CSF) is from the Choroid Plexus. Which mechanism is responsible for Hydrocephalus in a patient with a Choroid Plexus Papilloma?",
+            "img": "",
+            "choices": "Impaired CSF absorption at arachnoid villi///Congenital obstruction of the fourth ventricle///Increased CSF production///Brain parenchyma atrophy (ex vacuo)///Obstruction of the cerebral aqueduct",
+            "answer": "Increased CSF production",
+            "select": "",
+            "explain": "Choroid Plexus Papilloma เป็นเนื้องอกของ Choroid Plexus ซึ่งเป็นอวัยวะที่ผลิตน้ำไขสันหลัง (CSF) เนื้องอกชนิดนี้สามารถผลิต CSF ออกมาในปริมาณที่มากเกินไป ทำให้เกิดภาวะ Communicating hydrocephalus หรือ Hydrocephalus จากการผลิตที่มากเกิน",
+            "state": false
+        },
+        {
+            "problem": "37. Which histopathological process, if severe, is associated with both hemorrhagic stroke and Alzheimer's Disease (AD) and involves A $\beta$-peptide accumulation in arterioles?",
+            "img": "",
+            "choices": "Amyloid Plaque Formation///Neurofibrillary Tangle Formation///Hyaline Arteriolosclerosis///Cerebral Amyloid Angiopathy (CAA)///Atherosclerosis",
+            "answer": "Cerebral Amyloid Angiopathy (CAA)",
+            "select": "",
+            "explain": "Cerebral Amyloid Angiopathy (CAA) คือการที่ A $\beta$-peptide สะสมในผนังหลอดเลือดแดงที่ Cerebral Cortex ซึ่งเป็นส่วนหนึ่งของพยาธิสภาพของ AD และการสะสมนี้ทำให้หลอดเลือดเปราะและแตกง่าย นำไปสู่การเกิด Hemorrhagic stroke",
+            "state": false
+        },
+        {
+            "problem": "38. A large artery occlusion due to embolism, common in patients with a history of heart valve disease (CVD), is the main cause of:",
+            "img": "",
+            "choices": "Watershed infarct///Charcot-Bouchard hemorrhage///Focal Cerebral Ischemia (Large aa.)///Hyaline arteriolosclerosis///Global Cerebral Ischemia",
+            "answer": "Focal Cerebral Ischemia (Large aa.)",
+            "select": "",
+            "explain": "Focal Cerebral Ischemia (สมองขาดเลือดเฉพาะที่) ที่เกิดจากการอุดตันของหลอดเลือดแดงขนาดใหญ่ (Large aa.) มักมีสาเหตุมาจาก Embolism (ลิ่มเลือดที่หลุดมาจากหัวใจ) โดยเฉพาะในผู้ป่วยที่มีประวัติโรคหัวใจและหลอดเลือด (CVD) หรือภาวะ Atrial Fibrillation",
+            "state": false
+        },
+        {
+            "problem": "39. The most common cause of Basilar Skull Fracture that results in Cerebrospinal Fluid (CSF) leakage through the eardrum (otorrhea) involves the fracture of which bone area?",
+            "img": "",
+            "choices": "Nasal bone///Ethmoid bone (Anterior fossa)///Temporal bone (Middle fossa)///Occipital bone (Posterior fossa)///Sphenoid bone",
+            "answer": "Temporal bone (Middle fossa)",
+            "select": "",
+            "explain": "การแตกของกระดูก Temporal bone ที่ Middle cranial fossa มักจะฉีกเยื่อหุ้มสมองที่อยู่เหนือกระดูกทำให้ CSF รั่วออกมาทางหู (Otorrhea) ส่วนการแตกของ Ethmoid bone ที่ Anterior cranial fossa มักทำให้ CSF รั่วออกมาทางจมูก (Rhinorrhea)",
+            "state": false
+        },
+        {
+            "problem": "40. Which of the following findings on brain imaging would suggest a Mass effect and is often associated with the presence of headache, projectile vomiting, and papilledema?",
+            "img": "",
+            "choices": "Dilated ventricles (Communicating hydrocephalus)///Multiple well-circumscribed brownish plaques///Midline shift across the falx cerebri///Hydrocephalus ex vacuo (ventricular dilation)///Wedge-shaped infarcts at distal arterial territories",
+            "answer": "Midline shift across the falx cerebri",
+            "select": "",
+            "explain": "อาการปวดศีรษะ อาเจียน และ Papilledema เป็นสัญญาณของภาวะความดันในกะโหลกศีรษะสูง (ICP) ซึ่งเกิดจาก Mass effect การพบ Midline shift (เนื้อสมองถูกดันข้ามเส้นกลาง) บนภาพถ่ายรังสีเป็นการยืนยันว่ามี Mass effect ที่รุนแรงเกิดขึ้น",
+            "state": false
+        },
+        {
+            "problem": "41. A pathology that shows demyelination in the central nervous system (CNS) with a macrophage-predominant infiltration and a ring-enhancement pattern on imaging suggests a differential diagnosis of Tumefactive Demyelination versus a primary tumor. The most specific feature differentiating it from a tumor (e.g., GBM) is the relative preservation of which structure?",
+            "img": "",
+            "choices": "Cranial nerves///Basal ganglia///Glial cells///Axons///Myelin sheath",
+            "answer": "Axons",
+            "select": "",
+            "explain": "โรค Demyelinating มีลักษณะสำคัญคือการทำลาย Myelin (demyelination) แต่มีการเก็บรักษา Axons ไว้ (axonal preservation) ในขณะที่เนื้องอกหรือ Infarcts มักจะทำลาย Axons ไปด้วย การที่ Axons ถูกเก็บรักษาไว้จึงเป็นลักษณะทางพยาธิวิทยาที่ช่วยบ่งชี้ Tumefactive Demyelination",
+            "state": false
+        },
+        {
+            "problem": "42. Which component of the Cushing's Triad involves the autonomic nervous system's response to maintain cerebral perfusion pressure (CPP)?",
+            "img": "",
+            "choices": "Bradycardia (Slow heart rate)///Bradypnea (Slow breathing)///Hypertension with widening pulse pressure///Projectile vomiting///Diplopia (Double vision)",
+            "answer": "Hypertension with widening pulse pressure",
+            "select": "",
+            "explain": "เมื่อ ICP สูงขึ้น ร่างกายจะกระตุ้น Sympathetic nervous system เพื่อเพิ่มความดันโลหิตส่วนกลาง (MAP) ให้สูงกว่า ICP เพื่อให้เลือดสามารถไหลเวียนไปเลี้ยงสมองได้ (CPP = MAP - ICP) ซึ่งส่งผลให้เกิด Hypertension และ Pulse pressure กว้างขึ้น",
+            "state": false
+        },
+        {
+            "problem": "43. Charcot-Bouchard microaneurysms, which are small, deep aneurysms, most commonly occur on the lenticulostriate branches of which major cerebral artery?",
+            "img": "",
+            "choices": "Anterior Cerebral Artery (ACA)///Posterior Cerebral Artery (PCA)///Middle Cerebral Artery (MCA)///Superior Cerebellar Artery (SCA)///Basilar Artery",
+            "answer": "Middle Cerebral Artery (MCA)",
+            "select": "",
+            "explain": "Charcot-Bouchard Aneurysm เกิดจาก Hyaline Arteriolosclerosis ในหลอดเลือดเล็กๆ ที่แตกแขนงออกมาจาก Middle Cerebral Artery (MCA) ซึ่งเรียกว่า Lenticulostriate arteries ซึ่งเลี้ยง Basal ganglia และ Thalamus",
+            "state": false
+        },
+        {
+            "problem": "44. What is the clinical difference between the Optic Neuritis seen in Multiple Sclerosis (MS) versus Neuromyelitis Optica (NMO)?",
+            "img": "",
+            "choices": "MS causes bilateral, severe blindness; NMO causes unilateral, mild vision loss///MS causes unilateral, mild vision loss; NMO causes bilateral, severe blindness///MS causes progressive vision loss; NMO causes relapsing-remitting vision loss///MS involves only the optic nerve; NMO involves the entire spinal cord///MS is AQP4-IgG positive; NMO is always AQP4-IgG negative",
+            "answer": "MS causes unilateral, mild vision loss; NMO causes bilateral, severe blindness",
+            "select": "",
+            "explain": "Optic neuritis ใน MS มักเกิดกับตาข้างเดียวและอาการไม่รุนแรง (unilateral, mild vision loss) ในขณะที่ Optic neuritis ใน NMO มักเกิดกับตาทั้งสองข้างและมีความรุนแรงมากจนถึงขั้นตาบอดได้ (bilateral, severe blindness)",
+            "state": false
+        },
+        {
+            "problem": "45. The mechanism of a stroke that shows a gross finding of a 'Fan-shape area of red infarct' is most commonly associated with:",
+            "img": "",
+            "choices": "Hypotensive episode at the border zone///Embolism or Thrombosis of a large artery///Hyaline arteriolosclerosis of small arteries///Rupture of a Berry Aneurysm at the Circle of Willis///Diffuse axonal injury",
+            "answer": "Embolism or Thrombosis of a large artery",
+            "select": "",
+            "explain": "Focal Cerebral Ischemia (สมองขาดเลือดเฉพาะที่) ที่เกิดจากการอุดตันของหลอดเลือดแดงขนาดใหญ่ (Large aa.) เช่น MCA หรือ ACA จะทำให้เกิดบริเวณเนื้อสมองตาย (infarct) ที่มีรูปร่างคล้ายพัด (Fan-shape area) ในเขตที่หลอดเลือดนั้นเลี้ยง",
+            "state": false
+        },
+        {
+            "problem": "46. Which lobe of the cerebrum is most commonly affected by cortical atrophy in the gross pathology of Alzheimer's Disease (AD)?",
+            "img": "",
+            "choices": "Parietal and Occipital lobe///Frontal and Temporal lobe///Occipital and Cerebellum lobe///Basal ganglia and Pons///Insula and Cingulate gyrus",
+            "answer": "Frontal and Temporal lobe",
+            "select": "",
+            "explain": "Gross pathology ของ Alzheimer's Disease มักแสดงให้เห็นถึงภาวะสมองฝ่อ (Cortical atrophy) อย่างชัดเจนที่สุดในบริเวณ Frontal lobe และ Temporal lobe โดยเฉพาะอย่างยิ่ง Hippocampal formation ใน Medial temporal lobe",
+            "state": false
+        },
+        {
+            "problem": "47. A 65-year-old patient with Parkinson's Disease experiences a sudden difficulty moving and freezing episodes (akinesia). This is mechanistically due to a decrease in excitatory signals sent to the cerebral cortex from which nucleus?",
+            "img": "",
+            "choices": "Caudate nucleus///Globus pallidus externa (GPe)///Subthalamic nucleus (STN)///Thalamus (VA/VL nucleus)///Red nucleus",
+            "answer": "Thalamus (VA/VL nucleus)",
+            "select": "",
+            "explain": "ในโรค Parkinson's Disease การขาด Dopamine ทำให้วงจร Basal ganglia ทำงานผิดปกติ โดยมีการยับยั้ง Thalamus มากเกินไป (Increased inhibition from GPi to Thalamus) ทำให้ Thalamus (โดยเฉพาะ Ventral Anterior/Ventral Lateral nucleus) ส่งสัญญาณกระตุ้นไปยัง Cerebral cortex ลดลง นำไปสู่ภาวะ Akinesia และ Bradykinesia",
+            "state": false
+        },
+        {
+            "problem": "48. Which gross pathology is commonly observed in the brainstem of a patient with advanced Parkinson's Disease (PD)?",
+            "img": "",
+            "choices": "Atrophy of the cerebral peduncle///Hemorrhage in the substantia nigra///Pallor (depigmentation) of the substantia nigra and locus coeruleus///Necrosis of the inferior olivary nucleus///Atrophy of the raphe nuclei and cerebellum",
+            "answer": "Pallor (depigmentation) of the substantia nigra and locus coeruleus",
+            "select": "",
+            "explain": "ลักษณะทาง Gross pathology ที่สำคัญของโรค Parkinson's Disease คือการซีดจางของสี (Pallor or depigmentation) ของ Substantia nigra pars compacta ใน Midbrain และ Locus coeruleus ใน Pons ซึ่งเกิดจากการตายของเซลล์ประสาทที่มีเมลานิน (neuromelanin-containing neurons)",
+            "state": false
+        },
+        {
+            "problem": "49. Which type of skull fracture is typically found in newborns and involves an incomplete break of the pliable bone, resembling a 'ping-pong ball' indentation?",
+            "img": "",
+            "choices": "Compound fracture///Depressed fracture///Hairline fracture///Ping-pong fracture (Greenstick)///Basilar skull fracture",
+            "answer": "Ping-pong fracture (Greenstick)",
+            "select": "",
+            "explain": "Ping-pong fracture (หรือ Greenstick fracture) เป็นลักษณะการแตกหักของกระดูกที่ไม่สมบูรณ์และยุบตัวลงไปคล้ายรอยบุ๋มของลูกปิงปอง มักพบในทารกและเด็กเล็กเนื่องจากกระดูกกะโหลกศีรษะยังมีความยืดหยุ่นสูง",
+            "state": false
+        },
+        {
+            "problem": "50. In acute ischemic stroke, which stage follows the 'Red neuron' phase and is characterized by the prominent infiltration of macrophages and microglia?",
+            "img": "",
+            "choices": "Subacute change (24 hr - 2 wk.)///Chronic change (after 2 wk.)///Immediate change (0-6 hr.)///Macroscopic necrosis phase///Reactive gliosis phase",
+            "answer": "Subacute change (24 hr - 2 wk.)",
+            "select": "",
+            "explain": "ลำดับการเปลี่ยนแปลงของเนื้อสมองที่ขาดเลือด: Red neuron (12-24 ชั่วโมง) $\rightarrow$ Subacute change (24 ชั่วโมงถึง 2 สัปดาห์) ซึ่งเป็นช่วงที่มี Necrosis, Macrophage infiltration (ทำความสะอาดเนื้อตาย) และ Vascular proliferation $\rightarrow$ Chronic change (มากกว่า 2 สัปดาห์) ซึ่งเป็น Liquefactive necrosis และ Reactive gliosis",
+            "state": false
+        },
+        {
+            "problem": "51. A child under 1 year old presents with multiple, multi-stage head injuries, retinal hemorrhage, and subdural hematoma. The most likely diagnosis, in the absence of a clear accident history, is:",
+            "img": "",
+            "choices": "Whiplash injury syndrome///Diffuse Axonal Injury (DAI)///Abusive Head Trauma (AHT) or Shaken Baby Syndrome (SBS)///Brain Contusion and Laceration///Congenital Aqueductal Stenosis",
+            "answer": "Abusive Head Trauma (AHT) or Shaken Baby Syndrome (SBS)",
+            "select": "",
+            "explain": "Abusive Head Trauma (AHT) หรือ Shaken Baby Syndrome (SBS) เป็นรูปแบบหนึ่งของการทำร้ายเด็กที่ทำให้เกิดอาการทางคลินิกที่จำเพาะ ได้แก่ Multiple, multi-stage head injury, Retinal hemorrhage และ Subdural hematoma ซึ่งมักพบในเด็กอายุน้อยกว่า 1 ปี",
+            "state": false
+        },
+        {
+            "problem": "52. Ruptured Saccular Aneurysm is a major risk factor for Subarachnoid Hemorrhage (SAH). What is the common location of these congenital aneurysms on the cerebral circulation?",
+            "img": "",
+            "choices": "Lenticulostriate artery branches of MCA///Basal ganglia and Thalamus microvessels///Anterior Communicating (ACom), Anterior Cerebral (ACA), and Middle Cerebral (MCA) arteries///Posterior Inferior Cerebellar Artery (PICA) branches///Bridging veins entering the superior sagittal sinus",
+            "answer": "Anterior Communicating (ACom), Anterior Cerebral (ACA), and Middle Cerebral (MCA) arteries",
+            "select": "",
+            "explain": "Saccular (Berry) Aneurysm มักเกิดที่จุดแยกของหลอดเลือดใน Circle of Willis โดยตำแหน่งที่พบบ่อยที่สุดคือ Anterior Communicating Artery (ACom) และจุดแยกของ Anterior Cerebral Artery (ACA) และ Middle Cerebral Artery (MCA)",
+            "state": false
+        },
+        {
+            "problem": "53. A 65-year-old patient with relapsing-remitting neurological deficits is diagnosed with Multiple Sclerosis (MS). The pathogenesis is primarily an autoimmune response involving which subset of T-helper lymphocytes?",
+            "img": "",
+            "choices": "TH1 and TH17 (T-helper 1 and T-helper 17)///Cytotoxic T-lymphocytes (CD8+)///Regulatory T-cells (Tregs)///B-cells and Plasma cells only///Natural Killer cells (NK cells)",
+            "answer": "TH1 and TH17 (T-helper 1 and T-helper 17)",
+            "select": "",
+            "explain": "Multiple Sclerosis (MS) เป็นโรคภูมิคุ้มกันทำลายตัวเองที่เกี่ยวข้องกับการทำงานผิดปกติของ T-lymphocytes โดยเฉพาะอย่างยิ่ง T-helper 1 (TH1) และ T-helper 17 (TH17) ซึ่งผลิต cytokines ที่กระตุ้นการอักเสบและทำลาย Myelin sheath ในระบบประสาทส่วนกลาง",
+            "state": false
+        },
+        {
+            "problem": "54. Which of the following is an expected complication of Subfalcine Herniation (cingulate gyrus pushing under the falx cerebri)?",
+            "img": "",
+            "choices": "CN III palsy with fixed dilated pupil///Compression of the Anterior Cerebral Artery (ACA) leading to ischemic stroke///Duret hemorrhage in the brainstem///Hydrocephalus ex vacuo///Compression of the cerebral aqueduct",
+            "answer": "Compression of the Anterior Cerebral Artery (ACA) leading to ischemic stroke",
+            "select": "",
+            "explain": "Subfalcine Herniation (การเคลื่อนของ Cingulate gyrus) มักไปกดเบียด Anterior Cerebral Artery (ACA) ซึ่งทอดตัวอยู่เหนือ Falx cerebri ทำให้เกิดภาวะสมองขาดเลือดในเขตที่ ACA เลี้ยง ส่วน CN III palsy เป็นภาวะแทรกซ้อนของ Transtentorial herniation",
+            "state": false
+        },
+        {
+            "problem": "55. A pathology showing inflammation and demyelination of the spinal nerve roots and peripheral nerves, often following a gastrointestinal infection, would lead to which clinical presentation?",
+            "img": "",
+            "choices": "Bilateral blindness (NMO)///Rapidly evolving quadriplegia (CPM)///Ascending paralysis (GBS)///Relapsing-remitting neurological deficits (MS)///Focal weakness and seizure (Tumefactive demyelination)",
+            "answer": "Ascending paralysis (GBS)",
+            "select": "",
+            "explain": "การอักเสบและทำลาย Myelin ของ Spinal nerve root และ Peripheral nerve (Polyradiculoneuropathy) ที่ตามหลังการติดเชื้อ (เช่น C. jejuni) เป็นลักษณะของ Guillain-Barre Syndrome (GBS) ซึ่งมีอาการทางคลินิกเป็น Ascending paralysis (กล้ามเนื้ออ่อนแรงจากขาขึ้นไปแขน)",
+            "state": false
+        }
+    ],
+    "Infection NS by AI": [{
+        "problem": "1. A 5-year-old child presents with fever, headache, and neck stiffness. Cerebrospinal Fluid (CSF) analysis shows an elevated opening pressure, significantly low glucose, and high white blood cell (WBC) count predominantly composed of polymorphonuclear cells (PMNs). Which infection type is most likely?",
+        "img": "",
+        "choices": "Fungal meningitis///Aseptic meningitis///Bacterial meningitis///Tuberculous meningitis///Parasitic meningoencephalitis",
+        "answer": "Bacterial meningitis",
+        "select": "",
+        "explain": "ลักษณะน้ำไขสันหลังที่มีความดันเปิดสูงมาก ปริมาณน้ำตาลต่ำมาก และมีเม็ดเลือดขาวสูงโดยมี PMN เป็นเซลล์เด่น เป็นลักษณะจำเพาะของเยื่อหุ้มสมองอักเสบจากเชื้อแบคทีเรีย ซึ่งเชื้อแบคทีเรียจะกินน้ำตาลกลูโคสและกระตุ้นการอักเสบแบบเฉียบพลัน",
+        "state": false
+    },
+    {
+        "problem": "2. CSF analysis from an immunocompetent adult with an acute meningoencephalitis shows clear appearance, normal glucose level, and moderate pleocytosis predominantly composed of lymphocytes. Which type of pathogen is the most common cause of this finding?",
+        "img": "",
+        "choices": "Fungal organism///Parasitic organism///Bacterial organism///Viral organism///Mycobacterium tuberculosis",
+        "answer": "Viral organism",
+        "select": "",
+        "explain": "ลักษณะน้ำไขสันหลังที่ใส ระดับน้ำตาลปกติ และมีเม็ดเลือดขาวชนิด Lymphocyte เป็นเซลล์เด่น เข้าได้กับภาวะ Aseptic Meningitis ซึ่งสาเหตุที่พบบ่อยที่สุดคือการติดเชื้อไวรัส",
+        "state": false
+    },
+    {
+        "problem": "3. A patient presents with Eosinophilic Meningitis. CSF examination would typically reveal a high white blood cell (WBC) count with the differential predominantly composed of which cell type?",
+        "img": "",
+        "choices": "Lymphocyte///Plasma cell///Polymorphonuclear cell///Neutrophil///Eosinophil",
+        "answer": "Eosinophil",
+        "select": "",
+        "explain": "เยื่อหุ้มสมองอักเสบชนิด Eosinophilic Meningitis เป็นภาวะที่มีการเพิ่มขึ้นของเม็ดเลือดขาวชนิด Eosinophil ในน้ำไขสันหลังอย่างมีนัยสำคัญ ซึ่งบ่งชี้ถึงการติดเชื้อปรสิตหรือปฏิกิริยาแพ้ต่อสิ่งแปลกปลอม",
+        "state": false
+    },
+    {
+        "problem": "4. Which finding in the Cerebrospinal Fluid (CSF) profile is most characteristic of Tuberculous Meningitis, in comparison to other types of meningitis?",
+        "img": "",
+        "choices": "Normal glucose and lymphocyte predominance///Xanthochromia and low glucose///Normal opening pressure and clear fluid///Significantly elevated protein and low glucose///PMN predominance and normal protein",
+        "answer": "Significantly elevated protein and low glucose",
+        "select": "",
+        "explain": "เยื่อหุ้มสมองอักเสบจากวัณโรค มักทำให้เกิดการอักเสบเรื้อรังที่รุนแรง ทำให้มีการรั่วของโปรตีนในน้ำไขสันหลังสูงมากร่วมกับมีการใช้น้ำตาลโดยเชื้อ ทำให้ระดับน้ำตาลในน้ำไขสันหลังต่ำมาก ซึ่งเป็นลักษณะเด่นของ Tuberculous Meningitis",
+        "state": false
+    },
+    {
+        "problem": "5. Which clinical sign, if positive, specifically indicates irritation of the meninges (meningeal sign) and not just severe headache?",
+        "img": "",
+        "choices": "Papilledema///Ankle clonus///Brudzinski's sign///Projectile vomiting///Focal neurological deficit",
+        "answer": "Brudzinski's sign",
+        "select": "",
+        "explain": "Brudzinski's sign และ Kernig's sign เป็นอาการแสดงทางคลินิกที่ใช้ตรวจหาภาวะเยื่อหุ้มสมองระคายเคือง (Meningeal sign) โดยเฉพาะ ซึ่งจะพบในผู้ป่วยเยื่อหุ้มสมองอักเสบ",
+        "state": false
+    },
+    {
+        "problem": "6. A patient presents with fever and severe neck stiffness. The physician administers Ceftriaxone and Vancomycin intravenously as empirical treatment. Which common bacterial pathogen is the main reason for adding Vancomycin to the regimen?",
+        "img": "",
+        "choices": "Listeria monocytogenes///Neisseria meningitides///Haemophilus influenzae///Streptococcus pneumoniae///Streptococcus agalactiae",
+        "answer": "Streptococcus pneumoniae",
+        "select": "",
+        "explain": "Vancomycin ถูกเพิ่มเข้ามาในสูตรยาปฏิชีวนะเพื่อครอบคลุมเชื้อ Streptococcus pneumoniae ที่สงสัยว่าอาจจะดื้อต่อยา Ceftriaxone ซึ่งเป็นยาในกลุ่ม Beta-lactam",
+        "state": false
+    },
+    {
+        "problem": "7. A 3-day-old infant is diagnosed with bacterial meningitis. Empiric therapy should cover the most likely pathogen in this age group, which is typically found to be G+ve cocci in chains. Which pathogen fits this description?",
+        "img": "",
+        "choices": "Neisseria meningitides///Haemophilus influenzae type B///Listeria monocytogenes///Streptococcus agalactiae///Escherichia coli K1",
+        "answer": "Streptococcus agalactiae",
+        "select": "",
+        "explain": "Streptococcus agalactiae (Group B Streptococcus) เป็นเชื้อแบคทีเรียแกรมบวกรูปกลมที่เรียงตัวเป็นสายโซ่ และเป็นสาเหตุที่พบบ่อยที่สุดของเยื่อหุ้มสมองอักเสบในทารกแรกเกิด",
+        "state": false
+    },
+    {
+        "problem": "8. A 68-year-old immunocompromised man is diagnosed with bacterial meningitis. Given his risk factors (elderly, immunocompromised), which additional antibiotic should be included in the empirical regimen to cover a common Gram-positive bacilli pathogen?",
+        "img": "",
+        "choices": "Ciprofloxacin///Vancomycin///Ampicillin///Metronidazole///Ceftazidime",
+        "answer": "Ampicillin",
+        "select": "",
+        "explain": "ในผู้สูงอายุหรือผู้ที่มีภูมิคุ้มกันบกพร่อง เชื้อ Listeria monocytogenes เป็นสาเหตุที่ต้องสงสัยเป็นพิเศษ การรักษาจำเป็นต้องครอบคลุมเชื้อนี้ด้วยการให้ยา Ampicillin เนื่องจากเป็นเชื้อที่ดื้อต่อยา Cephalosporin",
+        "state": false
+    },
+    {
+        "problem": "9. The primary complication of Tuberculous Meningitis that leads to severe long-term neurological deficit is the formation of Arachnoid fibrosis at the basal cistern. This complication directly causes which neurological finding?",
+        "img": "",
+        "choices": "Mass effect and midline shift///Obstructive hydrocephalus///Spongiform transformation///Obliterative endarteritis leading to stroke///Exuberant granulation tissue",
+        "answer": "Obstructive hydrocephalus",
+        "select": "",
+        "explain": "การอักเสบเรื้อรังที่ฐานสมองทำให้เกิดพังผืด (Arachnoid fibrosis) ซึ่งไปอุดกั้นทางเดินของน้ำไขสันหลังที่ออกจากโพรงสมอง ส่งผลให้เกิดภาวะโพรงสมองคั่งน้ำชนิดอุดกั้น (Obstructive hydrocephalus) ตามมา",
+        "state": false
+    },
+    {
+        "problem": "10. Which statement regarding the clinical features of Neurosyphilis in the tertiary stage (Tabes Dorsalis) is correct?",
+        "img": "",
+        "choices": "Rapidly progressive dementia and visual disturbance///Asymmetrical flaccid paralysis with intact sensation///Atrophy and pallor of the spinal dorsal column and loss of deep tendon reflex///Chronic meningitis with obliteration of cerebral arteries///Focal neurological deficits with seizure activity",
+        "answer": "Atrophy and pallor of the spinal dorsal column and loss of deep tendon reflex",
+        "select": "",
+        "explain": "Tabes Dorsalis เป็นรูปแบบหนึ่งของ Neurosyphilis ในระยะที่สาม ซึ่งมีการเสื่อมของ Dorsal Column ของไขสันหลัง ทำให้เกิดอาการสูญเสียความรู้สึก Proprioception และ Vibration นำไปสู่อาการ Sensory ataxia และ Deep tendon reflex หายไป",
+        "state": false
+    },
+    {
+        "problem": "11. A young adult is suspected of having come into close contact with a patient diagnosed with Meningococcal Meningitis. Which oral antibiotic is commonly prescribed as prophylaxis (PEP) for the contact case?",
+        "img": "",
+        "choices": "Ceftriaxone 500 mg x 1 dose PO///Ampicillin 500 mg x 1 dose PO///Vancomycin 500 mg x 1 dose PO///Ciprofloxacin 500 mg x 1 dose PO///Azithromycin 500 mg x 1 dose PO",
+        "answer": "Ciprofloxacin 500 mg x 1 dose PO",
+        "select": "",
+        "explain": "สำหรับผู้สัมผัสใกล้ชิดผู้ป่วยไข้กาฬหลังแอ่น (Meningococcal Meningitis) ยา Ciprofloxacin 500 มิลลิกรัม เพียงครั้งเดียว เป็นยาที่แนะนำสำหรับผู้ใหญ่เพื่อป้องกันการติดเชื้อ (Chemoprophylaxis)",
+        "state": false
+    },
+    {
+        "problem": "12. The pathogenesis of Acute Bacterial Meningitis leading to brain injury is primarily caused by which process after bacterial products trigger the immune response?",
+        "img": "",
+        "choices": "Toxin production leading to demyelination///Sequestration in the microcirculation///Cytotoxic/vasogenic edema leading to decreased cerebral blood flow (CBF)///Granulomatous inflammation and vasculitis///Prion protein misfolding and accumulation",
+        "answer": "Cytotoxic/vasogenic edema leading to decreased cerebral blood flow (CBF)",
+        "select": "",
+        "explain": "ผลิตภัณฑ์จากเชื้อแบคทีเรียและปฏิกิริยาการอักเสบที่รุนแรงทำให้เกิดภาวะสมองบวม (Cytotoxic/vasogenic edema) ในช่องปิดของกะโหลกศีรษะ ทำให้ความดันในกะโหลกศีรษะสูงขึ้น ซึ่งส่งผลให้เลือดไปเลี้ยงสมองลดลง (Decreased CBF) และเกิดภาวะสมองขาดออกซิเจนตามมา",
+        "state": false
+    },
+    {
+        "problem": "13. A 40-year-old male with a history of chronic sinusitis presents with fever, headache, and new-onset focal weakness in his right arm. A CT scan shows a ring-enhancing lesion with perilesional edema. What is the most likely pathological mechanism leading to this brain abscess?",
+        "img": "",
+        "choices": "Hematogenous spread from endocarditis///Direct invasion (local extension) from the contiguous focus of infection///Reactivation of latent infection in an immunocompromised host///Infection via the olfactory nerve (CN I) from the nasal cavity///Rupture of an infected saccular aneurysm",
+        "answer": "Direct invasion (local extension) from the contiguous focus of infection",
+        "select": "",
+        "explain": "ฝีในสมอง (Brain Abscess) ที่เกิดในผู้ที่มีประวัติไซนัสอักเสบเรื้อรัง มักเกิดจากการลุกลามโดยตรง (Local extension) ของเชื้อแบคทีเรียจากโพรงไซนัสหรือหูชั้นกลางผ่านกระดูกที่อักเสบเข้าไปในเนื้อสมอง",
+        "state": false
+    },
+    {
+        "problem": "14. Histopathology of a brain abscess typically shows central necrosis surrounded by a capsule. This capsule is primarily composed of which histological component?",
+        "img": "",
+        "choices": "Reactive oligodendrocytes///Astrocyte proliferation///Collagenous fibrous tissue///Lipid-laden macrophage///Abnormal PrP protein deposits",
+        "answer": "Collagenous fibrous tissue",
+        "select": "",
+        "explain": "ฝีในสมองในระยะที่สมบูรณ์แล้วจะมีผนัง (capsule) ที่แข็งแรงล้อมรอบหนองอยู่ ผนังนี้ประกอบด้วยเนื้อเยื่อเกี่ยวพันชนิดเส้นใยคอลลาเจน (Collagenous fibrous tissue) และมีปฏิกิริยา gliosis จาก Astrocyte อยู่รอบนอก",
+        "state": false
+    },
+    {
+        "problem": "15. A patient with a brain abscess at the temporal lobe develops sudden pupillary dilation and unresponsiveness. This is most likely a complication of the mass effect leading to which type of brain herniation?",
+        "img": "",
+        "choices": "Tonsillar herniation///Cerebellar herniation///Subfalcine herniation///Central herniation///Transtentorial (Uncal) herniation",
+        "answer": "Transtentorial (Uncal) herniation",
+        "select": "",
+        "explain": "Transtentorial herniation (Uncal Herniation) เกิดจากการที่ Medial temporal lobe ถูกดันไปกดเบียดก้านสมองส่วนกลาง (Midbrain) ซึ่งมีเส้นประสาทสมองคู่ที่ 3 (CN III) และ Reticular formation อยู่ การกดทับ CN III ทำให้เกิดอาการรูม่านตาขยายข้างเดียวกับรอยโรค และการกดทับ Reticular formation ทำให้สูญเสียความรู้สึกตัว",
+        "state": false
+    },
+    {
+        "problem": "16. Which fungal pathogen is strongly associated with a risk factor of Diabetes Mellitus (DM) and is characterized by non-septate hyphae with near right-angle branching?",
+        "img": "",
+        "choices": "Cryptococcus neoformans///Aspergillus spp.///Mucor spp. (Mucormycosis)///Candida albicans///Histoplasma capsulatum",
+        "answer": "Mucor spp. (Mucormycosis)",
+        "select": "",
+        "explain": "Mucormycosis เป็นการติดเชื้อราที่รุนแรงในผู้ป่วยเบาหวานที่มีภาวะเลือดเป็นกรดจากคีโตน (DKA) มีลักษณะทางจุลพยาธิวิทยาที่จำเพาะคือเส้นใยราที่มีการแตกแขนงทำมุมเกือบ 90 องศา และเป็นชนิด Coenocytic (ไม่มี Septa)",
+        "state": false
+    },
+    {
+        "problem": "17. A patient with HIV/AIDS presents with headache, fever, and visual disturbance. CSF India Ink staining reveals encapsulated yeast cells with a 'soap-bubble' appearance on MRI of the deep gray nuclei. What is the most likely pathogen?",
+        "img": "",
+        "choices": "Toxoplasma gondii///Neurocysticercosis///Cryptococcus neoformans///Naegleria fowleri///Mycobacterium tuberculosis",
+        "answer": "Cryptococcus neoformans",
+        "select": "",
+        "explain": "Cryptococcus neoformans เป็นสาเหตุของ Fungal Meningitis ที่พบบ่อยในผู้ป่วย HIV/AIDS ลักษณะเด่นคือเซลล์ยีสต์ที่มีแคปซูลหนาซึ่งเห็นได้ด้วย Indian Ink และรอยโรคในสมองที่เรียกว่า Soap-bubble appearance บริเวณ Deep Gray Nuclei",
+        "state": false
+    },
+    {
+        "problem": "18. A 30-year-old male presents with intermittent migratory swelling on his neck, Xanthochromia CSF, and Eosinophilia. Which parasitic infection is most likely?",
+        "img": "",
+        "choices": "Neurocysticercosis (Taenia solium)///Cerebral Toxoplasmosis (T. gondii)///Neurognathostomiasis (G. spinigerum)///Angiostrongyliasis (A. cantonensis)///Cerebral Amebiasis (E. histolytica)",
+        "answer": "Neurognathostomiasis (G. spinigerum)",
+        "select": "",
+        "explain": "อาการบวมที่ย้ายตำแหน่งได้เป็นช่วงๆ เป็นลักษณะเฉพาะของโรคพยาธิตัวจี๊ด (Neurognathostomiasis) ซึ่งเกิดจากการไชของตัวอ่อนพยาธิ Gnathostoma spinigerum นอกจากนี้ยังพบอาการ Eosinophilia และ Xanthochromia (CSF มีสีเหลืองจากเลือดออก) ร่วมด้วย",
+        "state": false
+    },
+    {
+        "problem": "19. Which CNS infection is characterized by multiple brain lesions with peripheral necrotic foci in an HIV/AIDS patient, and is managed with Sulfamethoxazole + Trimethoprim?",
+        "img": "",
+        "choices": "Primary Amoebic Meningoencephalitis (PAM)///Progressive Multifocal Leukoencephalopathy (PML)///Japanese Encephalitis (JE)///Cerebral Toxoplasmosis (T. gondii)///Herpes Simplex Encephalitis (HSE)",
+        "answer": "Cerebral Toxoplasmosis (T. gondii)",
+        "select": "",
+        "explain": "Cerebral Toxoplasmosis เป็น Opportunistic Infection ที่พบบ่อยในผู้ป่วย HIV/AIDS มักพบรอยโรคหลายตำแหน่งในสมองส่วน Cerebral Cortex และ Deep Gray Nuclei ยาที่ใช้รักษาคือ Sulfamethoxazole + Trimethoprim (Co-trimoxazole) ร่วมกับ Sulfadiazine + Pyrimethamine",
+        "state": false
+    },
+    {
+        "problem": "20. A patient with a history of eating raw snails and slugs presents with severe headache and Eosinophilic Meningoencephalitis. Which infection is most likely?",
+        "img": "",
+        "choices": "Toxoplasma gondii///Entamoeba histolytica///Neurocysticercosis///Angiostrongyliasis (A. cantonensis)///Sparganosis (S. mansoni)",
+        "answer": "Angiostrongyliasis (A. cantonensis)",
+        "select": "",
+        "explain": "Angiostrongylus cantonensis เป็นสาเหตุที่พบบ่อยที่สุดของ Eosinophilic Meningitis ที่มีการติดเชื้อจากการรับประทานหอยหรือทากดิบ อาการที่เด่นคือปวดศีรษะอย่างรุนแรง",
+        "state": false
+    },
+    {
+        "problem": "21. Which imaging finding is the most classic presentation of Neurocysticercosis (Cysticercus cellulosae) in the brain parenchyma?",
+        "img": "",
+        "choices": "Multiple periventricular white matter lesions///Cystic formation, single or multiple, often with a visible scolex///Single ring-enhancing lesion with exuberant granulation tissue///Hemorrhagic necrosis involving the bilateral temporal lobes///Atrophy of the spinal dorsal column",
+        "answer": "Cystic formation, single or multiple, often with a visible scolex",
+        "select": "",
+        "explain": "Neurocysticercosis เป็นการติดเชื้อตัวอ่อนพยาธิตัวตืดหมูในสมอง ลักษณะที่คลาสสิกที่สุดคือการพบถุงน้ำ (Cystic formation) ในเนื้อสมอง ซึ่งอาจเห็นจุดสีขาวเล็กๆ ซึ่งเป็นหัวของพยาธิ (scolex) อยู่ภายในถุงน้ำนั้นได้",
+        "state": false
+    },
+    {
+        "problem": "22. The characteristic pathological finding in Prion disease, such as Creutzfeldt-Jakob Disease, is caused by the accumulation of an abnormal PrP isoform and is referred to as:",
+        "img": "",
+        "choices": "Cowdry type A inclusions///Neurofibrillary tangles///Kuru plaque and spongiform transformation///Psammoma bodies///Negri bodies",
+        "answer": "Kuru plaque and spongiform transformation",
+        "select": "",
+        "explain": "Prion disease เกิดจากการสะสมของโปรตีน PrPSC ที่พับตัวผิดปกติ พยาธิสภาพที่จำเพาะคือการเปลี่ยนแปลงของเนื้อสมองเป็นรูพรุนคล้ายฟองน้ำ (Spongiform transformation) และการพบ Kuru plaque",
+        "state": false
+    },
+    {
+        "problem": "23. Primary Amoebic Meningoencephalitis (PAM) caused by Naegleria fowleri is a highly lethal infection. The amoeba is typically thought to enter the Central Nervous System (CNS) via which route?",
+        "img": "",
+        "choices": "Hematogenous spread from the gastrointestinal tract///Direct extension from a basilar skull fracture///Infection via the olfactory nerve (CN I)///Trans-placental transmission from mother to fetus///Perineural spread via the Trigeminal nerve (CN V)",
+        "answer": "Infection via the olfactory nerve (CN I)",
+        "select": "",
+        "explain": "เชื้ออะมีบา Naegleria fowleri มักจะเข้าสู่ร่างกายผ่านการสำลักน้ำที่ไม่สะอาดเข้าไปในจมูก จากนั้นจะไชผ่าน Olfactory epithelium และเส้นประสาท Olfactory nerve (CN I) เพื่อเข้าสู่สมอง",
+        "state": false
+    },
+    {
+        "problem": "24. A patient is diagnosed with Herpes Simplex Encephalitis (HSE). The characteristic histological finding in the brain parenchyma that confirms the viral etiology is the presence of which structure?",
+        "img": "",
+        "choices": "Perivascular cuffing of PMNs///Soap-bubble cysts///Granulomatous inflammation///Cowdry type A intranuclear inclusions///Negri bodies in Purkinje cells",
+        "answer": "Cowdry type A intranuclear inclusions",
+        "select": "",
+        "explain": "Herpes Simplex Encephalitis มีลักษณะเฉพาะคือการอักเสบและเนื้อตายบริเวณ Temporal lobe การตรวจทางจุลพยาธิวิทยามักพบ Cowdry type A intranuclear inclusions ในเซลล์ประสาทและเซลล์เกลียในบริเวณที่เกิดพยาธิสภาพ",
+        "state": false
+    },
+    {
+        "problem": "25. Which CNS infection is characterized by progressive ascending weakness, asymmetrical flaccid paralysis with intact sensation, and histopathology showing neuronophagia of anterior horn cells?",
+        "img": "",
+        "choices": "Progressive Multifocal Leukoencephalopathy (PML)///Neurosyphilis (Tabes Dorsalis)///Poliomyelitis///Guillain-Barré Syndrome (GBS)///Rabies Encephalitis",
+        "answer": "Poliomyelitis",
+        "select": "",
+        "explain": "Poliomyelitis เกิดจากการทำลายเซลล์ประสาทสั่งการส่วนล่าง (Lower Motor Neurons) ใน Anterior horn cell ของไขสันหลัง ทำให้เกิดอาการอ่อนแรงแบบอ่อนปวกเปียก (Flaccid paralysis) ที่ไม่สมมาตร โดยที่ระบบรับความรู้สึกยังคงปกติ",
+        "state": false
+    },
+    {
+        "problem": "26. Which anatomical location is the most common site for the initial infection and lesion development in Herpes Simplex Encephalitis (HSE)?",
+        "img": "",
+        "choices": "Basal cisterns and brainstem///Pons and medulla oblongata///Bilateral temporal lobes and orbital gyri///Deep gray nuclei and thalamus///Periventricular white matter",
+        "answer": "Bilateral temporal lobes and orbital gyri",
+        "select": "",
+        "explain": "Herpes Simplex Encephalitis มีลักษณะเฉพาะคือการเกิดเนื้อตายและเลือดออกบริเวณ Inferior และ Medial Temporal Lobe และ Orbital Gyri ของ Frontal Lobe",
+        "state": false
+    },
+    {
+        "problem": "27. In a confirmed case of Rabies Encephalitis, which specific histological finding is a classic diagnostic hallmark, typically found within Purkinje cells in the cerebellum?",
+        "img": "",
+        "choices": "Cowdry type A inclusion///Negri body///Kuru plaque///Psammoma body///Rosenthal fiber",
+        "answer": "Negri body",
+        "select": "",
+        "explain": "Negri body เป็นก้อน inclusion ภายในเซลล์ประสาทที่สามารถตรวจพบได้ในผู้ป่วยโรคพิษสุนัขบ้า โดยเฉพาะในเซลล์ Purkinje ของสมองน้อย",
+        "state": false
+    },
+    {
+        "problem": "28. The histopathology of Progressive Multifocal Leukoencephalopathy (PML) caused by JC virus primarily shows white matter destruction and enlarged oligodendrocyte nuclei with viral inclusions. PML is a major risk in which patient group?",
+        "img": "",
+        "choices": "Children with acute fever///Elderly with diabetes mellitus///Immunocompromised (e.g., HIV/AIDS) patients///Pregnant women and neonates///Patients with recent basilar skull fracture",
+        "answer": "Immunocompromised (e.g., HIV/AIDS) patients",
+        "select": "",
+        "explain": "Progressive Multifocal Leukoencephalopathy เป็น Opportunistic Infection ที่เกิดจาก JC virus ซึ่งจะเข้าทำลายเซลล์ Oligodendrocyte ผู้ป่วยที่มีความเสี่ยงสูงสุดคือผู้ที่มีภาวะภูมิคุ้มกันบกพร่องอย่างรุนแรง เช่น ผู้ป่วย HIV/AIDS",
+        "state": false
+    },
+    {
+        "problem": "29. Cerebral Malaria pathogenesis is characterized by the adherence of infected erythrocytes to the microvasculature. Which parasitic protein mediates this sequestration process, leading to microvascular obstruction and decreased cerebral blood flow (CBF)?",
+        "img": "",
+        "choices": "Histidine-rich protein II (HRP II)///PfEMP-1 (Plasmodium falciparum Erythrocyte Membrane Protein 1)///Ring-form trophozoites///Merozoites///Gametocytes",
+        "answer": "PfEMP-1 (Plasmodium falciparum Erythrocyte Membrane Protein 1)",
+        "select": "",
+        "explain": "ภาวะมาลาเรียขึ้นสมองเกิดจากเชื้อ Plasmodium falciparum โดยโปรตีน PfEMP-1 บนผิวของเม็ดเลือดแดงที่ติดเชื้อจะทำให้เม็ดเลือดแดงเกาะติดกับผนังหลอดเลือดฝอยในสมอง (Cytoadherence) เกิดการอุดตันของหลอดเลือดขนาดเล็ก ซึ่งเป็นกลไกหลักที่ทำให้เกิดพยาธิสภาพ",
+        "state": false
+    },
+    {
+        "problem": "30. A patient presents with Tuberculous Meningitis. Which laboratory test is currently considered the fastest and most sensitive method for confirming the diagnosis from the CSF sample?",
+        "img": "",
+        "choices": "CSF Gram's stain///CSF culture for Mycobacterium tuberculosis///Indian Ink staining of CSF///CSF PCR for TB (GeneXpert/RIF Assay)///CXR for pulmonary infiltration",
+        "answer": "CSF PCR for TB (GeneXpert/RIF Assay)",
+        "select": "",
+        "explain": "การตรวจ PCR (GeneXpert/RIF Assay) สำหรับหาเชื้อวัณโรคในน้ำไขสันหลัง เป็นวิธีที่สามารถยืนยันการวินิจฉัย Tuberculous Meningitis ได้อย่างรวดเร็วและมีความไวสูงกว่าการเพาะเชื้อ",
+        "state": false
+    },
+    {
+        "problem": "31. An 18-month-old child presents with vesicles on the hand, foot, and mouth, accompanied by fever and sympathetic overactivity. The primary pathogen is a virus (e.g., Coxsackie A16). This condition is referred to as:",
+        "img": "",
+        "choices": "Herpes Zoster Ophthalmicus (HZO)///Herpes Simplex Encephalitis (HSE)///Hand, Foot, and Mouth Disease (HFMD)///Ramsay Hunt Syndrome (RHS)///Japanese Encephalitis (JE)",
+        "answer": "Hand, Foot, and Mouth Disease (HFMD)",
+        "select": "",
+        "explain": "อาการตุ่มน้ำใสบริเวณมือ เท้า และปาก เป็นลักษณะคลาสสิกของโรค Hand, Foot, and Mouth Disease ซึ่งเกิดจากการติดเชื้อไวรัสในกลุ่ม Enterovirus เช่น Coxsackie A16 และ Enterovirus 71",
+        "state": false
+    },
+    {
+        "problem": "32. Which complication of Tuberculous Meningitis is caused by inflammation in the basal cisterns, leading to the narrowing and occlusion of cerebral arteries?",
+        "img": "",
+        "choices": "Tuberculoma formation///Obliterative endarteritis///Hydrocephalus ex vacuo///Arachnoid fibrosis///Cortical laminar necrosis",
+        "answer": "Obliterative endarteritis",
+        "select": "",
+        "explain": "Obliterative endarteritis คือภาวะการอักเสบของหลอดเลือดแดงที่ทำให้ผนังหนาขึ้นจนเกิดการอุดตัน ซึ่งเป็นผลจากการอักเสบเรื้อรังที่ฐานสมองใน Tuberculous Meningitis ส่งผลให้เกิดภาวะสมองขาดเลือด (Stroke) ตามมาได้",
+        "state": false
+    },
+    {
+        "problem": "33. The pathological process in Viral Encephalitis, such as Japanese Encephalitis, often includes Perivascular Lymphocytic Cuffs. What is the composition of the cellular infiltrate in these 'cuffs'?",
+        "img": "",
+        "choices": "PMN and plasma cells///Red blood cells and fibrin///Lymphocytes and plasma cells///Eosinophils and macrophages///Microglia and astrocytes",
+        "answer": "Lymphocytes and plasma cells",
+        "select": "",
+        "explain": "ลักษณะทางจุลพยาธิวิทยาของการติดเชื้อไวรัสที่สมองคือการอักเสบที่เนื้อสมอง โดยจะพบเซลล์อักเสบชนิด Lymphocytes และ Plasma cells มาสะสมกันอยู่รอบๆ หลอดเลือด (Perivascular cuffing)",
+        "state": false
+    },
+    {
+        "problem": "34. A patient with a painful vesicular rash on the forehead and the tip of the nose (Hutchinson's sign) is diagnosed with Herpes Zoster Ophthalmicus (HZO). The pathogenesis involves the reactivation of which virus?",
+        "img": "",
+        "choices": "Herpes Simplex Virus Type 1 (HSV-1)///Human Immunodeficiency Virus (HIV)///Japanese Encephalitis Virus (JEV)///Varicella Zoster Virus (VZV)///Poliovirus",
+        "answer": "Varicella Zoster Virus (VZV)",
+        "select": "",
+        "explain": "Herpes Zoster Ophthalmicus เกิดจากการที่เชื้อ Varicella Zoster Virus ที่แฝงตัวอยู่ในปมประสาทรับความรู้สึก (Sensory Ganglia) กลับมาทำงานใหม่ (Reactivation) โดยมักจะแสดงอาการที่บริเวณที่เลี้ยงโดย Ophthalmic Division (V1) ของ Trigeminal Nerve",
+        "state": false
+    },
+    {
+        "problem": "35. A neonate presents with hydrocephalus, poor feeding, and lethargy. The doctor suspects an intrauterine infection. Which parasitic infection, known to cause multiple calcified lesions in the brain (often with deep gray nuclei involvement) in infants, is most likely?",
+        "img": "",
+        "choices": "Sparganosis///Neurocysticercosis///Cerebral Toxoplasmosis///Neurognathostomiasis///Angiostrongyliasis",
+        "answer": "Cerebral Toxoplasmosis",
+        "select": "",
+        "explain": "Cerebral Toxoplasmosis เป็น Congenital Infection ที่สำคัญที่มักทำให้เกิดอาการสมองอักเสบ โพรงสมองคั่งน้ำ และการเกิดหินปูนในสมองหลายตำแหน่ง (Multiple Calcifications) โดยเฉพาะบริเวณ Deep Gray Nuclei",
+        "state": false
+    },
+    {
+        "problem": "36. A patient presents with headache, fever, and focal neurological signs. A CT scan reveals a ring-enhancing lesion with surrounding edema. This imaging finding is characteristic of:",
+        "img": "",
+        "choices": "Cerebral edema///Subdural empyema///Brain abscess///Acute ischemic stroke///Subarachnoid hemorrhage",
+        "answer": "Brain abscess",
+        "select": "",
+        "explain": "ลักษณะ Ring-enhancing lesion (รอยโรคที่มีการติดสีเป็นวงแหวน) ร่วมกับมี Perilesional edema (อาการบวมรอบๆ รอยโรค) บนภาพถ่ายสมอง เป็นลักษณะจำเพาะของฝีในสมอง (Brain Abscess) ซึ่งเป็นภาวะที่เนื้อสมองถูกทำลายและมีหนองอยู่ตรงกลาง",
+        "state": false
+    },
+    {
+        "problem": "37. A 75-year-old man who is immunocompromised is diagnosed with Invasive Aspergillosis. Histopathology of the cerebral lesion would most likely show which characteristic fungal morphology?",
+        "img": "",
+        "choices": "Encapsulated yeast cells with halo///Dichotomous-branching septate hyphae///Near right-angle branching coenocytic hyphae///Trophozoite with ingested red blood cells///Multiple microglial nodules",
+        "answer": "Dichotomous-branching septate hyphae",
+        "select": "",
+        "explain": "Aspergillus spp. เป็นเชื้อราที่มีลักษณะทางจุลพยาธิวิทยาเป็นเส้นใยที่มีผนังกั้น (Septate Hyphae) และมีการแตกแขนงเป็นคู่แบบ Dichotomous branching ที่ทำมุม 45 องศา ซึ่งเป็นลักษณะที่ใช้ในการวินิจฉัยเชื้อนี้",
+        "state": false
+    },
+    {
+        "problem": "38. Polio prevention currently relies on the use of vaccines. Which vaccine type is contraindicated in immunocompromised individuals due to the risk of the virus reverting to virulence?",
+        "img": "",
+        "choices": "Live attenuated vaccine (OPV)///Inactivated vaccine (IPV)///Subunit vaccine///Toxoid vaccine///Recombinant vaccine",
+        "answer": "Live attenuated vaccine (OPV)",
+        "select": "",
+        "explain": "วัคซีนชนิดเชื้อเป็นอ่อนฤทธิ์ (Live Attenuated Vaccine) มีความเสี่ยงที่เชื้อไวรัสจะกลายพันธุ์กลับมามีความรุนแรงได้อีกครั้ง ทำให้เกิด Vaccine-Associated Paralytic Poliomyelitis (VAPP) โดยเฉพาะในผู้ที่มีภูมิคุ้มกันบกพร่อง ดังนั้นจึงห้ามใช้ในผู้ป่วยกลุ่มนี้",
+        "state": false
+    },
+    {
+        "problem": "39. The pathogenesis of Rabies Encephalitis involves the virus traveling via which primary route to reach the Central Nervous System (CNS)?",
+        "img": "",
+        "choices": "Hematogenous spread to the cerebral cortex///Retrograde axonal transport to the spinal cord and brainstem///Infection via the olfactory nerve (CN I)///Direct spread from the nasopharynx to the brain///Ascending axonal transport to the cerebellum",
+        "answer": "Retrograde axonal transport to the spinal cord and brainstem",
+        "select": "",
+        "explain": "ไวรัสพิษสุนัขบ้าจะเข้าสู่ร่างกายผ่านบาดแผลที่ถูกกัด จากนั้นจะเดินทางย้อนกลับ (Retrograde Axonal Transport) ไปตามเส้นประสาทส่วนปลายเข้าสู่ไขสันหลังและก้านสมอง (Brainstem) ซึ่งเป็นตำแหน่งที่ไวรัสจะเพิ่มจำนวนและทำลายเนื้อเยื่อสมอง",
+        "state": false
+    },
+    {
+        "problem": "40. Which sign indicates increased intracranial pressure (ICP) and is considered part of the Cushing's Triad?",
+        "img": "",
+        "choices": "Bradykinesia///Tachycardia///Hypotension///Irregular respiration///Hypoglycemia",
+        "answer": "Irregular respiration",
+        "select": "",
+        "explain": "Cushing's Triad เป็นกลุ่มอาการที่บ่งชี้ถึงความดันในกะโหลกศีรษะที่สูงขึ้นอย่างรุนแรง ประกอบด้วย 1. ความดันโลหิตสูง (Hypertension) 2. อัตราการเต้นของหัวใจช้าลง (Bradycardia) และ 3. การหายใจผิดปกติและไม่สม่ำเสมอ (Irregular respiration)",
+        "state": false
+    },
+    {
+        "problem": "41. What is the typical appearance of Cerebrospinal Fluid (CSF) in a patient with Cryptococcal Meningitis (Fungal), in contrast to Bacterial Meningitis?",
+        "img": "",
+        "choices": "Clear, cloudy appearance///Cloudy, yellow appearance///Xanthochromia, high protein///Clear appearance, low WBC///Cloudy, PMN predominance",
+        "answer": "Clear, cloudy appearance",
+        "select": "",
+        "explain": "เยื่อหุ้มสมองอักเสบจากเชื้อรา (Fungal Meningitis) โดยเฉพาะ Cryptococcus neoformans อาจทำให้ CSF มีลักษณะใสหรือขุ่นเล็กน้อยได้ (Clear, cloudy) ซึ่งแตกต่างจาก Bacterial Meningitis ที่มักจะขุ่นมาก (Cloudy) อย่างชัดเจน",
+        "state": false
+    },
+    {
+        "problem": "42. What is the characteristic microscopic appearance of Haemophilus influenzae type B in a CSF Gram's stain?",
+        "img": "",
+        "choices": "Gram-negative cocci in pairs (diplococci)///Gram-positive cocci in chains///Gram-negative coccobacilli (small)///Gram-positive lanceolate diplococci///Gram-negative bacilli (large)",
+        "answer": "Gram-negative coccobacilli (small)",
+        "select": "",
+        "explain": "Haemophilus influenzae type B เป็นแบคทีเรียแกรมลบที่มีรูปร่างเป็นท่อนสั้นๆ หรือรูปร่างกลมป้อม (Coccobacilli) ซึ่งเป็นลักษณะเฉพาะของเชื้อนี้",
+        "state": false
+    },
+    {
+        "problem": "43. A common predisposing factor for Bacterial Meningitis from Streptococcus pneumoniae is contiguous spread of infection. Which local infection is a frequent source?",
+        "img": "",
+        "choices": "Pneumonia///Otitis/Sinusitis///Gastrointestinal tract infection///Intravenous drug use///Cellulitis",
+        "answer": "Otitis/Sinusitis",
+        "select": "",
+        "explain": "Streptococcus pneumoniae เป็นเชื้อที่สามารถลุกลามจากตำแหน่งติดเชื้อข้างเคียง เช่น หูชั้นกลางอักเสบ (Otitis media) หรือไซนัสอักเสบ (Sinusitis) ผ่านกระดูกเข้าสู่เยื่อหุ้มสมองได้",
+        "state": false
+    },
+    {
+        "problem": "44. What is the expected CSF glucose level, relative to blood glucose, in most cases of CNS infection?",
+        "img": "",
+        "choices": "Typically >90% of blood glucose///Typically <60% of blood glucose///Always equal to blood glucose///Significantly higher than blood glucose///Not correlated with blood glucose",
+        "answer": "Typically <60% of blood glucose",
+        "select": "",
+        "explain": "ในกรณีที่มีการติดเชื้อในระบบประสาทส่วนกลาง (CNS Infection) โดยเฉพาะจากแบคทีเรีย เชื้อรา หรือวัณโรค ระดับน้ำตาลกลูโคสในน้ำไขสันหลัง (CSF glucose) มักจะต่ำกว่า 60% ของระดับน้ำตาลในเลือด (Blood glucose) เนื่องจากมีการใช้น้ำตาลโดยเชื้อหรือเซลล์อักเสบ",
+        "state": false
+    },
+    {
+        "problem": "45. A patient with a Subdural Empyema presents with rapid onset of symptoms. The location of the infection is the subdural space, and it is known to spread rapidly due to which anatomical characteristic?",
+        "img": "",
+        "choices": "High blood supply in the subdural space///Lack of anatomical boundaries in the subdural space///The presence of cerebrospinal fluid (CSF) in the subdural space///Lack of septations in the subdural space///The thinness of the dura mater",
+        "answer": "Lack of anatomical boundaries in the subdural space",
+        "select": "",
+        "explain": "Subdural Empyema (หนองในช่อง Subdural space) สามารถแพร่กระจายไปตามผิวด้านในของ Dura mater ได้อย่างรวดเร็ว เนื่องจากช่องว่างนี้เป็นช่องว่างที่มีแรงยึดเหนี่ยวต่ำและไม่มีโครงสร้างกั้นทางกายวิภาค (Lack of anatomical boundaries) ทำให้หนองสามารถแผ่กระจายไปได้ทั่วสมอง",
+        "state": false
+    },
+    {
+        "problem": "46. Which pathogen, characterized as G+ve cocci in clusters, is a common cause of Brain Abscess and Subdural Empyema following head trauma or a foreign body insertion (e.g., shunt infection)?",
+        "img": "",
+        "choices": "Streptococcus pneumoniae///Neisseria meningitides///Staphylococcus aureus///Escherichia coli K1///Klebsiella pneumoniae",
+        "answer": "Staphylococcus aureus",
+        "select": "",
+        "explain": "Staphylococcus aureus เป็นแบคทีเรียแกรมบวกรูปกลมที่เรียงตัวเป็นพวงองุ่น (G+ve cocci in clusters) และเป็นสาเหตุสำคัญของการติดเชื้อที่เกี่ยวข้องกับผิวหนัง การบาดเจ็บ (Trauma) และสิ่งแปลกปลอม (Foreign body) ซึ่งสามารถนำไปสู่การเกิดฝีในสมองหรือหนองในช่อง Subdural space",
+        "state": false
+    },
+    {
+        "problem": "47. Dexamethasone is recommended as an adjunct therapy in certain types of bacterial meningitis to reduce inflammation. Which two specific pathogens are mentioned as indications for Dexamethasone use?",
+        "img": "",
+        "choices": "S. pneumoniae and N. meningitides///E. coli K1 and L. monocytogenes///H. influenzae type B and S. suis///S. aureus and S. epidermidis///A. spp. and C. neoformans",
+        "answer": "H. influenzae type B and S. suis",
+        "select": "",
+        "explain": "การใช้ Dexamethasone ร่วมในการรักษาเยื่อหุ้มสมองอักเสบมีข้อบ่งชี้สำหรับเชื้อ H. influenzae type B และ S. suis เพื่อลดภาวะแทรกซ้อนทางระบบประสาท ในขณะที่การใช้สำหรับ S. pneumoniae ยังเป็นที่ถกเถียงและอาจมีข้อจำกัด",
+        "state": false
+    },
+    {
+        "problem": "48. Which term best describes a patient with a Tuberculous Meningitis presenting with progressive mental deficit and loss of neurons in the cerebral cortex and deep gray nuclei?",
+        "img": "",
+        "choices": "Meningovascular neurosyphilis///Tabes Dorsalis///Paretic Neurosyphilis///Progressive Multifocal Leukoencephalopathy///Tuberculoma",
+        "answer": "Tuberculoma",
+        "select": "",
+        "explain": "Tuberculoma เป็นก้อนเนื้องอกในสมองที่เกิดจากการติดเชื้อวัณโรค ซึ่งอาจทำให้เกิด Mass effect, Focal neurological deficit และอาการสมองเสื่อมได้ ส่วน Progressive mental deficit และ Loss of neuron ใน Cerebral Cortex เป็นลักษณะของ Paretic Neurosyphilis ซึ่งเกิดจาก Treponema pallidum",
+        "state": false
+    },
+    {
+        "problem": "49. Which investigation is the gold standard for diagnosing Angiostrongyliasis (A. cantonensis) and Neurognathostomiasis (G. spinigerum), especially in the early stages when imaging is inconclusive?",
+        "img": "",
+        "choices": "CSF Gram's stain and culture///Thick and thin blood film///Antibody detection (Ab) in blood/CSF///Histopathology of brain tissue biopsy///CSF PCR for the causative agent",
+        "answer": "Antibody detection (Ab) in blood/CSF",
+        "select": "",
+        "explain": "การวินิจฉัยการติดเชื้อพยาธิในระบบประสาทส่วนกลาง มักอาศัยการตรวจหาแอนติบอดี (Antibody detection) ต่อเชื้อในเลือดหรือน้ำไขสันหลัง ซึ่งมีความไวและจำเพาะเจาะจงสูงในการยืนยันการวินิจฉัย Angiostrongyliasis และ Neurognathostomiasis",
+        "state": false
+    },
+    {
+        "problem": "50. A patient with HIV/AIDS is found to have multiple cerebral lesions. A common characteristic of these lesions is the presence of which parasitic form in the chronic stage of infection?",
+        "img": "",
+        "choices": "Tachyzoite (with clinical symptoms)///Procercoid (Sparganum)///Cysticercus (Taenia solium)///Encysted bradyzoite (chronic stage)///Trophozoite (Acanthamoeba)",
+        "answer": "Encysted bradyzoite (chronic stage)",
+        "select": "",
+        "explain": "Cerebral Toxoplasmosis เป็น Opportunistic Infection ที่พบบ่อยในผู้ป่วย HIV/AIDS เชื้อจะอยู่ในระยะเรื้อรัง (Chronic stage) ในรูปของ Encysted bradyzoite ซึ่งเป็นถุงน้ำในสมอง ส่วน Tachyzoite เป็นระยะที่มีอาการทางคลินิก (Reactivation)",
+        "state": false
+    },
+    {
+        "problem": "51. What is the classic clinical presentation of a brain abscess in the temporal lobe that develops from chronic suppurative otitis media (CSOM)?",
+        "img": "",
+        "choices": "Seizure and aphasia (temporal lobe)///Progressive limb weakness (frontal lobe)///Truncal ataxia (cerebellum)///Nuchal rigidity and headache (meningitis)///Memory loss and personality changes",
+        "answer": "Seizure and aphasia (temporal lobe)",
+        "select": "",
+        "explain": "ฝีในสมองที่ลุกลามมาจากหู (Otitis media) มักเกิดที่ Temporal lobe ซึ่งเป็นบริเวณที่เกี่ยวข้องกับการพูด (Aphasia, Wernicke's) และเป็นบริเวณที่กระตุ้นให้เกิดอาการชักได้ง่าย",
+        "state": false
+    },
+    {
+        "problem": "52. A Gram-positive diplococci pathogen causes meningitis and is characterized by a lancelet-shaped appearance with a large capsule. What is the common portal of entry for this pathogen?",
+        "img": "",
+        "choices": "Gastrointestinal tract (GI)///Skin trauma///Nasopharynx///Intrapartum transmission///Frozen food ingestion",
+        "answer": "Nasopharynx",
+        "select": "",
+        "explain": "Streptococcus pneumoniae มีลักษณะเป็น Gram-positive lanceolate diplococci ซึ่งเป็นเชื้อที่พบได้ใน Nasopharynx ก่อนที่จะลุกลามเข้าสู่กระแสเลือดและก่อโรคเยื่อหุ้มสมองอักเสบ",
+        "state": false
+    },
+    {
+        "problem": "53. What is the most severe and typical initial clinical symptom of Herpes Simplex Encephalitis (HSE) that prompts the need for immediate Acyclovir treatment?",
+        "img": "",
+        "choices": "Asymmetrical flaccid paralysis///Rapidly progressive dementia///Fever, headache, and confusion/conscious change///Chronic headache and papilledema///Intermittent migratory swelling",
+        "answer": "Fever, headache, and confusion/conscious change",
+        "select": "",
+        "explain": "HSE มีอาการสำคัญคือไข้ ปวดศีรษะ ร่วมกับการทำงานของสมองที่ผิดปกติไปอย่างเฉียบพลัน เช่น ภาวะสับสน หรือระดับความรู้สึกตัวที่เปลี่ยนแปลงไป (conscious change) ซึ่งบ่งชี้ถึงการอักเสบของเนื้อสมอง (encephalitis)",
+        "state": false
+    },
+    {
+        "problem": "54. What is the pathological consequence of obliteration endarteritis in Tuberculous Meningitis?",
+        "img": "",
+        "choices": "Intraventricular hemorrhage///Ischemic stroke due to arterial occlusion///Spinal cord compression///Hydrocephalus ex vacuo///Perivascular lymphocytic cuffing",
+        "answer": "Ischemic stroke due to arterial occlusion",
+        "select": "",
+        "explain": "Obliterative endarteritis คือการอักเสบของหลอดเลือดแดงที่ทำให้เกิดการอุดตันของหลอดเลือด (Arterial occlusion) ส่งผลให้เกิดภาวะสมองขาดเลือด (Ischemic stroke) ในบริเวณที่หลอดเลือดนั้นไปเลี้ยง",
+        "state": false
+    },
+    {
+        "problem": "55. A patient presents with fever, headache, and loss of vision in the left eye. Imaging shows a ring-enhancing lesion at the sphenoid sinus extending to the orbit. Which organism, associated with a near right-angle branching coenocytic hyphae, is most likely?",
+        "img": "",
+        "choices": "Cryptococcus neoformans///Toxoplasma gondii///Aspergillus spp.///Mucor spp. (Mucormycosis)///Taenia solium",
+        "answer": "Mucor spp. (Mucormycosis)",
+        "select": "",
+        "explain": "การติดเชื้อที่ไซนัสและลุกลามไปยังกระบอกตาและสมองอย่างรวดเร็ว โดยเฉพาะในผู้ที่มีภาวะภูมิคุ้มกันบกพร่อง เช่น เบาหวาน (DKA) เป็นลักษณะของ Mucormycosis ซึ่งมีลักษณะทางจุลพยาธิวิทยาเป็น Coenocytic hyphae ที่แตกแขนงทำมุมเกือบ 90 องศา",
+        "state": false
+    },
+    {
+        "problem": "56. A Subdural Empyema is characterized by which cell type predominance in the inflammatory cell infiltration of the exudate?",
+        "img": "",
+        "choices": "Lymphocyte///Eosinophil///Plasma cell///Polymorphonuclear cell (PMN)///Macrophage",
+        "answer": "Polymorphonuclear cell (PMN)",
+        "select": "",
+        "explain": "Subdural Empyema เป็นภาวะที่มีหนองสะสมในช่อง Subdural space หนองประกอบด้วยเซลล์อักเสบชนิดเฉียบพลัน ซึ่งส่วนใหญ่เป็น Polymorphonuclear cell (PMN)",
+        "state": false
+    },
+    {
+        "problem": "57. A patient presents with sudden neurological symptoms after receiving oral poliovirus vaccine (OPV). What is the most likely pathological event?",
+        "img": "",
+        "choices": "Reactivation of latent virus in dorsal root ganglion///Virus reversion to virulence (VAPP)///Toxin-mediated demyelination of peripheral nerves///Direct invasion of brain parenchyma via CN I///Obliterative endarteritis of spinal arteries",
+        "answer": "Virus reversion to virulence (VAPP)",
+        "select": "",
+        "explain": "ในกรณีที่พบได้น้อย วัคซีนโปลิโอชนิดเชื้อเป็นอ่อนฤทธิ์ (OPV) อาจเกิดการกลายพันธุ์กลับมาเป็นสายพันธุ์ที่ก่อโรค (Reversion to virulence) ทำให้เกิดภาวะอัมพาตคล้ายโปลิโอ (Vaccine-Associated Paralytic Poliomyelitis - VAPP)",
+        "state": false
+    },
+    {
+        "problem": "58. Which type of brain abscess is most strongly associated with hematogenous spread from an infection originating in the Gastrointestinal tract (GI) in an immunocompromised patient?",
+        "img": "",
+        "choices": "Staphylococcus aureus abscess///Streptococcus pneumoniae abscess///Klebsiella pneumoniae abscess///Anaerobes & Polymicrobial abscess///Haemophilus influenzae abscess",
+        "answer": "Klebsiella pneumoniae abscess",
+        "select": "",
+        "explain": "Klebsiella pneumoniae K1 เป็นแบคทีเรียที่มักก่อโรคในผู้ที่มีภูมิคุ้มกันบกพร่องและเป็นเชื้อที่สามารถแพร่กระจายจากระบบทางเดินอาหารไปยังสมองผ่านกระแสเลือดได้",
+        "state": false
+    },
+    {
+        "problem": "59. Which pathogen causes a Chronic Bacterial Meningoencephalitis and typically presents with basal cistern enhancement on brain imaging and hydrocephalus?",
+        "img": "",
+        "choices": "Haemophilus influenzae type B///Streptococcus pneumoniae///Neisseria meningitides///Mycobacterium tuberculosis///Listeria monocytogenes",
+        "answer": "Mycobacterium tuberculosis",
+        "select": "",
+        "explain": "Tuberculous Meningitis เป็นเยื่อหุ้มสมองอักเสบเรื้อรังที่มักมีการอักเสบที่รุนแรงบริเวณฐานสมอง (Basal cistern) ซึ่งนำไปสู่ภาวะ Hydrocephalus",
+        "state": false
+    },
+    {
+        "problem": "60. The pathological process of Cerebral Malaria is primarily driven by:",
+        "img": "",
+        "choices": "Toxin production from schizont stage///Invasion of the cerebral cortex by merozoites///Sequestration of infected erythrocytes in microcirculation///High grade fever and seizure activity///Immunological destruction of the meninges",
+        "answer": "Sequestration of infected erythrocytes in microcirculation",
+        "select": "",
+        "explain": "พยาธิกำเนิดหลักของ Cerebral Malaria คือการที่เม็ดเลือดแดงที่ติดเชื้อ Plasmodium falciparum ไปเกาะติดและอุดตันหลอดเลือดฝอยในสมอง",
+        "state": false
+    },
+    {
+        "problem": "61. CSF findings in Aseptic Meningitis, commonly caused by viruses, are characterized by normal glucose and which WBC type predominance?",
+        "img": "",
+        "choices": "Polymorphonuclear cell (PMN)///Eosinophil///Lymphocyte///Plasma cell///Basophil",
+        "answer": "Lymphocyte",
+        "select": "",
+        "explain": "Aseptic Meningitis มักเกิดจากไวรัส มีเม็ดเลือดขาวใน CSF เพิ่มขึ้นไม่มาก (Pleocytosis) และเป็นชนิด Lymphocyte เป็นส่วนใหญ่",
+        "state": false
+    },
+    {
+        "problem": "62. Which CNS infection is characterized by progressive mental deficit, loss of neurons, and reactive gliosis in the cerebral cortex, often resulting in severe dementia?",
+        "img": "",
+        "choices": "Japanese Encephalitis///Tuberculous Meningitis///Poliomyelitis///Paretic Neurosyphilis///Herpes Simplex Encephalitis",
+        "answer": "Paretic Neurosyphilis",
+        "select": "",
+        "explain": "Paretic Neurosyphilis เป็นรูปแบบหนึ่งของ Neurosyphilis ที่เกิดจากการทำลายเนื้อเยื่อสมองอย่างต่อเนื่อง นำไปสู่ภาวะสมองเสื่อมและมี Reactive gliosis",
+        "state": false
+    },
+    {
+        "problem": "63. A patient presents with a vesicular rash along the distribution of Cranial Nerve VII and VIII, leading to facial palsy and hearing loss. This syndrome is referred to as:",
+        "img": "",
+        "choices": "Herpes Zoster Ophthalmicus (HZO)///Herpes Simplex Encephalitis (HSE)///Ramsay Hunt Syndrome (RHS)///Meningovascular Neurosyphilis///Progressive Multifocal Leukoencephalopathy",
+        "answer": "Ramsay Hunt Syndrome (RHS)",
+        "select": "",
+        "explain": "Ramsay Hunt Syndrome เกิดจากการ Reactivation ของ VZV ที่กระทบต่อ CN VII (Facial nerve) และ CN VIII (Vestibulocochlear nerve) ทำให้เกิดอาการหน้าเบี้ยว หูดับ และมีผื่นตุ่มน้ำตามแนวเส้นประสาท",
+        "state": false
+    },
+    {
+        "problem": "64. What is the critical first-line empirical management for suspected Herpes Simplex Encephalitis (HSE)?",
+        "img": "",
+        "choices": "Intravenous Ceftriaxone and Vancomycin///Intravenous Acyclovir///Oral Sulfamethoxazole and Trimethoprim///Intravenous Amphotericin B///Oral Albendazole and Corticosteroid",
+        "answer": "Intravenous Acyclovir",
+        "select": "",
+        "explain": "Herpes Simplex Encephalitis มีอัตราการเสียชีวิตสูงมากหากไม่ได้รับการรักษา การให้ยาต้านไวรัส Acyclovir ทางหลอดเลือดดำทันทีที่สงสัย จึงเป็นการจัดการที่สำคัญที่สุด",
+        "state": false
+    },
+    {
+        "problem": "65. A patient is found to have meningeal signs. If the physician notes the patient's toes twitching periodically with groaning in response to painful stimuli, which level of consciousness is this most consistent with?",
+        "img": "",
+        "choices": "Coma///Stupor///Lethargy///Obtundation///Awake",
+        "answer": "Stupor",
+        "select": "",
+        "explain": "Stupor เป็นภาวะที่ไม่รู้สึกตัว แต่ยังสามารถตอบสนองต่อสิ่งกระตุ้นที่รุนแรงหรือเจ็บปวดได้บ้าง (Vigorous stimulation) เช่น การส่งเสียงคราง หรือการเคลื่อนไหวที่ไม่ตั้งใจ",
+        "state": false
+    },
+    {
+        "problem": "66. Which parasitic infection can cause intracranial hemorrhage or subarachnoid hemorrhage (ICH/SAH) in addition to Eosinophilic Meningitis?",
+        "img": "",
+        "choices": "Angiostrongyliasis (A. cantonensis)///Neurocysticercosis (C. cellulosae)///Sparganosis (S. mansoni)///Neurognathostomiasis (G. spinigerum)///Cerebral Toxoplasmosis (T. gondii)",
+        "answer": "Neurognathostomiasis (G. spinigerum)",
+        "select": "",
+        "explain": "Neurognathostomiasis เป็นภาวะที่ตัวอ่อนพยาธิตัวจี๊ดไชไปในเนื้อสมอง ทำให้เกิดการบาดเจ็บต่อหลอดเลือดและเนื้อสมองโดยตรง นำไปสู่ภาวะเลือดออกในสมองหรือใต้เยื่อหุ้มสมอง (ICH/SAH) ร่วมกับ Eosinophilic Meningitis",
+        "state": false
+    },
+    {
+        "problem": "67. What is the characteristic pathological finding in a brain biopsy that suggests Progressive Multifocal Leukoencephalopathy (PML)?",
+        "img": "",
+        "choices": "Perivascular lymphocytic cuffs///Enlarged oligodendrocyte nuclei with viral inclusion///Kuru plaque formation///Collagenous fibrous capsule and central necrosis///Necrosis and hemorrhage in the temporal lobe",
+        "answer": "Enlarged oligodendrocyte nuclei with viral inclusion",
+        "select": "",
+        "explain": "PML เป็นโรคที่ทำลาย White Matter ในสมอง พยาธิสภาพที่สำคัญคือเซลล์ Oligodendrocyte มีขนาดใหญ่ขึ้นอย่างมากและมี Viral inclusions อยู่ภายในนิวเคลียส",
+        "state": false
+    },
+    {
+        "problem": "68. Which type of CNS infection is typically diagnosed by identifying the organism's morphology (e.g., encapsulated yeast, branching hyphae) using special stains (e.g., Indian Ink, Grocott Methenamine Silver stain) or culture?",
+        "img": "",
+        "choices": "Bacterial Meningitis///Viral Encephalitis///Fungal Meningitis///Prion Disease///Poliomyelitis",
+        "answer": "Fungal Meningitis",
+        "select": "",
+        "explain": "การวินิจฉัย Fungal Meningitis มักต้องอาศัยการตรวจหาลักษณะทางสัณฐานวิทยาของเชื้อราโดยตรงจาก CSF หรือ Tissue Biopsy ด้วยการย้อมสีพิเศษ เช่น Indian Ink สำหรับ Cryptococcus หรือ GMS สำหรับ Aspergillus และ Mucor",
+        "state": false
+    },
+    {
+        "problem": "69. A patient with a head trauma and subsequent basilar skull fracture develops purulent discharge from the ear (otorrhea) followed by meningitis. Which Gram-positive cocci pathogen is a likely cause in this setting?",
+        "img": "",
+        "choices": "Streptococcus agalactiae (GBS)///Listeria monocytogenes///Neisseria meningitides///Streptococcus pneumoniae///Escherichia coli K1",
+        "answer": "Streptococcus pneumoniae",
+        "select": "",
+        "explain": "การบาดเจ็บที่ศีรษะและมี Basilar Skull Fracture ทำให้มีการติดต่อระหว่างภายนอกกับระบบประสาทส่วนกลาง ทำให้เชื้อที่มาจากโพรงจมูก เช่น Streptococcus pneumoniae สามารถเข้าสู่เยื่อหุ้มสมองได้โดยตรง",
+        "state": false
+    },
+    {
+        "problem": "70. Which CNS infection is one of the common causes of Aseptic Meningitis but is typically diagnosed by CSF PCR for the causative agent and often has a history of a 'track-like lesion' on imaging?",
+        "img": "",
+        "choices": "Neurosyphilis///Neurocysticercosis///Toxoplasma gondii///Sparganosis///Angiostrongyliasis",
+        "answer": "Sparganosis",
+        "select": "",
+        "explain": "Sparganosis เป็นการติดเชื้อพยาธิที่สามารถทำให้เกิด Aseptic Meningitis และมีลักษณะเฉพาะทางภาพถ่ายสมองคือรอยโรคที่เป็นทางยาวคล้ายอุโมงค์ (Migrating sparganum / track-like lesion) ซึ่งการวินิจฉัยยืนยันมักใช้ PCR",
+        "state": false
+    }],
+    "Neoplasm NS by AI": [{
+        "problem": "1. Which primary brain tumor is the most common and malignant glioma in adults, often presenting as a ring-enhancing lesion with central necrosis and a 'butterfly' gross appearance?",
+        "img": "",
+        "choices": "Glioblastoma Multiforme///Pilocytic Astrocytoma///Oligodendroglioma///Anaplastic Ependymoma///Medulloblastoma",
+        "answer": "Glioblastoma Multiforme",
+        "select": "",
+        "explain": "Glioblastoma Multiforme หรือ GBM เป็นเนื้องอกของเซลล์ค้ำจุนประสาท (glioma) ที่พบได้บ่อยที่สุดในผู้ใหญ่ มีระดับความรุนแรงสูงสุด (Grade IV) มักพบที่ cerebral hemisphere และมีลักษณะเด่นทางภาพถ่ายรังสีคือ เป็นก้อนที่มีการเสริมสีเป็นวง (ring enhancing lesion) มีเนื้อตายอยู่ตรงกลาง และสามารถลุกลามข้ามสมองสองซีกได้คล้ายปีกผีเสื้อ (butterfly pattern)",
+        "state": false
+    },
+    {
+        "problem": "2. What is the characteristic histological finding of Glioblastoma Multiforme (GBM) where tumor cell nuclei align in rows around zones of necrosis?",
+        "img": "",
+        "choices": "Perivascular pseudorosette///Homer-Wright rosette///Verocay bodies///Psammoma bodies///Palisading necrosis",
+        "answer": "Palisading necrosis",
+        "select": "",
+        "explain": "ลักษณะทางจุลพยาธิวิทยาที่จำเพาะของ Glioblastoma Multiforme คือการพบเนื้อตาย (necrosis) ซึ่งมีเซลล์เนื้องอกที่มีนิวเคลียสเรียงตัวกันอย่างหนาแน่นรอบๆ บริเวณเนื้อตายนั้น คล้ายกับรั้วหรือไม้ค้ำ (palisading) ซึ่งเรียกว่า Palisading necrosis ร่วมกับการพบหลอดเลือดเพิ่มจำนวนผิดปกติ (endothelial proliferation)",
+        "state": false
+    },
+    {
+        "problem": "3. A benign cerebellar tumor in a child is histologically characterized by elongated, eosinophilic, corkscrew-shaped structures known by what specific name?",
+        "img": "",
+        "choices": "Psammoma bodies///Rosenthal fibers///Lewy bodies///Homer-Wright rosettes///Verocay bodies",
+        "answer": "Rosenthal fibers",
+        "select": "",
+        "explain": "Rosenthal fibers เป็นลักษณะเฉพาะที่พบได้ในเนื้องอกชนิด Pilocytic Astrocytoma (Grade I) ซึ่งเป็นเนื้องอกที่พบบ่อยในเด็ก มีลักษณะเป็นเส้นใย (fiber) สีชมพู (eosinophilic) รูปร่างคล้ายสว่านหรือเกลียว (corkscrew) อยู่ภายในเซลล์ glial ที่มีลักษณะคล้ายเส้นผม (hair-like pattern)",
+        "state": false
+    },
+    {
+        "problem": "4. Which finding is classically associated with the gross appearance of a Pilocytic Astrocytoma?",
+        "img": "",
+        "choices": "Bilateral corpus callosum invasion///Solid tumor with microvascular proliferation///Cyst with a mural nodule///Multiple calcified ring lesions///Diffuse leptomeningeal enhancement",
+        "answer": "Cyst with a mural nodule",
+        "select": "",
+        "explain": "Pilocytic Astrocytoma (Grade I) มักมีลักษณะทางกายวิภาคที่สามารถมองเห็นได้ (Gross) และทางภาพถ่ายรังสีคือ เป็นถุงน้ำขนาดใหญ่ (Cyst) ที่มีก้อนเนื้อขนาดเล็กเกาะอยู่บนผนังถุง (Mural nodule) มักพบในสมองส่วน Cerebellum",
+        "state": false
+    },
+    {
+        "problem": "5. Which histological pattern is characteristic of Oligodendroglioma, featuring uniform, round nuclei surrounded by a clear space (perinuclear halo)?",
+        "img": "",
+        "choices": "Wet keratin appearance///Small round blue cells///Whorled pattern///Fried-egg appearance///Palisading necrosis",
+        "answer": "Fried-egg appearance",
+        "select": "",
+        "explain": "ลักษณะทางจุลพยาธิวิทยาที่เด่นชัดของ Oligodendroglioma คือ Fried-egg appearance ซึ่งเกิดจากเซลล์เนื้องอกมีนิวเคลียสที่กลมและสม่ำเสมอ ล้อมรอบด้วยช่องว่างใสๆ (perinuclear halo) คล้ายไข่ดาว และยังมีความสัมพันธ์กับการมี Calcinoma (Calcification) ในเนื้อเนื้องอก",
+        "state": false
+    },
+    {
+        "problem": "6. Which genetic alteration is a key diagnostic and prognostic feature associated with Oligodendroglioma, often indicating a better response to chemotherapy?",
+        "img": "",
+        "choices": "BRAF V600E mutation///p53 mutation///1p/19q co-deletion///IDH wildtype///NF2 gene mutation",
+        "answer": "1p/19q co-deletion",
+        "select": "",
+        "explain": "Oligodendroglioma (Grade II/III) มีลักษณะทางพันธุกรรมที่จำเพาะคือการขาดหายไปพร้อมกันของส่วนหนึ่งของโครโมโซมคู่ที่ 1 (1p) และ 19 (19q) หรือที่เรียกว่า 1p/19q co-deletion การพบความผิดปกตินี้มักบ่งชี้ว่าเนื้องอกมีการพยากรณ์โรคที่ดีกว่าและตอบสนองต่อการรักษาด้วยเคมีบำบัดได้ดี",
+        "state": false
+    },
+    {
+        "problem": "7. Which CNS tumor, derived from ependymal cells, is histologically identified by structures where tumor cells surround an actual central, clear lumen or vessel?",
+        "img": "",
+        "choices": "True ependymal rosette formation///Perivascular pseudorosette formation///Homer-Wright rosette formation///Flexner-Wintersteiner rosette///True follicular rosette formation",
+        "answer": "True ependymal rosette formation",
+        "select": "",
+        "explain": "Ependymoma เป็นเนื้องอกที่มาจากเซลล์ ependymal Histology จะพบได้ทั้ง True ependymal rosette (ซึ่งเป็นโครงสร้างที่เซลล์เรียงตัวรอบช่องว่างที่มี lumen ตรงกลาง) และ Perivascular pseudorosette (ซึ่งเซลล์เรียงตัวรอบหลอดเลือด)",
+        "state": false
+    },
+    {
+        "problem": "8. A key histological feature of Ependymoma is tumor cells radiating around a central blood vessel, separated by an acellular zone, known as what structure?",
+        "img": "",
+        "choices": "Homer-Wright rosette///True ependymal rosette///Perivascular pseudorosette///Psammoma bodies///Verocay body",
+        "answer": "Perivascular pseudorosette",
+        "select": "",
+        "explain": "Perivascular pseudorosette เป็นลักษณะที่พบได้บ่อยใน Ependymoma โดยมีลักษณะเป็นเซลล์เนื้องอกเรียงตัวเป็นรัศมีรอบๆ หลอดเลือด และมีพื้นที่ว่าง (acellular zone) ระหว่างหลอดเลือดกับเซลล์เนื้องอกที่อยู่ด้านนอก ซึ่งต่างจาก True rosette ที่ล้อมรอบ lumen จริงๆ",
+        "state": false
+    },
+    {
+        "problem": "9. Where is the most common location for Ependymoma in the pediatric population?",
+        "img": "",
+        "choices": "Lateral Ventricle///Third Ventricle///Fourth Ventricle///Cerebellopontine Angle///Spinal Cord",
+        "answer": "Fourth Ventricle",
+        "select": "",
+        "explain": "Ependymoma เป็นเนื้องอกที่พบได้บ่อยในเด็ก โดยตำแหน่งที่พบมากที่สุดคือใน Fourth Ventricle (โพรงสมองที่สี่) ซึ่งมักนำไปสู่ภาวะโพรงสมองคั่งน้ำ (hydrocephalus) และความดันในกะโหลกศีรษะสูง ส่วนในผู้ใหญ่จะพบบ่อยที่ไขสันหลัง",
+        "state": false
+    },
+    {
+        "problem": "10. What is the most common location for Schwannoma in the CNS, often leading to compression of CN VII and CN VIII?",
+        "img": "",
+        "choices": "Cerebellopontine Angle///Foramen Magnum///Suprasellar Region///Basal Ganglia///Pineal Gland",
+        "answer": "Cerebellopontine Angle",
+        "select": "",
+        "explain": "Schwannoma ที่พบในระบบประสาทส่วนกลางมักเกิดขึ้นที่ปลอกประสาทของเส้นประสาทสมองคู่ที่ 8 (Vestibulocochlear nerve) และตำแหน่งที่พบเนื้องอกนี้คือ Cerebellopontine Angle หรือ CPA ซึ่งเป็นบริเวณที่อยู่ระหว่างสมองน้อยและก้านสมอง",
+        "state": false
+    },
+    {
+        "problem": "11. Which histological finding in Schwannoma is characterized by highly cellular, compact areas with nuclear palisading and Verocay bodies?",
+        "img": "",
+        "choices": "Antoni B area///Antoni A area///Meningothelial whorl///Glomeruloid proliferation///Rosenthal fiber",
+        "answer": "Antoni A area",
+        "select": "",
+        "explain": "Schwannoma มีลักษณะทางจุลพยาธิวิทยาที่แบ่งเป็น 2 รูปแบบคือ Antoni A area ซึ่งเป็นบริเวณที่มีเซลล์หนาแน่น (cellular area) มีการเรียงตัวของนิวเคลียสแบบ Palised (nuclear palisading) และมี Verocay body และ Antoni B area ซึ่งเป็นบริเวณที่มีเซลล์หลวมๆ และมีลักษณะเสื่อมสภาพ (degenerative area)",
+        "state": false
+    },
+    {
+        "problem": "12. What are the specific acellular zones in a Schwannoma, formed by the parallel arrangement of the surrounding tumor nuclei?",
+        "img": "",
+        "choices": "Psammoma bodies///Homer-Wright rosettes///Verocay bodies///Neurofibrillary tangles///Rosenthal fibers",
+        "answer": "Verocay bodies",
+        "select": "",
+        "explain": "Verocay bodies เป็นลักษณะที่จำเพาะของ Schwannoma ซึ่งเกิดจากการที่นิวเคลียสของเซลล์เนื้องอกมาเรียงตัวขนานกันเป็นแถว (palisading) และมีพื้นที่ว่างที่ไม่มีนิวเคลียสอยู่ระหว่างกลาง",
+        "state": false
+    },
+    {
+        "problem": "13. What is the characteristic histological finding of Medulloblastoma, typically composed of undifferentiated neural embryonic cells in the cerebellum?",
+        "img": "",
+        "choices": "Whorled pattern///Fried-egg pattern///Small round blue cells///Hair-like glial cells///Palisading necrosis",
+        "answer": "Small round blue cells",
+        "select": "",
+        "explain": "Medulloblastoma เป็นเนื้องอกในสมองที่พบบ่อยในเด็ก มีระดับความรุนแรง Grade IV มักมีต้นกำเนิดจากเซลล์ embryonic ใน cerebellum ลักษณะทางจุลพยาธิวิทยาที่สำคัญคือเป็น Small round blue cell tumor ซึ่งประกอบด้วยเซลล์ขนาดเล็ก นิวเคลียสกลม ติดสีน้ำเงินเข้ม และมีไซโทพลาสซึมบางๆ",
+        "state": false
+    },
+    {
+        "problem": "14. Medulloblastoma is commonly associated with which specific neuroblastic arrangement of cells around a fibrillary center?",
+        "img": "",
+        "choices": "True ependymal rosette///Homer-Wright rosette///Perivascular pseudorosette///Flexner-Wintersteiner rosette///Neuroblastic pseudorosette",
+        "answer": "Homer-Wright rosette",
+        "select": "",
+        "explain": "Homer-Wright rosette เป็นลักษณะที่พบได้ในเนื้องอกชนิด Medulloblastoma โดยมีเซลล์เนื้องอกเรียงตัวกันเป็นวงกลมล้อมรอบส่วนกลางที่มีเส้นใยประสาท (fibrillary center) ซึ่งเป็นลักษณะที่บ่งชี้ถึงการสร้างเซลล์ประสาท (neuroblastic differentiation)",
+        "state": false
+    },
+    {
+        "problem": "15. A malignant brain tumor that is 60% of all childhood brain tumors and commonly presents with hydrocephalus and gait ataxia due to its location is:",
+        "img": "",
+        "choices": "Pilocytic Astrocytoma///Ependymoma///Craniopharyngioma///Medulloblastoma///Glioblastoma Multiforme",
+        "answer": "Medulloblastoma",
+        "select": "",
+        "explain": "Medulloblastoma เป็นเนื้องอกที่ร้ายแรงที่สุดและเป็นเนื้องอกในสมองที่พบมากที่สุดในเด็ก (60% ของเนื้องอกในเด็ก) ตำแหน่งของมันคือ Cerebellum ซึ่งทำให้เกิดอาการเดินเซ (gait ataxia) และการอุดตันของ Fourth Ventricle ทำให้เกิด Hydrocephalus",
+        "state": false
+    },
+    {
+        "problem": "16. Which tumor originates from meningothelial cells of the arachnoid mater?",
+        "img": "",
+        "choices": "Oligodendroglioma///Schwannoma///Ependymoma///Meningioma///Pilocytic Astrocytoma",
+        "answer": "Meningioma",
+        "select": "",
+        "explain": "Meningioma เป็นเนื้องอกที่เจริญมาจากเซลล์เยื่อหุ้มสมองชั้น Arachnoid mater (meningothelial cells) โดยมักเกาะติดอยู่กับเยื่อหุ้มสมองชั้น Dura mater มักพบในบริเวณ Parasagittal sinus",
+        "state": false
+    },
+    {
+        "problem": "17. What specific calcified structure is a characteristic histological feature of Meningioma?",
+        "img": "",
+        "choices": "Rosenthal fiber///Psammoma bodies///Verocay bodies///Molding nuclei///Kuru plaques",
+        "answer": "Psammoma bodies",
+        "select": "",
+        "explain": "Psammoma bodies เป็นลักษณะทางจุลพยาธิวิทยาที่สำคัญใน Meningioma ซึ่งมีลักษณะเป็นก้อนกลมมีการสะสมของแคลเซียมเป็นชั้นๆ (laminated calcifications) ที่พบในบริเวณที่เซลล์เนื้องอกมีการเรียงตัวแบบก้นหอย (whorled pattern)",
+        "state": false
+    },
+    {
+        "problem": "18. Which CNS tumor is histologically characterized by a 'whorled pattern' of cellular arrangement?",
+        "img": "",
+        "choices": "Glioblastoma///Oligodendroglioma///Meningioma///Medulloblastoma///Ependymoma",
+        "answer": "Meningioma",
+        "select": "",
+        "explain": "Meningioma มีลักษณะเด่นทางจุลพยาธิวิทยาคือการเรียงตัวของเซลล์เป็นวงซ้อนกันหลายชั้นคล้ายก้นหอย (whorled pattern) ซึ่งเป็นผลมาจากการจัดเรียงตัวของเซลล์ meningothelial cells",
+        "state": false
+    },
+    {
+        "problem": "19. A suprasellar tumor is grossly described as a cyst containing thick, yellow-brown fluid resembling 'machinery oil' or 'crankcase oil'. What is the most likely tumor type?",
+        "img": "",
+        "choices": "Pituitary Adenoma///Pineal Germinoma///Craniopharyngioma///Glioblastoma///Choroid Plexus Papilloma",
+        "answer": "Craniopharyngioma",
+        "select": "",
+        "explain": "Craniopharyngioma เป็นเนื้องอกที่มักพบในบริเวณ suprasellar มีลักษณะเป็นถุงน้ำ (cyst) ซึ่งมีของเหลวสีเหลืองข้นคล้ายน้ำมันเครื่อง (machinery oil) เนื่องจากมีผลึกคอเลสเตอรอลอยู่มาก เป็นลักษณะเฉพาะของเนื้องอกชนิดนี้",
+        "state": false
+    },
+    {
+        "problem": "20. The histological finding of 'peripheral palisading basaloid cells' and 'wet keratin' is characteristic of which sellar or suprasellar tumor?",
+        "img": "",
+        "choices": "Pituitary Adenoma///Germinoma///Meningioma///Craniopharyngioma///Pineal Parenchymal Tumor",
+        "answer": "Craniopharyngioma",
+        "select": "",
+        "explain": "Histopathology ของ Craniopharyngioma มีลักษณะเป็นเยื่อบุผิวที่มีเซลล์เรียงตัวเป็นแถวคล้ายรั้ว (palisading basaloid cells) อยู่ที่ขอบของกลุ่มเซลล์ และมี Wet keratin (ลักษณะของเซลล์ squamous ที่มีการสะสมของเคราติน) อยู่ภายในก้อนเนื้องอก",
+        "state": false
+    },
+    {
+        "problem": "21. Which common CNS tumor is derived from neoplastic proliferation of the ependymal lining cells?",
+        "img": "",
+        "choices": "Schwannoma///Meningioma///Ependymoma///Oligodendroglioma///Pilocytic Astrocytoma",
+        "answer": "Ependymoma",
+        "select": "",
+        "explain": "Ependymoma เป็นเนื้องอกที่เกิดจากเซลล์ ependymal cells ซึ่งเป็นเซลล์ที่บุผนังของโพรงสมอง (ventricles) และ central canal ของไขสันหลัง",
+        "state": false
+    },
+    {
+        "problem": "22. The most common primary site for metastatic brain tumors is:",
+        "img": "",
+        "choices": "Colorectal Cancer///Breast Cancer///Kidney Cancer///Lung Cancer///Malignant Melanoma",
+        "answer": "Lung Cancer",
+        "select": "",
+        "explain": "มะเร็งปอด (Lung Cancer) โดยเฉพาะชนิด Adenocarcinoma เป็นมะเร็งปฐมภูมิที่พบบ่อยที่สุดที่แพร่กระจาย (metastasis) ไปยังสมอง",
+        "state": false
+    },
+    {
+        "problem": "23. Which CNS tumor is characterized by an intrinsic genetic abnormality involving the KIAA1549-BRAF fusion gene?",
+        "img": "",
+        "choices": "Glioblastoma Multiforme///Pilocytic Astrocytoma///Medulloblastoma///Anaplastic Oligodendroglioma///Acoustic Schwannoma",
+        "answer": "Pilocytic Astrocytoma",
+        "select": "",
+        "explain": "Pilocytic Astrocytoma มีลักษณะทางพันธุกรรมที่จำเพาะคือการกลายพันธุ์ของยีน BRAF ซึ่งพบบ่อยที่สุดคือ KIAA1549-BRAF fusion gene ซึ่งการกลายพันธุ์นี้มักเป็นปัจจัยที่บ่งชี้ว่าเนื้องอกมีการพยากรณ์โรคที่ดี",
+        "state": false
+    },
+    {
+        "problem": "24. A malignant brain tumor of undifferentiated neural embryonic cell origin, primarily located in the cerebellum of children, is most likely classified as WHO Grade:",
+        "img": "",
+        "choices": "Grade I///Grade II///Grade III///Grade IV///Grade V",
+        "answer": "Grade IV",
+        "select": "",
+        "explain": "Medulloblastoma เป็นเนื้องอกในสมองที่ร้ายแรง มีต้นกำเนิดจากเซลล์ประสาทตัวอ่อนใน cerebellum และถูกจัดอยู่ในระดับความรุนแรงสูงสุดคือ WHO Grade IV",
+        "state": false
+    },
+    {
+        "problem": "25. Which CNS tumor has a relatively good prognosis (survival typically > 10 years) and is strongly associated with 1p/19q co-deletion?",
+        "img": "",
+        "choices": "Glioblastoma Multiforme///Pilocytic Astrocytoma///Oligodendroglioma///Anaplastic Ependymoma///Pineal Parenchymal Tumor",
+        "answer": "Oligodendroglioma",
+        "select": "",
+        "explain": "Oligodendroglioma (Grade II) แม้จะเป็นมะเร็ง แต่มีพยากรณ์โรคที่ดีที่สุดในบรรดา gliomas มักอยู่รอดได้นานกว่า 10 ปี และมีความสัมพันธ์อย่างยิ่งกับ 1p/19q co-deletion",
+        "state": false
+    },
+    {
+        "problem": "26. Which type of primary brain tumor is the most common to be seen as multiple lesions at the time of diagnosis?",
+        "img": "",
+        "choices": "Glioblastoma Multiforme///Pilocytic Astrocytoma///Oligodendroglioma///Ependymoma///Metastatic Brain Tumor",
+        "answer": "Metastatic Brain Tumor",
+        "select": "",
+        "explain": "เมื่อพบเนื้องอกในสมองที่มีหลายก้อน (multiple lesions) มะเร็งที่แพร่กระจายมาจากที่อื่น (Metastatic Brain Tumor) เป็นสาเหตุที่พบบ่อยที่สุดที่ต้องนึกถึง",
+        "state": false
+    },
+    {
+        "problem": "27. In a primary brain tumor arising from the arachnoid mater, what is the most common location in the brain?",
+        "img": "",
+        "choices": "Internal Capsule///Thalamus///Cerebellar Vermis///Parasagittal Sinus Region///Periventricular White Matter",
+        "answer": "Parasagittal Sinus Region",
+        "select": "",
+        "explain": "Meningioma เป็นเนื้องอกที่มาจากเซลล์ของ Arachnoid mater และมักจะเกาะติดกับ Dura mater ตำแหน่งที่พบบ่อยที่สุดคือบริเวณเยื่อหุ้มสมองที่อยู่ใกล้กับ Superior Sagittal Sinus (Parasagittal Sinus Region)",
+        "state": false
+    },
+    {
+        "problem": "28. Which CNS tumor type is often associated with the complication of cranial nerve VII (Facial) and CN VIII (Vestibulocochlear) compression?",
+        "img": "",
+        "choices": "Glioblastoma///Meningioma///Medulloblastoma///Schwannoma///Ependymoma",
+        "answer": "Schwannoma",
+        "select": "",
+        "explain": "Schwannoma ที่ Cerebellopontine Angle (CPA) มีต้นกำเนิดจาก CN VIII เมื่อเนื้องอกโตขึ้นก็จะไปกดเบียด CN VIII ทำให้สูญเสียการได้ยิน และกดเบียด CN VII (Facial nerve) ที่วิ่งอยู่ข้างๆ ทำให้เกิดอัมพาตใบหน้า",
+        "state": false
+    },
+    {
+        "problem": "29. Which tumor is found in the suprasellar region and characteristically shows intranuclear inclusions in the meningothelial cells on histology?",
+        "img": "",
+        "choices": "Pituitary Adenoma///Craniopharyngioma///Germinoma///Meningioma///Pineal Parenchymal Tumor",
+        "answer": "Meningioma",
+        "select": "",
+        "explain": "Meningioma ที่พบในบริเวณ Suprasellar Region อาจทำให้เข้าใจผิดได้ แต่ลักษณะทางจุลพยาธิวิทยาที่จำเพาะของ Meningioma คือการพบ intranuclear inclusions (ก้อนที่อยู่ภายในนิวเคลียส) ในเซลล์ meningothelial cells ร่วมกับ whorled pattern",
+        "state": false
+    },
+    {
+        "problem": "30. A CNS tumor with a characteristic imaging finding of a 'ring-enhancing lesion with central necrosis' in the cerebral hemisphere of an elderly patient has a highly aggressive behavior and a prognosis of less than 1 year, corresponding to which WHO grade?",
+        "img": "",
+        "choices": "Grade I///Grade II///Grade III///Grade IV///Grade V",
+        "answer": "Grade IV",
+        "select": "",
+        "explain": "คำอธิบายนี้เป็นลักษณะของ Glioblastoma Multiforme (GBM) ซึ่งเป็นเนื้องอกที่มีความร้ายแรงและมีความก้าวร้าวสูงสุด (Highly aggressive) ในระบบประสาทส่วนกลาง จึงถูกจัดให้อยู่ใน WHO Classification of Tumours of the Central Nervous System ระดับ Grade IV",
+        "state": false
+    }]
 };
