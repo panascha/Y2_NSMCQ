@@ -915,12 +915,11 @@
                     </select>
 
                     <!-- Option 2: Suggest new -->
-                    <p class="small-text" style="margin-bottom: 5px; margin-top: 15px; font-weight: 700; color: #333;">
-                        2. หรือ
-                        เสนอคำตอบใหม่:</p>
-                    <textarea id="report-new-choice-textarea" placeholder="พิมพ์คำตอบที่ถูกต้องใหม่ทั้งหมด (ถ้าไม่มีในตัวเลือกเดิม)"
-                        style="width: 100%; min-height: 40px; padding: 0.75rem; border-radius: 5px; border: 1px solid #ced4da; font-size: 1.2rem;">
-                    </textarea>
+                    <p class="small-text" style="margin-bottom: 5px; font-weight: 700; color: #333;">2. หรือ
+                        พิมพ์คำตอบใหม่
+                        (ถ้าไม่มีในตัวเลือกเดิม):</p>
+                    <input type="text" id="report-new-choice-input" placeholder="พิมพ์คำตอบที่ถูกต้องใหม่"
+                        style="width: 100%; padding: 0.75rem; border-radius: 5px; border: 1px solid #ced4da; font-size: 1rem; box-sizing: border-box;">
                 </div>
 
                 <!-- Section 3: Reason/Explanation (Primary Tinge) -->
@@ -6618,12 +6617,12 @@
                         "state": false
                     },
                     {
-                        "problem": "11. What is the structure pointed by the red arrow (E)?",
+                        "problem": "11. What is the structure pointed by the red arrow (D)?",
                         "img": "https://drive.google.com/open?id=1nxvPxmNZ6NgRxKrafF0VPJExJ5qmnkcr&usp=drive_copy",
                         "choices": "4th ventricle///3rd ventricle///Suprasellar cistern///Quadrigeminal Cistern///Ambient cistern",
                         "answer": "Suprasellar cistern",
                         "select": "",
-                        "explain": "ลูกศร E ชี้ไปยังช่องว่างที่เต็มไปด้วยน้ำไขสันหลัง (CSF) ซึ่งอยู่บริเวณเหนือต่อ sella turcica และอยู่ระหว่าง temporal lobes บริเวณนี้เรียกว่า Suprasellar cistern หรือ pentagon of CSF ซึ่งเป็นที่อยู่ของโครงสร้างสำคัญ เช่น optic chiasm และ circle of Willis",
+                        "explain": "ลูกศร D ชี้ไปยังช่องว่างที่เต็มไปด้วยน้ำไขสันหลัง (CSF) ซึ่งอยู่บริเวณเหนือ sella turcica และอยู่ระหว่าง temporal lobes บริเวณนี้เรียกว่า Suprasellar cistern หรือ pentagon of CSF ซึ่งเป็นที่อยู่ของโครงสร้างสำคัญ เช่น optic chiasm และ circle of Willis มีลักษณะเป็นพื้นที่สีดำ (hypodense) ในภาพ CT scan เนื่องจากมีน้ำไขสันหลังอยู่ภายใน",
                         "state": false
                     },
                     {
@@ -13025,8 +13024,8 @@
                     {
                         "problem": "3. Which neuroglial cell type in the central nervous system is responsible for forming the myelin sheath around multiple axons, allowing for rapid nerve impulse conduction?",
                         "img": "",
-                        "choices": "Astrocyte, essential for forming the blood-brain barrier and regulating the synaptic environment///Microglia, which act as the resident macrophages and immune surveillance cells///Ependymal cell, which lines the ventricles and contributes to choroid plexus function///Oligodendrocyte, which is structurally responsible for CNS myelination///Schwann cell, responsible for peripheral nervous system myelination",
-                        "answer": "Oligodendrocyte, which is structurally responsible for CNS myelination",
+                        "choices": "Astrocyte///Microglia///Ependymal cell///Oligodendrocyte///Schwann cell",
+                        "answer": "Oligodendrocyte",
                         "select": "",
                         "explain": "Oligodendrocyte เป็นเซลล์ Neuroglia ที่มีหน้าที่สร้างปลอก Myelin ให้กับ Axon ในระบบประสาทส่วนกลาง (CNS) โดย Oligodendrocyte หนึ่งเซลล์สามารถสร้างปลอก Myelin ให้กับ Axon ได้หลายเส้น",
                         "state": false
@@ -13061,8 +13060,8 @@
                     {
                         "problem": "7. A patient is unable to voluntarily turn their eyes horizontally towards a specific visual target. This deficit is most directly associated with a lesion in which Brodmann area?",
                         "img": "",
-                        "choices": "Brodmann area 4 (Primary motor cortex)///Brodmann area 6 (Supplementary motor cortex)///Brodmann area 8 (Frontal eye field)///Brodmann area 44 (Broca speech area)///Brodmann area 41, 42 (Primary auditory area)",
-                        "answer": "Brodmann area 8 (Frontal eye field)",
+                        "choices": "Brodmann area 4///Brodmann area 6///Brodmann area 8///Brodmann area 44///Brodmann area 41, 42",
+                        "answer": "Brodmann area 8",
                         "select": "",
                         "explain": "Brodmann area 8 (BA 8) หรือ Frontal eye field มีหน้าที่สำคัญในการควบคุมการเคลื่อนไหวของลูกตาแบบสมัครใจ (Voluntary eye movements) โดยเฉพาะการกลอกตาไปด้านตรงข้าม การเกิดรอยโรคในบริเวณนี้จะทำให้ผู้ป่วยไม่สามารถกลอกตาไปทางด้านตรงข้ามได้อย่างอิสระ",
                         "state": false
@@ -13070,8 +13069,8 @@
                     {
                         "problem": "8. A patient can fluently describe an object but cannot visually recognize its function or name it. This condition (Visual Agnosia) indicates a lesion in the pathway primarily responsible for which function?",
                         "img": "",
-                        "choices": "Spatial location and visually guided action (Dorsal pathway)///Object, form, and face recognition (Ventral pathway)///Processing of primary somatosensory information (BA 3, 2, 1)///Coordinating non-verbal emotional responses (Limbic system)///Planning of sequential motor movements (Supplementary motor area)",
-                        "answer": "Object, form, and face recognition (Ventral pathway)",
+                        "choices": "Dorsal pathway///Ventral pathway///BA 3, 2, 1///Limbic system///Supplementary motor area",
+                        "answer": "Ventral pathway",
                         "select": "",
                         "explain": "Visual Agnosia คือภาวะที่ไม่สามารถจดจำหรือระบุวัตถุได้จากการมองเห็น แม้ว่าการมองเห็นโดยพื้นฐานยังปกติ ซึ่งเกิดจากความเสียหายใน Ventral pathway (What pathway) ซึ่งทำหน้าที่ประมวลผล Object, form, color, และ face recognition (Occipital lobe ไป Temporal lobe)",
                         "state": false
@@ -13122,10 +13121,10 @@
                         "state": false
                     },
                     {
-                        "problem": "14. A 40-year-old patient presents with a progressive inability to understand spoken language (Wernicke's aphasia). Based on the anatomical localization of the lesion, which Brodmann area is likely involved?",
+                        "problem": "14. A 40-year-old patient presents with a progressive inability to understand spoken language. Based on the anatomical localization of the lesion, which Brodmann area is likely involved?",
                         "img": "",
-                        "choices": "Brodmann area 44 (Broca area)///Brodmann area 45 (Broca area)///Brodmann area 17 (Primary visual cortex)///Brodmann area 22 (Wernicke speech area)///Brodmann area 41, 42 (Primary auditory area)",
-                        "answer": "Brodmann area 22 (Wernicke speech area)",
+                        "choices": "Brodmann area 44///Brodmann area 45///Brodmann area 17///Brodmann area 22///Brodmann area 41, 42",
+                        "answer": "Brodmann area 22",
                         "select": "",
                         "explain": "Wernicke's aphasia เป็นภาวะเสียความสามารถในการเข้าใจภาษา (Speech comprehension) โดยเกิดจากรอยโรคที่ Wernicke speech area ซึ่งอยู่ใน Brodmann area 22 ของ Superior temporal gyrus",
                         "state": false
@@ -13253,7 +13252,7 @@
                         "choices": "Genu (Knee)///Rostrum (Beak)///Body (Trunk)///Splenium (Bandage)///Anterior commissure",
                         "answer": "Splenium (Bandage)",
                         "select": "",
-                        "explain": "Corpus callosum เป็น Commissural fiber ที่ใหญ่ที่สุด Splenium เป็นส่วนท้ายสุดของ Corpus callosum มีหน้าที่ในการเชื่อมต่อ Occipital lobe และ Parietal lobe ส่วนหลังเข้าด้วยกัน ซึ่งมีบทบาทสำคัญในการบูรณาการข้อมูลการมองเห็น",
+                        "explain": "Corpus Callosum แบ่งออกเป็น 4 ส่วนหลัก ได้แก่ Rostrum, Genu, Body, และ Splenium โดย Splenium เป็นส่วนที่อยู่ด้านหลังสุด มีหน้าที่เชื่อมต่อระหว่าง Parietal lobes และ Occipital lobes ของสมองทั้งสองข้าง",
                         "state": false
                     },
                     {
@@ -13324,10 +13323,10 @@
                     {
                         "problem": "6. Damage to the most medial part of the Primary Motor Cortex (BA 4) would result in the most severe weakness in which part of the body, according to the motor homunculus?",
                         "img": "",
-                        "choices": "Pharynx and Larynx for vocalization///Trunk and proximal upper limb///Contralateral lower limb and foot///Ipsilateral hand and fingers for fine control///Face and tongue muscles for swallowing",
+                        "choices": "Contralateral Facial expression///Contralateral lower limb and foot///Contralateral hand and fingers for fine control///Ipsilateral Facial expression///Ipsilateral lower limb and foot",
                         "answer": "Contralateral lower limb and foot",
                         "select": "",
-                        "explain": "ตามแผนที่ Motor homunculus ส่วนที่ควบคุมขาและเท้าจะอยู่ในบริเวณส่วนหน้าของ Paracentral lobule ซึ่งเป็นส่วนที่อยู่ด้านในสุด Medial surface ของ Primary motor cortex",
+                        "explain": "ตาม motor homunculus บริเวณที่อยู่ตรงกลาง (medial) ของ Primary motor cortex (BA 4) จะควบคุมการเคลื่อนไหวของขาและเท้าด้านตรงข้าม Contralateral lower limb and foot ดังนั้นรอยโรคที่ medial part ของ BA 4 จะทำให้เกิดอาการอ่อนแรงที่ขาและเท้าด้านตรงข้าม",
                         "state": false
                     },
                     {
@@ -13351,10 +13350,10 @@
                     {
                         "problem": "9. A patient is unable to perform complex movements and sequences, such as tying a shoelace, despite normal muscle strength and sensation. The lesion is most likely in which motor region?",
                         "img": "",
-                        "choices": "Primary motor cortex (M1)///Supplementary motor cortex (SMC)///Postcentral gyrus (S1)///Caudate nucleus of the basal ganglia///Lateral vestibulospinal tract",
+                        "choices": "Primary motor cortex (M1)///Supplementary motor cortex (SMC)///Premotor cortex///Caudate nucleus of the basal ganglia///Red nucleus of the midbrain",
                         "answer": "Supplementary motor cortex (SMC)",
                         "select": "",
-                        "explain": "Supplementary motor cortex SMC มีหน้าที่หลักในการวางแผน รูปแบบ และลำดับของการเคลื่อนไหวที่ซับซ้อน เช่น การประสานงานแบบ Bilateral Coordination หากส่วนนี้เสียหาย ผู้ป่วยจะไม่สามารถวางแผนและทำกิจกรรมที่ต้องใช้ลำดับการเคลื่อนไหวที่ซับซ้อนได้",
+                        "explain": "Supplementary motor cortex SMC มีหน้าที่หลักในการวางแผน รูปแบบ และลำดับของการเคลื่อนไหวที่ซับซ้อน เช่น การประสานงานแบบ Bilateral Coordination หากส่วนนี้เสียหาย ผู้ป่วยจะไม่สามารถวางแผนและทำกิจกรรมที่ต้องใช้ลำดับการเคลื่อนไหวที่ซับซ้อนได้ ส่วน Premotor cortex จะเกี่ยวข้องกับการเตรียมตัวและการตอบสนองต่อสิ่งเร้าภายนอก",
                         "state": false
                     },
                     {
@@ -13477,8 +13476,8 @@
                     {
                         "problem": "23. A patient demonstrates difficulty in smoothly performing rapid alternating movements (dysdiadochokinesia) and consistently overshoots targets when reaching (dysmetria). These signs suggest a lesion in which functional zone of the cerebellum?",
                         "img": "",
-                        "choices": "Vermal zone (Truncal control)///Flocculonodular zone (Balance)///Lateral hemisphere (Coordination)///Inferior olivary nucleus (ION)///Vestibular nuclei",
-                        "answer": "Lateral hemisphere (Coordination)",
+                        "choices": "Vermal zone///Flocculonodular zone///Lateral hemisphere///Inferior olivary nucleus (ION)///Vestibular nuclei (VN)",
+                        "answer": "Lateral hemisphere",
                         "select": "",
                         "explain": "Dysdiadochokinesia และ Dysmetria เป็นอาการของ Appendicular ataxia ซึ่งเป็นความผิดปกติของการประสานงานของแขนขา Limb coordination ซึ่งควบคุมโดย Lateral hemisphere Cerebrocerebellum",
                         "state": false
@@ -13486,10 +13485,10 @@
                     {
                         "problem": "24. The main efferent output from the cerebellum to the cerebral cortex is mediated by the Dentatothalamic tract. This tract projects to which thalamic nucleus before reaching the motor cortex?",
                         "img": "",
-                        "choices": "Ventral Posterolateral nucleus VPL///Ventral Posteromedial nucleus VPM///Lateral Geniculate Body LGB///Ventral Lateral nucleus VL///Anterior nucleus",
-                        "answer": "Ventral Lateral nucleus VL",
+                        "choices": "Ventral Posterolateral nucleus (VPL)///Ventral Posteromedial nucleus (VPM)///Anterior nucleus (A)///Ventral Lateral nucleus (VL)///Ventral Anterior nucleus (VA)",
+                        "answer": "Ventral Lateral nucleus (VL)",
                         "select": "",
-                        "explain": "สัญญาณ Efferent Output จาก Cerebellum จะออกจาก Dentate nucleus และเดินทางไป synapse ที่ Ventral Lateral nucleus VL ของ Thalamus ซึ่งเป็น Motor relay center ก่อนจะส่งสัญญาณต่อไปยัง Motor cortex BA4",
+                        "explain": "สัญญาณ Efferent Output จาก Cerebellum จะออกจาก Dentate nucleus และเดินทางไป synapse ที่ Ventral Lateral nucleus VL ของ Thalamus ซึ่งเป็น Motor relay center ก่อนจะส่งสัญญาณต่อไปยัง Motor cortex BA4 ส่วน VA จะรับสัญญาณจาก Basal Ganglia",
                         "state": false
                     },
                     {
@@ -13612,7 +13611,7 @@
                     {
                         "problem": "38. Dopamine released by the SNc affects the indirect pathway via which receptor to suppress the unwanted movement suppression and favor movement?",
                         "img": "",
-                        "choices": "Alpha-1 adrenergic receptor (Inhibitory)///Dopamine D1 receptor (Excitatory)///Dopamine D2 receptor (Inhibitory)///GABA-B receptor (Excitatory)///NMDA receptor (Excitatory)",
+                        "choices": "Dopamine D2 receptor (Excitatory)///Dopamine D1 receptor (Excitatory)///Dopamine D2 receptor (Inhibitory)///GABA-B receptor (Excitatory)///Dopamine D1 receptor (Inhibitory)",
                         "answer": "Dopamine D2 receptor (Inhibitory)",
                         "select": "",
                         "explain": "Dopamine ที่หลั่งจาก SNc จะกระตุ้น Indirect pathway ผ่าน Dopamine D2 receptor ซึ่งมีผล Inhibitory ต่อ Striatum ทำให้ Indirect pathway ถูกยับยั้งและส่งผลให้เกิดการส่งเสริมการเคลื่อนไหว",
@@ -13740,8 +13739,8 @@
                     {
                         "problem": "The primary afferent input structure of the Basal Ganglia, which receives excitatory signals from almost all areas of the cerebral cortex, is the:",
                         "img": "",
-                        "choices": "Globus pallidus internus (GPi)///Substantia nigra pars reticulata (SNr)///Subthalamic nucleus (STN)///Striatum (Caudate and Putamen)///Red nucleus",
-                        "answer": "Striatum (Caudate and Putamen)",
+                        "choices": "Globus pallidus internus and Striatum///Substantia nigra pars reticulata and Globus pallidus internus///Subthalamic nucleus and Globus pallidus externus///Caudate and Putamen///Globus pallidus externus and Globus pallidus internus",
+                        "answer": "Caudate and Putamen",
                         "select": "",
                         "explain": "Striatum (Caudate nucleus และ Putamen) เป็นส่วนรับสัญญาณเข้า (Input) หลักของ Basal Ganglia โดยรับสัญญาณกระตุ้น (Excitatory input) จาก Motor cortex และ Cortical areas อื่นๆ เกือบทั้งหมด"
                     },
@@ -17988,7 +17987,7 @@
             const $reportQuestionText = $('#report-question-text');
             const $reportChoicesList = $('#report-choices-list');
             const $reportCorrectChoiceSelect = $('#report-correct-choice-select');
-            const $reportNewChoiceTextarea = $('#report-new-choice-textarea');
+            const $reportNewChoiceInput = $('#report-new-choice-input');
             const $toggleRandomBtn = $('#toggle-random-btn');
             const $showAllAnswersBtn = $('#show-all-answers-btn');
             const $submitBtn = $('#submit-btn');
@@ -18845,7 +18844,7 @@
                 }
 
                 $reportText.val('');
-                $reportNewChoiceTextarea.val('');
+                $reportNewChoiceInput.val('');
                 $reportCorrectChoiceSelect.empty(); // Clear previous options
 
                 // 1. Populate Question Details
@@ -18855,11 +18854,11 @@
                 // 2. Populate Choices List and Select/Dropdown
                 const choicesArray = (current_question.choices || "").split("///").map(s => s.trim()).filter(Boolean);
                 let choicesHtml = choicesArray.map((choice, index) =>
-                    `<p style="margin: 3px 0; font-weight: 500;">${index + 1}. ${choice}</p>`
+                    `<p style="margin: 3px 0; font-weight: 500;">${String.fromCharCode(65 + index)}. ${choice}</p>` // ปรับการแสดงผลให้เป็น A. B. C.
                 ).join('');
                 $reportChoicesList.html(choicesHtml || '<p style="margin: 3px 0; font-weight: 500;">ไม่มีตัวเลือก</p>');
 
-                let selectOptions = '<option value="">-- เลือกข้อที่ถูกต้องจากตัวเลือกที่มีอยู่ --</option>';
+                let selectOptions = '<option value="newanswer"> คำตอบใหม่ (ถ้าไม่มีในตัวเลือกเดิม) </option>';
                 choicesArray.forEach(choice => {
                     const isCurrentAnswer = choice === current_question.answer;
                     selectOptions += `<option value="${choice}" ${isCurrentAnswer ? 'selected' : ''}>${choice} ${isCurrentAnswer ? ' (เฉลยปัจจุบัน)' : ''}</option>`;
@@ -18874,7 +18873,12 @@
                 const reportTextValue = $reportText.val();
 
                 // Get suggested choice: value from dropdown or new text
-                const suggestedChoice = $reportCorrectChoiceSelect.val() || $reportNewChoiceTextarea.val().trim();
+                if ($reportCorrectChoiceSelect.val() === 'newanswer' && !$reportNewChoiceInput.val().trim()) {
+                    alert("กรุณาพิมพ์คำตอบที่ถูกต้องใหม่ในช่องด้านล่าง");
+                    $reportNewChoiceInput.focus();
+                    return;
+                }
+                const suggestedChoice = $reportCorrectChoiceSelect.val() === 'newanswer' ? $reportNewChoiceInput.val().trim() : $reportCorrectChoiceSelect.val();
 
                 // Get all choices in one formatted string
                 const allChoices = (current_question.choices || "").split("///").map((s, i) => {
