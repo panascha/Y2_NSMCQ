@@ -538,20 +538,67 @@
     }
 
     .modal-section {
-        width: 100%;
         padding: 1rem;
         margin-bottom: 1rem;
-        border: 1px solid #e0e0e0;
         border-radius: var(--border-radius);
-        text-align: center;
-        background-color: #fafafa;
+        width: 100%;
+        box-sizing: border-box;
+        /* สำคัญสำหรับ Padding/Border */
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+        /* เพิ่มเงาเล็กน้อย */
     }
 
-    .modal-section h6 {
-        font-size: 1.4rem;
-        font-weight: 700;
+    /* Specific styling for Question Details Section */
+    #report-question-details {
+        background-color: #fef4f4;
+        /* สีแดงอ่อนมาก */
+        border: 1px solid var(--color-wrong);
+    }
+
+    #report-question-details h6 {
+        color: var(--color-wrong);
+        font-size: 1.3rem;
         margin-top: 0;
         margin-bottom: 0.5rem;
+        border-bottom: 2px solid var(--color-wrong);
+        /* เพิ่มขีดเส้นใต้ */
+        padding-bottom: 5px;
+    }
+
+    #report-question-text {
+        font-size: 1.15rem !important;
+        /* ปรับขนาดข้อความโจทย์ */
+        line-height: 1.5;
+        text-align: left;
+        color: var(--color-dark);
+    }
+
+    #report-choices-list {
+        margin-top: 10px;
+        padding-left: 0;
+        list-style: none;
+        /* เอา bullet ออก */
+        font-size: 5rem;
+        line-height: 1.6;
+    }
+
+    #report-choices-list p {
+        margin: 5px 0;
+        padding: 3px 5px;
+        border-left: 3px solid #ccc;
+        transition: background-color 0.1s;
+    }
+
+    .modal-section:nth-of-type(2) {
+        /* Targeting the suggestion section */
+        background-color: #f0fff0;
+        /* สีเขียวอ่อนมาก */
+        border: 1px solid var(--color-correct);
+    }
+
+    .modal-section:nth-of-type(2) h6 {
+        color: var(--color-correct);
+        font-size: 1.3rem;
     }
 
     #modal-import-code {
@@ -565,12 +612,35 @@
         margin-bottom: 1rem;
     }
 
+    /* Dropdown and Textarea for Suggestion */
+    #report-correct-choice-select,
+    #report-new-choice-textarea {
+        width: 100%;
+        padding: 10px;
+        border-radius: var(--border-radius);
+        border: 1px solid #ced4da;
+        font-family: var(--font-primary);
+        font-size: 1rem;
+        box-sizing: border-box;
+        transition: border-color 0.2s;
+    }
+
+    #report-correct-choice-select:focus,
+    #report-new-choice-textarea:focus {
+        border-color: var(--color-primary);
+        outline: none;
+    }
+
+    /* Specific styling for Reason Textarea */
     #report_text {
+        min-height: 100px !important;
         width: 100%;
         padding: 0.75rem;
-        border-radius: 5px;
-        border: 1px solid #ccc;
+        border-radius: var(--border-radius);
+        border: 1px solid #ced4da;
+        font-family: var(--font-primary);
         font-size: 1rem;
+        box-sizing: border-box;
     }
 
     #modal-import-file-label {
@@ -806,10 +876,58 @@
         <!-- Report Modal Card -->
         <div id="report-card" class="modal-card">
             <div class="modal-body">
-                <h5 class="modal-title">Report [Send to Google Sheet]</h5>
-                <input type="text" id="report_text" placeholder="Enter your report">
+                <h5 class="modal-title" style="color: var(--color-wrong);">แจ้งปัญหาและเสนอแนวทางแก้ไข</h5>
+                
+                <!-- Section 1: Question Being Reported (Red/Error Tinge) -->
+                <div id="report-question-details" class="modal-section"
+                    style="text-align: left; background-color: #fff3f3; border: 2px solid #dc3545; padding: 15px;">
+                
+                    <h6 style="color: #dc3545; font-size: 1.3rem; margin-bottom: 5px;">โจทย์ที่พบปัญหา:</h6>
+                    <p id="report-question-text" class="small-text"
+                        style="font-weight: 700; color: var(--color-text); margin-bottom: 15px; font-size: 3rem; line-height: 1.3;">
+                    </p>
+                
+                    <div style="border-top: 1px dashed #dc3545; padding-top: 10px;">
+                        <h6 style="font-size: 1.2rem; margin-top: 5px; margin-bottom: 5px;">ตัวเลือกที่มี (Choices):
+                        </h6>
+                        <div id="report-choices-list" style="font-size: 1.3rem; font-weight: 500; padding-left: 10px;">
+                            <!-- Choices will be populated by JS -->
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Section 2: Suggested Correction (Green/Success Tinge) -->
+                <div class="modal-section" style="text-align: left; background-color: #f0fff0; border: 2px solid #28a745;">
+                
+                    <h6 style="color: #28a745; font-size: 1.3rem;">เสนอคำตอบที่ถูกต้อง / แก้ไข</h6>
+                
+                    <!-- Option 1: Select from existing -->
+                    <p class="small-text" style="margin-bottom: 5px; font-weight: 700; color: #333;">1.
+                        เลือกจากตัวเลือกเดิม:
+                    </p>
+                    <select id="report-correct-choice-select"
+                        style="width: 100%; padding: 10px; margin-bottom: 10px; font-size: 1.4rem; border-radius: 5px; border: 2px solid #28a745; background-color: #fff; cursor: pointer; transition: all 0.3s ease;"></select>
+                    <option value="">-- เลือกข้อที่ถูกต้องจากตัวเลือกด้านบน --</option>
+                    </select>
+                
+                    <!-- Option 2: Suggest new -->
+                    <p class="small-text" style="margin-bottom: 5px; margin-top: 15px; font-weight: 700; color: #333;">
+                        2. หรือ
+                        เสนอคำตอบใหม่:</p>
+                    <textarea id="report-new-choice-textarea" placeholder="พิมพ์คำตอบที่ถูกต้องใหม่ทั้งหมด (ถ้าไม่มีในตัวเลือกเดิม)"
+                        style="width: 100%; min-height: 40px; padding: 0.75rem; border-radius: 5px; border: 1px solid #ced4da; font-size: 1.2rem;">
+                                    </textarea>
+                </div>
+                
+                <!-- Section 3: Reason/Explanation (Primary Tinge) -->
+                <div class="modal-section" style="text-align: left; background-color: #f8f9fa; border: 1px solid #dee2e6;">
+                    <h6 style="color: var(--color-primary); font-size: 1.5rem;">รายละเอียด/เหตุผลของปัญหา</h6>
+                    <textarea id="report_text" placeholder="ระบุเหตุผลที่โจทย์/เฉลยผิด, หรือรายละเอียดปัญหาอื่นๆ ให้ชัดเจนที่สุด..."
+                        style="width: 100%; min-height: 100px; font-size: 1.2rem;"></textarea>
+                </div>
+
                 <div class="controls-container">
-                    <button id="submit-report" class="quiz-button btn-dark">Submit</button>
+                    <button id="submit-report" class="quiz-button btn-dark">Submit Report</button>
                     <button id="cancel-report" class="quiz-button btn-light">Cancel</button>
                 </div>
             </div>
@@ -934,10 +1052,10 @@
                         class="toggle-button">NS48MCQ2</label>
                 </div>
             </details>
-            
+
             <details class="accordion-group">
                 <summary class="accordion-header"><i class="fas fa-file-alt" style="margin-right: 10px;"></i> MCQ3
-                    
+
                 </summary>
                 <div class="button-grid">
                     <input type="checkbox" id="ns51mcq3_parasite" name="topics" value="ns51mcq3_parasite" hidden><label
@@ -952,9 +1070,10 @@
                         class="toggle-button">NS48MCQ3</label>
                 </div>
             </details>
-            
+
             <details class="accordion-group">
-                <summary class="accordion-header"><i class="fas fa-file-alt" style="margin-right: 10px;"></i> MCQ4 </summary>
+                <summary class="accordion-header"><i class="fas fa-file-alt" style="margin-right: 10px;"></i> MCQ4
+                </summary>
                 <div class="button-grid">
                     <input type="checkbox" id="ns51mcq4" name="topics" value="ns51mcq4" hidden><label for="ns51mcq4"
                         class="toggle-button">NS51MCQ4</label>
@@ -964,7 +1083,7 @@
                         class="toggle-button">NS49MCQ4</label>
                 </div>
             </details>
-            
+
             <details class="accordion-group">
                 <summary class="accordion-header"><i class="fas fa-robot" style="margin-right: 10px;"></i>
                     by AI</summary>
@@ -996,7 +1115,8 @@
                     <input type="checkbox" id="motorns" name="topics" value="motorns" hidden><label for="motorns"
                         class="toggle-button">Motor by AI</label>
                     <input type="checkbox" id="limbicolfacgustans" name="topics" value="limbicolfacgustans" hidden><label
-                        for="limbicolfacgustans" class="toggle-button">Limbic Olfaction Gustation by AI</label>
+                        for="limbicolfacgustans" class="toggle-button">Limbic Olfaction Gustation by
+                        AI</label>
                     <input type="checkbox" id="visualns" name="topics" value="visualns" hidden><label for="visualns"
                         class="toggle-button">Visual by AI</label>
                     <input type="checkbox" id="vestiaudins" name="topics" value="vestiaudins" hidden><label for="vestiaudins"
@@ -17861,6 +17981,10 @@
             const $questionImage = $('#question-image');
             const $reportCard = $('#report-card');
             const $reportText = $('#report_text');
+            const $reportQuestionText = $('#report-question-text');
+            const $reportChoicesList = $('#report-choices-list');
+            const $reportCorrectChoiceSelect = $('#report-correct-choice-select');
+            const $reportNewChoiceTextarea = $('#report-new-choice-textarea');
             const $toggleRandomBtn = $('#toggle-random-btn');
             const $showAllAnswersBtn = $('#show-all-answers-btn');
             const $submitBtn = $('#submit-btn');
@@ -18615,12 +18739,14 @@
             }
 
 
-            function saveReportToGoogleSheet(from, topic, question, report, time) {
-                const url = "https://script.google.com/macros/s/AKfycbz355W5ND5AWjuK74vccfU4eeQpIU9z5d9VLZCvn51ERz5lRRbncUCPQ16gXcW4LYzp/exec";
+            function saveReportToGoogleSheet(from, topic, question, allChoices, suggestedChoice, report, time) {
+                const url = "https://script.google.com/macros/s/AKfycbyZQ759pyx4jI5xOBfBYBxGj8dNo4OlR_vcFBYQlzc6FlM_bqJu19eErOlozGz7jwP0/exec";
                 const data = {
                     from: from,
                     topic: topic.join(", "),
                     question: question,
+                    allChoices: allChoices, // New Field
+                    suggestedChoice: suggestedChoice, // New Field
                     report: report,
                     time: time
                 };
@@ -18634,7 +18760,6 @@
                     console.error("Error saving report to Google Sheet:", error);
                 });
             }
-
 
             // --- EVENT LISTENERS ---
             // Listener for the new toggle buttons (via hidden checkbox change)
@@ -18678,7 +18803,7 @@
             $('#submission-filter').on('change', function () {
                 showSubmission(this.value);
             });
-            
+
 
             // --- NEW: PDF Modal Listeners ---
             $('#save').on('click', () => {
@@ -18710,19 +18835,63 @@
 
             // Report Modal Logic
             $('#report').on('click', () => {
+                if (!current_question || !current_question.problem) {
+                    alert("กรุณาเลือกหัวข้อและไปที่คำถามก่อนทำการ Report");
+                    return;
+                }
+
                 $reportText.val('');
+                $reportNewChoiceTextarea.val('');
+                $reportCorrectChoiceSelect.empty(); // Clear previous options
+
+                // 1. Populate Question Details
+                const problemText = $question.text();
+                $reportQuestionText.html(problemText.replace(/\n/g, '<br>'));
+
+                // 2. Populate Choices List and Select/Dropdown
+                const choicesArray = (current_question.choices || "").split("///").map(s => s.trim()).filter(Boolean);
+                let choicesHtml = choicesArray.map((choice, index) =>
+                    `<p style="margin: 3px 0; font-weight: 500;">${index + 1}. ${choice}</p>`
+                ).join('');
+                $reportChoicesList.html(choicesHtml || '<p style="margin: 3px 0; font-weight: 500;">ไม่มีตัวเลือก</p>');
+
+                let selectOptions = '<option value="">-- เลือกข้อที่ถูกต้องจากตัวเลือกที่มีอยู่ --</option>';
+                choicesArray.forEach(choice => {
+                    const isCurrentAnswer = choice === current_question.answer;
+                    selectOptions += `<option value="${choice}" ${isCurrentAnswer ? 'selected' : ''}>${choice} ${isCurrentAnswer ? ' (เฉลยปัจจุบัน)' : ''}</option>`;
+                });
+                $reportCorrectChoiceSelect.html(selectOptions);
+
                 $reportCard.fadeIn();
             });
+
             $('#submit-report').on('click', () => {
                 const topic = checkboxIds.filter(id => $(`#${id}`).is(':checked')).map(id => $(`label[for='${id}']`).text().trim());
                 const reportTextValue = $reportText.val();
-                if (reportTextValue) {
-                    saveReportToGoogleSheet("nsmcq", topic, $question.text(), reportTextValue, new Date().toLocaleString("en-US", { timeZone: "Asia/Bangkok" }));
-                    $reportCard.fadeOut();
-                    $feedbackSave.text("ขอบคุณสำหรับรายงานครับ!").show().fadeOut(2000);
-                } else {
-                    $feedbackSave.text("กรุณาใส่รายละเอียดของปัญหา").show().fadeOut(2000);
+
+                // Get suggested choice: value from dropdown or new text
+                const suggestedChoice = $reportCorrectChoiceSelect.val() || $reportNewChoiceTextarea.val().trim();
+
+                // Get all choices in one formatted string
+                const allChoices = (current_question.choices || "").split("///").map((s, i) => `${String.fromCharCode(65 + i)}. ${s.trim()}`).filter(Boolean).join("\n");
+
+                if (!reportTextValue && !suggestedChoice) {
+                    alert("กรุณาใส่เหตุผลของปัญหา หรือเสนอคำตอบที่ถูกต้อง");
+                    return;
                 }
+
+                saveReportToGoogleSheet(
+                    "nsmcq",
+                    topic,
+                    $question.text(),
+                    allChoices, // New data
+                    suggestedChoice, // New data
+                    reportTextValue,
+                    new Date().toLocaleString("en-US", { timeZone: "Asia/Bangkok" })
+                );
+
+                $reportCard.fadeOut();
+                $feedbackSave.text("ขอบคุณสำหรับรายงานครับ!").show().fadeOut(2000);
             });
             $('#cancel-report').on('click', () => $reportCard.fadeOut());
 
