@@ -397,9 +397,9 @@ var quizdata = {
         problem: "5. A 30-year-old female patient with a long-standing history of depression presents with drug addiction. Which of the following is the most likely reason for her substance dependence?",
         img: "",
         choices: "Impaired HPA axis function///Impaired prefrontal cortex function///Impaired reward circuit function///Impaired autonomic function///Impaired parietal lobe function",
-        answer: "Impaired reward circuit function",
+        answer: "Impaired prefrontal cortex function",
         select: "",
-        explain: "การเสพติด (Addiction/Dependence) เกี่ยวข้องโดยตรงกับ Mesolimbic pathway หรือ Reward circuit (Ventral Tegmental Area -> Nucleus Accumbens) ซึ่งใช้ Dopamine เป็นสารสื่อประสาทหลัก ทำให้เกิดความรู้สึกพึงพอใจและต้องการยาซ้ำ",
+        explain: "Prefrontal cortex มีบทบาทสำคัญในการควบคุมพฤติกรรม (behavioral control) และการตัดสินใจ (decision-making) ในผู้ป่วยที่มีภาวะซึมเศร้าเรื้อรัง (chronic depression) มักพบว่าการทำงานของ prefrontal cortex ผิดปกติ ซึ่งส่งผลให้การควบคุมพฤติกรรมลดลง และเพิ่มความเสี่ยงต่อการเกิดภาวะติดสารเสพติด (substance dependence)",
         state: false
     }, {
         problem: "6. A 38-year-old man with a history of asthma presents with recurring migraines and needs preventive therapy. Which medication should be avoided?",
@@ -455,7 +455,7 @@ var quizdata = {
         choices: "Baroreflex///Flexor withdrawal reflex///Golgi tendon reflex///Muscle stretch reflex///Corneal reflex",
         answer: "Golgi tendon reflex",
         select: "",
-        explain: "Golgi tendon reflex (Inverse stretch reflex) เป็น Disynaptic reflex คือประกอบด้วย Sensory neuron -> Inhibitory interneuron -> Motor neuron (มีจุดเชื่อมต่อประสาท 2 จุด) ต่างจาก Muscle stretch reflex (Knee jerk) ที่เป็น Monosynaptic reflex",
+        explain: "Golgi tendon reflex (Inverse stretch reflex) เป็น Disynaptic reflex คือประกอบด้วย Sensory neuron -> Inhibitory interneuron -> Motor neuron (มีจุดเชื่อมต่อประสาท 2 จุด) ต่างจาก Muscle stretch reflex (Knee jerk) ที่เป็น Monosynaptic reflex. Baroreflex, Flexor withdrawal reflex, และ Corneal reflex เป็น Polysynaptic reflex (มีจุดเชื่อมต่อประสาทมากกว่า 2 จุด)",
         state: false
     }, {
         problem: "13. Two months after a stroke, the patient fully recovered. On physical examination, the rehabilitation doctor found normal muscle tone. Which of the following describes normal muscle tone in this patient?",
@@ -524,7 +524,7 @@ var quizdata = {
     }, {
         problem: "21. A 14-month-old Laos boy develops paralysis of his left leg 2 weeks after receiving the oral polio vaccine (OPV). Neurological exam shows areflexia with preserved sensation, CSF reveals lymphocytic pleocytosis. Which of the following best describes this condition?",
         img: "",
-        choices: "Transverse myelitis due to autoimmune activation///Early wild-type poliovirus infection///Vaccine-associated paralytic poliomyelitis (VAPP)///Post-polio syndrome E. Transverse myelitis due to autoimmune activation///Guillain-Barré syndrome following vaccination",
+        choices: "Transverse myelitis due to autoimmune activation///Early wild-type poliovirus infection///Vaccine-associated paralytic poliomyelitis (VAPP)///Post-polio syndrome///Guillain-Barré syndrome following vaccination",
         answer: "Vaccine-associated paralytic poliomyelitis (VAPP)",
         select: "",
         explain: "OPV เป็นวัคซีนเชื้อเป็น (Live attenuated virus) ซึ่งในกรณีที่พบได้ยาก เชื้อสามารถกลายพันธุ์กลับมาก่อโรค (Revert to virulence) ทำให้เกิดอาการอัมพาตคล้ายโปลิโอ (VAPP) โดยเฉพาะในผู้ที่ได้รับวัคซีนเข็มแรกหรือภูมิคุ้มกันต่ำ",
@@ -551,7 +551,7 @@ var quizdata = {
         choices: "Psychosis///Hyperthyroidism///Polyuria///Serotonin syndrome///Hypertensive crisis",
         answer: "Polyuria",
         select: "",
-        explain: "อาการพิษจาก Lithium (Toxicity/Side effect) ที่เด่นชัดคือผลต่อไต ทำให้เกิด Nephrogenic Diabetes Insipidus (เบาจืด) ผู้ป่วยจะมีอาการปัสสาวะบ่อย (Polyuria) และกระหายน้ำมาก นอกจากนี้ยังพบอาการทางระบบประสาท เช่น มือสั่น เดินเซ สับสน ได้",
+        explain: "Lithium มีผลข้างเคียงที่สำคัญคือ ทำให้ไตตอบสนองต่อ ADH ลดลง (Nephrogenic diabetes insipidus) ส่งผลให้ปัสสาวะออกมาก (Polyuria) และกระหายน้ำบ่อย นอกจากนี้ยังอาจทำให้ Hypothyroidism ได้ด้วย แต่ไม่ใช่ Hyperthyroidism",
         state: false
     }, {
         problem: "25. Which of the following antiseizure medication is most likely to impair learning and memory, and produce behavioral abnormalities in children?",
@@ -845,9 +845,9 @@ var quizdata = {
         problem: "61. A 32-year-old man with generalized tonic-clonic seizures is started on valproic acid. Which combination of mechanisms best explains its antiseizure effects?",
         img: "",
         choices: "Potentiates GABAB receptors + blocks AMPA receptors///Inhibits NMDA receptors + induces GABA transaminase///Blocks T-type Ca2+ channels + inhibits succinate semialdehyde dehydrogenase///Enhances GABA release + Inhibits GABA uptake///Inhibits GABA transaminase + prolongs Na+ channel inactivation",
-        answer: "Blocks T-type Ca2+ channels + inhibits succinate semialdehyde dehydrogenase",
+        answer: "Inhibits GABA transaminase + prolongs Na+ channel inactivation",
         select: "",
-        explain: "Valproic acid มีกลไกหลายอย่าง (Broad spectrum): 1. Block Na+ channels 2. Block T-type Ca2+ channels (เหมือน Ethosuximide) 3. เพิ่ม GABA โดยยับยั้งเอนไซม์ที่ทำลาย GABA (GABA Transaminase และ Succinate semialdehyde dehydrogenase)",
+        explain: "Valproic acid ออกฤทธิ์ต้านชักโดย 2 กลไกหลักคือ 1. ยับยั้งเอนไซม์ GABA transaminase ทำให้ระดับ GABA ในสมองเพิ่มขึ้น 2. ยืดเวลาการปิดช่อง Na+ (Prolongs Na+ channel inactivation) ลดการเกิด Action potential ที่ผิดปกติ",
         state: false
     }, {
         problem: "62. A 65-year-old male presents with a new-onset generalized seizure... MRI reveals a large, irregular, ring enhancing lesion crossing the corpus callosum ('Butterfly lesion')... Which of the following microscopic findings is most characteristic of this tumor?",
