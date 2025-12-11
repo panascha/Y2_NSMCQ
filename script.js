@@ -4322,8 +4322,8 @@ var quizdata = {
                     {
                         "problem": "53. Activation of cell bodies that give rise to the fibers indicated by the arrow in the image below will result in which of the following responses?",
                         "img": "https://drive.google.com/open?id=1oZtf2hV7D9boGoWYcD1-umw7fFfqQ-Za&usp=drive_copy",
-                        "choices": "Decrease in thalamic activity with corresponding decrease in cortical activity ลูก///Increase in thalamic activity with corresponding increase in cortical activity///Increase in thalamic activity with corresponding decrease in cortical activity///Decrease in thalamic activity with corresponding increase in cortical activity///Increase in thalamic activity with no change in cortical activity",
-                        "answer": "Decrease in thalamic activity with corresponding decrease in cortical activity ลูก",
+                        "choices": "Decrease in thalamic activity with corresponding decrease in cortical activity///Increase in thalamic activity with corresponding increase in cortical activity///Increase in thalamic activity with corresponding decrease in cortical activity///Decrease in thalamic activity with corresponding increase in cortical activity///Increase in thalamic activity with no change in cortical activity",
+                        "answer": "Decrease in thalamic activity with corresponding decrease in cortical activity",
                         "select": "",
                         "explain": "ลูกศรชี้ไปที่ใยประสาทที่ออกมาจาก Basal ganglia output nuclei (Globus pallidus interna และ Substantia nigra pars reticulata) ซึ่งเป็นเซลล์ประสาทชนิดยับยั้ง (inhibitory GABAergic neuron) และส่งสัญญาณไปยัง Thalamus (VA/VL nuclei) ดังนั้น การกระตุ้น (Activation) เซลล์เหล่านี้จะทำให้มีการหลั่งสารสื่อประสาทชนิดยับยั้งเพิ่มขึ้น ส่งผลให้ Thalamus ถูกยับยั้ง (Decrease in thalamic activity) และเมื่อ Thalamus ซึ่งปกติจะกระตุ้น Cortex ถูกยับยั้ง ก็จะส่งผลให้การทำงานของ Cortex ลดลงตามไปด้วย (Decrease in cortical activity)",
                         "state": false
@@ -5328,9 +5328,9 @@ var quizdata = {
                         "problem": "3. Patient presented with high grade fever then next day goes into comatose. Suspected of contacting Plasmodium falciparum, what is the most common cause of coma?",
                         "img": "",
                         "choices": "Elevated lactate///Hypoglycemia///Anemia///Brain hypoxia///Microvascular obstruction",
-                        "answer": "Microvascular obstruction",
+                        "answer": "Elevated lactate",
                         "select": "",
-                        "explain": "ภาวะมาลาเรียขึ้นสมอง (Cerebral Malaria) ที่เกิดจากเชื้อ P. falciparum มีพยาธิกำเนิดที่สำคัญที่สุดคือ Microvascular obstruction เกิดจากการที่เม็ดเลือดแดงที่มีเชื้อมาลาเรีย (parasitized red blood cells) มีปุ่มบนผิวเซลล์ (knobs) ทำให้สามารถเกาะติดกับผนังหลอดเลือดฝอยในสมอง (cytoadherence) และเกาะกันเอง (sequestration) เกิดการอุดตันของหลอดเลือดขนาดเล็ก ทำให้เลือดไปเลี้ยงสมองลดลง สมองขาดออกซิเจน (Brain hypoxia) และเกิดภาวะ coma ในที่สุด ดังนั้นการอุดตันของหลอดเลือดฝอยจึงเป็นกลไกหลักที่เป็นสาเหตุโดยตรง",
+                        "explain": "ในผู้ป่วยที่ติดเชื้อ Plasmodium falciparum และมีอาการทางระบบประสาท เช่น การหมดสติ (coma) สาเหตุที่สำคัญและพบบ่อยที่สุดคือ ภาวะแลคเตทในเลือดสูง (elevated lactate) ซึ่งเกิดจากการที่เซลล์สมองขาดออกซิเจนเนื่องจากการอุดตันของหลอดเลือดขนาดเล็ก (microvascular obstruction) โดยพยาธิเม็ดเลือดแดงที่ติดเชื้อจะเกาะตัวกันและเกาะกับผนังหลอดเลือด ทำให้เลือดไหลเวียนไม่สะดวก ส่งผลให้เซลล์สมองต้องเปลี่ยนไปใช้กระบวนการเมตาบอลิซึมแบบไม่ใช้ออกซิเจน (anaerobic metabolism) ซึ่งสร้างแลคเตทเป็นผลพลอยได้",
                         "state": false
                     },
                     {
