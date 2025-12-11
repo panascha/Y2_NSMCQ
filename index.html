@@ -18877,7 +18877,13 @@
                 const suggestedChoice = $reportCorrectChoiceSelect.val() || $reportNewChoiceTextarea.val().trim();
 
                 // Get all choices in one formatted string
-                const allChoices = (current_question.choices || "").split("///").map((s, i) => `${String.fromCharCode(65 + i)}. ${s.trim()}`).filter(Boolean).join("\n");
+                const allChoices = (current_question.choices || "").split("///").map((s, i) => {
+                    const letter = String.fromCharCode(65 + i);
+                    const choiceText = `${letter}. ${s.trim()}`;
+                    // Check if this is the current correct answer
+                    const isCurrentAnswer = s.trim() === (current_question.answer || "").trim();
+                    return isCurrentAnswer ? `${choiceText} (answer)` : choiceText;
+                }).filter(Boolean).join("\n");
 
                 if (!reportTextValue && !suggestedChoice) {
                     alert("กรุณาใส่เหตุผลของปัญหา หรือเสนอคำตอบที่ถูกต้อง");
