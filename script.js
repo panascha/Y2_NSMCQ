@@ -3871,7 +3871,7 @@ var quizdata = {
                         "problem": "41. A patient has a lesion on lateral side of medulla ถามว่าผิดปกติที่ nucleus ไหน (A patient has a lesion on the lateral side of the medulla. Which nucleus is abnormal?)",
                         "img": "",
                         "choices": "superior vestibular nucleus///inferior vestibular nucleus///red nucleus///oculomotor nucleus///trochlear nucleus",
-                        "answer": "inferior vesstibular nucleus",
+                        "answer": "inferior vestibular nucleus",
                         "select": "",
                         "explain": "โจทย์ข้อนี้คล้ายกับข้อที่แล้ว โครงสร้างที่สำคัญใน Lateral medulla oblongata ได้แก่ Vestibular nuclei (โดยเฉพาะ inferior), Nucleus ambiguus, Solitary nucleus, และ Spinal trigeminal nucleus. ในตัวเลือกที่ให้มา inferior nucleus น่าจะหมายถึง inferior vestibular nucleus ซึ่งเป็นสาเหตุของอาการเวียนศีรษะที่พบบ่อยใน lateral medullary syndrome",
                         "state": false
