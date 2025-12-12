@@ -17,11 +17,7 @@
 
     <!-- jsPDF and Thai Font for PDF Exports -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
-    <script src="https://raw.githack.com/MrRio/jsPDF/master/src/modules/split_text_to_size.js"></script>
-    <script src="https://raw.githack.com/MrRio/jsPDF/master/src/modules/annotations.js"></script>
-    <script
-        src="https://raw.githack.com/someatoms/jsPDF-CustomFonts-support/master/dist/jspdf.customfonts.min.js"></script>
-    <script src="https://raw.githack.com/someatoms/jsPDF-CustomFonts-support/master/dist/default_vfs.js"></script>
+
     <!-- Include jsPDF library -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.4.1/jspdf.debug.js"></script>
     <!-- Google tag (gtag.js) -->
@@ -18746,7 +18742,7 @@
                 const url = "https://script.google.com/macros/s/AKfycbyZQ759pyx4jI5xOBfBYBxGj8dNo4OlR_vcFBYQlzc6FlM_bqJu19eErOlozGz7jwP0/exec";
                 const data = {
                     from: from,
-                    topic: topic.join(", "),
+                    topic: topic,
                     question: question,
                     allChoices: allChoices, // New Field
                     suggestedChoice: suggestedChoice, // New Field
@@ -18869,7 +18865,23 @@
             });
 
             $('#submit-report').on('click', () => {
-                const topic = checkboxIds.filter(id => $(`#${id}`).is(':checked')).map(id => $(`label[for='${id}']`).text().trim());
+                let topic = checkboxIds.filter(id => $(`#${id}`).is(':checked')).map(id => $(`label[for='${id}']`).text().trim());
+                const currentProblem = current_question.problem ? current_question.problem.trim() : '';
+                const currentAnswer = current_question.answer ? current_question.answer.trim() : '';
+
+                for (const topicId in quizdata) {
+                    if (quizdata.hasOwnProperty(topicId) && Array.isArray(quizdata[topicId])) {
+                        const questionArray = quizdata[topicId];
+                        const found = questionArray.some(q =>
+                            q.problem.trim() === currentProblem && q.answer.trim() === currentAnswer
+                        );
+
+                        if (found) {
+                            topic = topicId;
+                            break;
+                        }
+                    }
+                }
                 const reportTextValue = $reportText.val();
 
                 // Get suggested choice: value from dropdown or new text
