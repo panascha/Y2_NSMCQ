@@ -5647,7 +5647,7 @@ var quizdata = {
             "choices": "Cavernous sinus hemangioma///Berry aneurysm rupture///Traumatic brain injury///Glioblastoma///Arteriovenous formation",
             "answer": "Berry aneurysm rupture",
             "select": "",
-            "explain": "อาการปวดศีรษะรุนแรงเฉียบพลันเหมือนฟ้าผ่า (sudden severe 'thunderclap' headache) ร่วมกับผล CT scan ที่พบเลือดออกใน basal cisterns เป็นลักษณะคลาสสิกของภาวะเลือดออกในชั้นใต้เยื่อหุ้มสมองอะแรকনอยด์ (Subarachnoid Hemorrhage, SAH) ซึ่งสาเหตุที่พบบ่อยที่สุดในผู้ป่วยที่ไม่มีประวัติอุบัติเหตุคือการแตกของหลอดเลือดสมองโป่งพองชนิด Berry aneurysm (saccular aneurysm) ที่บริเวณ Circle of Willis",
+            "explain": "อาการปวดศีรษะรุนแรงเฉียบพลันเหมือนฟ้าผ่า (sudden severe 'thunderclap' headache) ร่วมกับผล CT scan ที่พบเลือดออกใน basal cisterns เป็นลักษณะคลาสสิกของภาวะเลือดออกในชั้นใต้เยื่อหุ้มสมอง (Subarachnoid Hemorrhage, SAH) ซึ่งสาเหตุที่พบบ่อยที่สุดในผู้ป่วยที่ไม่มีประวัติอุบัติเหตุคือการแตกของหลอดเลือดสมองโป่งพองชนิด Berry aneurysm (saccular aneurysm) ที่บริเวณ Circle of Willis",
             "state": false
         },
         {
@@ -13422,9 +13422,9 @@ var quizdata = {
             "problem": "30. A lesion destroys the right Oculomotor nerve (CN III). When a light is shone into the left eye, what is the expected response in the right eye?",
             "img": "",
             "choices": "Pupil constricts (Direct reflex)///Pupil constricts (Consensual reflex)///Pupil dilates (Direct reflex)///Pupil remains dilated (Consensual reflex absent)///Pupil remains constricted",
-            "answer": "Pupil constricts (Consensual reflex)",
+            "answer": "Pupil remains dilated (Consensual reflex absent)",
             "select": "",
-            "explain": "เมื่อส่องไฟตาซ้าย (Left eye) ซึ่งมี CN II ปกติ สัญญาณจะไปกระตุ้น EW nucleus ทั้งซ้ายและขวา Efferent limb ของตาขวา คือ Right CN III ซึ่งเสียหายไปแล้ว แต่เนื่องจากโจทย์ถามถึง Consensual reflex เมื่อส่องไฟตาซ้าย สัญญาณจะไปกระตุ้น EW nucleus ขวา ซึ่งหาก CN III เสียหาย รูม่านตาขวาจะขยายอยู่ตลอดเวลาและไม่ตอบสนองต่อแสงใดๆ แต่ถ้าโจทย์หมายถึงการตอบสนองที่เกิดขึ้นในตาซ้าย (Direct reflex) ก็จะหดตัวปกติ",
+            "explain": "รอยโรคที่ Right CN III จะทำให้ Efferent limb ของ Pupillary light reflex ข้างขวาเสียไป เมื่อนำแสงส่องเข้าตาซ้าย (Afferent limb ปกติ) จะทำให้เกิดการหดตัวของรูม่านตาข้างซ้าย (Direct reflex) แต่เนื่องจาก Efferent limb ข้างขวาถูกทำลาย จึงไม่สามารถหดตัวได้ (Consensual reflex absent) ทำให้รูม่านตาขวายังคงขยายอยู่",
             "state": false
         },
         {
@@ -13898,7 +13898,7 @@ var quizdata = {
         {
             "problem": "5. Which anatomical structure is responsible for the 'Physical change: Lens thinning' when viewing a far object, as described in the slide?",
             "img": "",
-            "choices": "Relaxation of the ciliary muscle///Contraction of the pupillary sphincter///Tension of the suspensory ligaments///Contraction of the radial fibers of the iris///Increased aqueous humor pressure",
+            "choices": "Contraction of the ciliary muscle///Contraction of the pupillary sphincter///Tension of the suspensory ligaments///Contraction of the radial fibers of the iris///Increased aqueous humor pressure",
             "answer": "Tension of the suspensory ligaments",
             "select": "",
             "explain": "เมื่อมองวัตถุไกล (Far vision) Ciliary muscle จะคลายตัว (Relax) ทำให้ Suspensory ligament ถูกดึงให้ตึง (Tense) แรงดึงนี้จะดึงเลนสใหแบนลง (Lens thinning) เพื่อลดกำลังการหักเหของแสง",
