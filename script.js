@@ -3538,7 +3538,7 @@ var quizdata = {
                         "problem": "4. 6 Years old girl presents with deafness, tinnitus, vertigo and dizziness with no other neurological symptom. What is the most possible lesion in this patient?",
                         "img": "",
                         "choices": "Lesion at MLF///Spiral ganglion///Cerebellar vermis///Tumor at pontocerebellar junction affetcing CN VII, VIII///Abnormal volume of endolymph in the inner ear",
-                        "answer": "Tumor at pontocerebellar junction affetcing CN VII, VIII",
+                        "answer": "Abnormal volume of endolymph in the inner ear",
                         "select": "",
                         "explain": "อาการหูหนวก (deafness) และเสียงในหู (tinnitus) เกี่ยวข้องกับความผิดปกติของ CN VIII (cochlear part) ส่วนอาการเวียนศีรษะ (vertigo and dizziness) เกี่ยวข้องกับ CN VIII (vestibular part) การมีอาการของ CN VIII ทั้งสองส่วนโดยไม่มีอาการทางระบบประสาทอื่น ชี้ให้เห็นถึงรอยโรคที่กดทับเส้นประสาทสมองคู่ที่ 8 บริเวณที่ออกจาก brainstem คือ pontocerebellar junction ซึ่งมักเกิดจากเนื้องอก เช่น vestibular schwannoma",
                         "state": false
@@ -3853,9 +3853,9 @@ var quizdata = {
                         "problem": "39. Concerning level of consciousness while sleepwalking, which of the following is correct?",
                         "img": "",
                         "choices": "Low level of arousal///High cortical neurons///High level of arousal, low level cortical neurons///High level of cortical neurons, high level of arousal///Low level of arousal, low level of cortical neurons",
-                        "answer": "Low level of arousal, low level of cortical neurons",
+                        "answer": "High level of arousal, low level cortical neurons",
                         "select": "",
-                        "explain": "การเดินละเมอ (Sleepwalking หรือ somnambulism) เกิดขึ้นในช่วงการนอนหลับลึก หรือ NREM stage 3 (slow-wave sleep) ซึ่งเป็นช่วงที่ร่างกายมีการปลุกให้ตื่นได้ยากมาก (Low level of arousal) และการทำงานของสมองส่วนเปลือกนอก โดยเฉพาะ frontal cortex ที่ควบคุมการตัดสินใจและการรับรู้จะลดลงอย่างมาก (low level of cortical neurons activity)",
+                        "explain": "Sleepwalking (Somnambulism) มักเกิดขึ้นในช่วง Non-REM sleep โดยผู้ที่นอนหลับจะมีระดับการตื่นตัว (arousal) ที่สูงพอที่จะทำกิจกรรมต่างๆ ได้ เช่น เดิน แต่ระดับการทำงานของเซลล์ประสาทในสมองส่วน cortex จะต่ำ ทำให้ไม่มีความทรงจำเกี่ยวกับเหตุการณ์นั้นหลังตื่นนอน ดังนั้นคำตอบที่ถูกต้องคือ 'High level of arousal, low level cortical neurons'",
                         "state": false
                     },
                     {
@@ -3870,8 +3870,8 @@ var quizdata = {
                     {
                         "problem": "41. A patient has a lesion on lateral side of medulla ถามว่าผิดปกติที่ nucleus ไหน (A patient has a lesion on the lateral side of the medulla. Which nucleus is abnormal?)",
                         "img": "",
-                        "choices": "superior vestibular nucleus///inferior nucleus///red nucleus///oculomotor nucleus///trochlear nucleus",
-                        "answer": "inferior nucleus",
+                        "choices": "superior vestibular nucleus///inferior vestibular nucleus///red nucleus///oculomotor nucleus///trochlear nucleus",
+                        "answer": "inferior vesstibular nucleus",
                         "select": "",
                         "explain": "โจทย์ข้อนี้คล้ายกับข้อที่แล้ว โครงสร้างที่สำคัญใน Lateral medulla oblongata ได้แก่ Vestibular nuclei (โดยเฉพาะ inferior), Nucleus ambiguus, Solitary nucleus, และ Spinal trigeminal nucleus. ในตัวเลือกที่ให้มา inferior nucleus น่าจะหมายถึง inferior vestibular nucleus ซึ่งเป็นสาเหตุของอาการเวียนศีรษะที่พบบ่อยใน lateral medullary syndrome",
                         "state": false
@@ -4206,9 +4206,9 @@ var quizdata = {
                         "problem": "33. Where is the lesion?",
                         "img": "https://drive.google.com/open?id=1L2WnhRG_xNveU6IMUpxuGDE-funNSOTT&usp=drive_copy",
                         "choices": "Right primary visual area///Left optic tract///Optic chiasm///Right Meyer's loop///Left Meyer's loop",
-                        "answer": "Optic chiasm",
+                        "answer": "Right primary visual area",
                         "select": "",
-                        "explain": "ภาพแสดง Visual field defect แบบ Bitemporal hemianopia คือการสูญเสียลานสายตาด้านข้าง (Temporal field) ทั้งสองข้าง ซึ่งเป็นลักษณะเฉพาะของพยาธิสภาพที่กดทับบริเวณ Optic chiasm ซึ่งเป็นจุดที่ใยประสาทจาก Nasal retina (ทำหน้าที่รับภาพจาก Temporal field) ของตาทั้งสองข้างมาไขว้กัน",
+                        "explain": "ภาพแสดง Visual field defect แบบ Left homonymous hemianopia ซึ่งหมายความว่าผู้ป่วยสูญเสียการมองเห็นในด้านซ้ายของ visual field ทั้งสองตา สาเหตุนี้เกิดจากรอยโรคที่ Right optic tract หรือ Right primary visual cortex (V1) ใน Occipital lobe. อย่างไรก็ตาม เนื่องจากภาพไม่ได้แสดงรายละเอียดเพิ่มเติมเกี่ยวกับตำแหน่งของรอยโรค จึงไม่สามารถระบุได้แน่ชัดว่าเป็น Right optic tract หรือ Right primary visual area แต่ทั้งสองตำแหน่งนี้สามารถทำให้เกิด Left homonymous hemianopia ได้",
                         "state": false
                     },
                     {
@@ -4574,12 +4574,12 @@ var quizdata = {
                         state: false
                     },
                     {
-                        problem: "33. A male patient presents with a visual disturbance. His visual field test shows bitemporal hemianopia. Where is the lesion located?",
+                        problem: "33. A male patient presents with a visual disturbance. His visual field test shows as image. Where is the lesion located?",
                         img: "https://drive.google.com/open?id=11-C9RdOQ1M5Y_2WjTt9WSKZSFMTTuhz5&usp=drive_copy",
-                        choices: "Meyer's loop///Optic chiasm///Optic nerve///Occipital area///Lateral Geniculate Body (LGB)",
-                        answer: "Optic chiasm",
+                        choices: "Left optic tract///Right optic tract///Left optic nerve///Right optic nerve///Optic chiasm",
+                        answer: "Right optic tract",
                         select: "",
-                        explain: "ภาพ visual field ที่แสดงคือ Bitemporal hemianopia ซึ่งหมายถึงการสูญเสียลานสายตาด้านนอก (temporal field) ของตาทั้งสองข้าง เป็นลักษณะจำเพาะของรอยโรคที่กดทับบริเวณ Optic chiasm ซึ่งเป็นตำแหน่งที่ใยประสาทจากจอประสาทตาส่วน nasal retina (รับภาพจาก temporal field) ของตาทั้งสองข้างมาไขว้กัน สาเหตุที่พบบ่อยคือเนื้องอกต่อมใต้สมอง (pituitary adenoma)",
+                        explain: "ภาพ visual field ที่แสดงคือ Contralateral homonymous hemianopia เนื่องจาก Temporal visual field จะรับภาพจาก Nasal retina และ Nasal visual field จะรับภาพจาก Temporal retina ดังนั้นการสูญเสียลานสายตาด้านขวาของทั้งสองตา (right homonymous hemianopia) บ่งชี้ว่ารอยโรคต้องอยู่ที่ Right optic tract ซึ่งนำข้อมูลจาก Left visual field ของทั้งสองตาไปยังสมอง",
                         state: false
                     },
                     {
@@ -5744,18 +5744,18 @@ var quizdata = {
                         "problem": "17. A man was bitten by a dog, 3 cm clean lacerated wound with no active bleeding and the dog that bit him ran away. He had complete tetanus vaccine but incomplete rabies vaccine. What treatment should be given?",
                         "img": "",
                         "choices": "Wound dressing, rabies vaccine, antibiotics///Wound dressing, rabies vaccine, antibiotics, RIG///Wound dressing, rabies vaccine, antibiotics, RIG only when the dog is reported dead///Wound dressing, chloride ...., tetanus vaccine///Wound dressing, rabies vaccine, antibiotics, tetanus vaccine",
-                        "answer": "Wound dressing, rabies vaccine, antibiotics, RIG",
+                        "answer": "Wound dressing, rabies vaccine, antibiotics",
                         "select": "",
-                        "explain": "กรณีถูกสุนัขกัดและสุนัขหนีไป ไม่สามารถสังเกตอาการได้ ถือเป็นความเสี่ยงสูง (Category III exposure) ตามแนวทางของ WHO และเนื่องจากผู้ป่วยมีประวัติฉีดวัคซีนพิษสุนัขบ้าไม่ครบถ้วน การจัดการที่ถูกต้องคือ 1.ล้างแผลให้สะอาด (Wound dressing) 2.ให้ยาปฏิชีวนะป้องกันแผลติดเชื้อ 3.เริ่มฉีดวัคซีนป้องกันพิษสุนัขบ้า (Rabies vaccine) ทันที และ 4.ฉีด Rabies Immune Globulin (RIG) ที่รอบๆ แผล เพื่อให้มีภูมิคุ้มกันสำเร็จรูปสำหรับต่อต้านเชื้อทันทีก่อนที่วัคซีนจะเริ่มสร้างภูมิคุ้มกัน",
+                        "explain": "Category I exposure ตามแนวทางของ WHO และเนื่องจากผู้ป่วยมีประวัติฉีดวัคซีนพิษสุนัขบ้าไม่ครบถ้วน การจัดการที่ถูกต้องคือ 1.ล้างแผลให้สะอาด (Wound dressing) 2.ให้ยาปฏิชีวนะป้องกันแผลติดเชื้อ 3.เริ่มฉีดวัคซีนป้องกันพิษสุนัขบ้า (Rabies vaccine) ทันที",
                         "state": false
                     },
                     {
                         "problem": "18. เด็กชายวัย 10 ขวบ มารพ. ด้วยอาการปวดหัว เป็นไข้ LP พบ mild elevation of lymphocytes normal sugar and protein. ตรวจเลือด พบว่ามี Dengue Ag positive แต่ตรวจ PCR ไม่เจอ dengue infection. what is the most likely diagnosis?",
                         "img": "",
                         "choices": "Dengue infection with PCR false negative///Japanese encephalis///Herpes infection///Leptospirosis///Leukemia",
-                        "answer": "Dengue infection with PCR false negative",
+                        "answer": "Japanese encephalis",
                         "select": "",
-                        "explain": "ผลการตรวจน้ำไขสันหลัง (LP) เข้าได้กับ Aseptic meningitis (เม็ดเลือดขาวเป็น lymphocyte เด่น, น้ำตาลและโปรตีนปกติ) ซึ่งมักเกิดจากการติดเชื้อไวรัส การที่ตรวจพบ Dengue NS1 antigen (Ag) positive เป็นการยืนยันว่ามีการติดเชื้อไข้เลือดออกเฉียบพลัน ส่วนการตรวจ PCR for dengue virus ให้ผลลบอาจเกิดขึ้นได้เนื่องจากช่วงเวลาที่ตรวจอาจพ้นระยะ viremia (ช่วงที่เชื้อไวรัสอยู่ในกระแสเลือด) ไปแล้ว ดังนั้นการวินิจฉัยที่เป็นไปได้มากที่สุดคือ Dengue infection with neurological complication โดยผล PCR อาจเป็น false negative ได้เนื่องจาก timing ของการตรวจ",
+                        "explain": "จากอาการทางคลินิกและผลการตรวจน้ำไขสันหลัง (CSF) ที่พบการเพิ่มขึ้นของ lymphocytes เล็กน้อย ร่วมกับระดับน้ำตาลและโปรตีนที่ปกติ บ่งชี้ถึงภาวะเยื่อหุ้มสมองอักเสบจากไวรัส (Viral meningitis/encephalitis) ในพื้นที่ที่มีการระบาดของโรคไข้สมองอักเสบญี่ปุ่น (Japanese encephalitis, JE) การตรวจพบ Dengue antigen อาจเกิดจากการติดเชื้อร่วม (co-infection) หรือผลบวกลวง (false positive) ได้ แต่การตรวจ PCR ที่ไม่พบเชื้อ dengue virus ช่วยตัดโรคไข้เลือดออกออกไปได้ ดังนั้น การวินิจฉัยที่เป็นไปได้มากที่สุดคือ Japanese encephalitis ซึ่งเป็นโรคที่พบบ่อยในเด็กในภูมิภาคนี้",
                         "state": false
                     },
                     {
