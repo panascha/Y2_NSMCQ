@@ -5227,9 +5227,9 @@ var quizdata = {
             "problem": "78. A patient presented with purpura fulminante, disseminated intravascular coagulation and adrenal hemorrhage. What is the possible cause of these symptoms?",
             "img": "",
             "choices": "Neisseria meningitidis///Tuberculous meningitis///Meningococcal meningitis///Cryptococcal meningitis///Brain abscess",
-            "answer": "Meningococcal meningitis",
-            "select": "",
-            "explain": "กลุ่มอาการที่ประกอบด้วยผื่นเลือดออก (purpura fulminans), ภาวะลิ่มเลือดอุดตันในหลอดเลือดขนาดเล็กทั่วร่างกาย (DIC), และภาวะเลือดออกที่ต่อมหมวกไต (adrenal hemorrhage) จนเกิดภาวะต่อมหมวกไตล้มเหลวเฉียบพลัน เป็นลักษณะของ Waterhouse-Friderichsen syndrome ซึ่งเป็นภาวะแทรกซ้อนที่รุนแรงของการติดเชื้อในกระแสเลือดจากเชื้อ Neisseria meningitidis (หรือเรียกว่า Meningococcus)",
+                        "answer": "Neisseria meningitidis",
+                        "select": "",
+            "explain": "Neisseria meningitidis เป็นสาเหตุที่พบบ่อยของเยื่อหุ้มสมองอักเสบจากแบคทีเรีย (bacterial meningitis) โดยเฉพาะในเด็กและวัยรุ่น นอกจากอาการของเยื่อหุ้มสมองอักเสบแล้ว ผู้ป่วยอาจมีภาวะแทรกซ้อนรุนแรง เช่น Purpura fulminans (ลักษณะผื่นเลือดออกใต้ผิวหนังอย่างรุนแรง), Disseminated intravascular coagulation (DIC) และ Adrenal hemorrhage (Waterhouse-Friderichsen syndrome) ซึ่งเกิดจากการติดเชื้อแบคทีเรียในกระแสเลือด (septicemia)",
             "state": false
         },
         {
@@ -6048,15 +6048,15 @@ var quizdata = {
             choices: "Tectospinal tract///Corticospinal tract///Lateral reticulospinal tract///Medial vestibulospinal tract///Rubrospinal tract",
         answer: "Lateral vestibulospinal tract",
         select: "",
-        explain: "Lateral vestibulospinal tract มีหน้าที่สำคัญในการควบคุมโทนของกล้ามเนื้อป้องกันแรงโน้มถ่วง (anti-gravity muscles) เช่น กล้ามเนื้อ extensors ของแขนขา เพื่อรักษาท่าทางและการทรงตัว เมื่อมีรอยโรคที่ lateral vestibulospinal tract จะทำให้กล้ามเนื้อเหล่านี้อ่อนแรง (hypotonia) เนื่องจากขาดการกระตุ้นที่เหมาะสม ในกรณีนี้ ผู้ป่วยมี hypotonia ที่ขาซ้าย ซึ่งบ่งชี้ว่ารอยโรคเกิดที่ lateral vestibulospinal tract ด้านขวา (crossed pathway) ซึ่งเป็นสาเหตุของอาการที่พบ",
+                    explain: "Lateral vestibulospinal tract มีหน้าที่สำคัญในการควบคุมโทนของกล้ามเนื้อป้องกันแรงโน้มถ่วง (anti-gravity muscles) เช่น กล้ามเนื้อ extensors ของแขนขา เพื่อรักษาท่าทางและการทรงตัว เมื่อมีรอยโรคที่ lateral vestibulospinal tract จะทำให้กล้ามเนื้อเหล่านี้อ่อนแรง (hypotonia) เนื่องจากขาดการกระตุ้นที่เหมาะสม ในกรณีนี้ ผู้ป่วยมี hypotonia ที่ขาซ้าย ซึ่งบ่งชี้ว่ารอยโรคเกิดที่ lateral vestibulospinal tract ด้านขวา (crossed pathway) ซึ่งเป็นสาเหตุของอาการที่พบ",
             state: false
         }, {
             problem: "20. A 65 year-old Thai male came to the hospital due to muscle weakness. He cannot lift his arm and he's not good at picking things up. Later on, the symptoms of easily choking and slurred speech are developed. He also has muscle hypotrophy and muscle throughout the body periodically. Where is the lesion?",
             img: "",
             choices: "Cerebral cortex///Basal ganglia///Brain stem///Cerebellum///Spinal cord",
-            answer: "Spinal cord",
-            select: "",
-            explain: "อาการของผู้ป่วยมีการผสมผสานกันระหว่าง Upper Motor Neuron (UMN) signs (เช่น slurred speech) และ Lower Motor Neuron (LMN) signs (เช่น muscle weakness, muscle hypotrophy/atrophy) ซึ่งเป็นลักษณะเด่นของโรค Motor Neuron Disease (MND) หรือ Amyotrophic Lateral Sclerosis (ALS) โรคนี้เกิดจากความเสื่อมของ motor neurons ทั้งใน cerebral cortex (UMNs) และใน anterior horn ของไขสันหลัง (LMNs) รวมถึง motor nuclei ในก้านสมอง การที่ผู้ป่วยมีกล้ามเนื้อแขนอ่อนแรงและลีบ (hypotrophy) ชี้ชัดว่ามีพยาธิสภาพที่ LMNs ซึ่งเซลล์ประสาทเหล่านี้อยู่ที่ไขสันหลัง (spinal cord)",
+                    answer: "Cerebral cortex",
+                    select: "",
+                    explain: "อาการกล้ามเนื้ออ่อนแรง (muscle weakness) ที่มีลักษณะเป็นแบบก้าวหน้า (progressive) และมีอาการกลืนลำบาก (dysphagia) กับพูดไม่ชัด (dysarthria) ร่วมด้วย เป็นลักษณะเด่นของ Amyotrophic Lateral Sclerosis (ALS) ซึ่งเป็นโรคที่ทำลายเซลล์ประสาทมอเตอร์ทั้งใน cerebral cortex (upper motor neurons) และ spinal cord (lower motor neurons) การที่ผู้ป่วยมีอาการกล้ามเนื้อฝ่อลง (muscle atrophy) และกล้ามเนื้อกระตุกเป็นพักๆ (fasciculations) บ่งชี้ถึงการมี involvement ของ lower motor neurons ด้วย แต่ต้นตอของโรคนี้มักเริ่มที่ cerebral cortex",
             state: false
         }, {
             problem: "21. A 66-year-old male presented at the ER with the complaint of worsening unsteadiness on his feet, nausea, vomiting and double vision. 4 days prior to admission, he has persistent nausea and vomiting and noticed double vision. He can sit up on bed unsupported. Neurological examination reveals wide-based gait with inability to walk on tandem gait. Tone and muscle strength was normal. According to this case, where is the lesion?",
@@ -6230,9 +6230,9 @@ var quizdata = {
             problem: "60. Which one is the most compatible route for bacterial infection of spinal epidural abscess after lumbar puncture?",
             img: "",
             choices: "Axonal transferring///Direct implantation///Hematogenous spreading///CSF spreading///Local extension",
-        answer: "CSF spreading",
-        select: "",
-        explain: "การทำ lumbar puncture (LP) เป็นการเจาะผ่านผิวหนัง กล้ามเนื้อ และเยื่อหุ้มสมองสันหลัง (dura mater) เพื่อเข้าถึงโพรงไขสันหลัง (subarachnoid space) ซึ่งเป็นช่องที่มีน้ำหล่อเลี้ยงสมองและไขสันหลัง (CSF) การเจาะนี้อาจทำให้เชื้อแบคทีเรียจากผิวหนังหรือสิ่งแวดล้อมภายนอกเข้าสู่ช่อง CSF ได้ หากมีการติดเชื้อใน CSF เชื้อแบคทีเรียสามารถแพร่กระจายไปยังพื้นที่รอบๆ เช่น epidural space ผ่านทาง CSF spreading ทำให้เกิด spinal epidural abscess ได้",
+            answer: "CSF spreading",
+            select: "",
+            explain: "การทำ lumbar puncture (LP) เป็นการเจาะผ่านผิวหนัง กล้ามเนื้อ และเยื่อหุ้มสมองสันหลัง (dura mater) เพื่อเข้าถึงโพรงไขสันหลัง (subarachnoid space) ซึ่งเป็นช่องที่มีน้ำหล่อเลี้ยงสมองและไขสันหลัง (CSF) การเจาะนี้อาจทำให้เชื้อแบคทีเรียจากผิวหนังหรือสิ่งแวดล้อมภายนอกเข้าสู่ช่อง CSF ได้ หากมีการติดเชื้อใน CSF เชื้อแบคทีเรียสามารถแพร่กระจายไปยังพื้นที่รอบๆ เช่น epidural space ผ่านทาง CSF spreading ทำให้เกิด spinal epidural abscess ได้",
             state: false
         }, {
             problem: "62. Complication of rapid correction of hyponatremia?",
