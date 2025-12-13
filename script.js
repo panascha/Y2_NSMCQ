@@ -4124,10 +4124,10 @@ var quizdata = {
         {
             "problem": "18. A 18 year old having hyperorality, hypersexuality, and docility with some level of amnesia which would be abnormal finding in the patient?",
             "img": "",
-            "choices": "Bilaterally amygdala lesion///Occipitotemporal lesion///Bilateral medial temporal lesion///Bilateral posterior temporal lesion///Urbach-Wiethe syndrome",
-            "answer": "Bilateral amygdala lesion",
+            "choices": "Bilateral amygdala lesion///Occipitotemporal lesion///Bilateral medial temporal lesion///Bilateral posterior temporal lesion///Urbach-Wiethe syndrome",
+            "answer": "Bilateral medial temporal lesion",
             "select": "",
-            "explain": "กลุ่มอาการที่ประกอบด้วย Hyperorality (เอาของเข้าปาก), Hypersexuality, Docility (ความเชื่อง), และ Amnesia (ความจำเสื่อม) เป็นลักษณะของ Klüver-Bucy syndrome ซึ่งเกิดจากพยาธิสภาพที่ทำลาย Medial temporal lobes ทั้งสองข้าง โดยเฉพาะอย่างยิ่ง Amygdala",
+            "explain": "อาการ Hyperorality, Hypersexuality, Docility และ Amnesia เป็นลักษณะของ Kluver-Bucy syndrome ซึ่งเกิดจาก Bilateral lesion ที่ Medial temporal lobes (รวมถึง Amygdala และ Hippocampus) ดังนั้น Bilateral medial temporal lesion จึงเป็นสาเหตุที่ถูกต้องของอาการเหล่านี้",
             "state": false
         },
         {
@@ -5382,9 +5382,9 @@ var quizdata = {
             "problem": "9. What CSF profile is specific for Gnathostomiasis?",
             "img": "",
             "choices": "Elevated eosinophil///Increase Protein in CSF///Xanthochromia///Low glucose///Normal cell count",
-            "answer": "Elevated eosinophil",
+            "answer": "Xanthochromia",
             "select": "",
-            "explain": "Neurognathostomiasis เป็นหนึ่งในสาเหตุสำคัญของ Eosinophilic meningoencephalitis ดังนั้นการตรวจพบเม็ดเลือดขาวอีโอสิโนฟิลในปริมาณสูง (Elevated eosinophil) ในน้ำไขสันหลัง (CSF) จึงเป็นลักษณะที่จำเพาะที่สุดในกลุ่มตัวเลือกนี้ นอกจากนี้อาจพบ Xanthochromia (CSF สีเหลือง) ได้เนื่องจากการมีเลือดออก และโปรตีนสูงได้ แต่การพบ eosinophil สูงเป็นลักษณะเด่นที่สุด",
+            "explain": "ลักษณะเฉพาะของน้ำไขสันหลัง (CSF) ในผู้ป่วยที่ติดเชื้อพยาธิตัวจี๊ด (Gnathostomiasis) คือ การมีลักษณะสีเหลืองทอง (xanthochromia) ซึ่งเกิดจากการแตกของเม็ดเลือดแดงในน้ำไขสันหลัง ทำให้มีสารประกอบเฮโมโกลบินและบิลิรูบินอยู่ในน้ำไขสันหลัง ส่งผลให้น้ำไขสันหลังมีสีเหลืองทองผิดปกติ นอกจากนี้ยังพบการเพิ่มขึ้นของเม็ดเลือดขาวชนิดอีโอสิโนฟิล (elevated eosinophils) ร่วมด้วย แต่ xanthochromia เป็นลักษณะที่จำเพาะมากกว่า เนื่องจาก Parasite อื่นๆ มักไม่ทำให้เกิดลักษณะนี้",
             "state": false
         },
         {
@@ -6046,9 +6046,9 @@ var quizdata = {
             problem: "19. During the experiment, a thai female student has made a lesion on one tract of the animal. After the lesion, she found the animal fails to regulate the motor tone of anti-gravity muscle giving rise to hypotonic of the anti-gravity muscle at left lower limbs. According to this information, the lesion should occur to which tract?",
             img: "",
             choices: "Tectospinal tract///Corticospinal tract///Lateral reticulospinal tract///Medial vestibulospinal tract///Rubrospinal tract",
-            answer: "Medial vestibulospinal tract",
-            select: "",
-            explain: "Anti-gravity muscles คือกล้ามเนื้อที่ใช้ในการทรงตัวต้านแรงโน้มถ่วง ส่วนใหญ่คือกล้ามเนื้อ extensor ซึ่งถูกควบคุมโดย descending tracts หลายเส้น โดย tract ที่มีหน้าที่สำคัญในการกระตุ้น (excitatory) กล้ามเนื้อ extensor คือ Vestibulospinal tracts และ Pontine (Medial) reticulospinal tract การเกิด hypotonia (กล้ามเนื้ออ่อนแรง, tone ลดลง) แสดงว่ามีการทำลาย tract ที่ทำหน้าที่กระตุ้น ในตัวเลือกนี้ Medial vestibulospinal tract เป็นส่วนหนึ่งของระบบ vestibulospinal ที่มีบทบาทในการรักษาสมดุลและกระตุ้น extensor แม้ว่า Lateral vestibulospinal tract จะมีบทบาทต่อขามากกว่า แต่ในตัวเลือกนี้ Medial vestibulospinal tract เป็นคำตอบที่ดีที่สุดที่อยู่ในกลุ่ม excitatory tract ต่อ anti-gravity muscles",
+        answer: "Lateral vestibulospinal tract",
+        select: "",
+        explain: "Lateral vestibulospinal tract มีหน้าที่สำคัญในการควบคุมโทนของกล้ามเนื้อป้องกันแรงโน้มถ่วง (anti-gravity muscles) เช่น กล้ามเนื้อ extensors ของแขนขา เพื่อรักษาท่าทางและการทรงตัว เมื่อมีรอยโรคที่ lateral vestibulospinal tract จะทำให้กล้ามเนื้อเหล่านี้อ่อนแรง (hypotonia) เนื่องจากขาดการกระตุ้นที่เหมาะสม ในกรณีนี้ ผู้ป่วยมี hypotonia ที่ขาซ้าย ซึ่งบ่งชี้ว่ารอยโรคเกิดที่ lateral vestibulospinal tract ด้านขวา (crossed pathway) ซึ่งเป็นสาเหตุของอาการที่พบ",
             state: false
         }, {
             problem: "20. A 65 year-old Thai male came to the hospital due to muscle weakness. He cannot lift his arm and he's not good at picking things up. Later on, the symptoms of easily choking and slurred speech are developed. He also has muscle hypotrophy and muscle throughout the body periodically. Where is the lesion?",
@@ -6181,7 +6181,7 @@ var quizdata = {
         }, {
             problem: "44. Which part of bone that has a fracture cause ‘Raccoon eye’",
             img: "",
-            choices: "Fracture Ethmoid bone///Fracture mastoid part of temporal bone///Fracture skull cap///Fracture base of skull///Fracture of nasal bone",
+        choices: "Fracture Ethmoid bone///Fracture mastoid part of temporal bone///Fracture skull cap///Fracture Base of skull///Fracture of nasal bone",
         answer: "Fracture Base of skull",
         select: "",
             explain: "Raccoon eye (periorbital ecchymosis) คืออาการบวมและช้ำรอบดวงตา มักเกิดจากการแตกของกะโหลกศีรษะบริเวณฐานกะโหลก (base of skull fracture) ซึ่งทำให้เลือดจากโพรงสมองหรือช่อง subarachnoid ไหลลงมาสะสมที่บริเวณรอบดวงตา เนื่องจากแรงโน้มถ่วง",
@@ -14822,12 +14822,12 @@ var quizdata = {
             "state": false
         },
         {
-            "problem": "32. A child experiences a sudden brief loss of responsiveness where they stare blankly for a few seconds. This type of seizure is associated with high-frequency, low-amplitude firing in the thalamocortical loop, a characteristic of:",
+            "problem": "32. A child experiences a sudden brief loss of responsiveness where they stare blankly for a few seconds. This type of seizure is associated with low-frequency, high-amplitude firing in the thalamocortical loop, a characteristic of:",
             "img": "",
             "choices": "Desynchronization and tonic firing///Desynchronization and burst firing///Synchronization and tonic firing///Synchronization and burst firing///Tonic-clonic movements",
             "answer": "Synchronization and burst firing",
             "select": "",
-            "explain": "Absence seizure หรือลมชักเหม่อ เป็นชนิดหนึ่งของการชักที่เกิดจากความผิดปกติในวงจร Thalamocortical loop โดยมีการยิงสัญญาณของเซลล์ประสาทแบบเป็นชุด (Burst firing) ที่มีการซิงโครไนซ์สูงมาก ทำให้เกิดรูปแบบคลื่น Spike and wave ที่มีความถี่ 3 Hz ซึ่งเป็นลักษณะที่ผิดปกติ",
+            "explain": "การชักแบบ Absence seizure มีลักษณะเฉพาะคือ การซิงโครไนซ์ของคลื่นไฟฟ้าสมอง (Synchronization) ร่วมกับการยิงสัญญาณประสาทแบบเป็นชุด (Burst firing) ในวงจร Thalamocortical ซึ่งทำให้เกิดอาการหยุดนิ่งและไม่ตอบสนองชั่วคราว",
             "state": false
         },
         {
