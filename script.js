@@ -3898,7 +3898,7 @@ var quizdata = {
             "problem": "44. can't identify source of sound, nucleus ไหนผิดปกติ (Cannot identify the source of sound, which nucleus is abnormal?)",
             "img": "",
             "choices": "Inferior colliculus///Cochlea///Superior olivary nucleus///Inferior olivary nucleus///Trapezoid",
-            "answer": "Superior olivary",
+            "answer": "Superior olivary nucleus",
             "select": "",
             "explain": "ความสามารถในการระบุตำแหน่งของแหล่งกำเนิดเสียง (sound localization) อาศัยการเปรียบเทียบความแตกต่างของเวลา (interaural time difference) และความดัง (interaural intensity difference) ของเสียงที่มาถึงหูทั้งสองข้าง ซึ่งกระบวนการเปรียบเทียบนี้เกิดขึ้นเป็นครั้งแรกที่ Superior olivary complex (nucleus) ใน brainstem",
             "state": false
@@ -5011,9 +5011,9 @@ var quizdata = {
             "problem": "36. Damaged to the flocculonodular lobe, which structure is most impacted?",
             "img": "",
             "choices": "Dentate nucleus///Fastigial nucleus///Globose nucleus///Emboliform nucleus///Vestibular nucleus",
-            "answer": "Fastigial nucleus",
+            "answer": "Vestibular nucleus",
             "select": "",
-            "explain": "Flocculonodular lobe เป็นส่วนของ Vestibulocerebellum ซึ่งทำหน้าที่เกี่ยวกับการทรงตัวและการเคลื่อนไหวของตา Purkinje cells จาก Lobe นี้จะส่งสัญญาณไปยับยั้ง (project to) deep cerebellar nuclei ที่เกี่ยวข้องคือ Fastigial nucleus และ Vestibular nuclei โดยตรง ดังนั้นเมื่อ Flocculonodular lobe เสียหาย สัญญาณที่ไปยัง Fastigial nucleus จะได้รับผลกระทบโดยตรง",
+            "explain": "Flocculonodular lobe เป็นส่วนของ Vestibulocerebellum ซึ่งทำหน้าที่เกี่ยวกับการทรงตัวและการเคลื่อนไหวของตา Purkinje cells จาก Lobe นี้จะส่งสัญญาณไปยับยั้ง (project to) deep cerebellar nuclei ที่เกี่ยวข้องคือ Vestibular nuclei โดยตรง ดังนั้นเมื่อ Flocculonodular lobe เสียหาย สัญญาณที่ไปยัง Vestibular nuclei จะลดลง ส่งผลให้การทรงตัวและการเคลื่อนไหวของตาผิดปกติ",
             "state": false
         },
         {
@@ -6230,9 +6230,9 @@ var quizdata = {
             problem: "60. Which one is the most compatible route for bacterial infection of spinal epidural abscess after lumbar puncture?",
             img: "",
             choices: "Axonal transferring///Direct implantation///Hematogenous spreading///CSF spreading///Local extension",
-            answer: "Direct implantation",
-            select: "",
-            explain: "Spinal epidural abscess คือฝีหนองในช่องไขสันหลังชั้น epidural space การเกิดภาวะนี้หลังจากการทำหัตถการเจาะน้ำไขสันหลัง (lumbar puncture) มีสาเหตุที่เข้าได้มากที่สุดคือ Direct implantation หรือการที่เชื้อแบคทีเรียจากผิวหนังของผู้ป่วยถูกนำพาเข้าไปพร้อมกับเข็มที่ใช้เจาะ หากการทำความสะอาดผิวหนังก่อนทำหัตถการ (aseptic technique) ไม่ดีพอ",
+        answer: "CSF spreading",
+        select: "",
+        explain: "การทำ lumbar puncture (LP) เป็นการเจาะผ่านผิวหนัง กล้ามเนื้อ และเยื่อหุ้มสมองสันหลัง (dura mater) เพื่อเข้าถึงโพรงไขสันหลัง (subarachnoid space) ซึ่งเป็นช่องที่มีน้ำหล่อเลี้ยงสมองและไขสันหลัง (CSF) การเจาะนี้อาจทำให้เชื้อแบคทีเรียจากผิวหนังหรือสิ่งแวดล้อมภายนอกเข้าสู่ช่อง CSF ได้ หากมีการติดเชื้อใน CSF เชื้อแบคทีเรียสามารถแพร่กระจายไปยังพื้นที่รอบๆ เช่น epidural space ผ่านทาง CSF spreading ทำให้เกิด spinal epidural abscess ได้",
             state: false
         }, {
             problem: "62. Complication of rapid correction of hyponatremia?",
