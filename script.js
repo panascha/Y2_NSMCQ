@@ -3673,9 +3673,9 @@ var quizdata = {
             "problem": "19. คนไข้มาด้วย resting tremor, cogwheel rigidity and chorea typically เป็นโรคอะไร (A patient presents with resting tremor, cogwheel rigidity, and chorea. What is this disease typically?)",
             "img": "",
             "choices": "Huntington///Parkinson///Hemiballismus///Meningitis///Cerebellar disease",
-            "answer": "Huntington",
+            "answer": "Parkinson",
             "select": "",
-            "explain": "โจทย์นี้มีความซับซ้อนเพราะผสมอาการของกลุ่มโรคต่างกัน Resting tremor และ cogwheel rigidity เป็นลักษณะเด่นของ Parkinson's disease (hypokinetic) ในขณะที่ Chorea เป็นลักษณะเด่นของ Huntington's disease (hyperkinetic) อย่างไรก็ตาม ในผู้ป่วย Huntington's disease บางราย โดยเฉพาะในระยะท้ายของโรคหรือในกลุ่ม Juvenile Huntington's อาจพบอาการคล้ายพาร์กินสัน (parkinsonism) เช่น rigidity ร่วมกับ chorea ได้ ดังนั้น Huntington จึงเป็นคำตอบที่เป็นไปได้มากที่สุดสำหรับอาการผสมนี้",
+            "explain": "อาการสั่นขณะพัก (resting tremor), ความแข็งของกล้ามเนื้อแบบ cogwheel rigidity, และการเคลื่อนไหวที่ผิดปกติ (chorea) เป็นอาการที่พบบ่อยในโรคพาร์กินสัน (Parkinson's disease) ซึ่งเกิดจากการเสื่อมของเซลล์ประสาทที่ผลิตโดปามีนใน substantia nigra",
             "state": false
         },
         {
@@ -12203,9 +12203,9 @@ var quizdata = {
             "problem": "17. A patient presents with truncal ataxia, characterized by difficulty maintaining balance while sitting or standing (wide-based gait), but has no significant limb incoordination. Which cerebellar zone is most likely affected?",
             "img": "",
             "choices": "Lateral hemisphere (Cerebrocerebellum)///Dentate nucleus (Deep cerebellar nucleus)///Flocculonodular lobe (Vestibulocerebellum)///Medial vermal zone (Spinocerebellum)///Intermediate paravermal zone",
-            "answer": "Medial vermal zone (Spinocerebellum)",
+            "answer": "Flocculonodular lobe (Vestibulocerebellum)",
             "select": "",
-            "explain": "Cerebellar vermis ซึ่งเป็นส่วนหนึ่งของ Spinocerebellum มีหน้าที่หลักในการควบคุมกล้ามเนื้อแกนกลางลำตัว Axial muscle และการทรงตัวของลำตัว Trunk balance รอยโรคที่ Vermis ทำให้เกิด Truncal ataxia",
+            "explain": "Truncal ataxia เป็นอาการที่บ่งบอกถึงความผิดปกติของการทรงตัวและการควบคุมลำตัว ซึ่งเกี่ยวข้องกับ Flocculonodular lobe หรือ Vestibulocerebellum ที่ทำหน้าที่ในการประสานงานกับระบบการทรงตัว Vestibular system หากส่วนนี้เสียหายจะทำให้เกิดอาการเดินเซแบบ Truncal ataxia โดยไม่มีอาการของ Appendicular ataxia ที่เกี่ยวข้องกับแขนขา",
             "state": false
         },
         {
@@ -12624,7 +12624,7 @@ var quizdata = {
             "problem": "A key finding in the EMG/NCV reaction for a Lower Motor Neuron (LMN) lesion involves the presence of:",
             "img": "",
             "choices": "Increased nerve conduction velocity (NCV)///Decreased nerve conduction velocity (NCV)///Normal nerve conduction velocity (NCV) with positive sharp waves///Normal nerve conduction velocity (NCV) with absent fibrillation///Reduced motor unit action potential (MUAP) amplitude with normal sensory NCV",
-            "answer": "Normal nerve conduction velocity (NCV) with positive sharp waves",
+            "answer": "Reduced motor unit action potential (MUAP) amplitude with normal sensory NCV",
             "select": "",
             "explain": "LMN lesion ที่ Anterior horn cell จะมีผลกระทบต่อ Motor nerve fibers แต่ Sensory nerve fibers ยังคงอยู่ ดังนั้น NCV ของ Motor nerve จะผิดปกติ (หรือวัดไม่ได้) แต่ NCV ของ Sensory nerve จะยังปกติ และ EMG จะพบ Denervation potentials เช่น Positive sharp waves และ Fibrillation potentials"
         },
