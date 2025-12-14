@@ -3506,6 +3506,557 @@ var quizdata = {
             state: false
         }
     ],
+    "Cerebrum Motor Limbic Eye Ear from MCQ1": [
+        {
+            "problem": "3. Which structure link frontal with anterior temporal lobe?",
+            "img": "",
+            "choices": "Superior longitudinal fasciculus///Inferior longitudinal fasciculus///Uncinate fasciculus///Anterior commissure///Commissural fiber",
+            "answer": "Uncinate fasciculus",
+            "select": "",
+            "explain": "Uncinate fasciculus เป็น association fiber bundle ที่มีลักษณะคล้ายตะขอ (hook-shaped) ทำหน้าที่เชื่อมต่อระหว่างสมองส่วนหน้า (frontal lobe) บริเวณ orbital and inferior frontal gyri กับสมองส่วนขมับด้านหน้า (anterior temporal lobe)",
+            "state": false
+        },
+        {
+            "problem": "6. What separates the parietal and occipital lobes from the cerebellum?",
+            "img": "",
+            "choices": "Falx cerebri///Falx cerebelli///Superior sagittal sinus///Tentorium cerebelli///Dural septa",
+            "answer": "Tentorium cerebelli",
+            "select": "",
+            "explain": "Tentorium cerebelli เป็นแผ่น dural fold ที่ขึงในแนวนอน กั้นระหว่าง cerebrum (โดยเฉพาะ occipital และ temporal lobes) ที่อยู่ด้านบน กับ cerebellum ที่อยู่ด้านล่าง เปรียบเสมือน เต็นท์ ที่คลุมสมองน้อยไว้",
+            "state": false
+        },
+        {
+            "problem": "8. Which arteries does not contribute to circle of Willis?",
+            "img": "",
+            "choices": "ICA///ACA///MCA///ACOM///PCOM",
+            "answer": "MCA",
+            "select": "",
+            "explain": "Circle of Willis เป็นโครงข่ายหลอดเลือดแดงที่ฐานสมอง ประกอบด้วย Anterior communicating artery (ACOM), Anterior cerebral arteries (ACA), Internal carotid arteries (ICA), Posterior communicating arteries (PCOM), และ Posterior cerebral arteries (PCA) ส่วน Middle cerebral artery (MCA) เป็นแขนงที่ใหญ่ที่สุดของ ICA แต่ไม่ได้เป็นส่วนหนึ่งของวงแหวนโดยตรง",
+            "state": false
+        },
+        {
+            "problem": "9. Which structure connects lateral and third ventricle?",
+            "img": "",
+            "choices": "Foramen of Monro///Foramen of Luschka///Foramen of Magendie///Cerebral aqueduct///Central canal",
+            "answer": "Foramen of Monro",
+            "select": "",
+            "explain": "Foramen of Monro หรือ Interventricular foramen เป็นช่องทางเชื่อมต่อระหว่าง Lateral ventricles (ซึ่งมี 2 ข้าง ซ้าย-ขวา) กับ Third ventricle ที่อยู่ตรงกลาง ทำให้ CSF สามารถไหลจาก lateral ventricles ไปยัง third ventricle ได้",
+            "state": false
+        },
+        {
+            "problem": "10. A 3-day out infant is diagnosed with non-communicating hydrocephalus. What is the cause of this condition?",
+            "img": "",
+            "choices": "Aneurysm of artery in the brain///Obstruction of CSF flow///Excess CSF production///Displaced brain tissue under falx cerebri///Impaired CSF absorption",
+            "answer": "Obstruction of CSF flow",
+            "select": "",
+            "explain": "Non-communicating hydrocephalus หรือ Obstructive hydrocephalus เกิดจากการอุดตันของทางเดินน้ำหล่อเลี้ยงสมองและไขสันหลัง (CSF) ภายใน ventricular system ทำให้ CSF ไม่สามารถไหลออกมาสู่ subarachnoid space ได้ ตำแหน่งที่อุดตันบ่อยในทารกคือ cerebral aqueduct",
+            "state": false
+        },
+        {
+            "problem": "15. What connects the frontal lobe to the anterior temporal lobe?",
+            "img": "",
+            "choices": "Uncinate fasciculus///Superior longitudinal fasciculus///Cingulum///Inferior longitudinal fasciculus///Anterior commissure",
+            "answer": "Uncinate fasciculus",
+            "select": "",
+            "explain": "Uncinate fasciculus เป็น association fiber ที่มีลักษณะคล้ายตะขอ ทำหน้าที่เชื่อมต่อระหว่างสมองส่วนหน้า (frontal lobe) กับสมองส่วนขมับด้านหน้า (anterior temporal lobe) ซึ่งเป็นคำถามเดียวกับข้อ 3",
+            "state": false
+        },
+        {
+            "problem": "33. The patient came with stroke from arterial occlusion and presented with dysphagia, dysarthria, thermoanesthesia on the left side of the face and loss of pain and temperature sensation of right limbs. Which artery is most likely to be affected?",
+            "img": "",
+            "choices": "Posterior cerebral artery///Anterior inferior cerebellar artery///Posterior inferior cerebellar artery///Basilar artery///Anterior spinal artery",
+            "answer": "Posterior inferior cerebellar artery",
+            "select": "",
+            "explain": "กลุ่มอาการนี้เรียกว่า Lateral Medullary Syndrome หรือ Wallenberg's syndrome ซึ่งเกิดจาก stroke ที่บริเวณด้านข้างของ Medulla oblongata อาการประกอบด้วย: 1. Thermoanesthesia on the left side of the face (ใบหน้าซีกซ้ายชา ไม่รู้สึกร้อนเย็น) เกิดจากการทำลาย spinal trigeminal nucleus ข้างซ้าย 2. Loss of pain and temperature sensation of right limbs (แขนขาขวาเสียความรู้สึกเจ็บและอุณหภูมิ) เกิดจากการทำลาย spinothalamic tract ข้างซ้ายซึ่งไขว้มาจากด้านขวาแล้ว 3. Dysphagia (กลืนลำบาก), Dysarthria (พูดไม่ชัด) เกิดจากการทำลาย nucleus ambiguus. กลุ่มอาการทั้งหมดนี้เกิดจากการขาดเลือดที่ไปเลี้ยงจากหลอดเลือด Posterior Inferior Cerebellar Artery (PICA)",
+            "state": false
+        },
+        {
+            "problem": "36. Patient with involuntary movements half of the body, writhing, violent, sudden onset. Which nucleus has a lesion?",
+            "img": "",
+            "choices": "Anterior thalamic nucleus///Subthalamic nucleus///Supraoptic nucleus///Suprachiasmatic nucleus///VPM",
+            "answer": "Subthalamic nucleus",
+            "select": "",
+            "explain": "อาการเคลื่อนไหวผิดปกติแบบรุนแรง สะบัดเหวี่ยงแขนขาครึ่งซีก (violent, involuntary movements half of the body) เรียกว่า Hemiballismus ซึ่งเกิดจากรอยโรคที่ Subthalamic nucleus ของด้านตรงข้าม โดย Subthalamic nucleus เป็นส่วนหนึ่งของ Basal ganglia ที่ทำหน้าที่ใน indirect pathway เพื่อยับยั้งการเคลื่อนไหวที่ไม่ต้องการ",
+            "state": false
+        },
+        {
+            "problem": "41. A patient eats only the food on the left side of their plate. Where is the lesion?",
+            "img": "",
+            "choices": "Right temporal lobe///Right parietal lobe///Left parietal lobe///Right insular lobe///Left temporal lobe",
+            "answer": "Right parietal lobe",
+            "select": "",
+            "explain": "อาการที่ผู้ป่วยสนใจหรือรับรู้สิ่งต่างๆ แค่ครึ่งซีก (ในที่นี้คือสนใจอาหารแค่ด้านซ้าย) เรียกว่า Contralateral neglect หรือ Hemispatial neglect syndrome ซึ่งเกิดจากรอยโรคที่สมองซีกที่ไม่ได้เป็นซีกเด่น (non-dominant hemisphere) ซึ่งในคนส่วนใหญ่คือสมองซีกขวา โดยเฉพาะที่บริเวณ Right parietal lobe",
+            "state": false
+        },
+        {
+            "problem": "42. A patient holds a key in their right hand but cannot identify what they are holding with eyes closed. Where is the likely lesion?",
+            "img": "",
+            "choices": "Left frontal lobe///Left parietal lobe///Left temporal lobe///Right parietal lobe///Right occipital lobe",
+            "answer": "Left parietal lobe",
+            "select": "",
+            "explain": "ภาวะที่ไม่สามารถบอกได้ว่าของในมือคืออะไรจากการคลำโดยไม่ใช้สายตา เรียกว่า Astereognosis ซึ่งเป็นความผิดปกติของการประมวลผลความรู้สึกในระดับสูง (somatosensory association) ซึ่งทำหน้าที่ใน Parietal lobe. เมื่อผู้ป่วยถือของในมือขวา ข้อมูลจะถูกส่งไปประมวลผลที่สมองซีกซ้าย ดังนั้นรอยโรคจึงน่าจะอยู่ที่ Left parietal lobe",
+            "state": false
+        },
+        {
+            "problem": "43. A patient can speak fluently but the speech is disordered and nonsensical, and they have poor comprehension. Which of the following aphasia is this?",
+            "img": "",
+            "choices": "Global aphasia///Wernicke aphasia///Broca aphasia///Conduction aphasia///Transcortical motor aphasia",
+            "answer": "Wernicke aphasia",
+            "select": "",
+            "explain": "Aphasia (ภาวะเสียการสื่อความ) ที่ผู้ป่วยยังพูดได้คล่อง (fluent) แต่เนื้อหาที่พูดกลับสับสน ฟังไม่รู้เรื่อง ใช้คำผิด หรือสร้างคำใหม่ๆ ขึ้นมา (disordered speech) และมีปัญหาในการทำความเข้าใจภาษา (poor comprehension) เรียกว่า Wernicke's aphasia หรือ Receptive aphasia ซึ่งเกิดจากรอยโรคที่ Wernicke's area ใน temporal lobe",
+            "state": false
+        },
+        {
+            "problem": "44. A man cannot speak fluently but responds to questions by shaking his head. He has lower facial weakness of the right side. Which part of cerebrum has lesion?",
+            "img": "",
+            "choices": "Left frontal lobe///Left temporal lobe///Right frontal lobe///Right parietal lobe///Left parietal lobe",
+            "answer": "Left frontal lobe",
+            "select": "",
+            "explain": "ภาวะที่ผู้ป่วยพูดไม่คล่อง พูดตะกุกตะกัก (non-fluent speech) แต่ยังเข้าใจคำสั่งหรือคำถามได้ดี (intact comprehension) เรียกว่า Broca's aphasia หรือ Expressive aphasia. รอยโรคจะอยู่ที่ Broca's area ซึ่งอยู่ใน inferior frontal gyrus ของสมองซีกเด่น (dominant hemisphere) ซึ่งส่วนใหญ่คือ Left frontal lobe. รอยโรคที่นี่ยังอาจกระทบ motor cortex ที่อยู่ใกล้เคียง ทำให้เกิดอาการอ่อนแรงของร่างกายซีกตรงข้าม (right side) ได้",
+            "state": false
+        },
+        {
+            "problem": "45. A patient with memory loss has an MRI. The doctor notes that the hippocampal formation is dramatically degenerated. Which of the following describes the effect on ventricular system?",
+            "img": "",
+            "choices": "No change///Enlargement of lateral ventricle///Enlargement of third ventricle///Enlargement of fourth ventricle///Shrinkage of lateral ventricle",
+            "answer": "Enlargement of lateral ventricle",
+            "select": "",
+            "explain": "Hippocampus เป็นส่วนหนึ่งของ medial temporal lobe และเป็นโครงสร้างที่อยู่ชิดกับ inferior horn ของ Lateral ventricle. เมื่อเกิดภาวะสมองฝ่อ (atrophy) ที่ Hippocampus เช่นในโรคอัลไซเมอร์ เนื้อสมองจะลดขนาดลง ทำให้ช่องว่างของ Ventricle ที่อยู่ติดกันขยายขนาดขึ้นมาชดเชยที่ว่างนั้น ซึ่งเรียกว่า hydrocephalus ex vacuo ดังนั้นจะพบการขยายใหญ่ขึ้นของ Lateral ventricle",
+            "state": false
+        },
+        {
+            "problem": "46. Some people eat chocolate and feel rewarding, which part of brain is most associated with this response?",
+            "img": "",
+            "choices": "Subiculum///Amygdala///Hippocampus///Nucleus accumbens///Cerebellum",
+            "answer": "Nucleus accumbens",
+            "select": "",
+            "explain": "ความรู้สึกพึงพอใจหรือเป็นรางวัล (rewarding feeling) เกี่ยวข้องกับ Reward pathway ของสมอง ซึ่งมีโครงสร้างหลักคือ Nucleus accumbens และ Ventral Tegmental Area (VTA) ที่ใช้สารสื่อประสาท Dopamine เป็นหลัก Amygdala ก็มีบทบาทในการประมวลผลทางอารมณ์ที่เกี่ยวกับรางวัลด้วย แต่ Nucleus accumbens ถือเป็นศูนย์กลางของความพึงพอใจโดยตรง",
+            "state": false
+        },
+        {
+            "problem": "60. Some people eat chocolate and feel rewarding, which part of brain associated with response to chocolate?",
+            "img": "",
+            "choices": "Subiculum///Amygdala///Hippocampus///Nucleus accumbens///Cerebellum",
+            "answer": "Nucleus accumbens",
+            "select": "",
+            "explain": "เป็นคำถามเดียวกับข้อ 46 ความรู้สึกพึงพอใจหรือเป็นรางวัล (rewarding feeling) เกี่ยวข้องกับ Reward pathway ของสมอง ซึ่งมีโครงสร้างหลักคือ Nucleus accumbens และ Ventral Tegmental Area (VTA) ที่ใช้สารสื่อประสาท Dopamine เป็นหลัก",
+            "state": false
+        },
+        {
+            "problem": "1. Which sulcus is connected to the calcarine fissure?",
+            "img": "",
+            "choices": "Parieto-occipital sulcus///Central sulcus///Sylvian fissure///Collateral sulcus///Superior temporal sulcus",
+            "answer": "Parieto-occipital sulcus",
+            "select": "",
+            "explain": "Parieto occipital sulcus เป็นร่องลึกบน medial surface ของ cerebral hemisphere ทำหน้าที่แบ่ง parietal lobe ออกจาก occipital lobe ส่วนปลายของ sulcus นี้จะมาเชื่อมต่อกับ calcarine fissure ซึ่งเป็นร่องหลักที่เป็นที่อยู่ของ primary visual cortex (Brodmann area 17)",
+            "state": false
+        },
+        {
+            "problem": "2. Which of the following structures connects the different cerebral cortical areas of the same side?",
+            "img": "",
+            "choices": "Corpus callosum///Corona radiata///Cingulum///Anterior commissure///Internal capsule",
+            "answer": "Cingulum",
+            "select": "",
+            "explain": "Cingulum เป็น association fiber bundle ที่เชื่อมต่อส่วนต่างๆของ cerebral cortex ในซีกสมองเดียวกัน โดยเฉพาะส่วนของ limbic lobe ส่วน Corpus callosum และ Anterior commissure เป็น commissural fibers ที่เชื่อมสมองสองซีกเข้าด้วยกัน และ Corona radiata และ Internal capsule เป็น projection fibers ที่เชื่อม cortex กับโครงสร้างที่อยู่ลึกลงไป",
+            "state": false
+        },
+        {
+            "problem": "7. Given that there is basilar artery occlusion, which artery would most likely be affected?",
+            "img": "",
+            "choices": "Posterior inferior cerebellar a.///Anterior cerebral a.///Middle cerebral a.///Posterior cerebral a.///Anterior communicating a.",
+            "answer": "Posterior cerebral a.",
+            "select": "",
+            "explain": "Basilar artery เป็นหลอดเลือดที่เกิดจากการรวมตัวของ vertebral arteries สองข้าง และจะสิ้นสุดโดยการแตกแขนงออกเป็น Posterior cerebral artery (PCA) สองเส้น ดังนั้นการอุดตันของส่วนปลายของ basilar artery จะส่งผลกระทบโดยตรงต่อการไหลเวียนเลือดใน PCA มากที่สุด",
+            "state": false
+        },
+        {
+            "problem": "9. A patient has arachnoid villi hypertrophy from sinus thrombosis and distention, resulting in increasing CSF pressure. Which of the following sinuses is most likely to be occluded?",
+            "img": "",
+            "choices": "Transverse///Straight///Inferior sagittal///Superior sagittal///Sigmoid",
+            "answer": "Superior sagittal",
+            "select": "",
+            "explain": "Arachnoid villi หรือ arachnoid granulation เป็นโครงสร้างที่ทำหน้าที่ดูดซึมน้ำหล่อเลี้ยงสมองไขสันหลัง (CSF) จาก subarachnoid space กลับเข้าสู่ระบบหลอดเลือดดำ โดยพบหนาแน่นที่สุดที่ Superior sagittal sinus ดังนั้นการอุดตันหรือโตผิดปกติของ villi บริเวณนี้จะขัดขวางการระบาย CSF และทำให้ความดันในกะโหลกศีรษะสูงขึ้น",
+            "state": false
+        },
+        {
+            "problem": "12. From homunculus(*) The patient has loss sensation at anterior two third of the tongue. Which of the following is the most like the lesion?",
+            "img": "",
+            "choices": "Anterior cerebral artery///Middle cerebral artery///Posterior cerebral artery///Anterior communicating artery///Posterior communicating artery",
+            "answer": "Middle cerebral artery",
+            "select": "",
+            "explain": "ตามแผนที่ Sensory Homunculus บริเวณของ cerebral cortex ที่รับความรู้สึกจากใบหน้าและลิ้น (face and tongue area) จะอยู่ที่ lateral aspect ของ postcentral gyrus ซึ่งเป็นบริเวณที่ได้รับเลือดมาเลี้ยงจาก Middle Cerebral Artery (MCA) ดังนั้นรอยโรคที่ MCA จะทำให้เกิดอาการชาหรือสูญเสียความรู้สึกบริเวณดังกล่าว",
+            "state": false
+        },
+        {
+            "problem": "14. Which of the following structure has the Anterior commissure interconnect?",
+            "img": "",
+            "choices": "Habenula///Hippocampus///Anterior temporal lobe///Rostrum part of corpus callosum///Splenium part of corpus callosum",
+            "answer": "Anterior temporal lobe",
+            "select": "",
+            "explain": "Anterior commissure เป็น commissural fiber ที่เชื่อมต่อสมองซีกซ้ายและขวา โดยมีหน้าที่หลักในการเชื่อมต่อ temporal lobe ทั้งสองข้าง โดยเฉพาะส่วนที่เกี่ยวกับระบบ ঘ্রাণ (olfactory system) และ amygdala",
+            "state": false
+        },
+        {
+            "problem": "30. Patient come with - Uvula deviation to the left when patient making \"Ah\" sound - Tongue deviation to right when protruded - Difficulty when swallowing, coughing, chewing - Loss of gag reflex",
+            "img": "",
+            "choices": "Posterior limb of Internal capsule///Genu of Internal capsule///Anterior limb of Internal capsule///1/3 Posterior commissure///Chorda tympani",
+            "answer": "Genu of Internal capsule",
+            "select": "",
+            "explain": "อาการต่างๆ เช่น ลิ้นไก่เบี้ยว ลิ้นเบี้ยว กลืนลำบาก ไอ และการเคี้ยวผิดปกติ บ่งชี้ถึงความผิดปกติของ Corticobulbar tract ซึ่งเป็นเส้นใยประสาทที่ควบคุมกล้ามเนื้อบริเวณศีรษะและคอผ่าน cranial nerves โดยเส้นใยประสาทเหล่านี้จะวิ่งผ่านบริเวณ Genu of internal capsule ดังนั้นรอยโรคที่บริเวณนี้จะส่งผลกระทบต่อการทำงานเหล่านี้",
+            "state": false
+        },
+        {
+            "problem": "44. Light reflex ส่องตาขวา รูม่านตาขวาหดด้านเดียว Lesion อยู่ไหน",
+            "img": "",
+            "choices": "Habenula///Posterior commissure///Anterior commissure///Right MGB///Right LGB",
+            "answer": "Posterior commissure",
+            "select": "",
+            "explain": "การที่ส่องไฟตาขวาแล้วตาขวาหด (Direct light reflex) แต่ตาซ้ายไม่หด (absent Consensual light reflex) แสดงว่า afferent limb (CN II ขวา) และ efferent limb (CN III ขวา) ทำงานปกติ แต่สัญญาณจาก pretectal nucleus ขวาไม่สามารถข้ามไปกระตุ้น Edinger-Westphal nucleus ด้านซ้ายได้ ซึ่งการส่งสัญญาณข้ามฝั่งนี้เกิดขึ้นที่ Posterior commissure ดังนั้นรอยโรคจึงน่าจะอยู่ที่นี่",
+            "state": false
+        },
+        {
+            "problem": "4. Which branch of the basilar artery, when damaged, causes visual loss and loss of half of the visual field? (Branch ไหนของ basila a. ที่เสียหายแล้วทำให้ visual loss, half view เสียไป)",
+            "img": "",
+            "choices": "Posterior cerebral a.///Superior cerebellar a.///Anterior inferior cerebellar a.///Pontine arteries///Labyrinthine a.",
+            "answer": "Posterior cerebral a.",
+            "select": "",
+            "explain": "Posterior cerebral artery (PCA) เป็นหลอดเลือดที่แตกแขนงมาจาก basilar artery และไปเลี้ยง occipital lobe ซึ่งเป็นที่อยู่ของ primary visual cortex. การอุดตันของ PCA จะทำให้เกิด contralateral homonymous hemianopia หรืออาการมองไม่เห็นลานสายตาครึ่งซีก.",
+            "state": false
+        },
+        {
+            "problem": "5. The patients experiencing artery occlusion with the branches arising from the basilar artery exhibit a headache & mild visual changes such as vision loss, diplopia, inability to see of the half view. Which artery will be affected?",
+            "img": "",
+            "choices": "Middle cerebral artery///Anterior cerebral artery///Posterior cerebral artery///Anterior communicating artery///Posterior communicating artery",
+            "answer": "Posterior cerebral artery",
+            "select": "",
+            "explain": "อาการทางสายตา เช่น vision loss, diplopia (ภาพซ้อน), และ half view loss (hemianopia) เป็นอาการที่บ่งชี้ถึงปัญหาของ posterior circulation. หลอดเลือดหลักในกลุ่มนี้ที่แตกมาจาก basilar artery และเกี่ยวข้องกับการมองเห็นโดยตรงคือ Posterior cerebral artery (PCA) ซึ่งไปเลี้ยง visual cortex.",
+            "state": false
+        },
+        {
+            "problem": "7. Which one of the following receives CSF from arachnoid villi?",
+            "img": "",
+            "choices": "Superior cerebellar artery///Posterior cerebral artery///Superior sagittal sinus///Inferior sagittal sinus///Inferior anastomotic vein",
+            "answer": "Superior sagittal sinus",
+            "select": "",
+            "explain": "Arachnoid granulations (villi) คือส่วนของ arachnoid mater ที่ยื่นทะลุ dura mater เข้าไปใน dural venous sinuses ทำหน้าที่เป็นวาล์วทางเดียวเพื่อระบาย Cerebrospinal fluid (CSF) จาก subarachnoid space กลับเข้าสู่ระบบเลือดดำ. ตำแหน่งหลักที่ CSF ถูกดูดซึมคือ Superior sagittal sinus.",
+            "state": false
+        },
+        {
+            "problem": "8. Which sinus receives drainage from the arachnoid granulations?",
+            "img": "",
+            "choices": "Sigmoid sinus///Transverse sinus///Superior sagittal sinus///Inferior sagittal sinus///Straight Sinus",
+            "answer": "Superior sagittal sinus",
+            "select": "",
+            "explain": "คำถามนี้เหมือนกับข้อที่แล้ว. Arachnoid granulations เป็นโครงสร้างหลักที่ทำหน้าที่ระบาย CSF เข้าสู่ระบบเลือดดำ และ dural venous sinus ที่เป็นตำแหน่งหลักในการรับ CSF คือ Superior sagittal sinus.",
+            "state": false
+        },
+        {
+            "problem": "9. Which of the following venous structures is found in the superficial lateral sulcus?",
+            "img": "",
+            "choices": "Superficial middle cerebral vein///Inferior anastomotic vein///Vein of Labbe///Basal vein of Rosenthal///Superior anastomotic vein",
+            "answer": "Superficial middle cerebral vein",
+            "select": "",
+            "explain": "Superficial middle cerebral vein เป็นหลอดเลือดดำที่ทอดตัวอยู่ใน lateral sulcus (หรือ Sylvian fissure) ทำหน้าที่รับเลือดจากผิวสมองในบริเวณนั้น. ส่วน Vein of Labbe และ Vein of Trolard (Superior anastomotic vein) เป็นหลอดเลือดที่เชื่อมต่อกับ superficial middle cerebral vein.",
+            "state": false
+        },
+        {
+            "problem": "56. Which vein is found in the lateral sulcus?",
+            "img": "",
+            "choices": "Superficial middle cerebral vein///Superior anastomostic vein///Basal vein of Rosenthal///Vein of labbé///Great cerebral vein of Galen",
+            "answer": "Superficial middle cerebral vein",
+            "select": "",
+            "explain": "เหมือนข้อ 9. หลอดเลือดดำที่ทอดตัวอยู่ในร่องสมองด้านข้าง หรือ lateral sulcus (Sylvian fissure) คือ Superficial middle cerebral vein.",
+            "state": false
+        },
+        {
+            problem: "3. What does Anterior commissure connect?",
+            img: "",
+            choices: "Hippocampus///Temporal lobes///Splenium of corpus callosum///Rostrum of corpus callosum///Mamillary body",
+            answer: "Temporal lobes",
+            select: "",
+            explain: "Anterior commissure เป็น commissural fiber ที่เชื่อมต่อ temporal lobes ทั้งสองข้างเข้าด้วยกัน โดยเฉพาะส่วนที่เกี่ยวข้องกับ olfactory system และ amygdala",
+            state: false
+        },
+        {
+            problem: "5. Which of the following is the branch of Basilar artery",
+            img: "",
+            choices: "Posterior cerebral artery///Middle cerebral artery///Anterior communicating artery///Anterior cerebral artery///Anterior vertebral artery",
+            answer: "Posterior cerebral artery",
+            select: "",
+            explain: "Basilar artery เกิดจากการรวมกันของ vertebral arteries สองข้าง และจะสิ้นสุดโดยการแตกแขนงออกเป็น Posterior cerebral arteries (PCA) สองข้าง ส่วน Middle cerebral artery (MCA) และ Anterior cerebral artery (ACA) เป็นแขนงของ Internal carotid artery",
+            state: false
+        },
+        {
+            problem: "11. Which structure drains the CSF from the fourth ventricle to subarachnoid space?",
+            img: "",
+            choices: "Cerebral aqueduct///Foramen of monro///Foramen of Luschka///Arachnoid granulation///Interventricular foramen",
+            answer: "Foramen of Luschka",
+            select: "",
+            explain: "CSF ไหลออกจาก fourth ventricle ไปยัง subarachnoid space ผ่าน 3 ช่องทาง คือ Foramina of Luschka (มี 2 ช่อง อยู่ด้านข้าง) และ Foramen of Magendie (มี 1 ช่อง อยู่ตรงกลาง) ส่วน Foramen of Monro (Interventricular foramen) เชื่อม lateral ventricles กับ third ventricle และ cerebral aqueduct เชื่อม third กับ fourth ventricle",
+            state: false
+        },
+        {
+            problem: "42. A lesion at which blood vessel leads to a clinical presentation that indicate problems in Broca area?",
+            img: "",
+            choices: "Middle Cerebral artery (MCA)///Posterior Cerebral artery (PCA)///Anterior Inferior Cerebellar artery (AICA)///Posterior Inferior Cerebellar artery (PICA)///Middle Meningeal artery (MMA)",
+            answer: "Middle Cerebral artery (MCA)",
+            select: "",
+            explain: "Broca's area ซึ่งทำหน้าที่เกี่ยวกับการพูด (motor speech) ตั้งอยู่ที่ inferior frontal gyrus ของ dominant hemisphere บริเวณนี้ได้รับเลือดมาเลี้ยงจาก superior division ของ Middle cerebral artery (MCA) ดังนั้น stroke ของ MCA จึงมักทำให้เกิด Broca's aphasia",
+            state: false
+        },
+        {
+            problem: "43. Patient had loss of motor control and sensation in his right leg. Which artery is occluded?",
+            img: "",
+            choices: "Right Anterior cerebral artery (ACA)///Left Anterior cerebral artery (ACA)///Right Middle cerebral artery (MCA)///Left Middle cerebral artery (MCA)///Right Posterior cerebral artery (PCA)",
+            answer: "Left Anterior cerebral artery (ACA)",
+            select: "",
+            explain: "Motor and sensory cortex ส่วนที่ควบคุมขาและเท้าจะอยู่ใน medial aspect ของ cerebral hemisphere บริเวณนี้ได้รับเลือดจาก Anterior cerebral artery (ACA) อาการอ่อนแรงและชาที่ขาข้างขวา (right leg) เกิดจาก lesion ที่สมองซีกซ้าย (contralateral control) ดังนั้นจึงเกิดจากการอุดตันของ Left ACA",
+            state: false
+        },
+        {
+            problem: "44. Unable to speak but can answer the question by shaking head and has lower portion of facial palsy. Where is the lesion?",
+            img: "",
+            choices: "Left frontal lobe///Left parietal lobe///Right frontal lobe///Right parietal lobe///Right temporal lobe",
+            answer: "Left frontal lobe",
+            select: "",
+            explain: "การที่ไม่สามารถพูดได้แต่เข้าใจคำสั่ง (can shake head) เป็นลักษณะของ Broca's aphasia (expressive aphasia) ซึ่ง lesion อยู่ที่ Broca's area ใน inferior frontal lobe ของ dominant hemisphere (left) อาการ lower facial palsy (ปากเบี้ยวแต่ยักคิ้วหลิ่วตาได้) เป็นลักษณะของ upper motor neuron (UMN) lesion ซึ่งมักเกิดร่วมกันเพราะ motor cortex ที่ควบคุมใบหน้าอยู่ใกล้กับ Broca's area",
+            state: false
+        },
+        {
+            problem: "45. Right-handed patient neglects to eat food on the left side. Where is the lesion?",
+            img: "",
+            choices: "Insula///Frontal lobe///Right parietal lobe///Left parietal lobe///Right temporal lobe",
+            answer: "Right parietal lobe",
+            select: "",
+            explain: "อาการนี้เรียกว่า Hemispatial neglect คือการที่ผู้ป่วยไม่รับรู้หรือไม่สนใจสิ่งกระตุ้นที่มาจากด้านตรงข้ามกับรอยโรคในสมอง มักเกิดจากการเสียหายของ non-dominant parietal lobe ซึ่งในคนถนัดขวาส่วนใหญ่คือ right parietal lobe",
+            state: false
+        },
+        {
+            problem: "46. Which of the following arteries that usually rupture and form an epidural hematoma?",
+            img: "",
+            choices: "Middle cerebral artery///Anterior cerebral artery///Posterior cerebral artery///Middle meningeal artery///Anterior communicating artery",
+            answer: "Middle meningeal artery",
+            select: "",
+            explain: "Epidural hematoma คือภาวะเลือดออกในช่องเหนือต่อ dura mater มักเกิดจากการบาดเจ็บที่ศีรษะบริเวณ temporal bone ทำให้ middle meningeal artery ซึ่งวิ่งอยู่ในบริเวณนั้นฉีกขาด เลือดที่ออกเป็นเลือดแดง (arterial blood) ทำให้ก้อนเลือดขยายขนาดอย่างรวดเร็ว",
+            state: false
+        },
+        {
+            problem: "50. A patient is unable to identify a familiar face. Where is the cerebrum lesion?",
+            img: "",
+            choices: "Parietal lobe///Middle frontal gyrus///Superior frontal gyrus///Superior temporal gyrus///Occipitotemporal lobe",
+            answer: "Occipitotemporal lobe",
+            select: "",
+            explain: "ภาวะที่ไม่สามารถจดจำใบหน้าที่คุ้นเคยได้เรียกว่า Prosopagnosia ซึ่งเกิดจากความเสียหายของ Fusiform gyrus (หรือ occipitotemporal gyrus) ซึ่งเป็นส่วนหนึ่งของ Occipitotemporal lobe โดยเฉพาะในสมองซีกขวา (non-dominant hemisphere)",
+            state: false
+        },
+        {
+            problem: "66. Seeing a lion in the wild triggers fear, but seeing a lion in the zoo makes you feel the lion is cute. Which of the following is NOT involved in this emotional processing?",
+            img: "",
+            choices: "Amygdala///Thalamus///Hippocampus///Frontal cortex///Nucleus accumbens",
+            answer: "Nucleus accumbens",
+            select: "",
+            explain: "การประมวลผลอารมณ์กลัวเกี่ยวข้องกับ Amygdala, Thalamus ส่งข้อมูล, Hippocampus ให้บริบท (context), และ Frontal cortex ประเมินสถานการณ์ ส่วน Nucleus accumbens เกี่ยวข้องกับ reward and pleasure มากกว่าการประเมินความกลัวในสถานการณ์นี้",
+            state: false
+        },
+        {
+            problem: "67. A couple moves near a railway. Initially, the train noise wakes them up, but after a while, they get used to it (desensitization). What type of memory is this?",
+            img: "",
+            choices: "Priming///Sensitization///Episodic///Habituation///Classic conditioning",
+            answer: "Habituation",
+            select: "",
+            explain: "Habituation เป็นรูปแบบหนึ่งของ non-associative learning ซึ่งเป็นการเรียนรู้ที่การตอบสนองต่อสิ่งกระตุ้นที่ไม่มีอันตรายและเกิดขึ้นซ้ำๆ จะลดลงเรื่อยๆ ในกรณีนี้คือการที่ร่างกายเรียนรู้ว่าเสียงรถไฟไม่ได้เป็นอันตรายและค่อยๆ ชินไป",
+            state: false
+        },
+        {
+            problem: "68. An 18-year-old male patient presents with hyperphagia (eating a lot), hypersexuality, hyperorality (putting objects in his mouth), and impaired object recognition. What is the most likely cause?",
+            img: "",
+            choices: "A hypothalamic lesion///Bilateral thalamic lesion///Bilateral amygdala lesion///Bilateral medial frontal lesion///Bilateral mammillary necrosis",
+            answer: "Bilateral amygdala lesion",
+            select: "",
+            explain: "กลุ่มอาการเหล่านี้เป็นลักษณะของ Klüver-Bucy syndrome ซึ่งเกิดจากการที่ temporal lobe ทั้งสองข้าง โดยเฉพาะส่วน amygdala ได้รับความเสียหาย (Bilateral amygdala lesion)",
+            state: false
+        },
+        {
+            problem: "69. Which structure receives input from mossy fibers originating from the granule cells of the dentate gyrus?",
+            img: "",
+            choices: "CA1 pyramidal cells///CA2 pyramidal cells///CA3 pyramidal cells///CA4 pyramidal cells///Subiculum",
+            answer: "CA3 pyramidal cells",
+            select: "",
+            explain: "ในวงจรของ hippocampus, granule cells ของ dentate gyrus จะส่ง axon ที่เรียกว่า mossy fibers ไป synapse กับ pyramidal cells ในส่วน CA3 (Cornu Ammonis 3) ของ hippocampus",
+            state: false
+        },
+        {
+            problem: "70. Which component is not considered a primary part of the limbic system?",
+            img: "",
+            choices: "Anterior hypothalamus///Lateral hypothalamus///Reticular formation///Orbitofrontal lobe///Habenula",
+            answer: "Reticular formation",
+            select: "",
+            explain: "Limbic system เกี่ยวข้องกับอารมณ์และความจำ ประกอบด้วย hippocampus, amygdala, hypothalamus และส่วนของ cortex ส่วน Reticular formation เป็นเครือข่ายนิวเคลียสใน brainstem ที่เกี่ยวข้องกับ consciousness และ arousal ซึ่งทำงานร่วมกันแต่ไม่นับเป็นส่วนประกอบหลัก",
+            state: false
+        },
+        {
+            problem: "71. Which of the following pathways links the central and basolateral nuclei of the amygdala with the basal forebrain?",
+            img: "",
+            choices: "Anterior commissure///Stria terminalis///Stria medullaris///Ventral amygdalofugal pathway///Genu of corpus callosum",
+            answer: "Ventral amygdalofugal pathway",
+            select: "",
+            explain: "Amygdala มีทางออก (efferent pathways) หลักๆ 2 ทางคือ Stria terminalis และ Ventral amygdalofugal pathway (VAFP) โดย VAFP เป็นทางที่กระจายออกไปหลายที่ รวมถึง basal forebrain",
+            state: false
+        },
+        {
+            problem: "72. Some people smell fermented fish and vomit immediately. Which of the following is not involved in this response?",
+            img: "",
+            choices: "Amygdala///Lateral olfactory stria///Hypothalamus///Brainstem///Ventral posteromedial nucleus of thalamus",
+            answer: "Ventral posteromedial nucleus of thalamus",
+            select: "",
+            explain: "กลิ่นจะถูกส่งผ่าน olfactory pathway ไปยัง amygdala, hypothalamus, และ brainstem (ที่มี vomiting center) เพื่อกระตุ้นการอาเจียน ส่วน Ventral posteromedial (VPM) nucleus of the thalamus ทำหน้าที่รับความรู้สึกทั่วไปและรสชาติ (taste) จากใบหน้า ไม่ได้เกี่ยวข้องโดยตรงกับทางเดินของกลิ่น",
+            state: false
+        },
+        {
+            problem: "74. Which area of the brain is critically involved in processing both rewards and punishments?",
+            img: "",
+            choices: "Amygdala///Hippocampus///Anterior cingulate cortex///Posterior cingulate cortex///Nucleus accumbens",
+            answer: "Amygdala",
+            select: "",
+            explain: "Nucleus accumbens เป็นศูนย์กลางของ reward and pleasure แต่ Amygdala มีบทบาทสำคัญในการเรียนรู้ที่เชื่อมโยงสิ่งกระตุ้นกับผลลัพธ์ที่เป็นได้ทั้งรางวัล (reward) และการลงโทษ (punishment/fear) ทำให้เป็นคำตอบที่ครอบคลุมทั้งสองอย่าง",
+            state: false
+        },
+        {
+            problem: "77. In which retinal layer do the photoreceptor cells (rods and cones) synapse with bipolar and horizontal cells?",
+            img: "",
+            choices: "Outer nuclear layer///Outer plexiform layer///Inner nuclear layer///Inner plexiform layer///Ganglion cell layer",
+            answer: "Outer plexiform layer",
+            select: "",
+            explain: "ในชั้นของ Retina, Outer plexiform layer (OPL) เป็นชั้นที่เกิด synapse ระหว่าง axon terminals ของ photoreceptor cells (rods and cones) กับ dendrites ของ bipolar cells และ horizontal cells",
+            state: false
+        },
+        {
+            problem: "78. What is the most common cause of binocular diplopia?",
+            img: "",
+            choices: "Misalignment of the eyes (Strabismus)///Corneal astigmatism///Cataract///Keratoconus///Retinal detachment",
+            answer: "Misalignment of the eyes (Strabismus)",
+            select: "",
+            explain: "Binocular diplopia คือภาวะเห็นภาพซ้อนเมื่อลืมตาสองข้าง แต่หายไปเมื่อปิดตาข้างหนึ่ง เกิดจากการที่แนวการมองของตาทั้งสองข้างไม่ตรงกัน (misalignment) หรือ Strabismus (ตาเหล่ ตาเข) ทำให้สมองไม่สามารถรวมภาพเป็นภาพเดียวได้",
+            state: false
+        },
+        {
+            problem: "79. Which of these following structures passes through the inferior orbital fissure?",
+            img: "",
+            choices: "Oculomotor nerve///Infraorbital nerve///Ophthalmic artery///Anterior ethmoidal artery///Ophthalmic nerve (CN V1)",
+            answer: "Infraorbital nerve",
+            select: "",
+            explain: "Inferior orbital fissure เป็นช่องที่เชื่อมระหว่าง orbit กับ fossa อื่นๆ มีโครงสร้างที่ผ่านคือ Maxillary nerve (CN V2) ซึ่งจะกลายเป็น Infraorbital nerve, Zygomatic nerve, และ Infraorbital artery and vein",
+            state: false
+        },
+        {
+            problem: "80. A 35-year-old woman had a car accident. CT scan shows trauma to the right temporal lobe and Meyer's loop. Which of the followings she likely has?",
+            img: "",
+            choices: "Bilateral hemianopsia///Left superior quadrantanopia///Right superior quadrantanopia///Left inferior quadrantanopia///Right inferior quadrantanopia",
+            answer: "Left superior quadrantanopia",
+            select: "",
+            explain: "Optic radiation ส่วนที่วิ่งผ่าน temporal lobe เรียกว่า Meyer's loop ซึ่งนำข้อมูลจากลานสายตาซีกบนด้านตรงข้าม ดังนั้น lesion ที่ Meyer's loop ข้างขวา จะทำให้สูญเสียการมองเห็นในลานสายตาซีกซ้ายบน (left superior quadrantanopia) หรือที่เรียกว่า 'pie in the sky'",
+            state: false
+        },
+        {
+            problem: "81. A 71-year-old woman has internuclear ophthalmoplegia (INO) due to left pons dysfunction. Adduction of which eye is affected when she looks to the right?",
+            img: "",
+            choices: "Left superior oblique muscle///Right lateral rectus///Left lateral rectus///Left medial rectus///Right medial rectus",
+            answer: "Left medial rectus",
+            select: "",
+            explain: "Internuclear ophthalmoplegia (INO) เกิดจาก lesion ที่ Medial Longitudinal Fasciculus (MLF) เมื่อ MLF ข้างซ้ายเสียหาย (left INO) เวลาผู้ป่วยมองไปทางขวา ตาขวาจะ abduct ได้ แต่ตาซ้ายจะไม่สามารถ adduct (กรอกเข้าใน) ได้ เพราะสัญญาณจาก CN VI nucleus ขวา ไม่สามารถข้ามมายัง CN III nucleus ซ้ายได้ ทำให้กล้ามเนื้อ left medial rectus อ่อนแรง",
+            state: false
+        },
+        {
+            problem: "82. What is the visual field defect caused by a lesion in the right Meyer's loop?",
+            img: "",
+            choices: "Left superior quadrantanopia///Right superior quadrantanopia///Left inferior quadrantanopia///Right inferior quadrantanopia///Bitemporal hemianopsia",
+            answer: "Left superior quadrantanopia",
+            select: "",
+            explain: "Meyer's loop คือส่วนของ optic radiation ที่วิ่งเข้าไปใน temporal lobe ซึ่งจะนำข้อมูลจาก superior visual field ของด้านตรงข้าม ดังนั้น lesion ที่ right Meyer's loop จะทำให้เกิดการสูญเสียลานสายตาซีกซ้ายบน หรือ Left superior quadrantanopia",
+            state: false
+        },
+        {
+            problem: "85. Which of the following is a component of the near triad (accommodation reflex) observed when moving an index finger towards the nose?",
+            img: "",
+            choices: "Pupil dilation///Flattening of the lens///Relaxation of the ciliary muscle///Contraction of suspensory ligaments///Contraction of medial rectus muscles",
+            answer: "Contraction of medial rectus muscles",
+            select: "",
+            explain: "การมองวัตถุใกล้จะเกิด Near Triad ประกอบด้วย 3 อย่างคือ 1) Convergence: ตาทั้งสองข้างกรอกเข้าหากันโดยการทำงานของ medial rectus muscles 2) Accommodation: Ciliary muscle หดตัว ทำให้เลนส์ตานูนขึ้น 3) Miosis: รูม่านตาหดเล็กลง",
+            state: false
+        },
+        {
+            problem: "87. Otoliths are normally located in which structures?",
+            img: "",
+            choices: "Utricle and Saccule///Cochlea///Semicircular ducts///Modiolus///Ampulla",
+            answer: "Utricle and Saccule",
+            select: "",
+            explain: "Otoliths (หรือ otoconia) เป็นผลึกแคลเซียมคาร์บอเนตที่อยู่ใน maculae ซึ่งเป็น sensory organ ที่อยู่ใน Utricle และ Saccule ของ vestibular system ทำหน้าที่ตรวจจับ linear acceleration และ gravity",
+            state: false
+        },
+        {
+            problem: "88. In the mammalian cochlea, which structure amplifies the sound waves?",
+            img: "",
+            choices: "Inner hair cells///Outer hair cells///Pillar cells///Inner phalangial cells///Outer phalangial cells",
+            answer: "Outer hair cells",
+            select: "",
+            explain: "Outer hair cells (OHCs) ทำหน้าที่เป็น cochlear amplifier โดยจะมีการเปลี่ยนแปลงความยาวของเซลล์ (electromotility) เพื่อขยายการสั่นสะเทือนของ basilar membrane ทำให้ inner hair cells (IHCs) สามารถรับสัญญาณเสียงที่เบาๆ ได้ดีขึ้น",
+            state: false
+        },
+        {
+            problem: "91. A 60-year-old man experiences acute dizziness, vertigo, severe nausea, and vomiting when he suddenly turns his head. Where is the abnormality?",
+            img: "",
+            choices: "Edema of ampulla///Otitis media///Detachment of otoliths in maculae///Decreased external pressure in cochlear duct///Edema of labyrinth in semicircular canal",
+            answer: "Detachment of otoliths in maculae",
+            select: "",
+            explain: "อาการเวียนศีรษะบ้านหมุน (vertigo) ที่เกิดขึ้นทันทีเมื่อมีการเปลี่ยนท่าทางของศีรษะ เป็นลักษณะเด่นของโรค Benign Paroxysmal Positional Vertigo (BPPV) ซึ่งเกิดจากการที่ otoliths จาก utricle หลุดออกมาแล้วเข้าไปอยู่ใน semicircular canals",
+            state: false
+        },
+        {
+            problem: "93. The Vestibulo-ocular reflex (VOR) is the reflex movement of the eye to compensate for head movement. Which of the following tracts conveys equilibrium information to the oculomotor nuclei to produce this phenomenon?",
+            img: "",
+            choices: "Ascending MLF///Descending MLF///Lateral lemniscus///Lateral vestibulospinal tract///Medial vestibulospinal tract",
+            answer: "Ascending MLF",
+            select: "",
+            explain: "Vestibulo-ocular reflex (VOR) เป็น reflex ที่ช่วยให้สายตามองคงที่ขณะที่ศีรษะเคลื่อนไหว โดยอาศัยการเชื่อมต่อระหว่าง vestibular nuclei กับ nuclei ของกล้ามเนื้อตา (CN III, IV, VI) ผ่านทาง Medial Longitudinal Fasciculus (MLF) โดยเฉพาะส่วนที่วิ่งขึ้นไป (Ascending MLF)",
+            state: false
+        },
+        {
+            problem: "100. A 69-year-old with hypertension and DM presented with right-sided weakness. PE: hyperreflexia and right hemiplegia. Where is the lesion?",
+            img: "",
+            choices: "Left corona radiata///Left posterior limb of internal capsule///Anterior limb of internal capsule///Right corona radiata///Cerebellum",
+            answer: "Left posterior limb of internal capsule",
+            select: "",
+            explain: "อาการอ่อนแรงครึ่งซีก (hemiplegia) ร่วมกับ hyperreflexia เป็นลักษณะของ Upper Motor Neuron (UMN) lesion ซึ่งต้องอยู่ด้านตรงข้ามกับอาการ คือสมองซีกซ้าย Internal capsule เป็นบริเวณที่ corticospinal tract มาอยู่รวมกันหนาแน่น โดยเฉพาะที่ posterior limb ดังนั้น stroke เล็กๆ ที่ Left posterior limb of internal capsule จึงทำให้เกิด right hemiplegia ได้",
+            state: false
+        },
+        {
+            problem: "101. If the spinocerebellum is damaged, which part of the cerebellum is primarily affected? (Spinocerebellum เสีย อะไรเสีย)",
+            img: "",
+            choices: "Anterior lobe of cerebellum///Posterior lobe of cerebellum///Flocculonodular lobe of cerebellum///Lateral hemispheres of cerebellum///Vermis",
+            answer: "Vermis",
+            select: "",
+            explain: "Spinocerebellum ทำหน้าที่ควบคุม muscle tone และการประสานงานของกล้ามเนื้อลำตัวและแขนขา (axial and limb coordination) ส่วนของ cerebellum ที่เป็น spinocerebellum หลักๆ คือ vermis และ paravermal zone ซึ่ง Vermis เป็นแกนกลางและเป็นคำตอบที่ดีที่สุด",
+            state: false
+        },
+        {
+            problem: "102. Which of the following is a part of the indirect pathway of the basal ganglia only?",
+            img: "",
+            choices: "Subthalamic nucleus///External globus pallidus (GPe)///Internal globus pallidus (GPi)///Striatum///Thalamus",
+            answer: "External globus pallidus (GPe)",
+            select: "",
+            explain: "ในวงจรของ Basal ganglia, Indirect pathway มีทางเดินคือ Striatum -> Globus pallidus externa (GPe) -> Subthalamic nucleus (STN) -> Globus pallidus interna (GPi) -> Thalamus. จะเห็นว่า GPe เป็นส่วนประกอบที่อยู่ใน indirect pathway เท่านั้น (Direct pathway จะข้าม GPe ไป)",
+            state: false
+        },
+        {
+            problem: "105. A 59 years old male suffered a stroke and later presented with a spastic paralysis. What structure was most likely affected?",
+            img: "",
+            choices: "Ventral horn cell///Corpus callosum///Postcentral gyrus///Ambiguus nucleus///Internal capsule",
+            answer: "Internal capsule",
+            select: "",
+            explain: "Spastic paralysis เป็นอาการของ Upper Motor Neuron (UMN) syndrome ซึ่งเกิดจากการเสียหายของ motor pathways ที่อยู่เหนือต่อ anterior horn cell Stroke ที่ทำให้เกิดอาการนี้ได้บ่อยครั้งคือ stroke ที่บริเวณ Internal capsule ซึ่งเป็นบริเวณที่ corticospinal tract (ซึ่งเป็น UMN pathway ที่สำคัญ) วิ่งผ่านอย่างหนาแน่น",
+            state: false
+        }
+    ],
     "NS51MCQ2": [
         {
             "problem": "1. Patient came with repeated history of colds and infections. His ear problem is identified as fluid accumulation in middle ears. By blockage of which structure cause this symptom?",
