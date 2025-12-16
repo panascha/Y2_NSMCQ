@@ -372,7 +372,7 @@ var quizdata = {
     }, {
             problem: "2. A 56-year-old male patient came to see the doctor according to the sleep problem. He underwent sleep examination. Which condition that the desynchronization of EEG will be observed?",
             img: "",
-            choices: "Rapid eye movement sleep stage 3///Rapid eye movement sleep stage 4///Rapid eye movement sleep stage 2///Rapid eye movement sleep///Rapid eye movement sleep stage 1",
+        choices: "Non-Rapid eye movement sleep stage 3///Non-Rapid eye movement sleep stage 4///Non-Rapid eye movement sleep stage 2///Rapid eye movement sleep///Non-Rapid eye movement sleep stage 1",
             answer: "Rapid eye movement sleep",
             select: "",
             explain: "Desynchronization of EEG (low amplitude, high frequency waves เช่น Beta waves) จะพบได้ในขณะตื่น (Awake) และช่วง REM sleep (Paradoxical sleep) ซึ่งสมองมีการทำงานสูงคล้ายตอนตื่น ส่วนช่วง Non-REM (Stage 1-4) คลื่นจะมีความถี่ต่ำและ synchronized (เช่น Delta waves ใน Deep sleep)",
@@ -3488,9 +3488,9 @@ var quizdata = {
             state: false
         },
         {
-            problem: "102. Which of the following is a part of the indirect pathway of the basal ganglia only?",
+            problem: "102. Which of the following is a part of the indirect pathway of the basal ganglia only? [ถูก 2 ข้อ ขอแก้โจทย์นะ]",
             img: "",
-            choices: "Subthalamic nucleus///External globus pallidus (GPe)///Internal globus pallidus (GPi)///Striatum///Thalamus",
+            choices: "Septal nuclei///External globus pallidus (GPe)///Internal globus pallidus (GPi)///Striatum///Thalamus",
             answer: "External globus pallidus (GPe)",
             select: "",
             explain: "ในวงจรของ Basal ganglia, Indirect pathway มีทางเดินคือ Striatum -> Globus pallidus externa (GPe) -> Subthalamic nucleus (STN) -> Globus pallidus interna (GPi) -> Thalamus. จะเห็นว่า GPe เป็นส่วนประกอบที่อยู่ใน indirect pathway เท่านั้น (Direct pathway จะข้าม GPe ไป)",
@@ -4039,9 +4039,9 @@ var quizdata = {
             state: false
         },
         {
-            problem: "102. Which of the following is a part of the indirect pathway of the basal ganglia only?",
+            problem: "102. Which of the following is a part of the indirect pathway of the basal ganglia only? [ถูก 2 ข้อ ขอแก้โจทย์นะ]",
             img: "",
-            choices: "Subthalamic nucleus///External globus pallidus (GPe)///Internal globus pallidus (GPi)///Striatum///Thalamus",
+            choices: "Septal nuclei///External globus pallidus (GPe)///Internal globus pallidus (GPi)///Striatum///Thalamus",
             answer: "External globus pallidus (GPe)",
             select: "",
             explain: "ในวงจรของ Basal ganglia, Indirect pathway มีทางเดินคือ Striatum -> Globus pallidus externa (GPe) -> Subthalamic nucleus (STN) -> Globus pallidus interna (GPi) -> Thalamus. จะเห็นว่า GPe เป็นส่วนประกอบที่อยู่ใน indirect pathway เท่านั้น (Direct pathway จะข้าม GPe ไป)",
@@ -5299,7 +5299,7 @@ var quizdata = {
             problem: "Lab 1. After being treated with a diode laser, a child has an abnormally dilated pupil and a lot of difficulty adjusting vision in the dark. Which is correct?",
             img: "",
             choices: "There is a decrease in the amplitude of AP in his optic nerve///There is a decrease in the frequency of AP in his optic nerve///There is a decrease in the frequency of AP in his optic and oculomotor nerves///There is damage to the retina///There is damage to the lens",
-            answer: "There is damage to the retina",
+            answer: "There is a decrease in the frequency of AP in his optic nerve",
             select: "",
             explain: "Diode laser สามารถทำให้เกิดความร้อนและทำลายเนื้อเยื่อของจอประสาทตา (retina) ได้ การที่ผู้ป่วยมีปัญหาสายตาในที่มืด (difficulty adjusting vision in the dark) บ่งชี้ว่าเซลล์รับแสงชนิด Rod cells ซึ่งทำงานในที่แสงน้อยถูกทำลาย และการที่รูม่านตาขยายผิดปกติ (abnormally dilated pupil) อาจเกิดจากการที่ retina ที่เสียหายไม่สามารถส่งสัญญาณผ่าน optic nerve ไปกระตุ้น pupillary light reflex ได้ดีพอ ดังนั้นสาเหตุพื้นฐานที่สุดของอาการทั้งหมดคือการที่ retina ได้รับความเสียหาย",
             state: false
@@ -5633,7 +5633,7 @@ var quizdata = {
         {
             "problem": "48. A 34-year-old man is rushed to the emergency room from the site of a car accident. His upper arms and lower limbs extended. What is the disorder of this patient and what is (are) the tract(s) which contribute(s) the role of the pathophysiology observed in this patient?",
             "img": "",
-            "choices": "Decerebrate; Decrease activity of lateral reticulospinal tract.///Decerebrate; Increase medial reticulospinal and lateral vestibulospinal tract///Decerebrate; Decrease activity of rubrospinal tract.///Decorticate; Increase activity of medial reticulospinal and lateral vestibulospinal tract.///Decorticate; Increase activity of rubrospinal tract.",
+            "choices": "Decerebrate; Decrease activity of lateral reticulospinal tract.///Decerebrate; Increase medial reticulospinal and lateral vestibulospinal tract///Decerebrate; Increase activity of rubrospinal tract.///Decorticate; Increase activity of medial reticulospinal and lateral vestibulospinal tract.///Decorticate; Increase activity of rubrospinal tract.",
             "answer": "Decerebrate; Increase medial reticulospinal and lateral vestibulospinal tract",
             "select": "",
             "explain": "ลักษณะที่แขนและขาเหยียดเกร็ง (extension of all four limbs) เรียกว่า Decerebrate rigidity (or posturing) เกิดจากรอยโรคที่ก้านสมอง (brainstem) บริเวณที่อยู่ต่ำกว่า Red nucleus แต่สูงกว่า Vestibular nuclei ทำให้ขาดการควบคุมจากสมองส่วนบน ส่งผลให้ Vestibulospinal tract และ Medial (Pontine) reticulospinal tract ซึ่งทำหน้าที่กระตุ้นกล้ามเนื้อเหยียด (extensor muscles) ทำงานอย่างเต็มที่โดยไม่มีการยับยั้ง",
