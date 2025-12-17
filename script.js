@@ -6085,7 +6085,7 @@ var quizdata = {
         {
             "problem": "26. Diagnose",
             "img": "https://drive.google.com/open?id=1a1QEIHRDwe-ujaSRd5DeINrzUiS9Wsyc&usp=drive_copy",
-            "choices": "Acute ischemic injury///Alzheimer's disease///Parkinson's disease///Creutzfeldt-Jakob disease///Viral encephalitis///Pilocytic astrocytoma",
+            "choices": "Pilocytic astrocytoma///Glioblastoma///Oligodendroglioma///Ependymoma///Medulloblastoma",
             "answer": "Pilocytic astrocytoma",
             "select": "",
             "explain": "ภาพจุลพยาธิวิทยาแสดงเนื้องอกสมองที่ประกอบด้วยเซลล์ดาว (astrocytes) ที่มีลักษณะเป็นเส้นยาวเรียงตัวกันอย่างเป็นระเบียบ (piloid cells) และมีการสร้างโครงสร้างคล้ายหลอดเลือด (microcystic spaces) รวมถึงมีเส้นใยกลมสีชมพู (Rosenthal fibers) อยู่ภายในเนื้อเยื่อ ลักษณะเหล่านี้เป็นลักษณะจำเพาะของเนื้องอกชนิด Pilocytic astrocytoma ซึ่งมักพบในเด็กและเยาวชน และมีพยาธิกำเนิดที่ดี",
@@ -6130,7 +6130,7 @@ var quizdata = {
         {
             "problem": "31. What is the parasite? Stage?",
             "img": "https://drive.google.com/open?id=129kX3SXBwRSM-KVHgCI_TXhvSph4pqe2&usp=drive_copy",
-            "choices": "Plasmodium falciparum; Schizont stage///Plasmodium vivax; Trophozoite stage///Plasmodium malariae; Gametocyte stage///Babesia microti; Trophozoite stage///Trypanosoma cruzi; Amastigote stage",
+            "choices": "Plasmodium falciparum; Schizont stage///Plasmodium falciparum; Trophozoite stage///Plasmodium falciparum; Gametocyte stage///Plasmodium vivax; Schizont stage///Plasmodium vivax; Trophozoite stage",
             "answer": "Plasmodium falciparum; Schizont stage",
             "select": "",
             "explain": "ภาพจากฟิล์มเลือดแสดงเม็ดเลือดแดงที่ติดเชื้อมาลาเรีย (Plasmodium sp.) ในระยะที่กำลังจะแตกตัว เรียกว่า Schizont stage ซึ่งเป็นระยะที่มีการแบ่งตัวแบบไม่อาศัยเพศจนได้ Merozoites จำนวนมากอยู่ภายในเซลล์เม็ดเลือดแดง ก่อนที่เซลล์จะแตกออกและปล่อย Merozoites ไปติดเชื้อในเม็ดเลือดแดงเซลล์ใหม่ต่อไป",
@@ -6139,8 +6139,8 @@ var quizdata = {
         {
             "problem": "32. What is the parasite? Stage?",
             "img": "https://drive.google.com/open?id=1jviYQrpQmQtY4OaqaiSGFDeOi_f5i-Gv&usp=drive_copy",
-            "choices": "Entamoeba histolytica; Cyst stage///Giardia lamblia; Cyst stage///Naegleria fowleri; Trophozoite stage///Acanthamoeba; Cyst stage///Blastocystis hominis; Cyst stage",
-            "answer": "Entamoeba histolytica; Cyst stage",
+            "choices": "Entamoeba histolytica; Cyst stage///Entamoeba histolytica; Trophozoite stage///Entamoeba coli; Trophozoite stage///Entamoeba coli; Cyst stage///Balantidium coli, Trophozoite stage",
+            "answer": "Entamoeba histolytica; Trophozoite stage",
             "select": "",
             "explain": "ภาพแสดงซีสต์ (cyst) ของเชื้ออะมีบา ซึ่งมีลักษณะกลม มีผนังหนา ภายในภาพจะเห็นนิวเคลียสได้หลายอัน (mature cyst ของ E. histolytica จะมี 4 นิวเคลียส) และอาจเห็นแท่ง chromatoid bodies ได้ ซีสต์เป็นระยะติดต่อของเชื้อที่ปนเปื้อนมากับอาหารหรือน้ำ เมื่อคนกินเข้าไปจะก่อให้เกิดโรคบิดอะมีบา (amebiasis)",
             "state": false
@@ -6660,7 +6660,7 @@ var quizdata = {
         }, {
             problem: "31. Which stage is found in desynchronization in the EEG?",
             img: "",
-            choices: "Rapid eye movement sleep stage 1///Rapid eye movement sleep///Rapid eye movement sleep stage 2///Rapid eye movement sleep stage 3///Rapid eye movement sleep stage 4",
+        choices: "Non-Rapid eye movement sleep stage 1///Rapid eye movement sleep///Non-Rapid eye movement sleep stage 2///Non-Rapid eye movement sleep stage 3///Non-Rapid eye movement sleep stage 4",
             answer: "Rapid eye movement sleep",
             select: "",
             explain: "Desynchronized EEG คือลักษณะของคลื่นไฟฟ้าสมองที่มี amplitude ต่ำ แต่มีความถี่สูง ซึ่งเป็นลักษณะของสมองที่กำลังตื่นตัว (active) จะพบได้ใน 2 สภาวะคือ 1. ขณะตื่นและมีสมาธิ (Awake, alert state) และ 2. ขณะหลับในช่วง Rapid eye movement (REM) sleep ซึ่งเป็นช่วงที่สมองมีความ active ใกล้เคียงกับตอนตื่น จึงถูกเรียกว่า paradoxical sleep ส่วนการนอนหลับในระยะ NREM โดยเฉพาะ stage 3 (deep sleep) จะมีลักษณะเป็น synchronized EEG (คลื่นช้า, amplitude สูง)",
@@ -8365,7 +8365,7 @@ var quizdata = {
             problem: "101. Please identify the structure indicated by the red arrow.",
             img: "https://drive.google.com/open?id=1rdcEnwi_Z58QDCny-jLTKfMdeikscwkb&usp=drive_copy",
             choices: "Lentiform nucleus///Superior sagittal sinus///Tentorium cerebelli///Sylvian fissure///Lateral ventricle",
-            answer: "Lateral ventricle",
+            answer: "Sylvian fissure",
             select: "",
             explain: "ลูกศรสีแดงชี้ไปยังช่องว่างขนาดใหญ่ที่บรรจุน้ำไขสันหลัง (CSF) ซึ่งอยู่ภายในสมองใหญ่ (cerebral hemispheres) ทั้งสองข้าง โครงสร้างนี้คือโพรงสมองด้านข้าง (Lateral ventricles) ซึ่งเป็นโพรงสมองที่มีขนาดใหญ่ที่สุด",
             state: false
