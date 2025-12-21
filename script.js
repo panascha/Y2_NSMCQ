@@ -7728,6 +7728,215 @@ var quizdata = {
             "state": false
         }
     ],
+    "NS52FMT2drug": [{
+        problem: "5. A 30-year-old female patient with a long-standing history of depression presents with drug addiction. Which of the following is the most likely reason for her substance dependence?",
+        img: "",
+        choices: "Impaired HPA axis function///Impaired prefrontal cortex function///Impaired reward circuit function///Impaired autonomic function///Impaired parietal lobe function",
+        answer: "Impaired prefrontal cortex function",
+        select: "",
+        explain: "Prefrontal cortex มีบทบาทสำคัญในการควบคุมพฤติกรรม (behavioral control) และการตัดสินใจ (decision-making) ในผู้ป่วยที่มีภาวะซึมเศร้าเรื้อรัง (chronic depression) มักพบว่าการทำงานของ prefrontal cortex ผิดปกติ ซึ่งส่งผลให้การควบคุมพฤติกรรมลดลง และเพิ่มความเสี่ยงต่อการเกิดภาวะติดสารเสพติด (substance dependence)",
+        state: false
+    }, {
+        problem: "6. A 38-year-old man with a history of asthma presents with recurring migraines and needs preventive therapy. Which medication should be avoided?",
+        img: "",
+        choices: "Amitriptyline///Topiramate///Valproate///Propranolol///Cinnarizine",
+        answer: "Propranolol",
+        select: "",
+        explain: "Propranolol เป็น Non-selective beta-blocker ซึ่งสามารถ block beta-2 receptors ที่หลอดลม ทำให้เกิด Bronchoconstriction (หลอดลมตีบ) จึงเป็นข้อห้ามใช้ (Contraindication) หรือควรหลีกเลี่ยงในผู้ป่วย Asthma เพราะอาจกระตุ้นให้หอบหืดกำเริบได้",
+        state: false
+    },
+    {
+        problem: "15. Which neurotransmitter is most prominently associated with cognitive decline in Alzheimer's disease due to its loss in the basal forebrain?",
+        img: "",
+        choices: "Serotonin///Dopamine///Acetylcholine///GABA///Norepinephrine",
+        answer: "Acetylcholine",
+        select: "",
+        explain: "ในโรค Alzheimer's disease มีการเสื่อมสลายของเซลล์ประสาทที่สร้าง Acetylcholine ในบริเวณ Basal forebrain (Nucleus Basalis of Meynert) อย่างชัดเจน ซึ่งส่งผลโดยตรงต่อความจำและการรับรู้ (Cognitive decline)",
+        state: false
+    },
+    {
+        problem: "17. Which anti vertigo inhibit histamine receptor at presynaptic histaminergic neurons?",
+        img: "",
+        choices: "Scopolamine///Flunarizine///Betahistine///Diazepam///Diphenhydramine",
+        answer: "Betahistine",
+        select: "",
+        explain: "Betahistine มีกลไกการออกฤทธิ์เป็น H3-receptor antagonist ที่เซลล์ประสาทก่อนไซแนปส์ (Presynaptic) ซึ่งช่วยเพิ่มการหลั่ง Histamine และเป็น H1-receptor agonist ที่หลอดเลือด ช่วยเพิ่มการไหลเวียนเลือดในหูชั้นใน ลดอาการเวียนศีรษะ",
+        state: false
+    },
+    {
+        problem: "24. A 25-year-old female was brought to consult the doctor at the hospital by her husband. Her husband informed the doctor that the patient might be bipolar disorder. The doctor assessed and prescribed lithium... later patient took an overdose... What is the toxicity of lithium overdose?",
+        img: "",
+        choices: "Psychosis///Hyperthyroidism///Polyuria///Serotonin syndrome///Hypertensive crisis",
+        answer: "Polyuria",
+        select: "",
+        explain: "Lithium มีผลข้างเคียงที่สำคัญคือ ทำให้ไตตอบสนองต่อ ADH ลดลง (Nephrogenic diabetes insipidus) ส่งผลให้ปัสสาวะออกมาก (Polyuria) และกระหายน้ำบ่อย นอกจากนี้ยังอาจทำให้ Hypothyroidism ได้ด้วย แต่ไม่ใช่ Hyperthyroidism",
+        state: false
+    }, {
+        problem: "25. Which of the following antiseizure medication is most likely to impair learning and memory, and produce behavioral abnormalities in children?",
+        img: "",
+        choices: "Phenytoin///Topiramate///Lamotrigine///Valproic acid///Phenobarbital",
+        answer: "Phenobarbital",
+        select: "",
+        explain: "Phenobarbital เป็นยากันชักกลุ่ม Barbiturates ซึ่งมีผลข้างเคียงสำคัญในเด็กคือ ทำให้เกิดปัญหาด้านพฤติกรรม (ซนสมาธิสั้น หรือ ก้าวร้าว) และรบกวนการเรียนรู้และความจำ (Cognitive impairment) จึงไม่นิยมใช้เป็นยาตัวแรกในเด็ก",
+        state: false
+    },
+    {
+        problem: "33. Which group of hypnotic drugs is most likely to cause significant CNS depression?",
+        img: "",
+        choices: "Barbiturates///Z-drugs///Benzodiazepines///Melatonin agonists///Orexin antagonists",
+        answer: "Barbiturates",
+        select: "",
+        explain: "Barbiturates มีผลกดประสาท (CNS depression) ที่รุนแรงกว่ากลุ่มอื่น เนื่องจากมี Dose-response curve ที่ชันและไม่มีเพดาน (Ceiling effect) การใช้เกินขนาดสามารถกดศูนย์หายใจและทำให้เสียชีวิตได้ง่ายกว่า Benzodiazepines",
+        state: false
+    }, {
+        problem: "34. A 32-year-old male with schizophrenia has been treated with haloperidol for the past 3 months. Recently, the physician decided to switch his medication to an atypical antipsychotic. What is the most appropriate reason for switching to an atypical antipsychotic in this patient?",
+        img: "",
+        choices: "To enhance serotonin release in the mesolimbic system///To increase the potency of D2 receptor antagonism///To Improve absorption of the drug in the gastrointestinal tract///To increase dopamine blockade in the nigrostriatal pathway///To reduce the risk of extrapyramidal symptoms",
+        answer: "To reduce the risk of extrapyramidal symptoms",
+        select: "",
+        explain: "Haloperidol (Typical antipsychotic) ออกฤทธิ์บล็อก D2 receptor อย่างแรง ทำให้เสี่ยงต่อ Extrapyramidal symptoms (EPS) สูง (เช่น กล้ามเนื้อเกร็ง, เดินซอยเท้า) การเปลี่ยนไปใช้ Atypical antipsychotic จะช่วยลดความเสี่ยงนี้ เพราะจับ D2 receptor น้อยกว่าและไปจับ 5-HT2A receptor แทน",
+        state: false
+    }, {
+        problem: "35. What is the Indication for medical cannabis?",
+        img: "",
+        choices: "First line drug for antiemetic in chemotherapy treatment///Parkinson patients with severe tremor///Intractable epileptic patients after 2 drugs treatment///First line for neuropathic pains///Insomnia patients with diazepam addicted",
+        answer: "Intractable epileptic patients after 2 drugs treatment",
+        select: "",
+        explain: "ข้อบ่งใช้ทางการแพทย์ของกัญชา (CBD oil) ที่มีหลักฐานยืนยันชัดเจนคือ ใช้รักษาโรคลมชักที่ดื้อต่อยา (Refractory/Intractable epilepsy) เช่น Dravet syndrome หรือ Lennox-Gastaut syndrome",
+        state: false
+    },
+    {
+        problem: "38. A 35-year-old female presents with acute anxiety. Which of the following medications is the most appropriate choice for her treatment?",
+        img: "",
+        choices: "Diazepam///Amobarbital///Eszopiclone///Flumazenil///Midazolam",
+        answer: "Diazepam",
+        select: "",
+        explain: "สำหรับการรักษา Acute anxiety (ความวิตกกังวลเฉียบพลัน) ยาในกลุ่ม Benzodiazepines เช่น Diazepam เป็นตัวเลือกที่เหมาะสมเพราะออกฤทธิ์เร็วในการลดความกังวล (Anxiolytic) ส่วน Midazolam ออกฤทธิ์สั้นเกินไปมักใช้ระงับประสาทก่อนทำหัตถการ",
+        state: false
+    }, {
+        problem: "39. Which of the following drug mechanisms is possibly involved in the development or treatment of psychosis, according to current and emerging hypotheses?",
+        img: "",
+        choices: "Inhibition of NMDA receptor activity///Inhibition of norepinephrine reuptake///Blockade of mGluR2/3 receptors///Antagonism of 5-HT2A receptors///Agonism of D2 dopamine receptors",
+        answer: "Antagonism of 5-HT2A receptors",
+        select: "",
+        explain: "กลไกสำคัญของยาต้านโรคจิตกลุ่มใหม่ (Atypical antipsychotics) คือการยับยั้งตัวรับ Serotonin ชนิด 5-HT2A (5-HT2A antagonism) ร่วมกับ D2 blockade ซึ่งช่วยลดอาการทางจิตและลดผลข้างเคียง EPS",
+        state: false
+    },
+    {
+        problem: "44. A 25-year-old female was brought to consult the doctor at the hospital by her friend. Her friend informed the doctor that the patient might be depressed. The doctor assessed and prescribed sertraline... What is the mechanism of action of sertraline?",
+        img: "",
+        choices: "Serotonin agonist///Noradrenaline antagonist///Serotonin reuptake inhibitor///Noradrenaline reuptake inhibitor///Dopamine reuptake inhibitor",
+        answer: "Serotonin reuptake inhibitor",
+        select: "",
+        explain: "Sertraline เป็นยาต้านซึมเศร้าในกลุ่ม SSRIs (Selective Serotonin Reuptake Inhibitors) กลไกคือยับยั้งการดูดกลับของ Serotonin เข้าสู่เซลล์ประสาท ทำให้ปริมาณ Serotonin ใน Synapse เพิ่มขึ้น ช่วยให้อารมณ์ดีขึ้น",
+        state: false
+    },
+    {
+        problem: "47. A 68-year-old woman is newly diagnosed with mild Alzheimer's disease. Her physician decides to initiate pharmacologic therapy to Improve cognitive function. Which class of medication is most appropriate to start at this stage of the disease?",
+        img: "",
+        choices: "Cholinesterase inhibitors///Antipsychotics///Selective serotonin reuptake inhibitors (SSRIs)///NMDA receptor antagonists///Benzodiazepines",
+        answer: "Cholinesterase inhibitors",
+        select: "",
+        explain: "ยาหลักที่ใช้รักษา Alzheimer's disease ในระยะเริ่มแรกถึงปานกลาง (Mild to moderate) คือ Cholinesterase inhibitors (เช่น Donepezil, Rivastigmine) เพื่อเพิ่มปริมาณ Acetylcholine ในสมอง ช่วยชะลอความจำเสื่อม",
+        state: false
+    },
+    {
+        problem: "54. Which of the following anesthetic drug has high analgesic effect but low muscle relaxation effect?",
+        img: "",
+        choices: "Nitrous oxide///Isoflurane///Ketamine///Sevoflurane///Halothane",
+        answer: "Nitrous oxide",
+        select: "",
+        explain: "Nitrous oxide (ก๊าซหัวเราะ) เป็นยาดมสลบที่มีฤทธิ์แก้ปวด (Analgesic) สูงมาก แต่มีฤทธิ์ทำให้กล้ามเนื้อคลายตัวน้อยและทำให้สลบได้ยาก (MAC สูง) จึงมักใช้ร่วมกับยาดมสลบตัวอื่น",
+        state: false
+    }, {
+        problem: "55. Which of the following factors decreases the effectiveness of local anesthetics?",
+        img: "",
+        choices: "Use with vasoconstrictors///High lipid solubility///Increased protein binding///Infection or low tissue pH///Administration near the nerve trunk",
+        answer: "Infection or low tissue pH",
+        select: "",
+        explain: "ยาชาเฉพาะที่ (Local anesthetics) เป็น Weak bases ในภาวะที่มีการติดเชื้อ เนื้อเยื่อจะเป็นกรด (Low pH) ทำให้ยาชาแตกตัวเป็นประจุ (Ionized form) มากขึ้น ทำให้ไม่สามารถแพร่ผ่านเยื่อหุ้มเซลล์ประสาทเข้าไปออกฤทธิ์ได้ ประสิทธิภาพจึงลดลง",
+        state: false
+    },
+    {
+        problem: "59. Which of the following is the adverse effect of trihexyphenidyl?",
+        img: "",
+        choices: "Insomnia///Bradycardia///Diarrhea///Increase sweating///Urinary retention",
+        answer: "Urinary retention",
+        select: "",
+        explain: "Trihexyphenidyl เป็นยาในกลุ่ม Anticholinergic (ใช้รักษา Parkinson's) ผลข้างเคียงเกิดจากการต้านระบบ Parasympathetic ได้แก่ ปากแห้ง ตาพร่า ท้องผูก ปัสสาวะคั่ง (Urinary retention) และหัวใจเต้นเร็ว",
+        state: false
+    }, {
+        problem: "60. Which of the following general anesthetic drug can cause hypertension?",
+        img: "",
+        choices: "Nitrous oxide///Propofol///Halothane///Ketamine///Thiopental",
+        answer: "Ketamine",
+        select: "",
+        explain: "Ketamine เป็นยาสลบที่กระตุ้นระบบประสาท Sympathetic ทำให้หัวใจเต้นเร็วและความดันโลหิตสูงขึ้น (Hypertension) ต่างจากยาสลบตัวอื่นที่มักกดการทำงานของหัวใจและลดความดัน",
+        state: false
+    }, {
+        problem: "61. A 32-year-old man with generalized tonic-clonic seizures is started on valproic acid. Which combination of mechanisms best explains its antiseizure effects?",
+        img: "",
+        choices: "Potentiates GABAB receptors + blocks AMPA receptors///Inhibits NMDA receptors + induces GABA transaminase///Blocks T-type Ca2+ channels + inhibits succinate semialdehyde dehydrogenase///Enhances GABA release + Inhibits GABA uptake///Inhibits GABA transaminase + prolongs Na+ channel inactivation",
+        answer: "Inhibits GABA transaminase + prolongs Na+ channel inactivation",
+        select: "",
+        explain: "Valproic acid ออกฤทธิ์ต้านชักโดย 2 กลไกหลักคือ 1. ยับยั้งเอนไซม์ GABA transaminase ทำให้ระดับ GABA ในสมองเพิ่มขึ้น 2. ยืดเวลาการปิดช่อง Na+ (Prolongs Na+ channel inactivation) ลดการเกิด Action potential ที่ผิดปกติ",
+        state: false
+    },
+    {
+        problem: "64. A woman presented to the hospital with a seizure, palpitation, hypertension, low-grade fever, sweating, and tremor after she used a weight-reducing substance. What is the possible substance abuse?",
+        img: "",
+        choices: "Marijuana///Ethanol///Heroin///Amphetamine///Diazepam",
+        answer: "Amphetamine",
+        select: "",
+        explain: "อาการใจสั่น ความดันสูง เหงื่อออก มือสั่น ชัก (Sympathomimetic toxidrome) ในบริบทของการใช้ยาลดความอ้วน มักเกิดจาก Amphetamine หรืออนุพันธ์ ซึ่งมีฤทธิ์กดความอยากอาหารและกระตุ้นระบบประสาท",
+        state: false
+    },
+    {
+        problem: "71. Which of the following antiseizure medication is classified as hepatic enzyme Inducer?",
+        img: "",
+        choices: "Lamotrigine and phenytoin///Carbamazepine and levetiracetam///Phenytoin and phenobarbital///Phenobarbital and levetiracetam///Topiramate and valproate",
+        answer: "Phenytoin and phenobarbital",
+        select: "",
+        explain: "ยากันชักที่เป็น Enzyme inducers (กระตุ้นการทำงานของเอนไซม์ตับ CYP450) ที่สำคัญคือ Phenytoin, Phenobarbital และ Carbamazepine ทำให้ระดับยาอื่นในเลือดลดลงได้",
+        state: false
+    },
+    {
+        problem: "74. A 70-year-old man had tremor... Parkinson's disease... prescribed levodopa-carbidopa... How can levodopa-carbidopa relieve the symptoms of Parkinson's disease?",
+        img: "",
+        choices: "Nicotinic antagonist///Increase dopamine neurotransmitter///Muscarinic antagonist///Dopamine antagonist///Decrease acetylcholine neurotransmitter",
+        answer: "Increase dopamine neurotransmitter",
+        select: "",
+        explain: "Levodopa เป็นสารตั้งต้นของ Dopamine ที่สามารถผ่าน Blood-brain barrier ได้ เมื่อเข้าสู่สมองจะถูกเปลี่ยนเป็น Dopamine เพื่อชดเชยสารสื่อประสาทที่ขาดหายไปในผู้ป่วย Parkinson's",
+        state: false
+    },
+    {
+        problem: "76. A 78-year-old woman recently started memantine. Which of the following adverse effects should be monitored?",
+        img: "",
+        choices: "Hypersalivation///Hypertension and confusion///Severe diarrhea///Hepatotoxicity///Bradycardia",
+        answer: "Hypertension and confusion",
+        select: "",
+        explain: "Memantine (NMDA receptor antagonist) มักมีผลข้างเคียงคือ มึนงง (Dizziness) ปวดหัว และสับสน (Confusion) ต่างจากยากลุ่ม Cholinesterase inhibitors ที่ทำให้หัวใจเต้นช้าและท้องเสีย",
+        state: false
+    },
+    {
+        problem: "83. Which of the following is the primary mechanism of action of local anesthetics?",
+        img: "",
+        choices: "Blockade of calcium channels///Blockade of voltage-gated sodium channels///Activation of voltage-gated potassium channels///Inhibition of NMDA receptors///Enhancement of GABAergic transmission",
+        answer: "Blockade of voltage-gated sodium channels",
+        select: "",
+        explain: "ยาชาเฉพาะที่ (Local anesthetics) ออกฤทธิ์โดยการเข้าไปบล็อก Voltage-gated Na+ channels จากภายในเซลล์ ทำให้โซเดียมไม่สามารถไหลเข้าเซลล์ได้ จึงไม่เกิด Action potential และยับยั้งการนำกระแสประสาท",
+        state: false
+    },
+    {
+        problem: "86. Which antiseizure medication is the drug of choice for trigeminal neuralgia?",
+        img: "",
+        choices: "Topiramate///Valproic acid///Carbamazepine///Phenobarbital///Phenytoin",
+        answer: "Carbamazepine",
+        select: "",
+        explain: "Carbamazepine เป็นยาเลือกใช้ลำดับแรก (Drug of choice) ในการรักษาโรคปวดเส้นประสาทใบหน้า (Trigeminal neuralgia) โดยลดการนำกระแสประสาทที่ไวเกินไป",
+        state: false
+    }
+    ],
     "NS51MCQ4": [
         {
             "problem": "1. Common side effect ของ high potency typical antipsychotics",
