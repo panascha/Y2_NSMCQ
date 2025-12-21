@@ -7858,10 +7858,10 @@ var quizdata = {
         {
             "problem": "34. Which is correct for antiseizure drug?",
             "img": "",
-            "choices": "Children irritability symptom is caused by carbamazepine///Taking estrogen for birth control, taking phenytoin can inhibit enzyme increase pregnancy risk///Valproate for obesity///Levetiracetam induces enzyme",
-            "answer": "Children irritability symptom is caused by carbamazepine",
+            "choices": "Children irritability symptom is caused by carbamazepine///Taking estrogen for birth control, taking phenytoin can inhibit enzyme increase pregnancy risk///Valproate for obesity///Levetiracetam induces enzyme///None of the above",
+            "answer": "None of the above",
             "select": "",
-            "explain": "A. Carbamazepine สามารถทำให้เกิดผลข้างเคียงทางพฤติกรรมในเด็กได้ เช่น อาการหงุดหงิด (irritability) ข้อความนี้ถูกต้อง B. Phenytoin เป็น enzyme inducer (กระตุ้นเอนไซม์) ไม่ใช่ inhibitor (ยับยั้งเอนไซม์) C. Valproate สัมพันธ์กับการทำให้น้ำหนักตัวเพิ่มขึ้น (weight gain) D. Levetiracetam มีจุดเด่นคือไม่ยุ่งเกี่ยวกับระบบเอนไซม์ (not an enzyme inducer/inhibitor)",
+            "explain": "ข้อ A ผิด: อาการหงุดหงิดในเด็กที่ใช้ Carbamazepine มักเกิดจากผลข้างเคียงทางระบบประสาท ไม่ใช่อาการที่พบบ่อย ข้อ B ผิด: Phenytoin เป็น enzyme inducer ที่ไปเพิ่มการเผาผลาญของ estrogen ในยาคุมกำเนิด ทำให้ระดับ estrogen ลดลง เพิ่มความเสี่ยงต่อการตั้งครรภ์โดยไม่ตั้งใจ ข้อ C ผิด: Valproate มักทำให้น้ำหนักตัวเพิ่มขึ้น (weight gain) ไม่เหมาะกับผู้ป่วยโรคอ้วน ข้อ D ผิด: Levetiracetam ไม่ได้เป็น enzyme inducer หรือ inhibitor จึงไม่มีผลต่อการเผาผลาญยาอื่น ๆ ดังนั้นคำตอบที่ถูกต้องคือ None of the above",
             "state": false
         },
         {
@@ -7939,7 +7939,7 @@ var quizdata = {
         {
             "problem": "53. 60 y/o เป็น MDD Food drug interactions กิน wine แล้ว BP สูง คนไข้กินยาอะไรอยู่",
             "img": "",
-            "choices": "Phenelzine///Nortripptyline///Fluoxetine///Trazadone///Nefazadone",
+            "choices": "Phenelzine///Nortripptyline///Fluoxetine///Trazodone///Nefazodone",
             "answer": "Phenelzine",
             "select": "",
             "explain": "อาการความดันโลหิตสูงอย่างรุนแรง (Hypertensive crisis) หลังจากรับประทานอาหารที่มี Tyramine สูง เช่น ไวน์แดง เป็นปฏิกิริยาระหว่างยาที่คลาสสิกของยาในกลุ่ม Monoamine Oxidase Inhibitors (MAOIs) ในผู้ป่วยที่ได้รับยา MAOIs สาร Tyramine จะไม่ถูกทำลายและไปกระตุ้นให้เกิดการหลั่ง Norepinephrine จำนวนมาก ทำให้ความดันโลหิตสูงขึ้นอย่างรวดเร็ว Phenelzine เป็นยาต้านเศร้าในกลุ่ม MAOIs",
@@ -8430,9 +8430,9 @@ var quizdata = {
             "problem": "16. คนไข้มาด้วยอาการไข้ ปวดศีรษะ ผลตรวจน้ำไขสันหลัง (CSF) พบมีสีเหลือง (xanthochromia) และมีเซลล์เม็ดเลือดขาวชนิด eosinophil สูง (eosinophilia) ผู้ป่วยน่าจะติดเชื้ออะไรมากที่สุด",
             "img": "",
             "choices": "Gnathostoma spinigerum///Spirometra mansoni///Taenia solium///Angiostrongylus cantonensis///Cysticercous cellulosae",
-            "answer": "Angiostrongylus cantonensis",
+            "answer": "Gnathostoma spinigerum",
             "select": "",
-            "explain": "การพบ Eosinophilic meningitis (มี eosinophils ใน CSF >10%) เป็นลักษณะสำคัญของการติดเชื้อพยาธิในระบบประสาทส่วนกลาง พยาธิที่เป็นสาเหตุที่พบบ่อยที่สุดในประเทศไทยคือ Angiostrongylus cantonensis (พยาธิปอดหนู) โดยคนมักติดเชื้อจากการกินหอยโข่งดิบๆ หรือผักที่มีเมือกหอยปนเปื้อน ส่วน Xanthochromia (CSF สีเหลือง) เกิดจากการมีเลือดออกเล็กน้อยใน subarachnoid space จากการไชของพยาธิ",
+            "explain": "การติดเชื้อพยาธิหนอน Gnathostoma spinigerum ซึ่งเป็นสาเหตุของโรค gnathostomiasis สามารถทำให้เกิดเยื่อหุ้มสมองอักเสบ (meningitis) ที่มีลักษณะเฉพาะคือ น้ำไขสันหลัง (CSF) มีสีเหลือง (xanthochromia) และมีเม็ดเลือดขาวชนิด eosinophil สูง (eosinophilia) เนื่องจากพยาธิหนอนชนิดนี้กระตุ้นให้เกิดการตอบสนองทางภูมิคุ้มกันแบบ eosinophilic reaction ในระบบประสาทกลาง",
             "state": false
         },
         {
@@ -17171,9 +17171,9 @@ var quizdata = {
             "problem": "31. The metabolic side effects (e.g., food craving, weight gain) associated with some atypical antipsychotics are primarily linked to the drug's activity at which receptor?",
             "img": "",
             "choices": "Muscarinic M1 receptor///Serotonin 5-HT2C receptor///Alpha-2 adrenergic receptor///Histamine H1 receptor///Dopamine D4 receptor",
-            "answer": "Histamine H1 receptor",
+            "answer": "Serotonin 5-HT2C receptor",
             "select": "",
-            "explain": "ผลข้างเคียงทางเมตาบอลิซึม เช่น การเพิ่มขึ้นของความอยากอาหารและการเพิ่มน้ำหนักตัว (Food craving, weight gain) มีความสัมพันธ์อย่างชัดเจนกับการยับยั้ง Histamine H1 receptor ซึ่งพบในยา Atypical antipsychotics หลายชนิด เช่น Clozapine, Quetiapine และ Olanzapine",
+            "explain": "การยับยั้ง Serotonin 5-HT2C receptor มีผลทำให้ความอยากอาหารเพิ่มขึ้น (Hyperphagia) และส่งผลให้น้ำหนักตัวเพิ่มขึ้น (Weight gain) ซึ่งเป็นผลข้างเคียงที่พบได้บ่อยในยา Atypical antipsychotics บางตัว เช่น Clozapine และ Olanzapine",
             "state": false
         },
         {
@@ -17407,9 +17407,9 @@ var quizdata = {
             "problem": "22. Phenelzine is categorized as which type of MAO Inhibitor?",
             "img": "",
             "choices": "Reversible MAO-B inhibitor///Irreversible MAO-A inhibitor///Reversible MAO-A inhibitor///Irreversible MAO-A and MAO-B inhibitor///Selective MAO-A modulator",
-            "answer": "Irreversible MAO-A inhibitor",
+            "answer": "Irreversible MAO-A and MAO-B inhibitor",
             "select": "",
-            "explain": "Phenelzine และ Isocarboxacid เป็นยาในกลุ่ม Monoamine Oxidase Inhibitor ชนิด Irreversible inhibitor ที่ยับยั้งเอนไซม์ MAO อย่างถาวร ซึ่งทำให้ฤทธิ์ของยาคงอยู่นาน แม้จะหยุดยาไปแล้ว 2-3 สัปดาห์",
+            "explain": "Phenelzine เป็นยาในกลุ่ม Monoamine Oxidase Inhibitor (MAOI) ที่มีลักษณะเป็น Irreversible inhibitor ซึ่งยับยั้งทั้งเอนไซม์ MAO-A และ MAO-B อย่างถาวร ส่งผลให้ระดับสารสื่อประสาท Serotonin, Norepinephrine, และ Dopamine เพิ่มขึ้นในสมอง",
             "state": false
         },
         {
