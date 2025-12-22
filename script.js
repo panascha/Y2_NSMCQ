@@ -8086,7 +8086,7 @@ var quizdata = {
             "problem": "37. How can heroine induce euphoria?",
             "img": "",
             "choices": "Decrease DA from ventral tegmental area///Decrease 5-HT from nucleus accumbens///Increase DA by enhancing inhibitory GABA from nucleus accumbens///Increase DA from mesocorticolimbic dopaminergic pathway///Increase DA from substantia nigra",
-            "answer": "Increase DA from mesocorticolimbic dopaminergic pathway",
+            "answer": "Increase DA by enhancing inhibitory GABA from nucleus accumbens",
             "select": "",
             "explain": "Heroin ซึ่งเป็น opioid ทำให้เกิด euphoria ผ่านทาง reward pathway ของสมองที่เรียกว่า Mesolimbic pathway โดย Heroin จะไปยับยั้ง (inhibit) GABA neuron ในบริเวณ Ventral Tegmental Area (VTA) ทำให้ dopamine neuron ไม่ถูกยับยั้ง (disinhibition) และจะหลั่ง Dopamine (DA) เพิ่มขึ้นอย่างมากไปยังบริเวณ Nucleus Accumbens ซึ่งการเพิ่มขึ้นของ Dopamine ใน Mesolimbic pathway นี่เองที่เป็นกลไกหลักของอาการ euphoria",
             "state": false
