@@ -370,8 +370,8 @@ var quizdata = {
         explain: "รสอูมามิ (Umami) เกิดจากสารพวก Glutamate (เช่นในเนื้อสัตว์, ผงชูรส) จับกับ G-protein coupled receptors (GPCRs) ชนิด T1R1 และ T1R3 heterodimer ซึ่งจะกระตุ้น phospholipase C (PLC) เพิ่ม IP3 และ Ca2+ ภายในเซลล์ ไม่ใช่ผ่าน Ion channel โดยตรงเหมือนรสเค็ม (Na+) หรือรสเปรี้ยว (H+)",
         state: false
     }, {
-            problem: "2. A 56-year-old male patient came to see the doctor according to the sleep problem. He underwent sleep examination. Which condition that the desynchronization of EEG will be observed?",
-            img: "",
+        problem: "2. A 56-year-old male patient came to see the doctor according to the sleep problem. He underwent sleep examination. Which condition that the desynchronization of EEG will be observed?",
+        img: "",
         choices: "Non-Rapid eye movement sleep stage 3///Non-Rapid eye movement sleep stage 4///Non-Rapid eye movement sleep stage 2///Rapid eye movement sleep///Non-Rapid eye movement sleep stage 1",
             answer: "Rapid eye movement sleep",
             select: "",
@@ -5778,8 +5778,8 @@ var quizdata = {
             "problem": "78. A patient presented with purpura fulminante, disseminated intravascular coagulation and adrenal hemorrhage. What is the possible cause of these symptoms?",
             "img": "",
             "choices": "Neisseria meningitidis///Tuberculous meningitis///Meningococcal meningitis///Cryptococcal meningitis///Brain abscess",
-                        "answer": "Neisseria meningitidis",
-                        "select": "",
+            "answer": "Neisseria meningitidis",
+            "select": "",
             "explain": "Neisseria meningitidis เป็นสาเหตุที่พบบ่อยของเยื่อหุ้มสมองอักเสบจากแบคทีเรีย (bacterial meningitis) โดยเฉพาะในเด็กและวัยรุ่น นอกจากอาการของเยื่อหุ้มสมองอักเสบแล้ว ผู้ป่วยอาจมีภาวะแทรกซ้อนรุนแรง เช่น Purpura fulminans (ลักษณะผื่นเลือดออกใต้ผิวหนังอย่างรุนแรง), Disseminated intravascular coagulation (DIC) และ Adrenal hemorrhage (Waterhouse-Friderichsen syndrome) ซึ่งเกิดจากการติดเชื้อแบคทีเรียในกระแสเลือด (septicemia)",
             "state": false
         },
@@ -6515,10 +6515,10 @@ var quizdata = {
             state: false
         }, {
         problem: "5. A woman went on a vacation to Doi Inthanon and the weather was very cold and she caught a cold. What symptoms may be detected? [น่าจะถูก 2 ข้อ]",
-            img: "",
-            choices: "Phantosmia///Dysgeusia///Hypogeusia///Hyperosmia///Anosmia",
-            answer: "Anosmia",
-            select: "",
+        img: "",
+        choices: "Phantosmia///Dysgeusia///Hypogeusia///Hyperosmia///Anosmia",
+        answer: "Anosmia",
+        select: "",
         explain: "พบได้ทั้ง Anosmia และ Hypogeusia เพราะ การติดเชื้อไวรัสที่ระบบทางเดินหายใจส่วนบน (upper respiratory tract infection) เช่น common cold สามารถทำให้เยื่อบุจมูกอักเสบ (rhinitis) บวมชื้น (congestion) ส่งผลให้การนำกลิ่น (odorant molecules) ไปยัง olfactory epithelium ลดลง ทำให้สูญเสียการได้กลิ่น (Anosmia) และการรับรส (Hypogeusia) ร่วมด้วย",
             state: false
         }, {
@@ -6599,15 +6599,15 @@ var quizdata = {
         choices: "Tectospinal tract///Corticospinal tract///Lateral reticulospinal tract///Medial vestibulospinal tract///Rubrospinal tract///Lateral vestibulospinal tract",
         answer: "Lateral vestibulospinal tract",
         select: "",
-                    explain: "Lateral vestibulospinal tract มีหน้าที่สำคัญในการควบคุมโทนของกล้ามเนื้อป้องกันแรงโน้มถ่วง (anti-gravity muscles) เช่น กล้ามเนื้อ extensors ของแขนขา เพื่อรักษาท่าทางและการทรงตัว เมื่อมีรอยโรคที่ lateral vestibulospinal tract จะทำให้กล้ามเนื้อเหล่านี้อ่อนแรง (hypotonia) เนื่องจากขาดการกระตุ้นที่เหมาะสม ในกรณีนี้ ผู้ป่วยมี hypotonia ที่ขาซ้าย ซึ่งบ่งชี้ว่ารอยโรคเกิดที่ lateral vestibulospinal tract ด้านขวา (crossed pathway) ซึ่งเป็นสาเหตุของอาการที่พบ",
+        explain: "Lateral vestibulospinal tract มีหน้าที่สำคัญในการควบคุมโทนของกล้ามเนื้อป้องกันแรงโน้มถ่วง (anti-gravity muscles) เช่น กล้ามเนื้อ extensors ของแขนขา เพื่อรักษาท่าทางและการทรงตัว เมื่อมีรอยโรคที่ lateral vestibulospinal tract จะทำให้กล้ามเนื้อเหล่านี้อ่อนแรง (hypotonia) เนื่องจากขาดการกระตุ้นที่เหมาะสม ในกรณีนี้ ผู้ป่วยมี hypotonia ที่ขาซ้าย ซึ่งบ่งชี้ว่ารอยโรคเกิดที่ lateral vestibulospinal tract ด้านขวา (crossed pathway) ซึ่งเป็นสาเหตุของอาการที่พบ",
             state: false
         }, {
             problem: "20. A 65 year-old Thai male came to the hospital due to muscle weakness. He cannot lift his arm and he's not good at picking things up. Later on, the symptoms of easily choking and slurred speech are developed. He also has muscle hypotrophy and muscle throughout the body periodically. Where is the lesion?",
             img: "",
             choices: "Cerebral cortex///Basal ganglia///Brain stem///Cerebellum///Spinal cord",
-                    answer: "Cerebral cortex",
-                    select: "",
-                    explain: "อาการกล้ามเนื้ออ่อนแรง (muscle weakness) ที่มีลักษณะเป็นแบบก้าวหน้า (progressive) และมีอาการกลืนลำบาก (dysphagia) กับพูดไม่ชัด (dysarthria) ร่วมด้วย เป็นลักษณะเด่นของ Amyotrophic Lateral Sclerosis (ALS) ซึ่งเป็นโรคที่ทำลายเซลล์ประสาทมอเตอร์ทั้งใน cerebral cortex (upper motor neurons) และ spinal cord (lower motor neurons) การที่ผู้ป่วยมีอาการกล้ามเนื้อฝ่อลง (muscle atrophy) และกล้ามเนื้อกระตุกเป็นพักๆ (fasciculations) บ่งชี้ถึงการมี involvement ของ lower motor neurons ด้วย แต่ต้นตอของโรคนี้มักเริ่มที่ cerebral cortex",
+        answer: "Cerebral cortex",
+        select: "",
+        explain: "อาการกล้ามเนื้ออ่อนแรง (muscle weakness) ที่มีลักษณะเป็นแบบก้าวหน้า (progressive) และมีอาการกลืนลำบาก (dysphagia) กับพูดไม่ชัด (dysarthria) ร่วมด้วย เป็นลักษณะเด่นของ Amyotrophic Lateral Sclerosis (ALS) ซึ่งเป็นโรคที่ทำลายเซลล์ประสาทมอเตอร์ทั้งใน cerebral cortex (upper motor neurons) และ spinal cord (lower motor neurons) การที่ผู้ป่วยมีอาการกล้ามเนื้อฝ่อลง (muscle atrophy) และกล้ามเนื้อกระตุกเป็นพักๆ (fasciculations) บ่งชี้ถึงการมี involvement ของ lower motor neurons ด้วย แต่ต้นตอของโรคนี้มักเริ่มที่ cerebral cortex",
             state: false
         }, {
             problem: "21. A 66-year-old male presented at the ER with the complaint of worsening unsteadiness on his feet, nausea, vomiting and double vision. 4 days prior to admission, he has persistent nausea and vomiting and noticed double vision. He can sit up on bed unsupported. Neurological examination reveals wide-based gait with inability to walk on tandem gait. Tone and muscle strength was normal. According to this case, where is the lesion?",
@@ -8113,9 +8113,9 @@ var quizdata = {
             "problem": "40. ข้อใดถูกเกี่ยวกับ ยากันชัก",
             "img": "",
             "choices": "Valproate appropriate for obese epileptic patient///20 female epileptic patient ได้ยา levetiracetam ควรได้รับ supplement folic acid///epileptic woman กิน oral estrogen contraceptive, phenytoin จะ inhibit estrogen metabolism ทำให้เกิด unexpect pregnancy///Hyperactivity and cognition deficit เจอใน children ที่กิน carbarmazepine///Status epilepsy มี first line drug คือ phenytoin",
-            "answer": "Hyperactivity and cognition deficit เจอใน children ที่กิน carbarmazepine",
+            "answer": "20 female epileptic patient ได้ยา levetiracetam ควรได้รับ supplement folic acid",
             "select": "",
-            "explain": "A. Valproate ทำให้เกิดภาวะน้ำหนักตัวเพิ่มได้ จึงไม่เหมาะกับผู้ป่วยโรคอ้วน C. Phenytoin กระตุ้น (induce) การเผาผลาญ estrogen ไม่ใช่ยับยั้ง (inhibit) E. ยาอันดับแรก (first-line) สำหรับ Status epilepticus คือกลุ่ม Benzodiazepines ชนิดฉีด D. Carbamazepine มีรายงานผลข้างเคียงทางพฤติกรรมและความรู้ความเข้าใจในเด็กได้ เช่น ทำให้ซนผิดปกติ (hyperactivity) และสมาธิลดลง ข้อความนี้จึงถูกต้อง",
+            "explain": "ข้อ A ผิด: Valproate มักทำให้น้ำหนักตัวเพิ่มขึ้น (weight gain) ไม่เหมาะกับผู้ป่วยโรคอ้วน ข้อ C ผิด: Phenytoin เป็น enzyme inducer ที่ไปเพิ่มการเผาผลาญของ estrogen ในยาคุมกำเนิด ทำให้ระดับ estrogen ลดลง เพิ่มความเสี่ยงต่อการตั้งครรภ์โดยไม่ตั้งใจ ข้อ D ผิด: Hyperactivity และ cognitive deficit มักสัมพันธ์กับการใช้ Phenobarbital ในเด็กมากกว่า Carbamazepine ข้อ E ผิด: ยา First-line สำหรับ Status Epilepticus คือ Benzodiazepines (เช่น Lorazepam) ไม่ใช่ Phenytoin ดังนั้นคำตอบที่ถูกต้องคือ ข้อ B ซึ่งแนะนำให้หญิงวัยเจริญพันธุ์ที่ใช้ Levetiracetam รับประทานกรดโฟลิกเสริมเพื่อป้องกันความผิดปกติแต่กำเนิดของทารก",
             "state": false
         },
         {
@@ -8328,6 +8328,15 @@ var quizdata = {
             state: false
         },
         {
+            problem: "31. Which of the following is the main advantage of levodopa over Phosphatidylcholine in treating Parkinson's disease?",
+            img: "",
+            choices: "Better absorption in the gastrointestinal tract///Crosses the blood-brain barrier///Longer half-life///Less peripheral side effects///More selective to dopamine receptors",
+            answer: "Crosses the blood-brain barrier",
+            select: "",
+            explain: "Levodopa เป็นสารตั้งต้นของโดปามีนที่สามารถผ่าน blood-brain barrier ได้ ซึ่งเป็นคุณสมบัติที่สำคัญที่สุด เนื่องจากโดปามีนเองไม่สามารถผ่าน blood-brain barrier ได้ การให้ Levodopa จึงช่วยเพิ่มระดับโดปามีนในสมองได้อย่างมีประสิทธิภาพ ในขณะที่ Phosphatidylcholine ไม่มีคุณสมบัตินี้",
+            state: false
+        },
+        {
             problem: "32. What is the primary reason that a large portion of orally administered levodopa does not reach the brain?",
             img: "",
             choices: "Poor absorption from the gut///Rapid metabolism by the liver///Extensive peripheral decarboxylation///Inability to cross the blood-brain barrier///Rapid excretion by the kidneys",
@@ -8411,8 +8420,8 @@ var quizdata = {
         {
             problem: "59. What is absence seizure first line management?",
             img: "",
-            choices: "Benzodiazepines///Phenobarbital///Valproate acid///Topiramate///Gabapentin",
-            answer: "Valproate acid",
+            choices: "Benzodiazepines///Phenobarbital///Valproate///Topiramate///Gabapentin",
+            answer: "Valproate",
             select: "",
             explain: "ยาตัวเลือกอันดับแรก (first-line) สำหรับการรักษาอาการชักแบบเหม่อ (Typical absence seizure) คือ Ethosuximide และ Valproic acid (Valproate) โดยมักเลือกใช้ Valproate ในกรณีที่ผู้ป่วยมีอาการชักแบบอื่นร่วมด้วย เช่น generalized tonic-clonic seizure",
             state: false
@@ -8520,9 +8529,9 @@ var quizdata = {
             problem: "91. How can heroine induce euphoria?",
             img: "",
             choices: "Decrease dopamine from VTA///Decrease serotonin from nucleus accumbens///Increase dopamine by enhancing inhibitory GABA from nucleus accumbens///Increase dopamine from mesocorticolimbic///Increase dopamine from substantia nigra",
-            answer: "Increase dopamine from mesocorticolimbic",
+            answer: "Increase dopamine by enhancing inhibitory GABA from nucleus accumbens",
             select: "",
-            explain: "เฮโรอีนและโอปิออยด์ชนิดอื่น ๆ ทำให้เกิดความรู้สึกเคลิ้มสุข (euphoria) ผ่านวงจรการให้รางวัลของสมอง (reward pathway) โดยยาจะไปจับกับ mu-receptor บนเซลล์ประสาท GABAergic ในส่วน Ventral Tegmental Area (VTA) และยับยั้งการทำงานของเซลล์ประสาทนี้ เนื่องจากเซลล์ประสาท GABAergic ปกติจะคอยยับยั้งเซลล์ประสาทโดพามีน การไปยับยั้งตัวยับยั้ง (disinhibition) จึงส่งผลให้เซลล์ประสาทโดพามีนหลั่งโดพามีนใน mesocorticolimbic pathway (โดยเฉพาะที่ nucleus accumbens) เพิ่มขึ้นอย่างมาก",
+            explain: "Heroin (diacetylmorphine) เป็นยาโอปิออยด์ที่เมื่อเข้าสู่สมองจะถูกเปลี่ยนเป็นมอร์ฟีน (morphine) ซึ่งไปจับกับ mu-opioid receptors ที่อยู่บนเซลล์ประสาท GABAergic ในบริเวณ ventral tegmental area (VTA) การจับนี้จะยับยั้งการทำงานของเซลล์ GABAergic ซึ่งปกติจะไปยับยั้งเซลล์ประสาทโดปามีน (dopaminergic neurons) ผลลัพธ์คือมีการปล่อยโดปามีนเพิ่มขึ้นในระบบ mesocorticolimbic pathway โดยเฉพาะที่ nucleus accumbens ซึ่งเป็นส่วนสำคัญในการสร้างความรู้สึกสุขสม (euphoria)",
             state: false
         },
         {
@@ -8607,6 +8616,15 @@ var quizdata = {
         explain: "Levodopa ถือเป็นยาที่มีประสิทธิภาพสูงสุด (most potent) ในการควบคุมอาการด้านการเคลื่อนไหว (motor symptoms) ของโรคพาร์กินสัน เช่น อาการเคลื่อนไหวช้า (bradykinesia) อาการแข็งเกร็ง (rigidity) และอาการสั่น (tremor) โดยมีประสิทธิภาพสูงกว่ายากลุ่ม dopamine agonists อย่างชัดเจน แต่ก็มีความเสี่ยงต่อการเกิด motor complications ในระยะยาวมากกว่า",
         state: false
     },
+        {
+            problem: "31. Which of the following is the main advantage of levodopa over Phosphatidylcholine in treating Parkinson's disease?",
+            img: "",
+            choices: "Better absorption in the gastrointestinal tract///Crosses the blood-brain barrier///Longer half-life///Less peripheral side effects///More selective to dopamine receptors",
+            answer: "Crosses the blood-brain barrier",
+            select: "",
+            explain: "Levodopa เป็นสารตั้งต้นของโดปามีนที่สามารถผ่าน blood-brain barrier ได้ ซึ่งเป็นคุณสมบัติที่สำคัญที่สุด เนื่องจากโดปามีนเองไม่สามารถผ่าน blood-brain barrier ได้ การให้ Levodopa จึงช่วยเพิ่มระดับโดปามีนในสมองได้อย่างมีประสิทธิภาพ ในขณะที่ Phosphatidylcholine ไม่มีคุณสมบัตินี้",
+            state: false
+        },
     {
         problem: "32. What is the primary reason that a large portion of orally administered levodopa does not reach the brain?",
         img: "",
@@ -8691,8 +8709,8 @@ var quizdata = {
     {
         problem: "59. What is absence seizure first line management?",
         img: "",
-        choices: "Benzodiazepines///Phenobarbital///Valproate acid///Topiramate///Gabapentin",
-        answer: "Valproate acid",
+        choices: "Benzodiazepines///Phenobarbital///Valproate///Topiramate///Gabapentin",
+        answer: "Valproate",
         select: "",
         explain: "ยาตัวเลือกอันดับแรก (first-line) สำหรับการรักษาอาการชักแบบเหม่อ (Typical absence seizure) คือ Ethosuximide และ Valproic acid (Valproate) โดยมักเลือกใช้ Valproate ในกรณีที่ผู้ป่วยมีอาการชักแบบอื่นร่วมด้วย เช่น generalized tonic-clonic seizure",
         state: false
@@ -8800,9 +8818,9 @@ var quizdata = {
         problem: "91. How can heroine induce euphoria?",
         img: "",
         choices: "Decrease dopamine from VTA///Decrease serotonin from nucleus accumbens///Increase dopamine by enhancing inhibitory GABA from nucleus accumbens///Increase dopamine from mesocorticolimbic///Increase dopamine from substantia nigra",
-        answer: "Increase dopamine from mesocorticolimbic",
+        answer: "Increase dopamine by enhancing inhibitory GABA from nucleus accumbens",
         select: "",
-        explain: "เฮโรอีนและโอปิออยด์ชนิดอื่น ๆ ทำให้เกิดความรู้สึกเคลิ้มสุข (euphoria) ผ่านวงจรการให้รางวัลของสมอง (reward pathway) โดยยาจะไปจับกับ mu-receptor บนเซลล์ประสาท GABAergic ในส่วน Ventral Tegmental Area (VTA) และยับยั้งการทำงานของเซลล์ประสาทนี้ เนื่องจากเซลล์ประสาท GABAergic ปกติจะคอยยับยั้งเซลล์ประสาทโดพามีน การไปยับยั้งตัวยับยั้ง (disinhibition) จึงส่งผลให้เซลล์ประสาทโดพามีนหลั่งโดพามีนใน mesocorticolimbic pathway (โดยเฉพาะที่ nucleus accumbens) เพิ่มขึ้นอย่างมาก",
+        explain: "Heroin (diacetylmorphine) เป็นยาโอปิออยด์ที่เมื่อเข้าสู่สมองจะถูกเปลี่ยนเป็นมอร์ฟีน (morphine) ซึ่งไปจับกับ mu-opioid receptors ที่อยู่บนเซลล์ประสาท GABAergic ในบริเวณ ventral tegmental area (VTA) การจับนี้จะยับยั้งการทำงานของเซลล์ GABAergic ซึ่งปกติจะไปยับยั้งเซลล์ประสาทโดปามีน (dopaminergic neurons) ผลลัพธ์คือมีการปล่อยโดปามีนเพิ่มขึ้นในระบบ mesocorticolimbic pathway โดยเฉพาะที่ nucleus accumbens ซึ่งเป็นส่วนสำคัญในการสร้างความรู้สึกสุขสม (euphoria)",
         state: false
     },
     {
