@@ -9034,8 +9034,8 @@ var quizdata = {
         {
             "problem": "92. A patient with a head injury is found to have a right pneumothorax. After induction of general anesthesia with a certain agent, the size of the pneumothorax is observed to increase. What is the most likely anesthetic drug causing this effect?",
             "img": "",
-            "choices": "Halothane///Isoflurane///Ketamine///Propofol///Nitrous oxide (N2O)",
-            "answer": "Nitrous oxide (N2O)",
+            "choices": "Halothane///Isoflurane///Ketamine///Propofol///Nitrous oxide",
+            "answer": "Nitrous oxide",
             "select": "",
             "explain": "Nitrous oxide (N2O) เป็นก๊าซดมสลบที่มีคุณสมบัติละลายในเลือดได้น้อยกว่าไนโตรเจน (ซึ่งเป็นส่วนประกอบหลักของอากาศ) แต่สามารถแพร่กระจายได้เร็วกว่ามาก เมื่อผู้ป่วยที่มีโพรงอากาศในร่างกาย (air-filled cavity) เช่น ภาวะ pneumothorax ได้รับ N2O ก๊าซ N2O จะแพร่จากเลือดเข้าไปในโพรงอากาศนั้นได้เร็วกว่าที่ไนโตรเจนจะแพร่ออกมา ทำให้ความดันและขนาดของโพรงอากาศนั้นขยายใหญ่ขึ้น ซึ่งอาจเป็นอันตรายได้ จึงเป็นข้อห้ามใช้ในผู้ป่วย pneumothorax, bowel obstruction หรือภาวะอื่นที่มีอากาศขังอยู่",
             "state": false
@@ -9242,8 +9242,8 @@ var quizdata = {
     {
         "problem": "92. A patient with a head injury is found to have a right pneumothorax. After induction of general anesthesia with a certain agent, the size of the pneumothorax is observed to increase. What is the most likely anesthetic drug causing this effect?",
         "img": "",
-        "choices": "Halothane///Isoflurane///Ketamine///Propofol///Nitrous oxide (N2O)",
-        "answer": "Nitrous oxide (N2O)",
+        "choices": "Halothane///Isoflurane///Ketamine///Propofol///Nitrous oxide",
+        "answer": "Nitrous oxide",
         "select": "",
         "explain": "Nitrous oxide (N2O) เป็นก๊าซดมสลบที่มีคุณสมบัติละลายในเลือดได้น้อยกว่าไนโตรเจน (ซึ่งเป็นส่วนประกอบหลักของอากาศ) แต่สามารถแพร่กระจายได้เร็วกว่ามาก เมื่อผู้ป่วยที่มีโพรงอากาศในร่างกาย (air-filled cavity) เช่น ภาวะ pneumothorax ได้รับ N2O ก๊าซ N2O จะแพร่จากเลือดเข้าไปในโพรงอากาศนั้นได้เร็วกว่าที่ไนโตรเจนจะแพร่ออกมา ทำให้ความดันและขนาดของโพรงอากาศนั้นขยายใหญ่ขึ้น ซึ่งอาจเป็นอันตรายได้ จึงเป็นข้อห้ามใช้ในผู้ป่วย pneumothorax, bowel obstruction หรือภาวะอื่นที่มีอากาศขังอยู่",
         "state": false
